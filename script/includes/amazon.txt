@@ -1,0 +1,4 @@
+../markdown/amazon-main.md
+../markdown/amazon-spearjav.md
+../markdown/amazon-passive.md
+../markdown/amazon-bowxbow.md
