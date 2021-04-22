@@ -88,9 +88,9 @@ title: FAQ - Eastern Sun Wiki
     -   [How is this Gamble Chit working if i buy more than once of same Unit?](#c98d1249)
 :::
 
-## Version [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#m64d62d7 "m64d62d7"){#m64d62d7 .anchor_super} {#content_1_0}
+## Version {#m64d62d7}
 
-### Can I use a character of LoD or an older version of ES? [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#ua53c1d1 "ua53c1d1"){#ua53c1d1 .anchor_super} {#content_1_1}
+### Can I use a character of LoD or an older version of ES? {#ua53c1d1}
 
 Question
 :   Can I use a character of LoD or an older version of ES?
@@ -98,6 +98,7 @@ Question
 Answer
 :   ES 3.00 R series is incompatible with any other version than ES 3.00
     R series. You can use the old R series characters, but please note:
+
     -   The old jewels may be reset. You can cube those old jewels into
         new ones.
         -   Old Jewel -\> 3 Magic Jewels (ilvl=99)
@@ -110,7 +111,7 @@ Answer
         Now you can transform into the monster by an oskill which is
         given as a full set bonus.
 
-### Why does ES run on an older version of Lod, 1.10? // ES Warum läuft auf eine ältere Version von Lod, 1,10? [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#cb9abd29 "cb9abd29"){#cb9abd29 .anchor_super} {#content_1_2}
+### Why does ES run on an older version of Lod, 1.10? // ES Warum läuft auf eine ältere Version von Lod, 1,10? {#cb9abd29}
 
 Question/Frage
 :   Why does ES run on LoD 1.10?\
@@ -123,17 +124,20 @@ Question/Frage
 Answer/Antwort
 :   ES 3.00 runs on 1.10 LoD, because new versions do not yet been fully
     support many useful plugins such as fully equippable mercenaries.\
+    \
     Instead, ES launcher and an intelligent runs correctly with any
     version of LoD in the D2 folder, and you can still LoD, including
-    the payment on Battle Net.
+    the payment on Battle Net.\
+    \
 :   ES 3,00 auf 1,10 LoD auf, weil jede neue Version noch nicht vollständig
     analysiert wurde, und viele nützliche Plugins wie voll equippable
     Söldner nicht auf die neueren Versionen funktionieren.\
+    \
     Stattdessen hat ES-Rakete und eine intelligente korrekt läuft mit jeder
     Version von LoD im D2-Ordner, und Sie können nach wie vor LoD spielen,
     einschließlich der Zahlung auf Battle Net.
 
-### Why does ES bundle an older version of PlugY, 5.06? // Warum ES bündelt eine ältere Version von PlugY, 5,06? [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#wf576d08 "wf576d08"){#wf576d08 .anchor_super} {#content_1_3}
+### Why does ES bundle an older version of PlugY, 5.06? // Warum ES bündelt eine ältere Version von PlugY, 5,06? {#wf576d08}
 
 Question/Frage
 :   Why does ES Bundle PlugY 5.06?\
@@ -146,14 +150,14 @@ Question/Frage
 Answer/Antwort
 :   PlugY 5.06 is the stable version for LoD 1.10. PlugY 6.xx and 7.xx
     have been reported to cause TCP/IP problems, and most of the new
-    features of them are not working with LoD 1.11b and ES.
+    features of them are not working with LoD 1.11b and ES.\
+    \
+    PlugY 5,06 ist die stabile Version für LoD 1.10. PlugY 6.xx und 7.xx Es
+    wurde berichtet, führen TCP / IP-Probleme, und die meisten der neuen
+    Features von ihnen sind für LoD 1.11b und nicht in ES arbeiten.
 
-PlugY 5,06 ist die stabile Version für LoD 1.10. PlugY 6.xx und 7.xx Es
-wurde berichtet, führen TCP / IP-Probleme, und die meisten der neuen
-Features von ihnen sind für LoD 1.11b und nicht in ES arbeiten.
 
-
-### Are there any restrictions for Mac version? [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#sdd9e562 "sdd9e562"){#sdd9e562 .anchor_super} {#content_1_4}
+### Are there any restrictions for Mac version? {#sdd9e562}
 
 Question
 :   Are there any restrictions for Mac version?
@@ -162,48 +166,48 @@ Answer
 :   Following features are implemented by Windows add-ons or direct
     edits of Windows executable of D2 and don\'t work in Mac version.
 
--   PlugY The Survival Kit
-    -   multiple page shared stash
-    -   multiple page personal stash
-    -   expanded character stats display
-    -   gold sharing between characters
-    -   stat point reassiging
-    -   skill point reassigning
--   D2Mod System
-    -   [fully equippable hirelings]{style="color:red"}
-    -   rearranged gem stats display
--   Preference Menu
-    -   map setting (can\'t enable the map regeneration)
-    -   aura setting (can\'t select the old monster figure graphics)
-    -   life/mana orb setting (can\'t select the old demon orb graphics)
-    -   /nopick option (can\'t make /nopickup the default)
--   Gamble Filter (limits the items on the gamble screen).
--   Smart Launcher (supports both LoD 1.10 and 1.11, switches LoD and ES
-    easily).
--   DLL Changes
-    -   [Andariel drops better runes and gems at the first
-        kill.]{style="color:red"}
-    -   [Hellforge quest drops better runes and
-        gems.]{style="color:red"}
-    -   [Qual-Kehk gives a Dragon Stone, a Perfect Obsidian and a Flag
-        for resquing his men.]{style="color:red"}
-    -   [Anya gives a unique stone, a rare charm, a rare jewel and many
-        D-Stones as the quest reward for resquing her.
-        ([Details](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?Tables#n7fdda65))]{style="color:red"}
-    -   NPC sells 25 items at the gamble screen instead of 15.
-    -   [The limit of gold in the inventory is
-        octupled.]{style="color:red"}
-    -   [The limit of gold in the stash is
-        quadrupled.]{style="color:red"}
-    -   The bug of LoD that Paladins lose life when they summon
-        Skeletons/Vampires is fixed.
+    -   PlugY The Survival Kit
+        -   multiple page shared stash
+        -   multiple page personal stash
+        -   expanded character stats display
+        -   gold sharing between characters
+        -   stat point reassiging
+        -   skill point reassigning
+    -   D2Mod System
+        -   [fully equippable hirelings]{style="color:red"}
+        -   rearranged gem stats display
+    -   Preference Menu
+        -   map setting (can\'t enable the map regeneration)
+        -   aura setting (can\'t select the old monster figure graphics)
+        -   life/mana orb setting (can\'t select the old demon orb graphics)
+        -   /nopick option (can\'t make /nopickup the default)
+    -   Gamble Filter (limits the items on the gamble screen).
+    -   Smart Launcher (supports both LoD 1.10 and 1.11, switches LoD and ES
+        easily).
+    -   DLL Changes
+        -   [Andariel drops better runes and gems at the first
+            kill.]{style="color:red"}
+        -   [Hellforge quest drops better runes and
+            gems.]{style="color:red"}
+        -   [Qual-Kehk gives a Dragon Stone, a Perfect Obsidian and a Flag
+            for resquing his men.]{style="color:red"}
+        -   [Anya gives a unique stone, a rare charm, a rare jewel and many
+            D-Stones as the quest reward for resquing her.
+            ([Details](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?Tables#n7fdda65))]{style="color:red"}
+        -   NPC sells 25 items at the gamble screen instead of 15.
+        -   [The limit of gold in the inventory is
+            octupled.]{style="color:red"}
+        -   [The limit of gold in the stash is
+            quadrupled.]{style="color:red"}
+        -   The bug of LoD that Paladins lose life when they summon
+            Skeletons/Vampires is fixed.
 
-The features in red are added by installing Quest Reward Fix. (Available
-at the ES download page.)
+    The features in red are added by installing Quest Reward Fix. (Available
+    at the ES download page.)
 
-## Install [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#ke99faac "ke99faac"){#ke99faac .anchor_super} {#content_1_5}
+## Install {#ke99faac}
 
-### Nothing happens when I launch ES. [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#cf15e670 "cf15e670"){#cf15e670 .anchor_super} {#content_1_6}
+### Nothing happens when I launch ES. {#cf15e670}
 
 Question
 :   Nothing happens when I launch ES
@@ -211,18 +215,18 @@ Question
 Answer
 :   First, please make sure LoD 1.10 or higher (1.10, 1.11, 1.11b, 1.12,
     etc) is installed. A mod isn\'t a stand-alone game, and needs [the
-    original game installed]{.ul}.
-
-Next, please make sure the Expansion disc is in your CD drive. The
-launcher may suppress the no-cd message in some environment. Please
-don\'t use any hacks like no-cd crack or loader.
-
-If you\'re using Daemon Tools and MiniCD, make sure that SafeDisc and
-SecuROM is selected in the advanced preferences.
+    original game installed]{.ul}.\
+    \
+    Next, please make sure the Expansion disc is in your CD drive. The
+    launcher may suppress the no-cd message in some environment. Please
+    don\'t use any hacks like no-cd crack or loader.\
+    \
+    If you\'re using Daemon Tools and MiniCD, make sure that SafeDisc and
+    SecuROM is selected in the advanced preferences.
 
 do i need the disc eveen if i bought it online?
 
-### ES randomly crashes when I directly run ES. [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#n74943de "n74943de"){#n74943de .anchor_super} {#content_1_7}
+### ES randomly crashes when I directly run ES. {#n74943de}
 
 Question
 :   ES randomly crashes when I directly run ES by a shortcut with
@@ -234,7 +238,7 @@ Answer
     the preferences you set, and ES doesn\'t run correctly without the
     launcher.
 
-### D2 says the Expansion disc was not found. [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#e9e4c808 "e9e4c808"){#e9e4c808 .anchor_super} {#content_1_8}
+### D2 says the Expansion disc was not found. {#e9e4c808}
 
 Question
 :   D2 says the Expansion disc was not found, but the disc IS in the
@@ -243,20 +247,20 @@ Question
 Answer
 :   The drive letter may be changed because of connecting or removing
     some removable devices. In my case, clicking \"Ignore\" or \"Try
-    Again\" 10ish times usually makes D2 find the CD.
+    Again\" 10ish times usually makes D2 find the CD.\
+    \
+    If your CD-ROM drive is having sporadic problems recognizing your
+    Expansion disk, it could be a sign of age: CD-ROM drives often work
+    intermittently and sporadically when they are wearing out. You can test
+    your drive with a variety of other disks to see whether it is working
+    properly. A drive that is wearing out will often be able to read some
+    disks, but not others. Listening to a variety of un-scratched audio CDs
+    is one good way to check. If you hear the drive stopping and re-starting
+    several times when trying to read a CD or CD-ROM that you\'ve just
+    inserted, either the disk is damaged (test it in another
+    drive/computer), or the drive is wearing out or needs to be cleaned.
 
-If your CD-ROM drive is having sporadic problems recognizing your
-Expansion disk, it could be a sign of age: CD-ROM drives often work
-intermittently and sporadically when they are wearing out. You can test
-your drive with a variety of other disks to see whether it is working
-properly. A drive that is wearing out will often be able to read some
-disks, but not others. Listening to a variety of un-scratched audio CDs
-is one good way to check. If you hear the drive stopping and re-starting
-several times when trying to read a CD or CD-ROM that you\'ve just
-inserted, either the disk is damaged (test it in another
-drive/computer), or the drive is wearing out or needs to be cleaned.
-
-### My Expansion CD is damaged/broken/lost\...can I still play ES? [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#n68f47bf "n68f47bf"){#n68f47bf .anchor_super} {#content_1_9}
+### My Expansion CD is damaged/broken/lost\...can I still play ES? {#n68f47bf}
 
 Question
 :   My Expansion CD is damage/broken/lost\...can I still play ES?
@@ -265,8 +269,8 @@ Answer
 :   You cannot play ES without your Diablo II Expansion disk inserted.\
     \
     If your disk is damaged/broken you have several options:
-    -   You can [get a replacement
-        CD](https://web.archive.org/web/20201026111906/http://www.blizzard.com/support/?id=adt0133p)
+
+    -   You can [get a replacement CD](https://web.archive.org/web/20201026111906/http://www.blizzard.com/support/?id=adt0133p)
         from Blizzard, for a \$10 fee.
     -   If your CD is unreadable because it is scratched on the bottom,
         you can get a CD polishing kit from a local computer outlet or
@@ -280,16 +284,16 @@ Answer
         wiping outward from the center. Water and dishwashing liquid may
         also be used.
 
-Making a backup copy of CD is allowed in most countries. You can make a
-CD image file instead of a physical copy, and mount it using a virtual
-CD program like DAEMON tools. d2loader is a hack and isn\'t supported by
-ES, but those virtual CD programs are legal (as long as the backup is
-legal in your country) and run fine with ES. (Please ask any questions
-to the author or the company of those programs. Please don\'t ask it in
-Phrozen Keep.)
+    Making a backup copy of CD is allowed in most countries. You can make a
+    CD image file instead of a physical copy, and mount it using a virtual
+    CD program like DAEMON tools. d2loader is a hack and isn\'t supported by
+    ES, but those virtual CD programs are legal (as long as the backup is
+    legal in your country) and run fine with ES. (Please ask any questions
+    to the author or the company of those programs. Please don\'t ask it in
+    Phrozen Keep.)
 
 
-### ES doesn\'t run correctly with MH/HM/C3PO etc. [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#me87092a "me87092a"){#me87092a .anchor_super} {#content_1_10}
+### ES doesn\'t run correctly with MH/HM/C3PO etc. {#me87092a}
 
 Question
 :   ES doesn\'t run correctly with MH/HM/C3PO etc.
@@ -300,10 +304,10 @@ Answer
 
 
 
-### ES says LoD or another MoD is running, but no other LoD is running. [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#w4174005 "w4174005"){#w4174005 .anchor_super} {#content_1_11}
+### ES says LoD or another MoD is running, but no other LoD is running. {#w4174005}
 
 
-### ES says Another ES is running, but no other ES is running. [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#z62491ae "z62491ae"){#z62491ae .anchor_super} {#content_1_12}
+### ES says Another ES is running, but no other ES is running. {#z62491ae}
 
 Question
 :   ES shows an error message \"LoD or another MoD is running. Please
@@ -320,7 +324,7 @@ Answer
     Please close the folder and try again.
 
 
-### How do I install ES on Linux or Windows Vista? [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#o2db32ea "o2db32ea"){#o2db32ea .anchor_super} {#content_1_13}
+### How do I install ES on Linux or Windows Vista? {#o2db32ea}
 
 Question
 :   How do I install ES on Linux or Windows Vista?
@@ -331,7 +335,7 @@ Answer
 
 Diablo II on Windows Vista
 
-    Diablo II - NOTE: For best results, set Compatibility Mode for application to Windows
+:   Diablo II - NOTE: For best results, set Compatibility Mode for application to Windows
     XP SP2 in the shortcut's properties and run as Administrator. This should allow all
     features of game to work properly, including LAN and Battle.Net play. If the game
     takes too long to start up, try disabling Aero Glass (or under compatability disable
@@ -339,11 +343,11 @@ Diablo II on Windows Vista
 
 
 
-## Multiplayer Games [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#nd21e098 "nd21e098"){#nd21e098 .anchor_super} {#content_1_14}
+## Multiplayer Games {#nd21e098}
 
 
 
-### Can Mac users play with Windows users in a tcp/ip game? [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#x3a1c273 "x3a1c273"){#x3a1c273 .anchor_super} {#content_1_15}
+### Can Mac users play with Windows users in a tcp/ip game? {#x3a1c273}
 
 Question
 :   Can Mac users play with Windows users in a tcp/ip game?
@@ -351,22 +355,22 @@ Question
 Answer
 :   Windows version has many different settings (PlugY, etc.), and it is
     reported that D2 crashes when a Mac user enter Windows user\'s game
-    or vice versa.
+    or vice versa.\
+    \
+    Windows user can turn their ES into \"Mac compatible\" to play with Mac
+    users, by running \"Mac compatible patch\" after you install the Windows
+    version ES (R3D change).\
+    \
+    \"Mac compatible\" Windows version can co-exist with LoD 1.10, 1.11 or
+    1.11b, and you can still use gamblefilter and ES preference menu. But it
+    has other restrictions of Mac version (please see the [Mac
+    restrictions](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#sdd9e562)).
+    Also, the map regeneration is always off, and you may have to disable
+    /nopickup option when you play with Mac users.
 
-Windows user can turn their ES into \"Mac compatible\" to play with Mac
-users, by running \"Mac compatible patch\" after you install the Windows
-version ES (R3D change).
-
-\"Mac compatible\" Windows version can co-exist with LoD 1.10, 1.11 or
-1.11b, and you can still use gamblefilter and ES preference menu. But it
-has other restrictions of Mac version (please see the [Mac
-restrictions](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#sdd9e562)).
-Also, the map regeneration is always off, and you may have to disable
-/nopickup option when you play with Mac users.
 
 
-
-### D2 crashes when I play a TCP/IP game. [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#l0c6e601 "l0c6e601"){#l0c6e601 .anchor_super} {#content_1_16}
+### D2 crashes when I play a TCP/IP game. {#l0c6e601}
 
 Question
 :   D2 crashes when I play a TCP/IP game.
@@ -378,7 +382,7 @@ Answer
     save data corruption.
 
 
-### D2 crashes when I exit a TCP/IP game. [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#ta62d06e "ta62d06e"){#ta62d06e .anchor_super} {#content_1_17}
+### D2 crashes when I exit a TCP/IP game. {#ta62d06e}
 
 Question
 :   D2 crashes when I exit a TCP/IP game.
@@ -387,15 +391,15 @@ Answer
 :   Usually too many items in the shared stash cause that error. Please
     reduce the items in the shared stash, by transferring the items to
     mule characters. The new feature of R3, stash switch will be useful
-    to switch to an empty stash.
+    to switch to an empty stash.\
+    \
+    Also make sure all players use the same version of ES, and the same
+    settings of PlugY.　If the problem persists, make all players use the
+    default preference setting (/no pickup is off, map regeneration is on).
 
-Also make sure all players use the same version of ES, and the same
-settings of PlugY.　If the problem persists, make all players use the
-default preference setting (/no pickup is off, map regeneration is on).
 
 
-
-### My character makes other players drop from a multiplayer game. [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#sf41b29b "sf41b29b"){#sf41b29b .anchor_super} {#content_1_18}
+### My character makes other players drop from a multiplayer game. {#sf41b29b}
 
 Question
 :   When one of my characters goes near other players in a multiplayer
@@ -404,21 +408,21 @@ Question
 Answer
 :   There is a limitation (or a bug) of LoD called 27 State Bug that if
     a player have more than 27 states he crashes nearby players in
-    multiplayer games.
-
-Any effects like auras that gives you a special graphics always gives a
-stat. In addition to that, all passive skills and carry one items like
-White Odd Charm also give a stat.
-
-Barbarians tend to have this problem because they have many passive
-skills and warcries. Rich players who carry many unique charms, aura
-equipments and/or oskill passives also tend to have this problem.
-
-To avoid this, please reduce such equipment when you play in multiplayer
-games. Sorry about giving up good equipment, but you can still use it in
-solo games. You won\'t need it much in multiplayer games, because
-partied players usually enhance each other and become far stronger than
-monsters.
+    multiplayer games.\
+    \
+    Any effects like auras that gives you a special graphics always gives a
+    stat. In addition to that, all passive skills and carry one items like
+    White Odd Charm also give a stat.\
+    \
+    Barbarians tend to have this problem because they have many passive
+    skills and warcries. Rich players who carry many unique charms, aura
+    equipments and/or oskill passives also tend to have this problem.\
+    \
+    To avoid this, please reduce such equipment when you play in multiplayer
+    games. Sorry about giving up good equipment, but you can still use it in
+    solo games. You won\'t need it much in multiplayer games, because
+    partied players usually enhance each other and become far stronger than
+    monsters.
 
 ::: {.ie5}
   Effects that count for a stat          Examples
@@ -427,19 +431,19 @@ monsters.
   Poisoned                               
   Slowed                                 
   Stunned                                
-
+  <!--<br>-->
   Friendly Auras that boost you          Might
   Friendly Warcries that boost you       Battle Orders
   Other Friendly Spells that boost you   Enchant
   Armor Spells                           Shiver Armor
   Assassin Auras                         Burst of Speed
   Passive Skills                         Close Combat Mastery
-
+  <!--<br>-->
   Curses                                 Amplify Damage
   Enemy Auras that weaken you            Conviction
   Enemy Warcries that weaken you         Battle Cry
   Other Enemy Spells that weaken you     Cloak of Shadows, Inner Sight
-
+  <!--<br>-->
   Carry One Items                        White Odd Charm
 :::
 
@@ -457,7 +461,7 @@ Minotaur.
 
 
 
-### Where can I find TCP/IP players to play with? [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#o593aeeb "o593aeeb"){#o593aeeb .anchor_super} {#content_1_19}
+### Where can I find TCP/IP players to play with? {#o593aeeb}
 
 Question
 :   Where can I find TCP/IP players to play with?
@@ -470,7 +474,7 @@ Answer
 
 
 
-### Can I have any private server information here? [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#m2321fdf "m2321fdf"){#m2321fdf .anchor_super} {#content_1_20}
+### Can I have any private server information here? {#m2321fdf}
 
 Question
 :   Can I have any private server information here?
@@ -478,22 +482,22 @@ Question
 Answer
 :   No. The large part of this Wiki is maintained by the members of The
     Frozen Keep ES Forum, and The Phrozen Keep prohibit linking to
-    private servers and private server information.
-
-If you need playing information, please use the search engines.\
-[http://www.google.com/](https://web.archive.org/web/20201026111906/http://www.google.com/)\
-[http://www.yahoo.com/](https://web.archive.org/web/20201026111906/http://www.yahoo.com/)
-
-If you have any technical questions, please don\'t ask here but email to
-the author (the address is in the readme). Any emails asking about
-playing information will be ignored.
-
-
-## Hardcore [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#fe17a5e2 "fe17a5e2"){#fe17a5e2 .anchor_super} {#content_1_21}
+    private servers and private server information.\
+    \
+    If you need playing information, please use the search engines.\
+    [http://www.google.com/](https://web.archive.org/web/20201026111906/http://www.google.com/)\
+    [http://www.yahoo.com/](https://web.archive.org/web/20201026111906/http://www.yahoo.com/)\
+    \
+    If you have any technical questions, please don\'t ask here but email to
+    the author (the address is in the readme). Any emails asking about
+    playing information will be ignored.
 
 
+## Hardcore {#fe17a5e2}
 
-### Do I have to kill normal Baal to create a HC character? [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#d2e40ed6 "d2e40ed6"){#d2e40ed6 .anchor_super} {#content_1_22}
+
+
+### Do I have to kill normal Baal to create a HC character? {#d2e40ed6}
 
 Question
 :   Do I have to kill normal Baal to create a HC character?
@@ -526,15 +530,15 @@ Answer (Mac)
 
 
 
-## Skills [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#u2c3deb8 "u2c3deb8"){#u2c3deb8 .anchor_super} {#content_1_23}
+## Skills {#u2c3deb8}
 
 
 
-### The synergy for Masteries/Passives doesn\'t work. [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#w5207446 "w5207446"){#w5207446 .anchor_super} {#content_1_24}
+### The synergy for Masteries/Passives doesn\'t work. {#w5207446}
 
 
 
-### Strength of the Ancients/Vigor of the Ancients doesn\'t work [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#z59b5ac0 "z59b5ac0"){#z59b5ac0 .anchor_super} {#content_1_25}
+### Strength of the Ancients/Vigor of the Ancients doesn\'t work {#z59b5ac0}
 
 Question
 :   Putting points into a synergy skill for Masteries/Passives never
@@ -555,15 +559,15 @@ Question
 
 Answer
 :   They don\'t work until you start a new game, or re-equip any skill+
-    item. This is a restriction of D2.
+    item. This is a restriction of D2.\
+    \
+    Also, Strength of the Ancients and Vigor of the Ancients needs at least
+    level 1 Luck of the Ancients. In the current version, LoA is a prereq of
+    these skills, but an old character may not have LoA.
 
-Also, Strength of the Ancients and Vigor of the Ancients needs at least
-level 1 Luck of the Ancients. In the current version, LoA is a prereq of
-these skills, but an old character may not have LoA.
 
 
-
-### My oskills sometimes disappear. [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#o9c31621 "o9c31621"){#o9c31621 .anchor_super} {#content_1_26}
+### My oskills sometimes disappear. {#o9c31621}
 
 Question
 :   One of my oskills sometimes disappears from the icon pool and
@@ -572,22 +576,22 @@ Question
 Answer
 :   The reason had been unknown for a long time, but according to the
     post of Easytough, hovering the mouse cursor over an item with a
-    skill bonus disables the oskill of the same kind you have.
+    skill bonus disables the oskill of the same kind you have.\
+    \
+    For example, you equip Enigma RW armor and you hover the mouse cursor
+    over a staff with \"+1 To Teleport (Sorceress Only)\", the oskill
+    Teleport disappear from your icon pool. This occurs only when the target
+    has a class specific skill bonus (xxxxxx only) of that skill, and
+    doesn\'t occur if the bonus is an oskill or a charged skill.\
+    \
+    This seems a bug of D2 itself and can\'t be fixed. **Reequipping the
+    oskill item enables the oskill again.** But the lost minions don\'t come
+    back, and the loss of the materials for Skeletons and Bone Golem will be
+    problematic.
 
-For example, you equip Enigma RW armor and you hover the mouse cursor
-over a staff with \"+1 To Teleport (Sorceress Only)\", the oskill
-Teleport disappear from your icon pool. This occurs only when the target
-has a class specific skill bonus (xxxxxx only) of that skill, and
-doesn\'t occur if the bonus is an oskill or a charged skill.
-
-This seems a bug of D2 itself and can\'t be fixed. **Reequipping the
-oskill item enables the oskill again.** But the lost minions don\'t come
-back, and the loss of the materials for Skeletons and Bone Golem will be
-problematic.
 
 
-
-### My summons sometimes disappear. [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#u0a9c6eb "u0a9c6eb"){#u0a9c6eb .anchor_super} {#content_1_27}
+### My summons sometimes disappear. {#u0a9c6eb}
 
 Question
 :   Some or all of my summons sometimes disappear or are destroyed.
@@ -619,7 +623,7 @@ Answer
 
 
 
-### Why revived monsters are so weak in ES? [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#c53081f6 "c53081f6"){#c53081f6 .anchor_super} {#content_1_28}
+### Why revived monsters are so weak in ES? {#c53081f6}
 
 Question
 :   Why revived monsters are so weak in ES?
@@ -632,7 +636,7 @@ Answer
 
 
 
-### I hear some oskills are weaker than the native ones in ES. [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#s265c107 "s265c107"){#s265c107 .anchor_super} {#content_1_29}
+### I hear some oskills are weaker than the native ones in ES. {#s265c107}
 
 Question
 :   I hear some oskills are weaker than the native ones in ES.
@@ -661,7 +665,7 @@ Amazons and Sorceresses, too. It\'s pointless for Amazons and
 Sorceresses to use Oskill Killer Scythe.
 
 
-### What are the caps of skill points in ES? [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#t8e9409a "t8e9409a"){#t8e9409a .anchor_super} {#content_1_30}
+### What are the caps of skill points in ES? {#t8e9409a}
 
 Question
 :   What are the caps of skill points in ES?
@@ -674,7 +678,7 @@ Answer
 All skills can further be boosted with +skills items till level 100.
 
 
-### What is Fend Bug? How can I avoid it? [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#c3854226 "c3854226"){#c3854226 .anchor_super} {#content_1_31}
+### What is Fend Bug? How can I avoid it? {#c3854226}
 
 Question
 :   What is Fend Bug?
@@ -722,7 +726,7 @@ animation, and keep clicking to start a new attack in case the attack is
 interuppted.
 
 
-### What is D/A/E lock? Should I avoid taking D/A/E? [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#h47a52ce "h47a52ce"){#h47a52ce .anchor_super} {#content_1_32}
+### What is D/A/E lock? Should I avoid taking D/A/E? {#h47a52ce}
 
 Question
 :   What is D/A/E lock?
@@ -762,7 +766,7 @@ drawback. (As written in the FAQ above, D/A/E interrupts the attack, but
 getting hit also does, so D/A/E is always better.)
 
 
-## Map / Quest [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#mf6bb942 "mf6bb942"){#mf6bb942 .anchor_super} {#content_1_33}
+## Map / Quest {#mf6bb942}
 
 Question: After I beat the ancients and I try to progress through to the
 worldstone chamber\...instead of it saying worldstone chamber it says
@@ -774,7 +778,7 @@ no avail. Can someone figure out what this error is and how I can
 progress into Nightmare?
 
 
-### Some areas are too difficult to beat. [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#g0e8cd52 "g0e8cd52"){#g0e8cd52 .anchor_super} {#content_1_34}
+### Some areas are too difficult to beat. {#g0e8cd52}
 
 Question
 :   I can\'t get the Viper Amulet because the Lost City is filled with
@@ -799,7 +803,7 @@ Answer
 
 
 
-### I can\'t find Flayer Dungeon. [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#c299031a "c299031a"){#c299031a .anchor_super} {#content_1_35}
+### I can\'t find Flayer Dungeon. {#c299031a}
 
 Question
 :   I can\'t find Flayer Dungeon anywhere in Flayer Jungle.
@@ -809,7 +813,7 @@ Answer
 
 
 
-### I can\'t find the downstairs from The Dead End to Nowhere. [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#la422e1f "la422e1f"){#la422e1f .anchor_super} {#content_1_36}
+### I can\'t find the downstairs from The Dead End to Nowhere. {#la422e1f}
 
 Question
 :   I can\'t find the downstairs from The Dead End to Nowhere.
@@ -821,7 +825,7 @@ Answer
 
 
 
-### I can\'t find a specific monster/area. [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#g2b7c5aa "g2b7c5aa"){#g2b7c5aa .anchor_super} {#content_1_37}
+### I can\'t find a specific monster/area. {#g2b7c5aa}
 
 Question
 :   I can\'t find a specific monster/area.
@@ -836,7 +840,7 @@ menu, temporarily enable it]{.ul} to reset the bugged map.
 
 
 
-### Do there happen World Event and Hellfire Torch quest in ES? [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#nb3f2aca "nb3f2aca"){#nb3f2aca .anchor_super} {#content_1_38}
+### Do there happen World Event and Hellfire Torch quest in ES? {#nb3f2aca}
 
 Question
 :   Do there happen the World Event and Hellfire Torch quest in ES?
@@ -860,7 +864,7 @@ happen in ES which is based on LoD 1.10.
 
 
 
-### What\'s the Devil\'s Food message I see every 5 minutes? [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#mabf458a "mabf458a"){#mabf458a .anchor_super} {#content_1_39}
+### What\'s the Devil\'s Food message I see every 5 minutes? {#mabf458a}
 
 Question
 :   I constantly see the message that Devil\'s Foods are sold to the
@@ -875,7 +879,7 @@ Answer
 
 
 
-### Quel-Khek doesn\'t seem to give the proper reward for my class. How do you use the reward? [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#g8e9730c "g8e9730c"){#g8e9730c .anchor_super} {#content_1_40}
+### Quel-Khek doesn\'t seem to give the proper reward for my class. How do you use the reward? {#g8e9730c}
 
 Question
 :   Readme says Quel-Khek gives the materials for Class Crafting. But he
@@ -892,11 +896,11 @@ Answer
 
 
 
-## Horadric Cube [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#r06b1692 "r06b1692"){#r06b1692 .anchor_super} {#content_1_41}
+## Horadric Cube {#r06b1692}
 
 
 
-### How can I get a new Horadric Cube? [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#z3aec8ae "z3aec8ae"){#z3aec8ae .anchor_super} {#content_1_42}
+### How can I get a new Horadric Cube? {#z3aec8ae}
 
 Question
 :   I threw my cube onto the ground, forgot to pick it up and left the
@@ -910,7 +914,7 @@ Answer
 
 
 
-### Why do I sometimes get a rare ring/amulet when I try to make a unique? [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#s3ea6601 "s3ea6601"){#s3ea6601 .anchor_super} {#content_1_43}
+### Why do I sometimes get a rare ring/amulet when I try to make a unique? {#s3ea6601}
 
 Question
 :   Why do I sometimes get a rare ring/amulet when I try to make a
@@ -932,6 +936,7 @@ Answer
     a higher clvl than you expect in order to get the ring/amulet you
     want. Here is a list of rings/amulets, and the character levels
     required to cube them:
+
     -   Lvl 10 Fallen Star or Lovers\' Pendant: clvl 15
     -   Lvl 20 Dragon Eye or Eye of the Witch: clvl 29
     -   Lvl 30 Ring of Vengance or Collar of the Minotaur: clvl 43
@@ -954,7 +959,7 @@ rings/amulets are as follows:
 
 
 
-### How can I reroll a class specific ring/amulet? [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#rae68b87 "rae68b87"){#rae68b87 .anchor_super} {#content_1_44}
+### How can I reroll a class specific ring/amulet? {#rae68b87}
 
 Question
 :   Is it possible to reroll rings and amulets into a specific one?
@@ -969,7 +974,7 @@ Answer
 
 
 
-### How can I get Spider\'s Silk, Holy Symbol, Crushed Gem, etc.? [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#x4fc6e8b "x4fc6e8b"){#x4fc6e8b .anchor_super} {#content_1_45}
+### How can I get Spider\'s Silk, Holy Symbol, Crushed Gem, etc.? {#x4fc6e8b}
 
 Question
 :   How can I get Spider\'s Silk, Holy Symbol, Crushed Gem, etc.? I\'ve
@@ -996,7 +1001,7 @@ Answer
 
 
 
-### Why stacked items aren\'t fully replenished by Cube? [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#re97e72b "re97e72b"){#re97e72b .anchor_super} {#content_1_46}
+### Why stacked items aren\'t fully replenished by Cube? {#re97e72b}
 
 Question
 :   Why stacked items like quivers and javelins aren\'t fully
@@ -1010,11 +1015,11 @@ Answer
     cubing. Throwing Weapons are replenished to 255 as before.
 
 
-## In-Game Troubles [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#p4844b1d "p4844b1d"){#p4844b1d .anchor_super} {#content_1_47}
+## In-Game Troubles {#p4844b1d}
 
 
 
-### ES crashes when I enter Act 5. [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#t23f5607 "t23f5607"){#t23f5607 .anchor_super} {#content_1_48}
+### ES crashes when I enter Act 5. {#t23f5607}
 
 Question
 :   ES crashes when I enter Act 5. (on a Macintosh computer)
@@ -1044,7 +1049,7 @@ Answer
 
 
 
-### ES crashes when I talk to Warriv after killing Andariel. [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#m3a3d78b "m3a3d78b"){#m3a3d78b .anchor_super} {#content_1_49}
+### ES crashes when I talk to Warriv after killing Andariel. {#m3a3d78b}
 
 Question
 :   ES crashes when I talk to Warriv after killing Andariel.
@@ -1064,7 +1069,7 @@ Answer
 
 
 
-### I can\'t enter the dungeon entrance/stairs. [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#h9a273d8 "h9a273d8"){#h9a273d8 .anchor_super} {#content_1_50}
+### I can\'t enter the dungeon entrance/stairs. {#h9a273d8}
 
 Question
 :   I can\'t enter the dungeon entrance/stairs.
@@ -1076,7 +1081,7 @@ Answer
     Normal Attack to your left mouse button.
 
 
-### My character has \'frozen\' in place and can\'t move. [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#j741fb0d "j741fb0d"){#j741fb0d .anchor_super} {#content_1_51}
+### My character has \'frozen\' in place and can\'t move. {#j741fb0d}
 
 Question
 :   Not entirely sure what causes this, but twice now in Act 2 my barb
@@ -1097,7 +1102,7 @@ Answer
 
 
 
-### Monster\'s dead bodies block my passage/loot. [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#ud6dc60c "ud6dc60c"){#ud6dc60c .anchor_super} {#content_1_52}
+### Monster\'s dead bodies block my passage/loot. {#ud6dc60c}
 
 Question
 :   Some monsters leave dead bodies which block my passage/loot.
@@ -1107,18 +1112,18 @@ Answer
     that cannot be walked over. If you don\'t have Teleport or Leap,
     please be careful not to be surrounded by them, particularly near
     the edge of a map or on a bridge. The dead bodies may also make your
-    loot unclickable.
-
-If there aren\'t no detours, or the loot is too precious to give up, try
-to move 2 screens away and then go back there. The dead bodies will
-disappear like the normal dead bodies.
-
-
-## Monster\'s Drop [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#f283971c "f283971c"){#f283971c .anchor_super} {#content_1_53}
+    loot unclickable.\
+    \
+    If there aren\'t no detours, or the loot is too precious to give up, try
+    to move 2 screens away and then go back there. The dead bodies will
+    disappear like the normal dead bodies.
 
 
+## Monster\'s Drop {#f283971c}
 
-### How does /playersx command work? [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#z7cb7b3b "z7cb7b3b"){#z7cb7b3b .anchor_super} {#content_1_54}
+
+
+### How does /playersx command work? {#z7cb7b3b}
 
 ::: {.ie5}
   ----------------------------------------------------------------------------------------------------------------------------
@@ -1185,7 +1190,7 @@ damage and attck rating by 6% per player
 
 
 
-### How does MF work? Does MF increase the drop of XXXX? [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#q1678e33 "q1678e33"){#q1678e33 .anchor_super} {#content_1_55}
+### How does MF work? Does MF increase the drop of XXXX? {#q1678e33}
 
 Question
 :   How does MF work? Does MF increase the drop of XXXX?
@@ -1269,9 +1274,9 @@ Set Jackpot B can be dropped by all unique monsters and act bosses, and
 can drop high level sets, but the chance is slim.
 
 
-## Items [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#c55c3945 "c55c3945"){#c55c3945 .anchor_super} {#content_1_56}
+## Items {#c55c3945}
 
-### I can\'t make the maximum number of sockets on a white item. [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#y124bf1d "y124bf1d"){#y124bf1d .anchor_super} {#content_1_57}
+### I can\'t make the maximum number of sockets on a white item. {#y124bf1d}
 
 Question
 :   I can\'t make the maximum number of sockets on a white item.
@@ -1310,7 +1315,7 @@ maxmum number of sockets.
 
 
 
-### What ilvl the target item has to have for a specific affix? [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#n9f09948 "n9f09948"){#n9f09948 .anchor_super} {#content_1_58}
+### What ilvl the target item has to have for a specific affix? {#n9f09948}
 
 Question
 :   Is the level of available affixes equal to the ilvl of item?\
@@ -1324,17 +1329,16 @@ Question
 
 Answer
 :   The level of available affixes (alvl) is equal to the ilvl only when
-    the level (qlvl) of the target item is 0.
-
-Rings, Amulets and Grand Charms have no level (qlvl=0), so alvl = ilvl
-for them. Weapons and armor have the level, so you need to use the [ilvl
-calculator](https://web.archive.org/web/20201026111906/http://hpcgi3.nifty.com/miyoshino/d2/ilvl.cgi)
-to know the clvl/ilvl you need.
+    the level (qlvl) of the target item is 0.\
+    \
+    Rings, Amulets and Grand Charms have no level (qlvl=0), so alvl = ilvl
+    for them. Weapons and armor have the level, so you need to use the [ilvl
+    calculator](https://web.archive.org/web/20201026111906/http://hpcgi3.nifty.com/miyoshino/d2/ilvl.cgi)
+    to know the clvl/ilvl you need.
 
 Example
 
-1\. Open the [ilvl
-calculator](https://web.archive.org/web/20201026111906/http://hpcgi3.nifty.com/miyoshino/d2/ilvl.cgi).\
+1. Open the [ilvl calculator](https://web.archive.org/web/20201026111906/http://hpcgi3.nifty.com/miyoshino/d2/ilvl.cgi).\
 2. Check the [Base
 Weapon](https://web.archive.org/web/20201026111906/http://homepage3.nifty.com/miyoshino/es/es3weap_n.htm#assn)
 page of the database to see the qlvl of Ninja-to. It\'s qlvl is 37 (Lvl
@@ -1356,7 +1360,7 @@ answer.
     Required Character Level to Gamble (Max Chance) 92
 
 
-### How many affixes can you get on a single item? [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#fb81770f "fb81770f"){#fb81770f .anchor_super} {#content_1_59}
+### How many affixes can you get on a single item? {#fb81770f}
 
 Question
 :   How many affixes can you get on a single item?
@@ -1389,7 +1393,7 @@ can\'t get Bloodlust on rares anyway\...
 
 
 
-### What would be the best combination of Affixes for weapons? [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#k28229dc "k28229dc"){#k28229dc .anchor_super} {#content_1_60}
+### What would be the best combination of Affixes for weapons? {#k28229dc}
 
 Question
 :   What would be the best combination of Affixes for weapons?
@@ -1417,11 +1421,11 @@ Getting the perfect combination of these is near impossible. Good
 Luck\...
 
 
-### Some skills never appear as a staffmod. [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#n0fac7d9 "n0fac7d9"){#n0fac7d9 .anchor_super} {#content_1_61}
+### Some skills never appear as a staffmod. {#n0fac7d9}
 
 
 
-### Some skills never appear as a random skill bonus. [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#s1c89c16 "s1c89c16"){#s1c89c16 .anchor_super} {#content_1_62}
+### Some skills never appear as a random skill bonus. {#s1c89c16}
 
 Question
 :   Some skills never appear as a staffmod. Akara never sells a staff
@@ -1436,22 +1440,24 @@ Answer
     skill ID. (The original Sorceress skills have \#36～\#65 and the
     additional Sorceress skills have \#367～\#370, for example)\
     Due to this apart skill ID, the additional skills can\'t appear as a
-    staffmod, or a random skill bonus.\
-     
-    ::: {.ie5}
-      Class         Additional Skills (ie. can\'t appear as a staffmod or random skill bonus)
-      ------------- ----------------------------------------------------------------------------------------
-      Amazon        Eagle Eye, Legendary Arrow, Dance of Death, Fire Wall, Frost Nova
-      Sorceress     Time Stop, Fanatic Swing, Aerial Shield, Fissure, Twister
-      Necromancer   Pierce P&B, Killer Scythe, Hells Gate, Hydra, Blade Fury
-      Paladin       Aura of Divinity, Arrow of Confession, Sacred Piercer, Holy Ward, Summon Anointed Bear
-      Barbarian     Ancient\'s Call, Phantom Hatchets, Berserk Fury, Nova, Thunder Storm
-      Druid         Sandstorm, Iron Claws, Cow Baloon, Charged Strike, Bone Spear
-      Assassin      Shade Armor, Shuriken, Iaigiri, Teeth, Cold Wave
-    :::
+    staffmod, or a random skill bonus.
+
+<!-- -->
+
+::: {.ie5}
+  Class         Additional Skills (ie. can\'t appear as a staffmod or random skill bonus)
+  ------------- ----------------------------------------------------------------------------------------
+  Amazon        Eagle Eye, Legendary Arrow, Dance of Death, Fire Wall, Frost Nova
+  Sorceress     Time Stop, Fanatic Swing, Aerial Shield, Fissure, Twister
+  Necromancer   Pierce P&B, Killer Scythe, Hells Gate, Hydra, Blade Fury
+  Paladin       Aura of Divinity, Arrow of Confession, Sacred Piercer, Holy Ward, Summon Anointed Bear
+  Barbarian     Ancient\'s Call, Phantom Hatchets, Berserk Fury, Nova, Thunder Storm
+  Druid         Sandstorm, Iron Claws, Cow Baloon, Charged Strike, Bone Spear
+  Assassin      Shade Armor, Shuriken, Iaigiri, Teeth, Cold Wave
+:::
 
 
-### Staffmods of some high level skills often appear on low level items. [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#w65157c7 "w65157c7"){#w65157c7 .anchor_super} {#content_1_63}
+### Staffmods of some high level skills often appear on low level items. {#w65157c7}
 
 Question
 :   Staffmods of some high level skills often appear on low level items,
@@ -1478,7 +1484,7 @@ were changed back to the LoD values in patch R (This is one of the main
 reasons for the save game incompatibility).
 
 
-### When I can\'t pick up the unique charm, what should I do? [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#t3484676 "t3484676"){#t3484676 .anchor_super} {#content_1_64}
+### When I can\'t pick up the unique charm, what should I do? {#t3484676}
 
 Question
 :   When I can\'t pick up the unique charm, what should I do?
@@ -1500,7 +1506,7 @@ Answer
 
 
 
-### My \"ED + Max/Min Dam\" jewel doesn\'t work correctly. [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#uc41c245 "uc41c245"){#uc41c245 .anchor_super} {#content_1_65}
+### My \"ED + Max/Min Dam\" jewel doesn\'t work correctly. {#uc41c245}
 
 Question
 :   My \"ED + Max/Min Dam\" jewel doesn\'t increase the total damage
@@ -1513,7 +1519,7 @@ Answer
 
 
 
-### New CtC Meteor, etc. have no delay while old ones have some. Why? [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#ddc40983 "ddc40983"){#ddc40983 .anchor_super} {#content_1_66}
+### New CtC Meteor, etc. have no delay while old ones have some. Why? {#ddc40983}
 
 Question
 :   I found CtC Meteor on recent items has no delay, but the same mods
@@ -1533,10 +1539,10 @@ Answer
 
 
 
-## Minions / Hirelings [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#d24ab9a9 "d24ab9a9"){#d24ab9a9 .anchor_super} {#content_1_67}
+## Minions / Hirelings {#d24ab9a9}
 
 
-### My merc loses life everytime he/she gains a level. [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#deb3063a "deb3063a"){#deb3063a .anchor_super} {#content_1_68}
+### My merc loses life everytime he/she gains a level. {#deb3063a}
 
 Question
 :   My merc loses life everytime he/she gains a level.
@@ -1558,7 +1564,7 @@ Answer
     can\'t leech.
 
 
-### How much life regeneration ability do minions have? [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#u3a4375a "u3a4375a"){#u3a4375a .anchor_super} {#content_1_69}
+### How much life regeneration ability do minions have? {#u3a4375a}
 
 ::: {.ie5}
   Minion                     Life Regeneration
@@ -1581,13 +1587,13 @@ Answer
   Wolf (All)                                 4
   Water Elemental                            5
   Anointed Bear                              5
-
+  <!--<br>-->
   Common Monster                             2
 :::
 
 
 
-### What equipment do Minions have in ES? [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#k08b686e "k08b686e"){#k08b686e .anchor_super} {#content_1_70}
+### What equipment do Minions have in ES? {#k08b686e}
 
 ::: {.ie5}
   -----------------------------------------------------------------------
@@ -1770,10 +1776,10 @@ Answer
 
 
 
-## Others [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#l760093a "l760093a"){#l760093a .anchor_super} {#content_1_71}
+## Others {#l760093a}
 
 
-### What\'s the Uber build or char in ES? [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#x9d256ff "x9d256ff"){#x9d256ff .anchor_super} {#content_1_72}
+### What\'s the Uber build or char in ES? {#x9d256ff}
 
 Question
 :   What\'s the Uber build or char in ES?
@@ -1785,7 +1791,7 @@ Answer
 
 
 
-### How to backup my shared stash or start a fresh shared stash? [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#cd7d635f "cd7d635f"){#cd7d635f .anchor_super} {#content_1_73}
+### How to backup my shared stash or start a fresh shared stash? {#cd7d635f}
 
 Question
 :   How to backup my shared stash, or start a fresh shared stash?
@@ -1799,7 +1805,7 @@ Answer
 
 
 
-### How Elemental Masteries work with Enchant type spells? [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#i09cfb62 "i09cfb62"){#i09cfb62 .anchor_super} {#content_1_74}
+### How Elemental Masteries work with Enchant type spells? {#i09cfb62}
 
 Question
 
@@ -1809,7 +1815,7 @@ Answer
 
 
 
-#### Definition [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#sf86a752 "sf86a752"){#sf86a752 .anchor_super} {#content_1_75}
+#### Definition {#sf86a752}
 
 -   Elemental Masteries here includes Sorceress **Fire/Cold/Lightning
     Mastery** and the mod **+XX% To Fire/Cold/Lightning/Poison Skill
@@ -1821,7 +1827,7 @@ Answer
 
 
 
-#### Does Fire Mastery increase the damage of Enchant twice for melee attack, and once for ranged attack? [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#c76f328d "c76f328d"){#c76f328d .anchor_super} {#content_1_76}
+#### Does Fire Mastery increase the damage of Enchant twice for melee attack, and once for ranged attack? {#c76f328d}
 
 -   It seems widely believed, like posted
     [here](https://web.archive.org/web/20201026111906/http://forums.diabloii.net/showthread.php?t=464619).
@@ -1831,7 +1837,7 @@ Answer
 
 
 
-#### How Fire Mastery works with Enchant [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#kf415513 "kf415513"){#kf415513 .anchor_super} {#content_1_77}
+#### How Fire Mastery works with Enchant {#kf415513}
 
 -   The Fire Mastery of the caster of Enchant increases the listed
     damage bonus of Enchant.\
@@ -1843,7 +1849,7 @@ Answer
 
 
 
-#### Unknown Factor \"missile pct\" [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#ufccd5cc "ufccd5cc"){#ufccd5cc .anchor_super} {#content_1_78}
+#### Unknown Factor \"missile pct\" {#ufccd5cc}
 
 -   Why did they think ranged attacks receive less bonus? I found a
     column named **missile pct** in the line of Enchant in skills.txt
@@ -1858,7 +1864,7 @@ Answer
     severe in case it\'s working.
 
 
-#### Conclusion [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#xb7682d3 "xb7682d3"){#xb7682d3 .anchor_super} {#content_1_79}
+#### Conclusion {#xb7682d3}
 
 -   All Enchant type skills are affected by Elemental Mastery twice
     (when the spell is cast and when the character attacks), regardless
@@ -1870,7 +1876,7 @@ Answer
     column, so they fully work for ranged weapons.
 
 
-### How is this Gamble Chit working if i buy more than once of same Unit? [†](https://web.archive.org/web/20201026111906/http://miyoshino.la.coocan.jp/eswiki/?FAQ#c98d1249 "c98d1249"){#c98d1249 .anchor_super} {#content_1_80}
+### How is this Gamble Chit working if i buy more than once of same Unit? {#c98d1249}
 
 Questiion
 :   How is this Gamble Chit working if I buy more than once of same
