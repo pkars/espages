@@ -1,6 +1,32 @@
 ---
 lang: en
 title: 'Playing Tips - Eastern Sun Wiki'
+header-includes: |
+  <style>
+    .gray {
+      color: #A7A7A7;
+    }
+
+    .red {
+      color: #B22222;
+    }
+
+    .yellow {
+      color: #D7D700;
+    }
+
+    .orange {
+      color: #FF8C00;
+    }
+
+    .green {
+      color: #32CD32;
+    }
+
+    .gold {
+      color: #909737;
+    }
+  </style>
 ---
 
 ::: {#body}
@@ -138,62 +164,13 @@ easier:
     a few levels with ease.
 
 ::: {.ie5}
-Monster
+Monster       Level  Remarks  Monster            Level  Remarks
+--------     ------  -------  ----------------  ------  -------
+Fallen       2                Dark Spearwoman    3      Fast
+Quillrat     2                Gargantuan Beast   3      Stun
+Zombie       2       Slow     Hungry Dead        3      Slow
+Dark Hunter  3       Fast     Skeleton           3
 :::
-:::
-
-Level
-
-Remarks
-
-Monster
-
-Level
-
-Remarks
-
-Fallen
-
-2
-
-Dark Spearwoman
-
-3
-
-Fast
-
-Quillrat
-
-2
-
-Gargantuan Beast
-
-3
-
-Stun
-
-Zombie
-
-2
-
-Slow
-
-Hungry Dead
-
-3
-
-Slow
-
-Dark Hunter
-
-3
-
-Fast
-
-Skeleton
-
-3
-
 -   Please note even the weakest monsters have a twice higher level than
     you, and this level difference make it very difficult to hit
     monsters. Attack Rating would be given the highest priority.
@@ -231,44 +208,13 @@ Skeleton
     boots in ES.
 
 ::: {.ie5}
+               Max Sockets                Max Sockets
+-------------  ----------- -------------- -----
+Melee Weapons   2-3        Bows/Crossbows 3
+Helms           2          Gloves         2
+Body Armor      3          Belts          2
+Shields         3          Boots          2
 :::
-
-Max Sockets
-
-Max Sockets
-
-Melee Weapons
-
-2-3
-
-Bows/Crossbows
-
-3
-
-Helms
-
-2
-
-Gloves
-
-2
-
-Body Armor
-
-3
-
-Belts
-
-2
-
-Shields
-
-3
-
-Boots
-
-2
-
 -   **3 Socket Helms**: If you need more sockets, the [3 socket Mask,
     etc.](https://web.archive.org/web/20201128175730/http://homepage3.nifty.com/miyoshino/es/es3cube_n.htm#nor)
     from Decipherers may be worth cubing. These are the only 3 socket
@@ -623,65 +569,23 @@ chance), in addition to the ordinary rune drop.
 -   Hellforge Quest
 
 ::: {.ie5}
-Difficulty
+Difficulty Available Runes                                        Available Decals
+---------- ---------------                                        ----------------
+Normal     [E Ko Ra O]{.yellow} [Ho Me Ru Ta To Wa Ha]{.orange}   none
+Nightmare  [Ta To Wa Ha]{.orange} [Na Ni Se Fu Ma Hi Mo]{.green}  none
+Hell       [Fu Ma Hi Mo]{.green} [No Te Ro So Mu Ne Re]{.gold}    none
 :::
-
-Available Runes
-
-Available Decals
-
-Normal
-
-[E Ko Ra O]{style="color:#D7D700"} [Ho Me Ru Ta To Wa
-Ha]{style="color:#FF8C00"}
-
-none
-
-Nightmare
-
-[Ta To Wa Ha]{style="color:#FF8C00"} [Na Ni Se Fu Ma Hi
-Mo]{style="color:#32CD32"}
-
-none
-
-Hell
-
-[Fu Ma Hi Mo]{style="color:#32CD32"} [No Te Ro So Mu Ne
-Re]{style="color:#909737"}
-
-none
-
 (updated based on R2)
 
 -   Countess
 
 ::: {.ie5}
-Difficulty
+Difficulty Available Runes             Available Decals
+---------- ---------------             ----------------
+Normal     [I]{.gray} to [A]{.red}     [El]{.gray} to [Thul]{.gray}
+Nightmare  [I]{.gray} to [Wa]{.orange} [El]{.gray} to [Lem]{.gray}
+Hell       [I]{.gray} to [Re]{.gold}   [El]{.gray} to [Ber]{.gray}
 :::
-
-Available Runes
-
-Available Decals
-
-Normal
-
-[I]{style="color:#A7A7A7"} to [A]{style="color:#B22222"}
-
-[El]{style="color:#A7A7A7"} to [Thul]{style="color:#A7A7A7"}
-
-Nightmare
-
-[I]{style="color:#A7A7A7"} to [Wa]{style="color:#FF8C00"}
-
-[El]{style="color:#A7A7A7"} to [Lem]{style="color:#A7A7A7"}
-
-Hell
-
-[I]{style="color:#A7A7A7"} to [Re]{style="color:#909737"}
-
-[El]{style="color:#A7A7A7"} to [Ber]{style="color:#A7A7A7"}
-
-
 
 #### Ancient Scrolls {#s80f76a8}
 
@@ -697,79 +601,14 @@ cube a Cookbook from DragonStones, so collecting Dragon Stones is
 another way to enrich your bookshelf.
 
 ::: {.ie5}
-Area
+Area           Scroll Drop   Area              Scroll Drop   Area         Scroll Drop
+------------  -------------  ---------------  -------------  ----------  -------------
+Normal Act 1   1\~9          Nightmare Act 1   1\~24         Hell Act 1   1\~39
+Normal Act 2   1\~12         Nightmare Act 2   1\~27         Hell Act 2   1\~42
+Normal Act 3   1\~15         Nightmare Act 3   1\~30         Hell Act 3   1\~45
+Normal Act 4   1\~18         Nightmare Act 4   1\~33         Hell Act 4   1\~48
+Normal Act 5   1\~21         Nightmare Act 5   1\~36         Hell Act 5   1\~50
 :::
-
-Scroll Drop
-
-Area
-
-Scroll Drop
-
-Area
-
-Scroll Drop
-
-Normal Act 1
-
-1\~9
-
-Nightmare Act 1
-
-1\~24
-
-Hell Act 1
-
-1\~39
-
-Normal Act 2
-
-1\~12
-
-Nightmare Act 2
-
-1\~27
-
-Hell Act 2
-
-1\~42
-
-Normal Act 3
-
-1\~15
-
-Nightmare Act 3
-
-1\~30
-
-Hell Act 3
-
-1\~45
-
-Normal Act 4
-
-1\~18
-
-Nightmare Act 4
-
-1\~33
-
-Hell Act 4
-
-1\~48
-
-Normal Act 5
-
-1\~21
-
-Nightmare Act 5
-
-1\~36
-
-Hell Act 5
-
-1\~50
-
 \*This table is of the average monsters. Tougher monsters may drop
 better.
 
@@ -786,84 +625,26 @@ In R3F, following recipes were added.
 #### Organs and Other Cubing Materials {#w9bf8bdf}
 
 ::: {.ie5}
-Special Drops
+Special Drops       Monsters
+------------------- ----------
+Hearts              Fallens, Bigheads, Corrupted Rogues (Melee), Scarabs, Gargoyles (not including Gargoyle Traps), Swamp Dweller, Sand Maggots, Vile Mothers, Siege Beasts, Baal\'s Minions, Succubi, Stygian Furies, Blood Lords, Putrid Defilers, Black Knights, Overlords
+Souls               Skeletons, Zombies, Wraithes, Goatmen, Lesser Mummy, Greater Mummy, Hiddens, Undead Fetishes, Skeleton Mages, Rot Walkers
+Eyes                Clay Golems, Blood Golems, Bone Golems, Fire Golems, Zakarum Priests, Storm Casters
+Brains              Sand Leapers, Melee Fetishes, Imps
+Fangs               Orcish Soldiers, Giant Spiders, Carvers
+Quills              Quill Rats, Quill Bears, Thorned Hulks, Death Maulers
+Spleens             Zealots, Corpse Spitter, Overseers
+Tails               Foul Crows, Panther Women (Melee and Ranged)
+Jawbones            Corrupted Rogues (Ranged), Skeleton Archers
+Scalps              Brutes, Ghoul Lords, Blunderbores, Doom Knights, Sinister Knights
+Horn                Pit Lords, Horned Demons, Blowpipe Fetishes
+Flags               Fallen Shamans, Fetish Shamans
+Steaks              Hell Bovines, Ghost Bovines
+Cookbook            Stygian Furies (very rare)
+Socket Donuts       Hairdressers (not including other Panther Women)
+Coupons             Sand Raiders
+Ancient Decipherers Ancient Barbarians
 :::
-
-Monsters
-
-Hearts
-
-Fallens, Bigheads, Corrupted Rogues (Melee), Scarabs, Gargoyles (not
-including Gargoyle Traps), Swamp Dweller, Sand Maggots, Vile Mothers,
-Siege Beasts, Baal\'s Minions, Succubi, Stygian Furies, Blood Lords,
-Putrid Defilers, Black Knights, Overlords
-
-Souls
-
-Skeletons, Zombies, Wraithes, Goatmen, Lesser Mummy, Greater Mummy,
-Hiddens, Undead Fetishes, Skeleton Mages, Rot Walkers
-
-Eyes
-
-Clay Golems, Blood Golems, Bone Golems, Fire Golems, Zakarum Priests,
-Storm Casters
-
-Brains
-
-Sand Leapers, Melee Fetishes, Imps
-
-Fangs
-
-Orcish Soldiers, Giant Spiders, Carvers
-
-Quills
-
-Quill Rats, Quill Bears, Thorned Hulks, Death Maulers
-
-Spleens
-
-Zealots, Corpse Spitter, Overseers
-
-Tails
-
-Foul Crows, Panther Women (Melee and Ranged)
-
-Jawbones
-
-Corrupted Rogues (Ranged), Skeleton Archers
-
-Scalps
-
-Brutes, Ghoul Lords, Blunderbores, Doom Knights, Sinister Knights
-
-Horn
-
-Pit Lords, Horned Demons, Blowpipe Fetishes
-
-Flags
-
-Fallen Shamans, Fetish Shamans
-
-Steaks
-
-Hell Bovines, Ghost Bovines
-
-Cookbook
-
-Stygian Furies (very rare)
-
-Socket Donuts
-
-Hairdressers (not including other Panther Women)
-
-Coupons
-
-Sand Raiders
-
-Ancient Decipherers
-
-Ancient Barbarians
-
 
 #### Crystals {#re2a1259}
 
