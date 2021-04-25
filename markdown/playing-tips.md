@@ -29,7 +29,6 @@ header-includes: |
   </style>
 ---
 
-::: {#body}
 ::: {.contents}
 
 -   [Improve Graphic Performance With A Glide](#l932a905)
@@ -101,8 +100,7 @@ header-includes: |
 
 #### Which Glide Wrapper Do You Recommend? {#o5e0b55b}
 
--   This Glide Wrapper is recommended in Eastern Sun forum [Glide
-    Wrapper
+-   This Glide Wrapper is recommended in Eastern Sun forum [Glide Wrapper
     thread](https://web.archive.org/web/20201128175730/http://phrozenkeep.hugelaser.com/forum/viewtopic.php?t=47073).\
     [http://www.svenswrapper.de/english/downloads.html](https://web.archive.org/web/20201128175730/http://www.svenswrapper.de/english/downloads.html)\
     A slightly more detailed guide can be found in the E.S.
@@ -673,300 +671,56 @@ In theory a boss ore can contain 15 crystals at best, but 3 or 4 on
 average.
 
 ::: {.ie5}
-Crystal
+Crystal | Chipped | Normal | Mainly Dropped by | Area
+--|-|-|--|--
+Frozen Soul | ![b\_oval\_s.gif](../img/a_009.gif "b_oval_s.gif"){width="28" height="28"} | ![b\_oval\_l.gif](../img/a_018.gif "b_oval_l.gif"){width="28" height="28"} | Nihlathak | Nihlathak\'s Domain |
+|||| Fatalstorm | Nihlathak\'s Domain |
+|||| Factory Director | Moonshine Distillery |
+|||| Factory Director | Fake Note Factory |
+|||| Dark Planter | Poppy Farm |
+Shadow Quartz | ![violet\_s.gif](../img/a_011.gif "violet_s.gif"){width="28" height="28"} | ![violet\_l.gif](../img/a_027.gif "violet_l.gif"){width="28" height="28"} | Baal | Wordstone Chamber |
+|||| Baal\'s Bodydouble | Wordstone Chamber |
+|||| Lister the Tormentor | Throne of Destruction |
+|||| Lister the Revenger | Nihlathak\'s Domain |
+Bleeding Stone | ![red\_s.gif](../img/a_014.gif "red_s.gif"){width="28" height="28"} | ![red\_l.gif](../img/a_017.gif "red_l.gif"){width="28" height="28"} | Diablo | Chaos Sanctuary |
+|||| Diablo | Throne of Destruction |
+|||| Diablo Clone | Random Area |
+|||| King Leoric | Chaos Sanctuary |
+|||| Black Jade | Chaos Sanctuary |
+|||| Lachdanan | Chaos Sanctuary |
+Burning Sulphur | ![topa\_s.gif](../img/a_012.gif "topa_s.gif"){width="28" height="28"} | ![topa\_l.gif](../img/a_015.gif "topa_l.gif"){width="28" height="28"} | Mephisto | Durance of Hate Level 3 |
+|||| Mephisto | Throne of Destruction |
+|||| Knuckle Baller | Bill Roper Memorial Ballpark |
+|||| Named Councils | Durance of Hate Level 3 |
+Dark Azurite | ![blue\_s.gif](../img/a_019.gif "blue_s.gif"){width="28" height="28"} | ![blue\_l.gif](../img/a_029.gif "blue_l.gif"){width="28" height="28"} | Duriel | Duriel\'s Lair |
+|||| Duriel | Throne of Destruction |
+|||| Duriel | Marsh of Pain |
+Bitter Peridot | ![greens.gif](../img/a_028.gif "greens.gif"){width="28" height="28"} | ![greenl.gif](../img/a_022.gif "greenl.gif"){width="28" height="28"} | Andariel | Catacomb Level 4 |
+|||| Andariel | Throne of Destruction |
+|||| Andariel | Andariel\'s Dressing Room |
+Pulsing Opal | ![opa\_s.gif](../img/a_005.gif "opa_s.gif"){width="28" height="28"} | ![opa\_l.gif](../img/a_004.gif "opa_l.gif"){width="28" height="28"} | Reporb | Bill Roper Memorial Ballpark |
+|||| Hephasto the Armoror | River of Flame |
+|||| Dark Clone | Harpie\'s Nest Level 2 |
+Enigmatic Cinnabar | ![maga\_s.gif](../img/a_024.gif "maga_s.gif"){width="28" height="28"} | ![maga\_l.gif](../img/a_023.gif "maga_l.gif"){width="28" height="28"} | Magmajuggler | Nihlathak\'s Domain |
+|||| Summoner | Arcane Sanctuary |
+|||| Dark Magician | Dark Magicians Chamber Level 2 |
+Tomb Jade | ![g\_tear\_s.gif](../img/a_031.gif "g_tear_s.gif"){width="28" height="28"} | ![g\_tear\_l.gif](../img/a_006.gif "g_tear_l.gif"){width="28" height="28"} | Reziarfg | GFraizer Dome |
+||||Radament | Act 2 Sewer Level 2 |
+||||Sorrow Summoner | Harpie\'s Nest Level 1 & 2 |
+||||Chaos Summoner | Dark Magician\'s Chamber Level 1 |
+Solid Mercury | ![white\_s.gif](../img/a_020.gif "white_s.gif"){width="28" height="28"} | ![white\_l.gif](../img/a_008.gif "white_l.gif"){width="28" height="28"} | Metalspark | Nihlathak\'s Domain |
+||||Griswold | Tristram |
+||||Dark Clerk | Fake Note Factory |
+||||Dark Clerk | Poppy Farm |
+Storm Amber | ![orange\_s.gif](../img/a_032.gif "orange_s.gif"){width="28" height="28"} | ![orange\_l.gif](../img/a_002.gif "orange_l.gif"){width="28" height="28"} | Treant King | Naraku Level 1 |
+||||Treehead Woodfist | Dark Wood |
+||||Dark Crasher | Blood Raven\'s Workshop Level 1 |
+Tainted Tourmaline | ![tour\_s.gif](../img/a_010.gif "tour_s.gif"){width="28" height="28"} | ![tour\_l.gif](../img/a_033.gif "tour_l.gif"){width="28" height="28"} | Nikartana | Nihlathak\'s Domain |
+||||Battlemaid Sarina | Bookstore Sarina Level 2 |
+||||Sarina\'s Maiden | Bookstore Sarina Level 2 |
+||||Blood Raven | The Graveyard |
+||||Blood Raven | Blood Raven\'s Workshop Level 2 |
 :::
-
-Chipped
-
-Normal
-
-Mainly Dropped by
-
-Area
-
-Frozen Soul
-
-[![b\_oval\_s.gif](Playing%20Tips%20-%20Eastern%20Sun%20Wiki_tiedostot/a_009.gif "b_oval_s.gif"){width="28"
-height="28"}](https://web.archive.org/web/20201128175730/http://miyoshino.la.coocan.jp/eswiki/?plugin=attach&refer=WorkbenchForCrystals&openfile=b_oval_s.gif "b_oval_s.gif")
-
-[![b\_oval\_l.gif](Playing%20Tips%20-%20Eastern%20Sun%20Wiki_tiedostot/a_018.gif "b_oval_l.gif"){width="28"
-height="28"}](https://web.archive.org/web/20201128175730/http://miyoshino.la.coocan.jp/eswiki/?plugin=attach&refer=WorkbenchForCrystals&openfile=b_oval_l.gif "b_oval_l.gif")
-
-Nihlathak
-
-Nihlathak\'s Domain
-
-Fatalstorm
-
-Nihlathak\'s Domain
-
-Factory Director
-
-Moonshine Distillery
-
-Factory Director
-
-Fake Note Factory
-
-Dark Planter
-
-Poppy Farm
-
-Shadow Quartz
-
-[![violet\_s.gif](Playing%20Tips%20-%20Eastern%20Sun%20Wiki_tiedostot/a_011.gif "violet_s.gif"){width="28"
-height="28"}](https://web.archive.org/web/20201128175730/http://miyoshino.la.coocan.jp/eswiki/?plugin=attach&refer=WorkbenchForCrystals&openfile=violet_s.gif "violet_s.gif")
-
-[![violet\_l.gif](Playing%20Tips%20-%20Eastern%20Sun%20Wiki_tiedostot/a_027.gif "violet_l.gif"){width="28"
-height="28"}](https://web.archive.org/web/20201128175730/http://miyoshino.la.coocan.jp/eswiki/?plugin=attach&refer=WorkbenchForCrystals&openfile=violet_l.gif "violet_l.gif")
-
-Baal
-
-Wordstone Chamber
-
-Baal\'s Bodydouble
-
-Wordstone Chamber
-
-Lister the Tormentor
-
-Throne of Destruction
-
-Lister the Revenger
-
-Nihlathak\'s Domain
-
-Bleeding Stone
-
-[![red\_s.gif](Playing%20Tips%20-%20Eastern%20Sun%20Wiki_tiedostot/a_014.gif "red_s.gif"){width="28"
-height="28"}](https://web.archive.org/web/20201128175730/http://miyoshino.la.coocan.jp/eswiki/?plugin=attach&refer=WorkbenchForCrystals&openfile=red_s.gif "red_s.gif")
-
-[![red\_l.gif](Playing%20Tips%20-%20Eastern%20Sun%20Wiki_tiedostot/a_017.gif "red_l.gif"){width="28"
-height="28"}](https://web.archive.org/web/20201128175730/http://miyoshino.la.coocan.jp/eswiki/?plugin=attach&refer=WorkbenchForCrystals&openfile=red_l.gif "red_l.gif")
-
-Diablo
-
-Chaos Sanctuary
-
-Diablo
-
-Throne of Destruction
-
-Diablo Clone
-
-Random Area
-
-King Leoric
-
-Chaos Sanctuary
-
-Black Jade
-
-Chaos Sanctuary
-
-Lachdanan
-
-Chaos Sanctuary
-
-Burning Sulphur
-
-[![topa\_s.gif](Playing%20Tips%20-%20Eastern%20Sun%20Wiki_tiedostot/a_012.gif "topa_s.gif"){width="28"
-height="28"}](https://web.archive.org/web/20201128175730/http://miyoshino.la.coocan.jp/eswiki/?plugin=attach&refer=WorkbenchForCrystals&openfile=topa_s.gif "topa_s.gif")
-
-[![topa\_l.gif](Playing%20Tips%20-%20Eastern%20Sun%20Wiki_tiedostot/a_015.gif "topa_l.gif"){width="28"
-height="28"}](https://web.archive.org/web/20201128175730/http://miyoshino.la.coocan.jp/eswiki/?plugin=attach&refer=WorkbenchForCrystals&openfile=topa_l.gif "topa_l.gif")
-
-Mephisto
-
-Durance of Hate Level 3
-
-Mephisto
-
-Throne of Destruction
-
-Knuckle Baller
-
-Bill Roper Memorial Ballpark
-
-Named Councils
-
-Durance of Hate Level 3
-
-Dark Azurite
-
-[![blue\_s.gif](Playing%20Tips%20-%20Eastern%20Sun%20Wiki_tiedostot/a_019.gif "blue_s.gif"){width="28"
-height="28"}](https://web.archive.org/web/20201128175730/http://miyoshino.la.coocan.jp/eswiki/?plugin=attach&refer=WorkbenchForCrystals&openfile=blue_s.gif "blue_s.gif")
-
-[![blue\_l.gif](Playing%20Tips%20-%20Eastern%20Sun%20Wiki_tiedostot/a_029.gif "blue_l.gif"){width="28"
-height="28"}](https://web.archive.org/web/20201128175730/http://miyoshino.la.coocan.jp/eswiki/?plugin=attach&refer=WorkbenchForCrystals&openfile=blue_l.gif "blue_l.gif")
-
-Duriel
-
-Duriel\'s Lair
-
-Duriel
-
-Throne of Destruction
-
-Duriel
-
-Marsh of Pain
-
-Bitter Peridot
-
-[![greens.gif](Playing%20Tips%20-%20Eastern%20Sun%20Wiki_tiedostot/a_028.gif "greens.gif"){width="28"
-height="28"}](https://web.archive.org/web/20201128175730/http://miyoshino.la.coocan.jp/eswiki/?plugin=attach&refer=WorkbenchForCrystals&openfile=greens.gif "greens.gif")
-
-[![greenl.gif](Playing%20Tips%20-%20Eastern%20Sun%20Wiki_tiedostot/a_022.gif "greenl.gif"){width="28"
-height="28"}](https://web.archive.org/web/20201128175730/http://miyoshino.la.coocan.jp/eswiki/?plugin=attach&refer=WorkbenchForCrystals&openfile=greenl.gif "greenl.gif")
-
-Andariel
-
-Catacomb Level 4
-
-Andariel
-
-Throne of Destruction
-
-Andariel
-
-Andariel\'s Dressing Room
-
-Pulsing Opal
-
-[![opa\_s.gif](Playing%20Tips%20-%20Eastern%20Sun%20Wiki_tiedostot/a_005.gif "opa_s.gif"){width="28"
-height="28"}](https://web.archive.org/web/20201128175730/http://miyoshino.la.coocan.jp/eswiki/?plugin=attach&refer=WorkbenchForCrystals&openfile=opa_s.gif "opa_s.gif")
-
-[![opa\_l.gif](Playing%20Tips%20-%20Eastern%20Sun%20Wiki_tiedostot/a_004.gif "opa_l.gif"){width="28"
-height="28"}](https://web.archive.org/web/20201128175730/http://miyoshino.la.coocan.jp/eswiki/?plugin=attach&refer=WorkbenchForCrystals&openfile=opa_l.gif "opa_l.gif")
-
-Reporb
-
-Bill Roper Memorial Ballpark
-
-Hephasto the Armoror
-
-River of Flame
-
-Dark Clone
-
-Harpie\'s Nest Level 2
-
-Enigmatic Cinnabar
-
-[![maga\_s.gif](Playing%20Tips%20-%20Eastern%20Sun%20Wiki_tiedostot/a_024.gif "maga_s.gif"){width="28"
-height="28"}](https://web.archive.org/web/20201128175730/http://miyoshino.la.coocan.jp/eswiki/?plugin=attach&refer=WorkbenchForCrystals&openfile=maga_s.gif "maga_s.gif")
-
-[![maga\_l.gif](Playing%20Tips%20-%20Eastern%20Sun%20Wiki_tiedostot/a_023.gif "maga_l.gif"){width="28"
-height="28"}](https://web.archive.org/web/20201128175730/http://miyoshino.la.coocan.jp/eswiki/?plugin=attach&refer=WorkbenchForCrystals&openfile=maga_l.gif "maga_l.gif")
-
-Magmajuggler
-
-Nihlathak\'s Domain
-
-Summoner
-
-Arcane Sanctuary
-
-Dark Magician
-
-Dark Magicians Chamber Level 2
-
-Tomb Jade
-
-[![g\_tear\_s.gif](Playing%20Tips%20-%20Eastern%20Sun%20Wiki_tiedostot/a_031.gif "g_tear_s.gif"){width="28"
-height="28"}](https://web.archive.org/web/20201128175730/http://miyoshino.la.coocan.jp/eswiki/?plugin=attach&refer=WorkbenchForCrystals&openfile=g_tear_s.gif "g_tear_s.gif")
-
-[![g\_tear\_l.gif](Playing%20Tips%20-%20Eastern%20Sun%20Wiki_tiedostot/a_006.gif "g_tear_l.gif"){width="28"
-height="28"}](https://web.archive.org/web/20201128175730/http://miyoshino.la.coocan.jp/eswiki/?plugin=attach&refer=WorkbenchForCrystals&openfile=g_tear_l.gif "g_tear_l.gif")
-
-Reziarfg
-
-GFraizer Dome
-
-Radament
-
-Act 2 Sewer Level 2
-
-Sorrow Summoner
-
-Harpie\'s Nest Level 1 & 2
-
-Chaos Summoner
-
-Dark Magician\'s Chamber Level 1
-
-Solid Mercury
-
-[![white\_s.gif](Playing%20Tips%20-%20Eastern%20Sun%20Wiki_tiedostot/a_020.gif "white_s.gif"){width="28"
-height="28"}](https://web.archive.org/web/20201128175730/http://miyoshino.la.coocan.jp/eswiki/?plugin=attach&refer=WorkbenchForCrystals&openfile=white_s.gif "white_s.gif")
-
-[![white\_l.gif](Playing%20Tips%20-%20Eastern%20Sun%20Wiki_tiedostot/a_008.gif "white_l.gif"){width="28"
-height="28"}](https://web.archive.org/web/20201128175730/http://miyoshino.la.coocan.jp/eswiki/?plugin=attach&refer=WorkbenchForCrystals&openfile=white_l.gif "white_l.gif")
-
-Metalspark
-
-Nihlathak\'s Domain
-
-Griswold
-
-Tristram
-
-Dark Clerk
-
-Fake Note Factory
-
-Dark Clerk
-
-Poppy Farm
-
-Storm Amber
-
-[![orange\_s.gif](Playing%20Tips%20-%20Eastern%20Sun%20Wiki_tiedostot/a_032.gif "orange_s.gif"){width="28"
-height="28"}](https://web.archive.org/web/20201128175730/http://miyoshino.la.coocan.jp/eswiki/?plugin=attach&refer=WorkbenchForCrystals&openfile=orange_s.gif "orange_s.gif")
-
-[![orange\_l.gif](Playing%20Tips%20-%20Eastern%20Sun%20Wiki_tiedostot/a_002.gif "orange_l.gif"){width="28"
-height="28"}](https://web.archive.org/web/20201128175730/http://miyoshino.la.coocan.jp/eswiki/?plugin=attach&refer=WorkbenchForCrystals&openfile=orange_l.gif "orange_l.gif")
-
-Treant King
-
-Naraku Level 1
-
-Treehead Woodfist
-
-Dark Wood
-
-Dark Crasher
-
-Blood Raven\'s Workshop Level 1
-
-Tainted Tourmaline
-
-[![tour\_s.gif](Playing%20Tips%20-%20Eastern%20Sun%20Wiki_tiedostot/a_010.gif "tour_s.gif"){width="28"
-height="28"}](https://web.archive.org/web/20201128175730/http://miyoshino.la.coocan.jp/eswiki/?plugin=attach&refer=WorkbenchForCrystals&openfile=tour_s.gif "tour_s.gif")
-
-[![tour\_l.gif](Playing%20Tips%20-%20Eastern%20Sun%20Wiki_tiedostot/a_033.gif "tour_l.gif"){width="28"
-height="28"}](https://web.archive.org/web/20201128175730/http://miyoshino.la.coocan.jp/eswiki/?plugin=attach&refer=WorkbenchForCrystals&openfile=tour_l.gif "tour_l.gif")
-
-Nikartana
-
-Nihlathak\'s Domain
-
-Battlemaid Sarina
-
-Bookstore Sarina Level 2
-
-Sarina\'s Maiden
-
-Bookstore Sarina Level 2
-
-Blood Raven
-
-The Graveyard
-
-Blood Raven
-
-Blood Raven\'s Workshop Level 2
 
 Crystals can be stored in Crystal Can which can be bought at Gheed:
 
@@ -983,33 +737,15 @@ Uber Organs are only used in [tinkering
 recipes](https://web.archive.org/web/20201128175730/http://homepage3.nifty.com/miyoshino/es/es3cube_n.htm#tin):
 
 ::: {.ie5}
-Uber Organs
+Uber Organs               Recipe
+---------------           ---------------
+Griswold\'s Hand          Crystal Can (output: Solid Mercury) + Key -\> Griswold\'s Hand (-10Solid Mercury pts)
+Treehead Woodfist\'s Arm  Crystal Can (output: Storm Amber) + Key -\> Treehead Woodfist\'s Arm (-10 Storm Amber pts)
+Radament\'s Head          Crystal Can (output: Tomb Jade) + Key -\> Radament\'s Head (-10 Tomb Jade pts)
+Hephasto\'s Hand          Crystal Can (output: Pulsing Opal) + Key -\> Hephasto\'s Hand (-10 Pulsing Opal pts)
 :::
 
-Recipe
-
-Griswold\'s Hand
-
-Crystal Can (output: Solid Mercury) + Key -\> Griswold\'s Hand (-10
-Solid Mercury pts)
-
-Treehead Woodfist\'s Arm
-
-Crystal Can (output: Storm Amber) + Key -\> Treehead Woodfist\'s Arm
-(-10 Storm Amber pts)
-
-Radament\'s Head
-
-Crystal Can (output: Tomb Jade) + Key -\> Radament\'s Head (-10 Tomb
-Jade pts)
-
-Hephasto\'s Hand
-
-Crystal Can (output: Pulsing Opal) + Key -\> Hephasto\'s Hand (-10
-Pulsing Opal pts)
-
-
-#### Kanji Runes []{#kanji_runes .anchor} {#o6232ff2 "o6232ff2"){#o6232ff2 .anchor_super} {#content_1_26}
+#### Kanji Runes {#kanji_runes .anchor} {#o6232ff2}
 
 -   ~~2 Wo Runes -\> Null Rune~~ Wo Rune + FullRejuv Potion -\> Null
     Rune (R5G and later)
@@ -1024,145 +760,24 @@ Pulsing Opal pts)
 -   Kanji Runes can\'t be upgraded or downgraded.
 
 ::: {.ie5}
-Rune Name
+Rune Name | Image | Bonus | Recipe
+----|--|----|------
+Moon | ![k1.gif](../img/a_037.gif "k1.gif"){width="28" height="28"} | +1 To Assassin Skill Levels | Null Rune + 2 Frozen Souls
+Fire | ![k2.gif](../img/a_013.gif "k2.gif"){width="28" height="28"} | +12% To Fire Skill Damage | Null Rune + 2 Bleeding Stones
+Water | ![k3.gif](../img/a_034.gif "k3.gif"){width="28" height="28"} | +12% To Cold Skill Damage | Null Rune + 2 Dark Azurites
+Wood | ![k4.gif](../img/a_038.gif "k4.gif"){width="28" height="28"} | +1 To Amazon Skill Levels | Null Rune + 2 Tomb Jades
+Metal | ![k5.gif](../img/a_003.gif "k5.gif"){width="28" height="28"} | +1 To Barbarian Skill Levels | Null Rune + 2 Solid Mercuries
+Earth | ![k6.gif](../img/a_030.gif "k6.gif"){width="28 height="28"} | +12% To Poison Skill Damage | Null Rune + 2 Bitter Peridots
+Sun | ![k7.gif](../img/a_016.gif "k7.gif"){width="28" height="28"} | +1 To Paladin Skill Levels | Null Rune + 2 Enigmatic Cinnabars
+Thunder | ![k8.gif](../img/a_025.gif "k8.gif"){width="28" height="28"} | +12% To Lightning Skill Damage | Null Rune + 2 Burning Surphurs
+Wind | ![k9.gif](../img/a_035.gif "k9.gif"){width="28" height="28"} | +1 To Sorceress Skill Levels | Null Rune + 2 Tainted Tourmarines
+Dragon | ![k10.gif](../img/a_026.gif "k10.gif"){width="28" height="28"} | +65% Enhanced Damage | Null Rune + 2 Storm Ambers
+Life | ![k11.gif](../img/a_036.gif "k11.gif"){width="28" height="28"} | +1 To Druid Skill Levels | Null Rune + 2 Pulsing Opals
+Death | ![k12.gif](../img/a.gif "k12.gif"){width="28" height="28"} | +1 To Necromancer Skill Levels | Null Rune + 2 Shadow Quartz
+Heaven | ![k13.gif](../img/a_021.gif "k13.gif"){width="28" height="28"} | +1 To All Skill Levels | Null Rune + Bleeding Stone\ + Dark Azurite + Bitter Peridot\ + Tainted Tourmarine
+God | ![k14.gif](../img/a_007.gif "k14.gif"){width="28" height="28"} | +2% To Experience Gained | Null Rune + Frozen Soul\ + Enigmatic Cinnabar + Pulsing Opal\ + Shadow Quartz
+
 :::
-
-Image
-
-Bonus
-
-Recipe
-
-Moon
-
-[![k1.gif](Playing%20Tips%20-%20Eastern%20Sun%20Wiki_tiedostot/a_037.gif "k1.gif"){width="28"
-height="28"}](https://web.archive.org/web/20201128175730/http://miyoshino.la.coocan.jp/eswiki/?plugin=attach&refer=ChangesInR5&openfile=k1.gif "k1.gif")
-
-+1 To Assassin Skill Levels
-
-Null Rune + 2 Frozen Souls
-
-Fire
-
-[![k2.gif](Playing%20Tips%20-%20Eastern%20Sun%20Wiki_tiedostot/a_013.gif "k2.gif"){width="28"
-height="28"}](https://web.archive.org/web/20201128175730/http://miyoshino.la.coocan.jp/eswiki/?plugin=attach&refer=ChangesInR5&openfile=k2.gif "k2.gif")
-
-+12% To Fire Skill Damage
-
-Null Rune + 2 Bleeding Stones
-
-Water
-
-[![k3.gif](Playing%20Tips%20-%20Eastern%20Sun%20Wiki_tiedostot/a_034.gif "k3.gif"){width="28"
-height="28"}](https://web.archive.org/web/20201128175730/http://miyoshino.la.coocan.jp/eswiki/?plugin=attach&refer=ChangesInR5&openfile=k3.gif "k3.gif")
-
-+12% To Cold Skill Damage
-
-Null Rune + 2 Dark Azurites
-
-Wood
-
-[![k4.gif](Playing%20Tips%20-%20Eastern%20Sun%20Wiki_tiedostot/a_038.gif "k4.gif"){width="28"
-height="28"}](https://web.archive.org/web/20201128175730/http://miyoshino.la.coocan.jp/eswiki/?plugin=attach&refer=ChangesInR5&openfile=k4.gif "k4.gif")
-
-+1 To Amazon Skill Levels
-
-Null Rune + 2 Tomb Jades
-
-Metal
-
-[![k5.gif](Playing%20Tips%20-%20Eastern%20Sun%20Wiki_tiedostot/a_003.gif "k5.gif"){width="28"
-height="28"}](https://web.archive.org/web/20201128175730/http://miyoshino.la.coocan.jp/eswiki/?plugin=attach&refer=ChangesInR5&openfile=k5.gif "k5.gif")
-
-+1 To Barbarian Skill Levels
-
-Null Rune + 2 Solid Mercuries
-
-Earth
-
-[![k6.gif](Playing%20Tips%20-%20Eastern%20Sun%20Wiki_tiedostot/a_030.gif "k6.gif"){width="28"
-height="28"}](https://web.archive.org/web/20201128175730/http://miyoshino.la.coocan.jp/eswiki/?plugin=attach&refer=ChangesInR5&openfile=k6.gif "k6.gif")
-
-+12% To Poison Skill Damage
-
-Null Rune + 2 Bitter Peridots
-
-Sun
-
-[![k7.gif](Playing%20Tips%20-%20Eastern%20Sun%20Wiki_tiedostot/a_016.gif "k7.gif"){width="28"
-height="28"}](https://web.archive.org/web/20201128175730/http://miyoshino.la.coocan.jp/eswiki/?plugin=attach&refer=ChangesInR5&openfile=k7.gif "k7.gif")
-
-+1 To Paladin Skill Levels
-
-Null Rune + 2 Enigmatic Cinnabars
-
-Thunder
-
-[![k8.gif](Playing%20Tips%20-%20Eastern%20Sun%20Wiki_tiedostot/a_025.gif "k8.gif"){width="28"
-height="28"}](https://web.archive.org/web/20201128175730/http://miyoshino.la.coocan.jp/eswiki/?plugin=attach&refer=ChangesInR5&openfile=k8.gif "k8.gif")
-
-+12% To Lightning Skill Damage
-
-Null Rune + 2 Burning Surphurs
-
-Wind
-
-[![k9.gif](Playing%20Tips%20-%20Eastern%20Sun%20Wiki_tiedostot/a_035.gif "k9.gif"){width="28"
-height="28"}](https://web.archive.org/web/20201128175730/http://miyoshino.la.coocan.jp/eswiki/?plugin=attach&refer=ChangesInR5&openfile=k9.gif "k9.gif")
-
-+1 To Sorceress Skill Levels
-
-Null Rune + 2 Tainted Tourmarines
-
-Dragon
-
-[![k10.gif](Playing%20Tips%20-%20Eastern%20Sun%20Wiki_tiedostot/a_026.gif "k10.gif"){width="28"
-height="28"}](https://web.archive.org/web/20201128175730/http://miyoshino.la.coocan.jp/eswiki/?plugin=attach&refer=ChangesInR5&openfile=k10.gif "k10.gif")
-
-+65% Enhanced Damage
-
-Null Rune + 2 Storm Ambers
-
-Life
-
-[![k11.gif](Playing%20Tips%20-%20Eastern%20Sun%20Wiki_tiedostot/a_036.gif "k11.gif"){width="28"
-height="28"}](https://web.archive.org/web/20201128175730/http://miyoshino.la.coocan.jp/eswiki/?plugin=attach&refer=ChangesInR5&openfile=k11.gif "k11.gif")
-
-+1 To Druid Skill Levels
-
-Null Rune + 2 Pulsing Opals
-
-Death
-
-[![k12.gif](Playing%20Tips%20-%20Eastern%20Sun%20Wiki_tiedostot/a.gif "k12.gif"){width="28"
-height="28"}](https://web.archive.org/web/20201128175730/http://miyoshino.la.coocan.jp/eswiki/?plugin=attach&refer=ChangesInR5&openfile=k12.gif "k12.gif")
-
-+1 To Necromancer Skill Levels
-
-Null Rune + 2 Shadow Quartz
-
-Heaven
-
-[![k13.gif](Playing%20Tips%20-%20Eastern%20Sun%20Wiki_tiedostot/a_021.gif "k13.gif"){width="28"
-height="28"}](https://web.archive.org/web/20201128175730/http://miyoshino.la.coocan.jp/eswiki/?plugin=attach&refer=ChangesInR5&openfile=k13.gif "k13.gif")
-
-+1 To All Skill Levels
-
-Null Rune + Bleeding Stone\
-+ Dark Azurite + Bitter Peridot\
-+ Tainted Tourmarine
-
-God
-
-[![k14.gif](Playing%20Tips%20-%20Eastern%20Sun%20Wiki_tiedostot/a_007.gif "k14.gif"){width="28"
-height="28"}](https://web.archive.org/web/20201128175730/http://miyoshino.la.coocan.jp/eswiki/?plugin=attach&refer=ChangesInR5&openfile=k14.gif "k14.gif")
-
-+2% To Experience Gained
-
-Null Rune + Frozen Soul\
-+ Enigmatic Cinnabar + Pulsing Opal\
-+ Shadow Quartz
-
 
 ### Gambling {#l522632d}
 
@@ -2625,215 +2240,49 @@ Good starting gear, use with Boots
     beyond 100%, but it works once other skills break the immunity.
 
 ::: {.ie5}
-Skill
+Skill          |Type   |ResDm|ResFi|ResCo|ResLi|ResPo|ResMa
+---------------|-------|-----|-----|-----|-----|-----|-----
+Amplify Damage | Curse | -80 |     |     |     |     |
+Weaken         | Curse | -60 |     |     |     |     |
+Iron Maiden    | Curse | -60 |     |     |     |     |
+Decrepify      | Curse | -60 |     |     |     |     |
+Inner Sight    |Ama Spell| -(0-35) ||    |     |     |
+Conviction     | Aura  | | -(32-110) | -(32-110) |-(32-110) | |
+Lower Resist   | Curse | | -(30-90) | -(30-90) | -(30-90) | \* | \*
+Pierce Poison & Bones | Curse | |  |     |     | -(30-150) | -(30-150)
+Pierce Poison & Bones (Oskill) | Curse | | | | | -(30-90) | -(30-90)
+Ancient\'s Call|Warcry (=Curse)| |-(20-100)|-(20-100)|-(20-100)|-(20-100)|-(20-100)
 :::
-
-Type
-
-ResDm
-
-ResFi
-
-ResCo
-
-ResLi
-
-ResPo
-
-ResMa
-
-Amplify Damage
-
-Curse
-
--80
-
-Weaken
-
-Curse
-
--60
-
-Iron Maiden
-
-Curse
-
--60
-
-Decrepify
-
-Curse
-
--60
-
-Inner Sight
-
-Ama Spell
-
--(0-35)
-
-Conviction
-
-Aura
-
--(32-110)
-
--(32-110)
-
--(32-110)
-
-Lower Resist
-
-Curse
-
--(30-90)
-
--(30-90)
-
--(30-90)
-
-\*
-
-\*
-
-Pierce Poison & Bones
-
-Curse
-
--(30-150)
-
--(30-150)
-
-Pierce Poison & Bones\
-(Oskill)
-
-Curse
-
--(30-90)
-
--(30-90)
-
-Ancient\'s Call
-
-Warcry\
-(=Curse)
-
--(20-100)
-
--(20-100)
-
--(20-100)
-
--(20-100)
-
--(20-100)
-
 -   Lower Resist can reduce Magic and Poison Resist by the synergy from
     Pierce Poison & Bones.
 -   Unique bosses are spawned with random mods, some of them give extra
     resistances and make them invulnerable immune.
 
 ::: {.ie5}
-Boss mod
+Boss mod | ResDm | ResFi | ResCo | ResLi | ResMa
+---------|--|--|--|--|--
+Stone Skin |+80||||
+Fire Enchanted || +75 |||
+Cold Enchanted ||| +75 ||
+Lightning Enchanted |||| +75 |
+Magic Resistant || +40 | +40 | +40 |
+Spectral Hit | | +20 | +20 | +20 |
+Mana Burn | | | | | +75
 :::
-
-ResDm
-
-ResFi
-
-ResCo
-
-ResLi
-
-ResMa
-
-Stone Skin
-
-+80
-
-Fire Enchanted
-
-+75
-
-Cold Enchanted
-
-+75
-
-Lightning Enchanted
-
-+75
-
-Magic Resistant
-
-+40
-
-+40
-
-+40
-
-Spectral Hit
-
-+20
-
-+20
-
-+20
-
-Mana Burn
-
-+75
-
 
 ### Caps for Resist, DR%, etc. {#m4507181}
 
 ::: {.ie5}
-Mod
+Mod | Cap | Remarks
+------|-|-
+Damage Reduced by XX% (Physical Resist) | 50% | 1
+Damage Reduced by XX | none | 2
+F/C/L/P Resist | 75% | 3
+Magic Resist | 75% | 4
+F/C/L Absorb% | 40% | 5
+F/C/L Absorb | none |
+Magic Reduced by XX | none | 6
 :::
-
-Cap
-
-Remarks
-
-Damage Reduced by XX%\
-(Physical Resist)
-
-50%
-
-1
-
-Damage Reduced by XX
-
-none
-
-2
-
-F/C/L/P Resist
-
-75%
-
-3
-
-Magic Resist
-
-75%
-
-4
-
-F/C/L Absorb%
-
-40%
-
-5
-
-F/C/L Absorb
-
-none
-
-Magic Reduced by XX
-
-none
-
-6
 
 1.  More DR% than 50% still has a meaning when cursed. (Amplify Damage
     increases damage by 80%, So 130% DR grants 50% DR when Amp\'ed.)
