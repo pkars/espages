@@ -189,15 +189,15 @@ Dark Hunter  3       Fast     Skeleton           3
     with a key. Nothing is destroyed, you get your gems, jewels, or
     runes back, as well as the item they were in.
 -   **Gemwords/Runewords**: Everyone can benefit from
-    [gemwords](https://web.archive.org/web/20201128175730/http://homepage3.nifty.com/miyoshino/es/es3gemw_n.htm)
+    [gemwords](http://esdb.d2se.org/es3gemw_n.htm)
     early on. If you fill all the sockets in a white item with the same
     type and quality of gem, you\'ll get a CtC skill as well as the
     listed bonuses. Many useful low level
-    [runewords](https://web.archive.org/web/20201128175730/http://homepage3.nifty.com/miyoshino/es/es3runew_n.htm)
+    [runewords](http://esdb.d2se.org/es3runew_n.htm)
     are also available.
 -   **Buying Gems**: Wish you had more gems of a certain type? You can
     buy more from Akara, or make a pgem using [Secret Recipie
-    \#14](https://web.archive.org/web/20201128175730/http://homepage3.nifty.com/miyoshino/es/es3cube_n.htm#sec).
+    \#14](http://esdb.d2se.org/es3cube_n.htm#sec).
 -   **Socket Weapons/Armor**: Following list shows the maximum socket
     numbers of the items available in normal Act 1. Because socketables
     are so powerful and flexible, it\'s a good idea to stock one or two
@@ -214,23 +214,23 @@ Body Armor      3          Belts          2
 Shields         3          Boots          2
 :::
 -   **3 Socket Helms**: If you need more sockets, the [3 socket Mask,
-    etc.](https://web.archive.org/web/20201128175730/http://homepage3.nifty.com/miyoshino/es/es3cube_n.htm#nor)
+    etc.](http://esdb.d2se.org/es3cube_n.htm#nor)
     from Decipherers may be worth cubing. These are the only 3 socket
     helms available early on.
 -   **Sash/Light Belt Upgrade**: Any Sashes and Light Belts can be
     [upgraded to a
-    Belt](https://web.archive.org/web/20201128175730/http://homepage3.nifty.com/miyoshino/es/es3cube_n.htm#bas)
+    Belt](http://esdb.d2se.org/es3cube_n.htm#bas)
     by cubing with a Stamina Pot.
 -   **Gambling**: Gambling is much better in ES than in vanilla, you
     have a 5% chance each of getting a set or unique item. That means
     you have a 1:20 chance of finding each\...about 1 in 10 items you
     gamble will be either a unique or a set item. You can check out the
-    [set](https://web.archive.org/web/20201128175730/http://homepage3.nifty.com/miyoshino/es/es3set_n.htm)
+    [set](http://esdb.d2se.org/es3set_n.htm)
     or unique
-    [weapons](https://web.archive.org/web/20201128175730/http://homepage3.nifty.com/miyoshino/es/es3uweap_n.htm)/[armor](https://web.archive.org/web/20201128175730/http://homepage3.nifty.com/miyoshino/es/es3uarmo_n.htm),
+    [weapons](http://esdb.d2se.org/es3uweap_n.htm)/[armor](http://esdb.d2se.org/es3uarmo_n.htm),
     and get one that looks nice.
 -   **Set Item Conversion**: Some Set Items can be
-    [converted](https://web.archive.org/web/20201128175730/http://homepage3.nifty.com/miyoshino/es/es3cube_n.htm#set)
+    [converted](http://esdb.d2se.org/es3cube_n.htm#set)
     into a piece of another set or another base item by cubing with a
     Thawing Pot.
 -   **Starter\'s Weapons**: Need a good weapon for getting started? With
@@ -240,7 +240,7 @@ Shields         3          Boots          2
     trees, and either 100% enhanced damage with 15-20% IAS (for
     ranged/melee weapons), or +1 to class skills, +20-40 mana, and +4-6
     mana per kill (for caster weapons) using the [Starter\'s
-    Weapon](https://web.archive.org/web/20201128175730/http://homepage3.nifty.com/miyoshino/es/es3cube_n.htm#mag)
+    Weapon](http://esdb.d2se.org/es3cube_n.htm#mag)
     recipes. You can also get a prefix and a suffix, if you get a good
     one, that recipie can produce an excellent item.
 -   **Skill Tab Rings/Amulets**: You can also boost your skill levels by
@@ -252,7 +252,7 @@ Shields         3          Boots          2
     it uses class-only jewelry, there\'s also a chance you could get
     +1-3 to your favorite skill. The exact recipies can be found on the
     ES database, in the
-    [ring/amulet](https://web.archive.org/web/20201128175730/http://homepage3.nifty.com/miyoshino/es/es3cube_n.htm#rin)
+    [ring/amulet](http://esdb.d2se.org/es3cube_n.htm#rin)
     section. Scroll down until you see \"Skill Tab Re-roll\".
 
 
@@ -294,7 +294,7 @@ Shields         3          Boots          2
 -   Make sure to identify all the Ancient Scrolls you find by cubing
     them with Ancient Decipherers\...low numbered Ancient Scrolls are
     easy to find in Act 1, and several of the [Secret
-    Recipies](https://web.archive.org/web/20201128175730/http://homepage3.nifty.com/miyoshino/es/es3cube_n.htm#sec)
+    Recipies](http://esdb.d2se.org/es3cube_n.htm#sec)
     they contain will allow you to make things that are very valuable
     early on:
     -   Ancient Scroll \#4 allows you to make normal (but not
@@ -327,7 +327,7 @@ Shields         3          Boots          2
     transmuting organs in your cube: it takes six hearts or souls, or
     two of any other organ to make an Ancient Decipherer. You may prefer
     to save most organs for
-    [tinkering](https://web.archive.org/web/20201128175730/http://homepage3.nifty.com/miyoshino/es/es3cube_n.htm#tin),
+    [tinkering](http://esdb.d2se.org/es3cube_n.htm#tin),
     but if you aren\'t interested in the tinkering mod given by a
     certain organ, turn your extras into decipherers. Unwanted
     unique/set items (armor/weapons) can also be turned into decipherer
@@ -416,11 +416,11 @@ Hell, mainly how to enhance your equipments.
     shield or belt for the resistance. If your character uses a two
     handed weapon, the belt is the only and precious slot. The Torso
     Armor also uses Shield Gem type so it is also useful to get resists.
--   **[Forging](https://web.archive.org/web/20201128175730/http://homepage3.nifty.com/miyoshino/es/es3cube_n.htm#for):**
+-   **[Forging](http://esdb.d2se.org/es3cube_n.htm#for):**
     Forgings are now \"removable\", too. One forging grants 16% All
     Resistance. But you may like to spend forgings for the skill bonus
     or max life.
--   **[D-Stoning](https://web.archive.org/web/20201128175730/http://homepage3.nifty.com/miyoshino/es/es3cube_n.htm#dst):**
+-   **[D-Stoning](http://esdb.d2se.org/es3cube_n.htm#dst):**
     While all resist charms are very difficult to get, it\'s quite handy
     to D-stone all resists which only requires a D-Stone for 4% all
     resists. On the other hand, it may not a good idea to D-Stone
@@ -734,7 +734,7 @@ Crystals can be stored in Crystal Can which can be bought at Gheed:
 #### Uber Organs {#mc05cb2d}
 
 Uber Organs are only used in [tinkering
-recipes](https://web.archive.org/web/20201128175730/http://homepage3.nifty.com/miyoshino/es/es3cube_n.htm#tin):
+recipes](http://esdb.d2se.org/es3cube_n.htm#tin):
 
 ::: {.ie5}
 Uber Organs               Recipe
