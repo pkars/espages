@@ -265,8 +265,6 @@ Shields         3          Boots          2
     Necromancer or Sorceress, look through Akara\'s inventory of items
     for sale\...you might find something nice that you can afford.
 
-<!-- -->
-
 -   Also keep your eye out for throwing potions. Rancid Gas and Oil
     Potions are worth the most. A full stack (500) can sell for 10\'000
     in Normal, and almost twice that in nightmare. A quick tip: don\'t
@@ -278,13 +276,9 @@ Shields         3          Boots          2
     Normal but you\'ve made it to Nightmare, save your Oil Potions and
     Rancid Gas and sell them when you go back to Nightmare.
 
-<!-- -->
-
 -   [SELL 2 D-STONES FOR 121,500 GOLD]{.underline}. Here\'s how; 1) Get
     2 DStones 2) Get Secret Scroll\#14 3) Make PGem 4) Use Gem Can to
     Downgrade to 9 Flawless 5) Sell for 13,500 gold each. \[logger120\]
-
-<!-- -->
 
 -   Remember you can convert a spare Ancient Scroll into a D-Stone (with
     a key), so a Scroll is worth 60,750 gold.\[logger120\]
@@ -307,8 +301,6 @@ Shields         3          Boots          2
         Can](https://web.archive.org/web/20201128175730/http://miyoshino.la.coocan.jp/eswiki/?Glossary#gem_can "Glossary (10d)"),
         or use for crafting recipies)
 
-<!-- -->
-
 -   If you get more than one of the same scroll, you can either try to
     get a scroll you don\'t have, by trasmuting two extra scrolls into a
     new scroll (two scrolls in the range 1-25 give outputs in the range
@@ -316,8 +308,6 @@ Shields         3          Boots          2
     can turn your extra scroll into a
     [D-Stone](https://web.archive.org/web/20201128175730/http://miyoshino.la.coocan.jp/eswiki/?Glossary#dragon_stone "Glossary (10d)"),
     by transmuting it with a key.
-
-<!-- -->
 
 -   Wish you had more decipherers for all those nice crafting recipies,
     or to identify your Ancient Scrolls? You can split a D-Stone into 8
@@ -332,8 +322,6 @@ Shields         3          Boots          2
     certain organ, turn your extras into decipherers. Unwanted
     unique/set items (armor/weapons) can also be turned into decipherer
     points by cubing with a Multi Stocker.
-
-<!-- -->
 
 -   Wish you had more Dragon Stones? Once you make it to Act II, you can
     pick up as many as you need by doing [HoD
@@ -438,9 +426,6 @@ Hell, mainly how to enhance your equipments.
     power, defense, damage reduction, elemental absorbs, etc.). You may
     like to replace some life enhancement with other offensive
     enhancements later.
-
-<!-- -->
-
 -   Example (Level 70 melee Amazon)
     -   Vitality: 280
     -   Base Life: 1087
@@ -518,10 +503,9 @@ Hell, mainly how to enhance your equipments.
 
 #### Cannot Be Frozen {#ee3b0207}
 
--   If you have no CBF on equipments, find a Fu rune or better in NM Cow
-    and downgrade it to Fu.
--   If you can prepare 2 Fu runes, forge it onto some equipment to get
-    CBF.
+-   If you have no CBF on equipments, find a Fu rune or better in NM Cow and downgrade it to Fu.
+-   If you can prepare 2 Fu runes, forge it onto some equipment to get CBF.
+
 
 #### Damage Reduction% {#xffed21d}
 
@@ -550,19 +534,15 @@ Hell, mainly how to enhance your equipments.
 
 #### Runes and Ancient Decals {#lcc0dd52}
 
-Monsters drop Ancient Decals in the same way as they drop Runes. The
-reward of Hellforge Quest isn\'t a monster drop and never drops Ancient
-Decals. But all other monsters can drop both Runes and Ancient Decals.
-In following sentences, the word \"Runes\" includes \"Ancient Decals\"\
-Runes aren\'t magic items, so Magic Find doesn\'t increase [or
-reduce]{.underline} the chance of their drop.\
-More players in the game increases all drops including runes. As an
-exception, Countess\' special rune drop isn\'t affected by the number of
-players.\
-Of course more monsters drop more runes, so crowded areas like Cow Level
-and Lost Farm are good place to find runes.\
-Belhifeits and Cyclopes drop runes instead of their organ (roughly 1/60
-chance), in addition to the ordinary rune drop.
+Monsters drop Ancient Decals in the same way as they drop Runes.
+The reward of Hellforge Quest isn\'t a monster drop and never drops Ancient Decals.
+But all other monsters can drop both Runes and Ancient Decals.
+In following sentences, the word \"Runes\" includes \"Ancient Decals\".
+Runes aren\'t magic items, so Magic Find doesn\'t increase [or reduce]{.underline} the chance of their drop.
+More players in the game increases all drops including runes.
+As an exception, Countess\' special rune drop isn\'t affected by the number of players.
+Of course more monsters drop more runes, so crowded areas like Cow Level and Lost Farm are good place to find runes.
+Belhifeits and Cyclopes drop runes instead of their organ (roughly 1/60 chance), in addition to the ordinary rune drop.
 
 -   Hellforge Quest
 
@@ -587,16 +567,14 @@ Hell       [I]{.gray} to [Re]{.gold}   [El]{.gray} to [Ber]{.gray}
 
 #### Ancient Scrolls {#s80f76a8}
 
-Ancient Scrolls aren\'t magic items and Magic Find doesn\'t work,
-either. Only more players can increase the chance of their drop.\
-Izual drops an Ancient Scroll instead of his organ (roughly 1/60
-chance), and he can drop up to 5 items. More players slightly increases
-his drop. He is the only exception and there are no other special
-monsters or areas for finding Ancient Scrolls. (Izual\'s Ghost added in
-R4B has a slightly better chance to drop Ancient Scrolls, too.)\
-You can cube a low level Ancient Scroll from a Cookbook, and you can
-cube a Cookbook from DragonStones, so collecting Dragon Stones is
-another way to enrich your bookshelf.
+Ancient Scrolls aren\'t magic items and Magic Find doesn\'t work, either.
+Only more players can increase the chance of their drop.
+Izual drops an Ancient Scroll instead of his organ (roughly 1/60 chance), and he can drop up to 5 items.
+More players slightly increases his drop.
+He is the only exception and there are no other special monsters or areas for finding Ancient Scrolls.
+(Izual\'s Ghost added in R4B has a slightly better chance to drop Ancient Scrolls, too.)
+You can cube a low level Ancient Scroll from a Cookbook, and you can cube a Cookbook from DragonStones,
+so collecting Dragon Stones is another way to enrich your bookshelf.
 
 ::: {.ie5}
 Area           Scroll Drop   Area              Scroll Drop   Area         Scroll Drop
@@ -733,8 +711,7 @@ Crystals can be stored in Crystal Can which can be bought at Gheed:
 
 #### Uber Organs {#mc05cb2d}
 
-Uber Organs are only used in [tinkering
-recipes](http://esdb.d2se.org/es3cube_n.htm#tin):
+Uber Organs are only used in [tinkering recipes](http://esdb.d2se.org/es3cube_n.htm#tin):
 
 ::: {.ie5}
 Uber Organs               Recipe
@@ -752,8 +729,6 @@ Hephasto\'s Hand          Crystal Can (output: Pulsing Opal) + Key -\> Hephasto\
 -   ~~Null Rune + Scroll of Town Portal -\> Wo Rune~~ (R5H and later)
 -   Can be stored in Rune Stocker (H).
 
-<!-- -->
-
 -   Null Rune + 2-4 Crystals -\> Kanji Rune
 -   Crystal Can + Kanji Rune -\> Crystal Can + Null Rune (Crystals are
     stored in Crystal Can)
@@ -767,7 +742,7 @@ Fire | ![k2.gif](../img/a_013.gif "k2.gif"){width="28" height="28"} | +12% To Fi
 Water | ![k3.gif](../img/a_034.gif "k3.gif"){width="28" height="28"} | +12% To Cold Skill Damage | Null Rune + 2 Dark Azurites
 Wood | ![k4.gif](../img/a_038.gif "k4.gif"){width="28" height="28"} | +1 To Amazon Skill Levels | Null Rune + 2 Tomb Jades
 Metal | ![k5.gif](../img/a_003.gif "k5.gif"){width="28" height="28"} | +1 To Barbarian Skill Levels | Null Rune + 2 Solid Mercuries
-Earth | ![k6.gif](../img/a_030.gif "k6.gif"){width="28 height="28"} | +12% To Poison Skill Damage | Null Rune + 2 Bitter Peridots
+Earth | ![k6.gif](../img/a_030.gif "k6.gif"){width="28" height="28"} | +12% To Poison Skill Damage | Null Rune + 2 Bitter Peridots
 Sun | ![k7.gif](../img/a_016.gif "k7.gif"){width="28" height="28"} | +1 To Paladin Skill Levels | Null Rune + 2 Enigmatic Cinnabars
 Thunder | ![k8.gif](../img/a_025.gif "k8.gif"){width="28" height="28"} | +12% To Lightning Skill Damage | Null Rune + 2 Burning Surphurs
 Wind | ![k9.gif](../img/a_035.gif "k9.gif"){width="28" height="28"} | +1 To Sorceress Skill Levels | Null Rune + 2 Tainted Tourmarines
@@ -795,7 +770,6 @@ God | ![k14.gif](../img/a_007.gif "k14.gif"){width="28" height="28"} | +2% To Ex
 -   The chance of getting a rare item is increased from 10% to 30%.
 
 
-
 #### ilvl (item level) {#ufd9d8b2}
 
 -   The ilvl of gambled item randomly varies between your clvl -5 and
@@ -812,20 +786,19 @@ God | ![k14.gif](../img/a_007.gif "k14.gif"){width="28" height="28"} | +2% To Ex
     -   If the ilvl isn\'t enough for a specific unique, that item turns
         into a rare item.
 
+
 #### Exceptional/Elite Chance {#eb0de2bc}
 
 -   The parameter for exceptional is increased from 0.9% to 1.5%.
 -   The parameter for elite is increased from 0.33% to 2.5%.
 
-<!-- -->
+        min Exceptional chance = ((clvl - 5) - qlvl of the exceptional item) * 1.5% + 1%
+        max Exceptional chance = ((clvl + 4) - qlvl of the exceptional item) * 1.5% + 1%
 
-    min Exceptional chance = ((clvl - 5) - qlvl of the exceptional item) * 1.5% + 1%
-    max Exceptional chance = ((clvl + 4) - qlvl of the exceptional item) * 1.5% + 1%
+        min Elite chance = ((clvl - 5) - qlvl of the elite item) * 2.5% + 1%
+        max Elite chance = ((clvl + 4) - qlvl of the elite item) * 2.5% + 1%
 
-    min Elite chance = ((clvl - 5) - qlvl of the elite item) * 2.5% + 1%
-    max Elite chance = ((clvl + 4) - qlvl of the elite item) * 2.5% + 1%
-
-    Where (clvl - 5) or (clvl + 4) is the actual ilvl of the gambled item.
+        Where (clvl - 5) or (clvl + 4) is the actual ilvl of the gambled item.
 
 -   This formula is quoted from the Arreat Summit (ie. may be wrong).
 -   It seems Exceptional is checked first, and then Elite is, because
@@ -850,8 +823,7 @@ God | ![k14.gif](../img/a_007.gif "k14.gif"){width="28" height="28"} | +2% To Ex
         cheaper, gambling can be better.
 -   Gambling Chits have the same chance for Unique/Set/Rare as gambling.
 -   Normal Gambling Chits have no chance for upper items. (ilvl = 45)
--   Nightmare Gambling Chits have 50% chance for exceptionals. (ilvl
-    = 65)
+-   Nightmare Gambling Chits have 50% chance for exceptionals. (ilvl = 65)
 -   Hell Gambling Chits have 33% chance for exceptionals and 33% for
     elites. (ilvl = 85)
     -   These fixed chance are very helpful to get high level elites
@@ -869,9 +841,11 @@ God | ![k14.gif](../img/a_007.gif "k14.gif"){width="28" height="28"} | +2% To Ex
     screen. Mac users can\'t use this utility. Gambling Chits may be
     helpful in such cases, because you can buy at least 1 chit per
     visit.
+
 -   You can run Gamble Filter without exiting ES. (You can use Alt+Tab
     to switch applications.) But you have to make a new game after you
     edit the items on the gamble screen.
+
 
 #### What level should I gamble at, and how? {#x1fbac1f}
 
@@ -908,7 +882,6 @@ God | ![k14.gif](../img/a_007.gif "k14.gif"){width="28" height="28"} | +2% To Ex
 This section is a partial transration of [Monju\'s Character Build
 Delusion
 (jp)](https://web.archive.org/web/20201128175730/http://miyoshino.la.coocan.jp/eswiki/?JP_Nikki_Monju_build#z6855b1b).
-
 
 
 #### Socketables {#l2a2824a}
@@ -1147,10 +1120,8 @@ Magic Reduced by XX | none | 6
     (ex) When a monster deals 100 Fire Damage and you have 40% Fire
     Absorb, first your life is healed by 40 (100 x 40%), and then you
     take 60 Fire Damage (100 - 100 x 40%).
-    -   X% Absorb negates 2 x X% Elemental Damage at best. (When the
-        character is injured.)
-    -   X% Absorb negates X% Elemental damage at worst. (When the
-        character is fully healed.)
+    -   X% Absorb negates 2 x X% Elemental Damage at best. (When the character is injured.)
+    -   X% Absorb negates X% Elemental damage at worst. (When the character is fully healed.)
 6.  While X Absorb negates 2 x X Elemental Damage at best, MDR always
     negates only X Elemental damage (Roughly speaking 1/2 effect). But
     it reduces all four elemental damages and magic (bone, holy) damage.
@@ -1167,26 +1138,26 @@ Magic Reduced by XX | none | 6
     time to time.
 
 
-
 #### PlugY Usage {#f5f363e0}
 
 -   The button with an X on the skill panel resets the skill points.
--   [Alt + click on the stat button to unassign the stat points
-    by 1.]{.underline} In the latest version, you need to run the
-    character utility to reassign the stat points, which is installed in
-    the start menu. (If the utility doesn\'t load your character, assign
+
+-   [Alt + click on the stat button to unassign the stat points by 1.]{.underline}
+    In the latest version, you need to run the character utility to reassign the stat points,
+    which is installed in the start menu. (If the utility doesn\'t load your character, assign
     all remaining stat points first.)
--   Pressing Shift increases the handled amount of the stat points to
-    5.\
-    You can share gold between characters via **Take Gold** and **Put
-    Gold** buttons besides\
-    the gold window in the stash.
+
+-   Pressing Shift increases the handled amount of the stat points to 5.
+
+-   You can share gold between characters via **Take Gold** and **Put
+    Gold** buttons besides the gold window in the stash.
+
 -   The shared stash and multiple personal stashes are self-explanatory.
+
 -   A huge shared stash makes ES take a longer time to be launched, and
     can cause a join failure in TCP/IP games. Please keep the shared
     stash tiny as possible, say less than 100 pages, and use the
     personal stash and mule characters instead.
-
 
 
 #### Map Regeneration Setting {#x5c3c0b9}
@@ -1200,9 +1171,11 @@ Magic Reduced by XX | none | 6
 
 -   You can find the players to play with in this thread.\
     [http://phrozenkeep.planetdiablo.gamespy.com/forum/viewtopic.php?t=34974](https://web.archive.org/web/20201128175730/http://phrozenkeep.planetdiablo.gamespy.com/forum/viewtopic.php?t=34974)
+
 -   All players must use the same version of ES, so please check the
     latest patch before you host or join a TCP/IP game. (The version of
     LoD doesn\'t matter.)
+
 -   Please DON\'T ACCESS THE SHARED STASH IN TCP/IP GAMES as possible.
     If you forget to switch back to the normal stash and quit the game,
     (or if D2 crashes during you access the shared stash), the normal
@@ -1210,28 +1183,19 @@ Magic Reduced by XX | none | 6
     to access the shared stash in TCP/IP games.
 
 
-
 #### TCP/IP Hosting with a Router {#x70992c0}
 
--   If you host with a router, you need to open TCP/UDP port 4000,
-    6112-6119. D2 can\'t display the correct external IP address when
-    you use a router.\
-    (192.168.xxx.xxx is the internal IP address and can\'t be used for
-    multiplay.)\
-    You can see your external IP address at
-    [http://www.whatismyip.com](https://web.archive.org/web/20201128175730/http://www.whatismyip.com/)
-
+-   If you host with a router, you need to open TCP/UDP port 4000, 6112-6119.
+    D2 can\'t display the correct external IP address when you use a router.
+    (192.168.xxx.xxx is the internal IP address and can\'t be used for multiplay.)
+    You can see your external IP address at [http://www.whatismyip.com](http://www.whatismyip.com/)
 
 
 #### Gamble Filter {#x1967bb9}
 
 -   Gamble Filter lets you limit the items shown in the gamble screen.
-    Check the\
-    items you like to gamble, press \"Set Filter\" button and restart
-    the game. You\
-    can switch to Gamble Filter by Alt+Tab without exiting D2, but you
-    need to\
-    restart the game to make it take effect. This feature is for single
-    and TCP/IP\
-    play only. Please make sure to reset the filter before you host a
+    Check the items you like to gamble, press \"Set Filter\" button and restart
+    the game. You can switch to Gamble Filter by Alt+Tab without exiting D2, but you
+    need to restart the game to make it take effect. This feature is for single
+    and TCP/IP play only. Please make sure to reset the filter before you host a
     TCP/IP game.
