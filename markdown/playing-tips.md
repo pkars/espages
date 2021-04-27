@@ -951,271 +951,55 @@ Delusion
 #### D-Stoning/Gem Melding {#haeba26c}
 
 ::: {.ie5}
-Input
+-----------------------------------------------------------------------------
+Input                   Output         Remarks
+----------------------  -------------  ---------------------------------------
+Any Ring/Amulet\        The Same Item  10% Extra Gold From Monsters\
+Forging Hammer\                        Req Lvl +4\
+Stamina Portion                        (Cap = 400%)
+
+Any Helm\               The Same Item  4% Better Chance of Getting Magic Item\
+Perfect Topaz\                         4% Extra Gold From Monsters\
+3 Ancient Decipherers                  Req Lvl +4
+
+Any Boots\              The Same Item  4% Better Chance of Getting Magic Item\
+Perfect Topaz\                         4% Gold From Monsters\
+3 Ancient Decipherers                  Req Lvl +4
+------------------------------------------------------------------------------
+
 :::
-
-Output
-
-Remarks
-
-Any Ring/Amulet
-
-The Same Item
-
-10% Extra Gold From Monsters\
-Req Lvl +4\
-(Cap = 400%)
-
-Forging Hammer
-
-Stamina Portion
-
-::: {.ie5}
-Input
-:::
-
-Output
-
-Remarks
-
-Any Helm
-
-The Same Item
-
-4% Better Chance of Getting Magic Item\
-4% Extra Gold From Monsters\
-Req Lvl +4
-
-Perfect Topaz
-
-3 Ancient Decipherers
-
-::: {.ie5}
-Any Boots
-:::
-
-The Same Item
-
-4% Better Chance of Getting Magic Item\
-4% Gold From Monsters\
-Req Lvl +4
-
-Perfect Topaz
-
-3 Ancient Decipherers
-
 
 #### Forging {#p45b7a95}
 
 ::: {.ie5}
-Input
+-----------------------------------------------------------------------------
+Input                          Output             Remarks
+-----------------------------  ------------------ -----------------------------
+Magic/Rare/Set/Unique Weapon\  The Same Item\     66% Extra Gold From Monsters
+5 Player\'s Ear\               Ancient Scroll \#9
+10 Hearts\
+Ancient Scroll \#9
+-------------------------------------------------------------------------------
+
 :::
-
-Output
-
-Remarks
-
-Magic/Rare/Set/Unique Weapon
-
-The Same Item
-
-66% Extra Gold From Monsters
-
-5 Player\'s Ear
-
-Ancient Scroll \#9
-
-10 Hearts
-
-Ancient Scroll \#9
-
 
 #### Oskill Items {#sd52dffa}
 
-::: {.ie5}
-Weapon
-:::
-
-All Skills
-
-Class Skills
-
-Gold
-
-MF+
-
-Socket\#
-
-Remarks
-
-Ama
-
-Asn
-
-Bar
-
-Dru
-
-Nec
-
-Pal
-
-Fixed
-
-/Lvl
-
-Fixed
-
-/Lvl
-
-Gold Digger
-
-1
-
-0
-
-0
-
-0
-
-0
-
-0
-
-0
-
-0
-
-125
-
-0
-
-125
-
-0
-
-+5-8 To Find Treasure
-
-Chu-Ko-Nu
-
-1-2
-
-0
-
-0
-
-0
-
-0
-
-0
-
-0
-
-100
-
-0
-
-100
-
-0
-
-0
-
-+1 To Luck of the Ancients
-
-Gluttony RW Fu To Ku Na Ru
-
-0
-
-0
-
-0
-
-0
-
-0
-
-0
-
-0
-
-0
-
-400
-
-0
-
-150
-
-0
-
-+1 To Find Treasure
-
-::: {.ie5}
-Weapon
-:::
-
-All Skills
-
-Class Skills
-
-Gold
-
-MF+
-
-Socket\#
-
-Remarks
-
-Ama
-
-Asn
-
-Bar
-
-Dru
-
-Nec
-
-Pal
-
-Fixed
-
-/Lvl
-
-Fixed
-
-/Lvl
-
-Elzix\'s Treasure
-
-0
-
-0
-
-0
-
-0
-
-0
-
-0
-
-0
-
-100
-
-0
-
-100
-
-0
-
-0
-
-+1-3 To Luck of the Ancients\
-+1-3 To Find Treasure
+```
+Weapon | All Skills | Class Skills | Gold | MF+ | Socket\# | Remarks |
+       |            | Ama | Asn | Bar | Dru | Nec | Pal | Fixed | /Lvl | Fixed | /Lvl |||
+Gold Digger | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 125 | 0 | 125 | 0 | +5-8 To Find Treasure |
+Chu-Ko-Nu | 1-2 | 0 | 0 | 0 | 0 | 0 | 0 | 100 | 0 | 100 | 0 | 0 | +1 To Luck of the Ancients |
+Gluttony RW Fu To Ku Na Ru | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 400 | 0 | 150 | 0 | +1 To Find Treasure |
+
++-------------------+------------+-----------------------------------+--------------+--------------+----------+-------------------------------+
+| Shields           | All Skills | Class Skills                      | Gold         | MF+          | Socket\# | Remarks                       |
+|                   |            | Ama | Asn | Bar | Dru | Nec | Pal | Fixed | /Lvl | Fixed | /Lvl |          |                               |
++-------------------+------------+-----+-----+-----+-----+-----+-----+-------+------+-------+------+----------+-------------------------------+
+| Elzix\'s Treasure | 0          | 0   | 0   | 0   | 0   | 0   | 0   | 100   | 0    | 100   | 0    | 0        | +1-3 To Luck of the Ancients  |
+|                                                                                                             | +1-3 To Find Treasure         |
++-------------------+------------+-----+-----+-----+-----+-----+-----+-------+------+-------+------+----------+-------------------------------+
+```
 
 
 #### Equipments {#ib170380}
