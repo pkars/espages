@@ -1,18 +1,9 @@
----
-lang: en
-title: Shape Shifting - Eastern Sun Wiki
----
 
-::: {#body}
-[Druid](https://web.archive.org/web/20201129102815/http://miyoshino.la.coocan.jp/eswiki/?Druid "Druid (4226d)")
-- [Elemental
-Skills](https://web.archive.org/web/20201129102815/http://miyoshino.la.coocan.jp/eswiki/?Elemental%20Skills "Elemental Skills (3856d)")
-/ Shape Shifting Skills / [Summoning
-Skills](https://web.archive.org/web/20201129102815/http://miyoshino.la.coocan.jp/eswiki/?Summoning_Dru "Summoning_Dru (4603d)")
+::: {#dru-shapeshift}
+### Shapeshifting Skills {#ie3cda1c}
+[Druid](#top) - [Elemental Skills]() / Shape Shifting Skills / [Summoning Skills]()
 
 ::: {.contents}
-[]{#contents_1}
-
 -   [Shapeshifting Skills](#ie3cda1c)
     -   [Werewolf](#l5ef74bf)
     -   [Elemental Form](#e4c3d0d6)
@@ -28,15 +19,6 @@ Skills](https://web.archive.org/web/20201129102815/http://miyoshino.la.coocan.jp
     -   [Charged Claws](#i993f38a)
 :::
 
-\
-
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201129102815/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=1&page=Shape%20Shifting&refer=Shape%20Shifting)
-[TOP](#navigator)
-:::
-
-### Shapeshifting Skills [†](https://web.archive.org/web/20201129102815/http://miyoshino.la.coocan.jp/eswiki/?Shape%20Shifting#ie3cda1c "ie3cda1c"){#ie3cda1c .anchor_super} {#content_1_0}
-
 ::: {.ie5}
   Druid Melee Skills   
   -------------------- ----------------------------------
@@ -49,9 +31,7 @@ Skills](https://web.archive.org/web/20201129102815/http://miyoshino.la.coocan.jp
   Maul                 Elemental Form Only
   Shock Wave           
   Hunger               Werewolf and Elemental Form Only
-:::
 
-::: {.ie5}
   Other Available Skills in Druid Wereform (All Passive Skills also work)   
   ------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------
   Amazon                                                                    Inner Sight, Slow Missiles, Decoy, Valkyrie, Eagle Eye
@@ -63,30 +43,23 @@ Skills](https://web.archive.org/web/20201129102815/http://miyoshino.la.coocan.jp
   Sorceress                                                                 Fire Armor, Chilling Armor, Shock Armor, Energy Shield, Aerial Guard, Enchant, Teleport
 :::
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201129102815/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=2&page=Shape%20Shifting&refer=Shape%20Shifting)
-[TOP](#navigator)
-:::
 
-#### Werewolf [†](https://web.archive.org/web/20201129102815/http://miyoshino.la.coocan.jp/eswiki/?Shape%20Shifting#l5ef74bf "l5ef74bf"){#l5ef74bf .anchor_super} {#content_1_1}
+#### Werewolf {#l5ef74bf}
 
 Required Level
-
-1
+: 1
 
 Prerequisites
-
-*None*
+: *None*
 
 Difference from the LoD version
-
-Improved Max Life bonus. Grants FRW bonus instead of Stamina bonus.
+: Improved Max Life bonus. Grants FRW bonus instead of Stamina bonus.
 
 Pros
 
 Cons
 
-::: {.ie5}
+::: {.slvl-table}
   slvl                                                                                                          1                                                                                            2-8                9-16   17-22   23-28   29+
   ------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------ ------ ------- ------- -----
   Increased Attack Speed% (ES)                                                                                 32                                                                                +2 (capped at 90 at slvl 35)                         
@@ -114,30 +87,22 @@ Synergies
 Passive Bonuses
 :   *Shape Shifting Mastery:* Duration
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201129102815/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=3&page=Shape%20Shifting&refer=Shape%20Shifting)
-[TOP](#navigator)
-:::
-
-#### Elemental Form [†](https://web.archive.org/web/20201129102815/http://miyoshino.la.coocan.jp/eswiki/?Shape%20Shifting#e4c3d0d6 "e4c3d0d6"){#e4c3d0d6 .anchor_super} {#content_1_2}
+#### Elemental Form {#e4c3d0d6}
 
 Required Level
-
-1
+: 1
 
 Prerequisites
-
-*None*
+: *None*
 
 Difference from Were Bear (LoD)
-
-Improved Max Life, Damage and Defense bonus.
+: Improved Max Life, Damage and Defense bonus.
 
 Pros
 
 Cons
 
-::: {.ie5}
+::: {.slvl-table}
   slvl                     1    2-8   9-16   17-22   23-28   29+
   ---------------------- ----- ----- ------ ------- ------- -----
   Damage% (ES)            50    +10                         
@@ -165,20 +130,14 @@ Synergies
 Passive Bonuses
 :   *Shape Shifting Mastery:* Duration
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201129102815/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=4&page=Shape%20Shifting&refer=Shape%20Shifting)
-[TOP](#navigator)
-:::
 
-#### Shape Shifting Mastery [†](https://web.archive.org/web/20201129102815/http://miyoshino.la.coocan.jp/eswiki/?Shape%20Shifting#x71e30ea "x71e30ea"){#x71e30ea .anchor_super} {#content_1_3}
+#### Shape Shifting Mastery {#x71e30ea}
 
 Required Level
-
-6
+: 6
 
 Prerequisites
-
-*None*
+: *None*
 
 Difference from Lycanthropy
 
@@ -186,7 +145,7 @@ Pros
 
 Cons
 
-::: {.ie5}
+::: {.slvl-table}
   slvl                                       1                         2-8   9-16   17-22   23-28   29+
   -------------------- ---------------------------------------------- ----- ------ ------- ------- -----
   Max Life% (LoD)       +5 Per Base Point (Also works in human form)                               
@@ -194,12 +153,7 @@ Cons
   Duration (seconds)                         40                        +20                         
 :::
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201129102815/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=5&page=Shape%20Shifting&refer=Shape%20Shifting)
-[TOP](#navigator)
-:::
-
-#### Feral Rage [†](https://web.archive.org/web/20201129102815/http://miyoshino.la.coocan.jp/eswiki/?Shape%20Shifting#j1891633 "j1891633"){#j1891633 .anchor_super} {#content_1_4}
+#### Feral Rage {#j1891633}
 
 Required Level
 :   12
@@ -207,13 +161,16 @@ Required Level
 Prerequisites
 :   *Shape Shifting Mastery (6)*
 
-Difference from the LoD version\
-Pros\
-Cons\
+Difference from the LoD version
+
+Pros
+
+Cons
+
 Notes
 :   In Werewolf, Trent and Waves Mage form only.
 
-::: {.ie5}
+::: {.slvl-table}
   slvl                                                                                                        1                                                                                      2-8         9-16   17-22   23-28   29+
   ----------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------- ------ ------- ------- -----
   Damage% (ES)                                                                                               60                                                                                      +10                               
@@ -232,12 +189,7 @@ Synergies
     *Rabies:* +7% Damage Per Level\
     *Fury:* +7% Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201129102815/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=6&page=Shape%20Shifting&refer=Shape%20Shifting)
-[TOP](#navigator)
-:::
-
-#### Iron Claws [†](https://web.archive.org/web/20201129102815/http://miyoshino.la.coocan.jp/eswiki/?Shape%20Shifting#r13ac4be "r13ac4be"){#r13ac4be .anchor_super} {#content_1_5}
+#### Iron Claws {#r13ac4be}
 
 Required Level
 :   12
@@ -245,13 +197,16 @@ Required Level
 Prerequisites
 :   *Shape Shifting Mastery (6)*
 
-A new ES skill\
-Pros\
-Cons\
+A new ES skill
+
+Pros
+
+Cons
+
 Notes
 :   Can be used in any form including human form.
 
-::: {.ie5}
+::: {.slvl-table}
   slvl                                                                                                   1                                                                                2-8   9-16   17-22   23-28   29+
   ------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------ ----- ------ ------- ------- -----
   Damage%                                                                                                50                                                                               +15                         
@@ -270,12 +225,8 @@ Synergies
     *Fury:* +10% Damage Per Level\
     *Charged Claws:* +10% Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201129102815/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=7&page=Shape%20Shifting&refer=Shape%20Shifting)
-[TOP](#navigator)
-:::
 
-#### Maul [†](https://web.archive.org/web/20201129102815/http://miyoshino.la.coocan.jp/eswiki/?Shape%20Shifting#r003ad0e "r003ad0e"){#r003ad0e .anchor_super} {#content_1_6}
+#### Maul {#r003ad0e}
 
 Required Level
 :   12
@@ -283,13 +234,16 @@ Required Level
 Prerequisites
 :   *Shape Shifting Mastery (6)*
 
-Difference from Maul (LoD)\
-Pros\
-Cons\
+Difference from Maul (LoD)
+
+Pros
+
+Cons
+
 Notes
 :   In Elemental, Treant and Diablo form only.
 
-::: {.ie5}
+::: {.slvl-table}
   slvl                                                                                                          1                                                                                      2-8          9-16   17-22   23-28   29+
   ------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------ ------ ------- ------- -----
   Damage% (First Hit)                                                                                          20                                                                                                                         
@@ -307,12 +261,7 @@ Synergies
     *Shock Wave:* +5% Damage Per Level\
     *Fury:* +5% Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201129102815/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=8&page=Shape%20Shifting&refer=Shape%20Shifting)
-[TOP](#navigator)
-:::
-
-#### Fire Claws [†](https://web.archive.org/web/20201129102815/http://miyoshino.la.coocan.jp/eswiki/?Shape%20Shifting#b98195fd "b98195fd"){#b98195fd .anchor_super} {#content_1_7}
+#### Fire Claws {#b98195fd}
 
 Required Level
 :   18
@@ -320,13 +269,16 @@ Required Level
 Prerequisites
 :   *Shape Shifting Mastery (6), Iron Claws (12)*
 
-Difference from Fire Claws (LoD)\
-Pros\
-Cons\
+Difference from Fire Claws (LoD)
+
+Pros
+
+Cons
+
 Notes
 :   Can be used in any form including human form.
 
-::: {.ie5}
+::: {.slvl-table}
   slvl                   1     2-8   9-16   17-22   23-28   29+
   ------------------- ------- ----- ------ ------- ------- -----
   Fire Damage (ES)      30     +15   +30     +45     +60    +60
@@ -342,12 +294,7 @@ Synergies
     *Iron Claws:* +8% Fire Damage Per Level\
     *Charged Claws:* +8% Fire Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201129102815/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=9&page=Shape%20Shifting&refer=Shape%20Shifting)
-[TOP](#navigator)
-:::
-
-#### Rabies [†](https://web.archive.org/web/20201129102815/http://miyoshino.la.coocan.jp/eswiki/?Shape%20Shifting#jde797bc "jde797bc"){#jde797bc .anchor_super} {#content_1_8}
+#### Rabies {#jde797bc}
 
 Required Level
 :   24
@@ -355,13 +302,16 @@ Required Level
 Prerequisites
 :   *Shape Shifting Mastery (6), Feral Rage (12)*
 
-Difference from the LoD version\
-Pros\
-Cons\
+Difference from the LoD version
+
+Pros
+
+Cons
+
 Notes
 :   In Werewolf form only.
 
-::: {.ie5}
+::: {.slvl-table}
   slvl                               1     2-8    9-16   17-22   23-28   29+
   -------------------------------- ------ ------ ------ ------- ------- -----
   Poison Damage Per Second (ES)     9-14    +4     +9     +13     +18    +18
@@ -380,12 +330,7 @@ Synergies
     *Fury:* +7% Poison Damage Per Level\
     *Charged Claws:* +7% Poison Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201129102815/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=10&page=Shape%20Shifting&refer=Shape%20Shifting)
-[TOP](#navigator)
-:::
-
-#### Hunger [†](https://web.archive.org/web/20201129102815/http://miyoshino.la.coocan.jp/eswiki/?Shape%20Shifting#xb24663a "xb24663a"){#xb24663a .anchor_super} {#content_1_9}
+#### Hunger {#xb24663a}
 
 Required Level
 :   24
@@ -393,13 +338,16 @@ Required Level
 Prerequisites
 :   *Shape Shifting Mastery (6), Iron Claws (12), Fire Claws (18)*
 
-Difference from the LoD version\
-Pros\
-Cons\
+Difference from the LoD version
+
+Pros
+
+Cons
+
 Notes
 :   In Werewolf and Elemental form only.
 
-::: {.ie5}
+::: {.slvl-table}
   slvl                                                                                                  1                                                                                 2-8   9-16   17-22   23-28   29+
   ----------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------- ----- ------ ------- ------- -----
   Damage Penalty% (ES)                                                                                 -33                                                                                                            
@@ -410,12 +358,7 @@ Notes
   Mana Cost                                                                                             3                                                                                                             
 :::
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201129102815/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=11&page=Shape%20Shifting&refer=Shape%20Shifting)
-[TOP](#navigator)
-:::
-
-#### Shock Wave [†](https://web.archive.org/web/20201129102815/http://miyoshino.la.coocan.jp/eswiki/?Shape%20Shifting#p9dc3342 "p9dc3342"){#p9dc3342 .anchor_super} {#content_1_10}
+#### Shock Wave {#p9dc3342}
 
 Required Level
 :   24
@@ -423,7 +366,8 @@ Required Level
 Prerequisites
 :   *Shape Shifting Mastery (6), Maul (12)*
 
-Difference from the LoD version\
+Difference from the LoD version
+
 Pros
 :   Very long stun length. Stuns multiple targets.
 
@@ -433,7 +377,7 @@ Cons
 Notes
 :   In Elemental, Treant and Diablo form only.
 
-::: {.ie5}
+::: {.slvl-table}
   slvl                      1      2-8     9-16   17-22   23-28   29+
   ---------------------- ------- -------- ------ ------- ------- -----
   Damage (ES)             12-18     +9     +12     +15     +18    +18
@@ -448,12 +392,7 @@ Notes
 Synergies
 :   *Maul:* +10% Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201129102815/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=12&page=Shape%20Shifting&refer=Shape%20Shifting)
-[TOP](#navigator)
-:::
-
-#### Fury [†](https://web.archive.org/web/20201129102815/http://miyoshino.la.coocan.jp/eswiki/?Shape%20Shifting#kcef81ab "kcef81ab"){#kcef81ab .anchor_super} {#content_1_11}
+#### Fury {#kcef81ab}
 
 Required Level
 :   30
@@ -461,7 +400,8 @@ Required Level
 Prerequisites
 :   *Shape Shifting Mastery (6), Feral Rage (12), Rabies (24)*
 
-Difference from the LoD version\
+Difference from the LoD version
+
 Pros
 :   Works fine with Crushing Blow and CtC Static Field, etc. It\'s easy
     to attain the fastest bp in ES because of abundant IAS equipments.
@@ -470,7 +410,7 @@ Cons\
 Notes
 :   In Werewolf, Trent and Waves Mage form only.
 
-::: {.ie5}
+::: {.slvl-table}
   slvl                     1               2-8               9-16   17-22   23-28   29+
   ---------------------- ----- ---------------------------- ------ ------- ------- -----
   Number of Hits (ES)      2    +1 (capped at 6 at slvl 5)                         
@@ -485,12 +425,7 @@ Synergies
     *Feral Rage:* +6% Damage Per Level\
     *Rabies:* +6% Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201129102815/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=13&page=Shape%20Shifting&refer=Shape%20Shifting)
-[TOP](#navigator)
-:::
-
-#### Charged Claws [†](https://web.archive.org/web/20201129102815/http://miyoshino.la.coocan.jp/eswiki/?Shape%20Shifting#i993f38a "i993f38a"){#i993f38a .anchor_super} {#content_1_12}
+#### Charged Claws {#i993f38a}
 
 Required Level
 :   30
@@ -502,12 +437,14 @@ Prerequisites
 A new ES skill
 :   Druid version of Amazon\'s Charged Strike.
 
-Pros\
-Cons\
+Pros
+
+Cons
+
 Notes
 :   Can be used in any form including human form.
 
-::: {.ie5}
+::: {.slvl-table}
   slvl                    1          2-8         9-16   17-22   23-28   29+
   ---------------------- ---- ----------------- ------ ------- ------- -----
   Min Lightning Damage    1                                            
