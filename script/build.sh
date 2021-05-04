@@ -1,2 +1,11 @@
+# Select which pages to build
+if [ -n "$1" ]; then
+  PAGES="$1"
+else
+  PAGES="amazon druid" # Add other classes
+fi
+
 # Build the cleaned up pages
-pandoc -s $(cat includes/amazon.txt) -f markdown -t html5 -o ../html/amazon.html
+for cls in $PAGES; do
+  pandoc -s $(cat includes/$cls.txt) -f markdown -t html5 -o ../html/$cls.html
+done
