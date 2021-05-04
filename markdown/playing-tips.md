@@ -657,49 +657,49 @@ average.
 ::: {.ie5}
 Crystal | Chipped | Normal | Mainly Dropped by | Area
 --|-|-|--|--
-Frozen Soul | ![b\_oval\_s.gif](../img/a_009.gif "b_oval_s.gif"){width="28" height="28"} | ![b\_oval\_l.gif](../img/a_018.gif "b_oval_l.gif"){width="28" height="28"} | Nihlathak | Nihlathak\'s Domain |
+Frozen Soul | ![b\_oval\_s.gif](../img/b_oval_s.gif){.size-28} | ![b\_oval\_l.gif](../img/b_oval_l.gif){.size-28} | Nihlathak | Nihlathak\'s Domain |
 |||| Fatalstorm | Nihlathak\'s Domain |
 |||| Factory Director | Moonshine Distillery |
 |||| Factory Director | Fake Note Factory |
 |||| Dark Planter | Poppy Farm |
-Shadow Quartz | ![violet\_s.gif](../img/a_011.gif "violet_s.gif"){width="28" height="28"} | ![violet\_l.gif](../img/a_027.gif "violet_l.gif"){width="28" height="28"} | Baal | Wordstone Chamber |
+Shadow Quartz | ![violet\_s.gif](../img/violet_s.gif){.size-28} | ![violet\_l.gif](../img/violet_l.gif){.size-28} | Baal | Wordstone Chamber |
 |||| Baal\'s Bodydouble | Wordstone Chamber |
 |||| Lister the Tormentor | Throne of Destruction |
 |||| Lister the Revenger | Nihlathak\'s Domain |
-Bleeding Stone | ![red\_s.gif](../img/a_014.gif "red_s.gif"){width="28" height="28"} | ![red\_l.gif](../img/a_017.gif "red_l.gif"){width="28" height="28"} | Diablo | Chaos Sanctuary |
+Bleeding Stone | ![red\_s.gif](../img/red_s.gif){.size-28} | ![red\_l.gif](../img/red_l.gif){.size-28} | Diablo | Chaos Sanctuary |
 |||| Diablo | Throne of Destruction |
 |||| Diablo Clone | Random Area |
 |||| King Leoric | Chaos Sanctuary |
 |||| Black Jade | Chaos Sanctuary |
 |||| Lachdanan | Chaos Sanctuary |
-Burning Sulphur | ![topa\_s.gif](../img/a_012.gif "topa_s.gif"){width="28" height="28"} | ![topa\_l.gif](../img/a_015.gif "topa_l.gif"){width="28" height="28"} | Mephisto | Durance of Hate Level 3 |
+Burning Sulphur | ![topa\_s.gif](../img/topa_s.gif){.size-28} | ![topa\_l.gif](../img/topa_l.gif){.size-28} | Mephisto | Durance of Hate Level 3 |
 |||| Mephisto | Throne of Destruction |
 |||| Knuckle Baller | Bill Roper Memorial Ballpark |
 |||| Named Councils | Durance of Hate Level 3 |
-Dark Azurite | ![blue\_s.gif](../img/a_019.gif "blue_s.gif"){width="28" height="28"} | ![blue\_l.gif](../img/a_029.gif "blue_l.gif"){width="28" height="28"} | Duriel | Duriel\'s Lair |
+Dark Azurite | ![blue\_s.gif](../img/blue_s.gif){.size-28} | ![blue\_l.gif](../img/blue_l.gif){.size-28} | Duriel | Duriel\'s Lair |
 |||| Duriel | Throne of Destruction |
 |||| Duriel | Marsh of Pain |
-Bitter Peridot | ![greens.gif](../img/a_028.gif "greens.gif"){width="28" height="28"} | ![greenl.gif](../img/a_022.gif "greenl.gif"){width="28" height="28"} | Andariel | Catacomb Level 4 |
+Bitter Peridot | ![greens.gif](../img/greens.gif){.size-28} | ![greenl.gif](../img/greenl.gif){.size-28} | Andariel | Catacomb Level 4 |
 |||| Andariel | Throne of Destruction |
 |||| Andariel | Andariel\'s Dressing Room |
-Pulsing Opal | ![opa\_s.gif](../img/a_005.gif "opa_s.gif"){width="28" height="28"} | ![opa\_l.gif](../img/a_004.gif "opa_l.gif"){width="28" height="28"} | Reporb | Bill Roper Memorial Ballpark |
+Pulsing Opal | ![opa\_s.gif](../img/opa_s.gif){.size-28} | ![opa\_l.gif](../img/opa_l.gif){.size-28} | Reporb | Bill Roper Memorial Ballpark |
 |||| Hephasto the Armoror | River of Flame |
 |||| Dark Clone | Harpie\'s Nest Level 2 |
-Enigmatic Cinnabar | ![maga\_s.gif](../img/a_024.gif "maga_s.gif"){width="28" height="28"} | ![maga\_l.gif](../img/a_023.gif "maga_l.gif"){width="28" height="28"} | Magmajuggler | Nihlathak\'s Domain |
+Enigmatic Cinnabar | ![maga\_s.gif](../img/maga_s.gif){.size-28} | ![maga\_l.gif](../img/maga_l.gif){.size-28} | Magmajuggler | Nihlathak\'s Domain |
 |||| Summoner | Arcane Sanctuary |
 |||| Dark Magician | Dark Magicians Chamber Level 2 |
-Tomb Jade | ![g\_tear\_s.gif](../img/a_031.gif "g_tear_s.gif"){width="28" height="28"} | ![g\_tear\_l.gif](../img/a_006.gif "g_tear_l.gif"){width="28" height="28"} | Reziarfg | GFraizer Dome |
+Tomb Jade | ![g\_tear\_s.gif](../img/g_tear_s.gif){.size-28} | ![g\_tear\_l.gif](../img/g_tear_l.gif){.size-28} | Reziarfg | GFraizer Dome |
 ||||Radament | Act 2 Sewer Level 2 |
 ||||Sorrow Summoner | Harpie\'s Nest Level 1 & 2 |
 ||||Chaos Summoner | Dark Magician\'s Chamber Level 1 |
-Solid Mercury | ![white\_s.gif](../img/a_020.gif "white_s.gif"){width="28" height="28"} | ![white\_l.gif](../img/a_008.gif "white_l.gif"){width="28" height="28"} | Metalspark | Nihlathak\'s Domain |
+Solid Mercury | ![white\_s.gif](../img/white_s.gif){.size-28} | ![white\_l.gif](../img/white_l.gif){.size-28} | Metalspark | Nihlathak\'s Domain |
 ||||Griswold | Tristram |
 ||||Dark Clerk | Fake Note Factory |
 ||||Dark Clerk | Poppy Farm |
-Storm Amber | ![orange\_s.gif](../img/a_032.gif "orange_s.gif"){width="28" height="28"} | ![orange\_l.gif](../img/a_002.gif "orange_l.gif"){width="28" height="28"} | Treant King | Naraku Level 1 |
+Storm Amber | ![orange\_s.gif](../img/orange_s.gif){.size-28} | ![orange\_l.gif](../img/orange_l.gif){.size-28} | Treant King | Naraku Level 1 |
 ||||Treehead Woodfist | Dark Wood |
 ||||Dark Crasher | Blood Raven\'s Workshop Level 1 |
-Tainted Tourmaline | ![tour\_s.gif](../img/a_010.gif "tour_s.gif"){width="28" height="28"} | ![tour\_l.gif](../img/a_033.gif "tour_l.gif"){width="28" height="28"} | Nikartana | Nihlathak\'s Domain |
+Tainted Tourmaline | ![tour\_s.gif](../img/tour_s.gif){.size-28} | ![tour\_l.gif](../img/tour_l.gif){.size-28} | Nikartana | Nihlathak\'s Domain |
 ||||Battlemaid Sarina | Bookstore Sarina Level 2 |
 ||||Sarina\'s Maiden | Bookstore Sarina Level 2 |
 ||||Blood Raven | The Graveyard |
