@@ -1,18 +1,9 @@
----
-lang: en
-title: Elemental Skills - Eastern Sun Wiki
----
 
-::: {#body}
-[Druid](https://web.archive.org/web/20201027093707/http://miyoshino.la.coocan.jp/eswiki/?Druid "Druid (4193d)")
-- Elemental Skills / [Shape Shifting
-Skills](https://web.archive.org/web/20201027093707/http://miyoshino.la.coocan.jp/eswiki/?Shape%20Shifting "Shape Shifting (2162d)")
-/ [Summoning
-Skills](https://web.archive.org/web/20201027093707/http://miyoshino.la.coocan.jp/eswiki/?Summoning_Dru "Summoning_Dru (4570d)")
+::: {#dru-elemental}
+### Elemental Skills {#w49e6774}
+[Druid](#top) - Elemental Skills / [Shape Shifting Skills][] / [Summoning Skills][]
 
 ::: {.contents}
-[]{#contents_1}
-
 -   [Elemental Skills](#w49e6774)
     -   [Cyclone Armor](#bd17f42c)
     -   [Arctic Blast](#oe938272)
@@ -27,39 +18,22 @@ Skills](https://web.archive.org/web/20201027093707/http://miyoshino.la.coocan.jp
     -   [Sand Storm](#ibc89de0)
 :::
 
-\
-
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201027093707/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=1&page=Elemental%20Skills&refer=Elemental%20Skills)
-[TOP](#navigator)
-:::
-
-### Elemental Skills [†](https://web.archive.org/web/20201027093707/http://miyoshino.la.coocan.jp/eswiki/?Elemental%20Skills#w49e6774 "w49e6774"){#w49e6774 .anchor_super} {#content_1_0}
-
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201027093707/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=2&page=Elemental%20Skills&refer=Elemental%20Skills)
-[TOP](#navigator)
-:::
-
-#### Cyclone Armor [†](https://web.archive.org/web/20201027093707/http://miyoshino.la.coocan.jp/eswiki/?Elemental%20Skills#bd17f42c "bd17f42c"){#bd17f42c .anchor_super} {#content_1_1}
+#### Cyclone Armor {#bd17f42c}
 
 Required Level
-
-1
+: 1
 
 Prerequisites
-
-*None*
+: *None*
 
 Difference from the LoD version
-
-Also grants Defense vs. Missile.
+: Also grants Defense vs. Missile.
 
 Pros
 
 Cons
 
-::: {.ie5}
+::: {.slvl-table}
   slvl                        1    2-8   9-16   17-22   23-28   29+
   -------------------------- ---- ----- ------ ------- ------- -----
   F/C/L Damage Absorb         40   +12                         
@@ -71,12 +45,7 @@ Synergies
 :   *Winter Fury:* +5% F/C/L Damage Absorb Per Level\
     *Tornado:* +5% F/C/L Damage Absorb Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201027093707/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=3&page=Elemental%20Skills&refer=Elemental%20Skills)
-[TOP](#navigator)
-:::
-
-#### Arctic Blast [†](https://web.archive.org/web/20201027093707/http://miyoshino.la.coocan.jp/eswiki/?Elemental%20Skills#oe938272 "oe938272"){#oe938272 .anchor_super} {#content_1_2}
+#### Arctic Blast {#oe938272}
 
 Required Level
 :   1
@@ -85,24 +54,19 @@ Prerequisites
 :   *None*
 
 Difference from the LoD version
-:   Much improved damage. Also deals physical damage. Faster missiles.
-    Pierces enemies. Castable in wereform (but the missiles turn
-    invisible).
+:   Much improved damage. Also deals physical damage. Faster missiles. Pierces enemies. Castable in wereform (but the missiles turn invisible).
 
 Pros
-:   Chills enemies. Can kill both CI and PI monsters. can hit multiple
-    enemies if enemies are in a line.
+:   Chills enemies. Can kill both CI and PI monsters. can hit multiple enemies if enemies are in a line.
 
 Cons
-:   The caster must keep casting until the target dies. The blast is
-    long but narrow.
+:   The caster must keep casting until the target dies. The blast is long but narrow.
 
 Note
-:   Physical Damage = Base Cold Damage \* (100 + Cold Mastery + Wind
-    Mastery) / 100\
+:   Physical Damage = Base Cold Damage \* (100 + Cold Mastery + Wind Mastery) / 100\
     (\"Mastery\" includes \"XX% To XX Skill Damage\".)
 
-::: {.ie5}
+::: {.slvl-table}
   slvl                                1            2-8           9-16   17-22   23-28   29+
   --------------------------------- ------ -------------------- ------ ------- ------- -----
   Cold Damage Per Second (ES)        9-18           +9           +18     +36     +54    +54
@@ -125,12 +89,7 @@ Synergies
     *Tornado:* +7% Physical Damage Per Level\
     *Sandstorm:* +7% Physical Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201027093707/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=4&page=Elemental%20Skills&refer=Elemental%20Skills)
-[TOP](#navigator)
-:::
-
-#### Volcano [†](https://web.archive.org/web/20201027093707/http://miyoshino.la.coocan.jp/eswiki/?Elemental%20Skills#n0a8dff1 "n0a8dff1"){#n0a8dff1 .anchor_super} {#content_1_3}
+#### Volcano {#n0a8dff1}
 
 Required Level
 :   1
@@ -142,13 +101,12 @@ Difference from the LoD version
 :   Doubled the damage. Much shorter cast delay.
 
 Pros
-:   Deals two kinds of damage. The shorter cast delay let you stack
-    multiple volcanos.
+:   Deals two kinds of damage. The shorter cast delay let you stack multiple volcanos.
 
 Cons
 :   You need to pin the target.
 
-::: {.ie5}
+::: {.slvl-table}
   -----------------------------------------------------------------------------
   slvl            1         2-8        9-16      17-22      23-28       29+
   ----------- ---------- ---------- ---------- ---------- ---------- ----------
@@ -185,12 +143,7 @@ Synergies
     *Firestorm:* +7% Physical Damage Per Level\
     *Fire Maul:* +7% Physical Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201027093707/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=5&page=Elemental%20Skills&refer=Elemental%20Skills)
-[TOP](#navigator)
-:::
-
-#### Bone Spear [†](https://web.archive.org/web/20201027093707/http://miyoshino.la.coocan.jp/eswiki/?Elemental%20Skills#t903ee82 "t903ee82"){#t903ee82 .anchor_super} {#content_1_4}
+#### Bone Spear {#t903ee82}
 
 Required Level
 :   6
@@ -207,7 +160,7 @@ Pros
 Cons
 :   The missile is narrow.
 
-::: {.ie5}
+::: {.slvl-table}
   slvl                    1      2-8    9-16   17-22   23-28    29+
   -------------------- ------- ------- ------ ------- ------- -------
   Magic Damage (ES)     12-18    +6     +12     +18     +48     +48
@@ -223,31 +176,23 @@ Synergies
     *Tornado:* +7% Magic Damage Per Level\
     *Sandstorm:* +7% Magic Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201027093707/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=6&page=Elemental%20Skills&refer=Elemental%20Skills)
-[TOP](#navigator)
-:::
-
-#### Winter Fury [†](https://web.archive.org/web/20201027093707/http://miyoshino.la.coocan.jp/eswiki/?Elemental%20Skills#gc524b63 "gc524b63"){#gc524b63 .anchor_super} {#content_1_5}
+#### Winter Fury {#gc524b63}
 
 Required Level
-
-6
+: 6
 
 Prerequisites
-
-*Arctic Blast (1)*
+: *Arctic Blast (1)*
 
 Difference from Hurricane
-
-Less damage (50%\~75%). Longer duration. Less cast delay. Radius
+: Less damage (50%\~75%). Longer duration. Less cast delay. Radius
 increases per level.
 
 Pros
 
 Cons
 
-::: {.ie5}
+::: {.slvl-table}
   slvl                            1     2-8    9-16   17-22   23-28   29+
   ---------------------------- ------- ------ ------ ------- ------- -----
   Cold Damage (ES)              12-24    +4     +8     +12     +16    +16
@@ -270,12 +215,7 @@ Synergies
     *Sandstorm:* +7% Cold Damage Per Level\
     *Cyclone Armor:* +1 Second Duration Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201027093707/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=7&page=Elemental%20Skills&refer=Elemental%20Skills)
-[TOP](#navigator)
-:::
-
-#### Molten Boulder [†](https://web.archive.org/web/20201027093707/http://miyoshino.la.coocan.jp/eswiki/?Elemental%20Skills#ab5b00d5 "ab5b00d5"){#ab5b00d5 .anchor_super} {#content_1_6}
+#### Molten Boulder {#ab5b00d5}
 
 Required Level
 :   12
@@ -284,18 +224,15 @@ Prerequisites
 :   *Volcano (1)*
 
 Difference from the LoD version
-:   Doubled the damage. No cast delay. 3 times faster missile speed.
-    Bigger explosion.
+:   Doubled the damage. No cast delay. 3 times faster missile speed. Bigger explosion.
 
 Pros
-:   Spammable super fast boulders. Deals two kinds of damage. Knockback
-    effect is defensive.
+:   Spammable super fast boulders. Deals two kinds of damage. Knockback effect is defensive.
 
 Cons
-:   Still a bit more difficult to use than easy AoE skills like Blizzard
-    and Immolation.
+:   Still a bit more difficult to use than easy AoE skills like Blizzard and Immolation.
 
-::: {.ie5}
+::: {.slvl-table}
   slvl                               1     2-8    9-16   17-22   23-28    29+
   -------------------------------- ------ ------ ------ ------- ------- -------
   Fire & Physical Damage (ES)       6-12    +6    +12     +18     +27     +27
@@ -318,12 +255,7 @@ Synergies
     *Firestorm:* +6% Physical Damage Per Level\
     *Fire Maul:* +6% Physical Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201027093707/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=8&page=Elemental%20Skills&refer=Elemental%20Skills)
-[TOP](#navigator)
-:::
-
-#### Earth Spike [†](https://web.archive.org/web/20201027093707/http://miyoshino.la.coocan.jp/eswiki/?Elemental%20Skills#z21e559c "z21e559c"){#z21e559c .anchor_super} {#content_1_7}
+#### Earth Spike {#z21e559c}
 
 Required Level
 :   18
@@ -332,8 +264,7 @@ Prerequisites
 :   *Bone Spear (6)*
 
 Difference from Fissure (LoD)
-:   Deals Magic damage. Slows the target. Improved damage. Less cast
-    delay.
+:   Deals Magic damage. Slows the target. Improved damage. Less cast delay.
 
 Pros
 :   More spammable than Fissure (LoD). The slow effect is defensive.
@@ -341,7 +272,7 @@ Pros
 Cons
 :   You need to pin the target.
 
-::: {.ie5}
+::: {.slvl-table}
   slvl                                                                                                       1                                                                                2-8   9-16   17-22   23-28    29+
   ---------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------- ----- ------ ------- ------- -------
   Magic Damage (ES)                                                                                        8-16                                                                               +8    +12     +16     +40     +40
@@ -362,33 +293,23 @@ Synergies
     *Tornado:* +6% Magic Damage Per Level\
     *Sandstorm:* +6% Magic Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201027093707/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=9&page=Elemental%20Skills&refer=Elemental%20Skills)
-[TOP](#navigator)
-:::
-
-#### Tornado [†](https://web.archive.org/web/20201027093707/http://miyoshino.la.coocan.jp/eswiki/?Elemental%20Skills#c396faa7 "c396faa7"){#c396faa7 .anchor_super} {#content_1_8}
+#### Tornado {#c396faa7}
 
 Required Level
-
-18
+: 18
 
 Prerequisites
-
-*Arctic Blast (1), Winter Fury (6)*
+: *Arctic Blast (1), Winter Fury (6)*
 
 Difference from Twister (LoD)
-
-Improved damage. Missile radius and missile number is increased be
-synergy.
+: Improved damage. Missile radius and missile number is increased be synergy.
 
 Pros
-
-Good AoE.
+: Good AoE.
 
 Cons
 
-::: {.ie5}
+::: {.slvl-table}
   slvl                                       1               2-8   9-16   17-22   23-28   29+
   ------------------------------ -------------------------- ----- ------ ------- ------- -----
   Physical Damage (ES)                     18-30             +12   +18     +24     +30    +30
@@ -406,33 +327,23 @@ Synergies
     *Winter Fury:* +6% Physical Damage Per Level\
     *Sand Storm:* +6% Physical Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201027093707/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=10&page=Elemental%20Skills&refer=Elemental%20Skills)
-[TOP](#navigator)
-:::
-
-#### Firestorm [†](https://web.archive.org/web/20201027093707/http://miyoshino.la.coocan.jp/eswiki/?Elemental%20Skills#ge148be5 "ge148be5"){#ge148be5 .anchor_super} {#content_1_9}
+#### Firestorm {#ge148be5}
 
 Required Level
-
-24
+: 24
 
 Prerequisites
-
-*Volcano (1), Molten Boulder (12)*
+: *Volcano (1), Molten Boulder (12)*
 
 Difference from the LoD version
-
-Greatly improved damage. Less synergy. More Missiles. No cast delay.
-Longer range. Faster missile speed.
+: Greatly improved damage. Less synergy. More Missiles. No cast delay. Longer range. Faster missile speed.
 
 Pros
-
-More spammable than the LoD version.
+: More spammable than the LoD version.
 
 Cons
 
-::: {.ie5}
+::: {.slvl-table}
   slvl                                             1                    2-8    9-16   17-22   23-28   29+
   ------------------------------ ------------------------------------- ------ ------ ------- ------- -----
   Fire Damage Per Second (ES)                    60-90                  +30    +45     +60     +75    +75
@@ -453,32 +364,23 @@ Synergies
     *Fire Maul:* +5% Fire Damage Per Level\
     *Molten Boulder:* +1 Missile Per 5 Levels
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201027093707/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=11&page=Elemental%20Skills&refer=Elemental%20Skills)
-[TOP](#navigator)
-:::
-
-#### Creeping Doom [†](https://web.archive.org/web/20201027093707/http://miyoshino.la.coocan.jp/eswiki/?Elemental%20Skills#x8fc6eb1 "x8fc6eb1"){#x8fc6eb1 .anchor_super} {#content_1_10}
+#### Creeping Doom {#x8fc6eb1}
 
 Required Level
-
-30
+: 30
 
 Prerequisites
-
-*Bone Spear (6), Earth Spike (18), Acid Rain (24)*
+: *Bone Spear (6), Earth Spike (18), Acid Rain (24)*
 
 Difference from Twister (LoD)
-
-Deals Magic damage. Improved damage. Stuns enemies. Increased mana cost.
+: Deals Magic damage. Improved damage. Stuns enemies. Increased mana cost.
 
 Pros
-
-Good for crowd control and mass damage.
+: Good for crowd control and mass damage.
 
 Cons
 
-::: {.ie5}
+::: {.slvl-table}
   slvl                              1                     2-8                   9-16   17-22   23-28   29+
   ------------------------------- ------ ------------------------------------- ------ ------- ------- -----
   Magic Damage (ES)                3-6                    +3                    +4.5    +6      +18    +18
@@ -501,12 +403,7 @@ Synergies
     *Tornado:* +5% Magic Damage Per Level\
     *Sandstorm:* +5% Magic Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201027093707/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=12&page=Elemental%20Skills&refer=Elemental%20Skills)
-[TOP](#navigator)
-:::
-
-#### Sand Storm [†](https://web.archive.org/web/20201027093707/http://miyoshino.la.coocan.jp/eswiki/?Elemental%20Skills#ibc89de0 "ibc89de0"){#ibc89de0 .anchor_super} {#content_1_11}
+#### Sand Storm {#ibc89de0}
 
 Required Level
 :   30
@@ -518,13 +415,12 @@ Difference from Nova (LoD)
 :   Deals Physical damage. Much improved missile range.
 
 Pros
-:   Attacks the enemies in all directions. Spammable. Multiple missiles
-    hit a large target.
+:   Attacks the enemies in all directions. Spammable. Multiple missiles hit a large target.
 
 Cons
 :   The damage of each missile is low.
 
-::: {.ie5}
+::: {.slvl-table}
   slvl                             1     2-8   9-16   17-22   23-28   29+
   ----------------------------- ------- ----- ------ ------- ------- -----
   Physical Damage (ES)           18-36   +8    +12     +18     +24    +24
@@ -539,4 +435,5 @@ Synergies
     *Arctic Blast:* +6% Physical Damage Per Level\
     *Winter Fury:* +6% Physical Damage Per Level\
     *Tornado:* +6% Physical Damage Per Level
+:::
 :::
