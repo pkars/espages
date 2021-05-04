@@ -26,6 +26,12 @@ header-includes: |
     .gold {
       color: #909737;
     }
+
+    img.size-28 {
+      width: 28px;
+      height: 28px;
+    }
+
   </style>
 ---
 
@@ -737,20 +743,20 @@ Hephasto\'s Hand          Crystal Can (output: Pulsing Opal) + Key -\> Hephasto\
 ::: {.ie5}
 Rune Name | Image | Bonus | Recipe
 ----|--|----|------
-Moon | ![k1.gif](../img/a_037.gif "k1.gif"){width="28" height="28"} | +1 To Assassin Skill Levels | Null Rune + 2 Frozen Souls
-Fire | ![k2.gif](../img/a_013.gif "k2.gif"){width="28" height="28"} | +12% To Fire Skill Damage | Null Rune + 2 Bleeding Stones
-Water | ![k3.gif](../img/a_034.gif "k3.gif"){width="28" height="28"} | +12% To Cold Skill Damage | Null Rune + 2 Dark Azurites
-Wood | ![k4.gif](../img/a_038.gif "k4.gif"){width="28" height="28"} | +1 To Amazon Skill Levels | Null Rune + 2 Tomb Jades
-Metal | ![k5.gif](../img/a_003.gif "k5.gif"){width="28" height="28"} | +1 To Barbarian Skill Levels | Null Rune + 2 Solid Mercuries
-Earth | ![k6.gif](../img/a_030.gif "k6.gif"){width="28" height="28"} | +12% To Poison Skill Damage | Null Rune + 2 Bitter Peridots
-Sun | ![k7.gif](../img/a_016.gif "k7.gif"){width="28" height="28"} | +1 To Paladin Skill Levels | Null Rune + 2 Enigmatic Cinnabars
-Thunder | ![k8.gif](../img/a_025.gif "k8.gif"){width="28" height="28"} | +12% To Lightning Skill Damage | Null Rune + 2 Burning Surphurs
-Wind | ![k9.gif](../img/a_035.gif "k9.gif"){width="28" height="28"} | +1 To Sorceress Skill Levels | Null Rune + 2 Tainted Tourmarines
-Dragon | ![k10.gif](../img/a_026.gif "k10.gif"){width="28" height="28"} | +65% Enhanced Damage | Null Rune + 2 Storm Ambers
-Life | ![k11.gif](../img/a_036.gif "k11.gif"){width="28" height="28"} | +1 To Druid Skill Levels | Null Rune + 2 Pulsing Opals
-Death | ![k12.gif](../img/a.gif "k12.gif"){width="28" height="28"} | +1 To Necromancer Skill Levels | Null Rune + 2 Shadow Quartz
-Heaven | ![k13.gif](../img/a_021.gif "k13.gif"){width="28" height="28"} | +1 To All Skill Levels | Null Rune + Bleeding Stone\ + Dark Azurite + Bitter Peridot\ + Tainted Tourmarine
-God | ![k14.gif](../img/a_007.gif "k14.gif"){width="28" height="28"} | +2% To Experience Gained | Null Rune + Frozen Soul\ + Enigmatic Cinnabar + Pulsing Opal\ + Shadow Quartz
+Moon | ![k1.gif](../img/k1.gif){.size-28} | +1 To Assassin Skill Levels | Null Rune + 2 Frozen Souls
+Fire | ![k2.gif](../img/k2.gif){.size-28} | +12% To Fire Skill Damage | Null Rune + 2 Bleeding Stones
+Water | ![k3.gif](../img/k3.gif){.size-28} | +12% To Cold Skill Damage | Null Rune + 2 Dark Azurites
+Wood | ![k4.gif](../img/k4.gif){.size-28} | +1 To Amazon Skill Levels | Null Rune + 2 Tomb Jades
+Metal | ![k5.gif](../img/k5.gif){.size-28} | +1 To Barbarian Skill Levels | Null Rune + 2 Solid Mercuries
+Earth | ![k6.gif](../img/k6.gif){.size-28} | +12% To Poison Skill Damage | Null Rune + 2 Bitter Peridots
+Sun | ![k7.gif](../img/k7.gif){.size-28} | +1 To Paladin Skill Levels | Null Rune + 2 Enigmatic Cinnabars
+Thunder | ![k8.gif](../img/k8.gif){.size-28} | +12% To Lightning Skill Damage | Null Rune + 2 Burning Surphurs
+Wind | ![k9.gif](../img/k9.gif){.size-28} | +1 To Sorceress Skill Levels | Null Rune + 2 Tainted Tourmarines
+Dragon | ![k10.gif](../img/k10.gif){.size-28} | +65% Enhanced Damage | Null Rune + 2 Storm Ambers
+Life | ![k11.gif](../img/k11.gif){.size-28} | +1 To Druid Skill Levels | Null Rune + 2 Pulsing Opals
+Death | ![k12.gif](../img/k12.gif){.size-28} | +1 To Necromancer Skill Levels | Null Rune + 2 Shadow Quartz
+Heaven | ![k13.gif](../img/k13.gif){.size-28} | +1 To All Skill Levels | Null Rune + Bleeding Stone + Dark Azurite + Bitter Peridot + Tainted Tourmarine
+God | ![k14.gif](../img/k14.gif){.size-28} | +2% To Experience Gained | Null Rune + Frozen Soul + Enigmatic Cinnabar + Pulsing Opal + Shadow Quartz
 
 :::
 
