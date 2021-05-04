@@ -1,0 +1,4 @@
+../markdown/druid-main.md
+../markdown/druid-elemental.md
+../markdown/druid-shapeshift.md
+../markdown/druid-summon.md
