@@ -1,19 +1,9 @@
----
-lang: en
-title: Summoning_Dru - Eastern Sun Wiki
----
 
-::: {#body}
-[Druid](https://web.archive.org/web/20201027020241/http://miyoshino.la.coocan.jp/eswiki/?Druid "Druid (4193d)")
-- [Elemental
-Skills](https://web.archive.org/web/20201027020241/http://miyoshino.la.coocan.jp/eswiki/?Elemental%20Skills "Elemental Skills (3823d)")
-/ [Shape Shifting
-Skills](https://web.archive.org/web/20201027020241/http://miyoshino.la.coocan.jp/eswiki/?Shape%20Shifting "Shape Shifting (2162d)")
-/ Summoning Skills
+::: {#dru-summon}
+### Summoning Skills {#eb317514 "eb317514"){#eb317514 .anchor_super} {#content_1_0}
+[Druid](#top) - [Elemental Skills]() / [Shape Shifting Skills]() / Summoning Skills
 
 ::: {.contents}
-[]{#contents_1}
-
 -   [Summoning Skills](#eb317514)
     -   [Cow Balloon](#z4a7de80)
     -   [Raven](#e714c51f)
@@ -28,21 +18,7 @@ Skills](https://web.archive.org/web/20201027020241/http://miyoshino.la.coocan.jp
     -   [Summon Water Elemental](#l88916a5)
 :::
 
-\
-
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201027020241/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=1&page=Summoning_Dru&refer=Summoning_Dru)
-[TOP](#navigator)
-:::
-
-### Summoning Skills [†](https://web.archive.org/web/20201027020241/http://miyoshino.la.coocan.jp/eswiki/?Summoning_Dru#eb317514 "eb317514"){#eb317514 .anchor_super} {#content_1_0}
-
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201027020241/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=2&page=Summoning_Dru&refer=Summoning_Dru)
-[TOP](#navigator)
-:::
-
-#### Cow Balloon [†](https://web.archive.org/web/20201027020241/http://miyoshino.la.coocan.jp/eswiki/?Summoning_Dru#z4a7de80 "z4a7de80"){#z4a7de80 .anchor_super} {#content_1_1}
+#### Cow Balloon {#z4a7de80}
 
 Required Level
 :   1
@@ -56,20 +32,18 @@ A new ES skill
     Has thorns and lightning thorns effect, and damages melee attackers.
 
 Pros
-:   Handy to attract ranged attacks/spells. Can be used as mines against
-    melee attackers.
+:   Handy to attract ranged attacks/spells. Can be used as mines against melee attackers.
 
 Cons
-:   Each balloon doesn\'t last long, so you must keep casting to stop
-    melee attackers.
+:   Each balloon doesn\'t last long, so you must keep casting to stop melee attackers.
 
-::: {.ie5}
+::: {.slvl-table}
   slvl              1   2-3        4-16        17-22   23-28   29+
   ---------------- --- ----- ---------------- ------- ------- -----
   \# of Balloons    1   +1    +1 per 3 slvls                  
 :::
 
-::: {.ie5}
+::: {.slvl-table}
   slvl                                                 1                             2-8                     9-16   17-22   23-28   29+
   ------------------------------------------ --------------------- ---------------------------------------- ------ ------- ------- ------
   Base Life                                   Caster\'s Life x 5%                                                                  
@@ -86,12 +60,7 @@ Synergies
 :   *Spirit of Barbs*: +10% Thorns Damage Per Level\
     *Charged Claws*: +10% Lightning Thorns Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201027020241/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=3&page=Summoning_Dru&refer=Summoning_Dru)
-[TOP](#navigator)
-:::
-
-#### Raven [†](https://web.archive.org/web/20201027020241/http://miyoshino.la.coocan.jp/eswiki/?Summoning_Dru#e714c51f "e714c51f"){#e714c51f .anchor_super} {#content_1_2}
+#### Raven {#e714c51f}
 
 Required Level
 :   1
@@ -101,8 +70,7 @@ Prerequisites
 
 Difference from the LoD version
 :   Much improved damage. Has the chance of Crushing Blow instead of
-    Blindness effect, which overrides curses and is annoying in late
-    games.
+    Blindness effect, which overrides curses and is annoying in late games.
 
 Pros
 :   Increases the number of Wolves and Water Elementals as a synergy.
@@ -110,7 +78,7 @@ Pros
 Cons
 :   The ability of Ravens themselves isn\'t much impressive.
 
-::: {.ie5}
+::: {.slvl-table}
   slvl                               1                                 2-8                     9-16   17-22   23-28   29+
   ---------------------- -------------------------- ----------------------------------------- ------ ------- ------- -----
   \# of Ravens (ES)                  1               +1 per 2 levels (capped at 5 at slvl 9)                         
@@ -132,31 +100,23 @@ Synergies
     *Summon Water Elemental*: +1 Raven Per 10 Levels\
     *Cow Balloon*: +5% Life Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201027020241/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=4&page=Summoning_Dru&refer=Summoning_Dru)
-[TOP](#navigator)
-:::
-
-#### Poison Creeper [†](https://web.archive.org/web/20201027020241/http://miyoshino.la.coocan.jp/eswiki/?Summoning_Dru#j8494664 "j8494664"){#j8494664 .anchor_super} {#content_1_3}
+#### Poison Creeper {#j8494664}
 
 Required Level
-
-1
+: 1
 
 Prerequisites
-
-*None*
+: *None*
 
 Difference from the LoD version
-
-Much improved poison damage and stats. Multiple Vines can be summoned by
+: Much improved poison damage and stats. Multiple Vines can be summoned by
 investing hard points.
 
 Pros
 
 Cons
 
-::: {.ie5}
+::: {.slvl-table}
   slvl                                           1                             2-8                9-16   17-22   23-28   29+
   -------------------------------- ----------------------------- ------------------------------- ------ ------- ------- ------
   Poison Damage Per Second (ES)                4.5-9                          +1.5                 +3     +6      +13    +13
@@ -185,12 +145,7 @@ Synergies
     *Arctic Creeper*: +8% Poison Damage per Level\
     *Cow Balloon*: +20% Life per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201027020241/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=5&page=Summoning_Dru&refer=Summoning_Dru)
-[TOP](#navigator)
-:::
-
-#### Oak Sage [†](https://web.archive.org/web/20201027020241/http://miyoshino.la.coocan.jp/eswiki/?Summoning_Dru#v6dbc932 "v6dbc932"){#v6dbc932 .anchor_super} {#content_1_4}
+#### Oak Sage {#v6dbc932}
 
 Required Level
 :   6
@@ -208,7 +163,7 @@ Cons
 :   You can summon one kind of spirit at once. Spirits are slightly less
     reliable than auras because they may die.
 
-::: {.ie5}
+::: {.slvl-table}
   slvl                                 1           2-8    9-16   17-22   23-28   29+
   ----------------------------- ---------------- ------- ------ ------- ------- -----
   mlvl of Spirit                 caster\'s clvl                                 
@@ -228,12 +183,7 @@ Synergies
     *Heart of Wolverine*: +35% Life Per Level\
     *Spirit of Barbs*: +35% Life Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201027020241/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=6&page=Summoning_Dru&refer=Summoning_Dru)
-[TOP](#navigator)
-:::
-
-#### Summon Spirit Wolf [†](https://web.archive.org/web/20201027020241/http://miyoshino.la.coocan.jp/eswiki/?Summoning_Dru#f801536e "f801536e"){#f801536e .anchor_super} {#content_1_5}
+#### Summon Spirit Wolf {#f801536e}
 
 Required Level
 :   6
@@ -258,7 +208,7 @@ Known Issues
     bonus. Please see the skill panel for the correct values. The skill
     panel doesn\'t show the correct value either while the slvl is zero.
 
-::: {.ie5}
+::: {.slvl-table}
   slvl                         1                        2-8                 9-16   17-22   23-28   29+
   --------------------- ---------------- --------------------------------- ------ ------- ------- -----
   \# of Wolves                 1            +1 (capped at 5 at slvl 5)                            
@@ -289,24 +239,16 @@ Passive Bonuses
     (Passive bonus is similar to synergy, but the total skill level
     works instead of base level.)
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201027020241/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=7&page=Summoning_Dru&refer=Summoning_Dru)
-[TOP](#navigator)
-:::
-
-#### Volcanic Creeper [†](https://web.archive.org/web/20201027020241/http://miyoshino.la.coocan.jp/eswiki/?Summoning_Dru#a659c9e7 "a659c9e7"){#a659c9e7 .anchor_super} {#content_1_6}
+#### Volcanic Creeper {#a659c9e7}
 
 Required Level
-
-12
+: 12
 
 Prerequisites
-
-*Poison Creeper (1)*
+: *Poison Creeper (1)*
 
 Difference from Carrion Vine
-
-Uses a special version of Fissure that has 1/2 damage of Sorceress
+: Uses a special version of Fissure that has 1/2 damage of Sorceress
 Fissure. No Life Leech ability. Multiple Vines can be summoned by
 investing hard points.
 
@@ -314,7 +256,7 @@ Pros
 
 Cons
 
-::: {.ie5}
+::: {.slvl-table}
   slvl                                       1                             2-8                9-16   17-22   23-28    29+
   ---------------------------- ----------------------------- ------------------------------- ------ ------- ------- -------
   Fissure Fire Damage                      2.5-5                          +2.5                 +5    +7.5    +12.5   +12.5
@@ -343,12 +285,7 @@ Synergies
     *Arctic Creeper*: +6% Fire Damage per Level\
     *Cow Balloon*: +20% Life per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201027020241/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=8&page=Summoning_Dru&refer=Summoning_Dru)
-[TOP](#navigator)
-:::
-
-#### Heart of Wolverine [†](https://web.archive.org/web/20201027020241/http://miyoshino.la.coocan.jp/eswiki/?Summoning_Dru#e7cfe4f6 "e7cfe4f6"){#e7cfe4f6 .anchor_super} {#content_1_7}
+#### Heart of Wolverine {#e7cfe4f6}
 
 Required Level
 :   18
@@ -360,14 +297,12 @@ Difference from the LoD version
 :   You can summon multiple spirits by the synergy.
 
 Pros
-:   Offensive than Oak Sage. Party friendly if there are melee
-    characters.
+:   Offensive than Oak Sage. Party friendly if there are melee characters.
 
 Cons
-:   You can summon one kind of spirit at once. Spirits are slightly less
-    reliable than auras because they may die.
+:   You can summon one kind of spirit at once. Spirits are slightly less reliable than auras because they may die.
 
-::: {.ie5}
+::: {.slvl-table}
   slvl                                 1           2-8    9-16   17-22   23-28   29+
   ----------------------------- ---------------- ------- ------ ------- ------- -----
   mlvl of Spirit                 caster\'s clvl                                 
@@ -387,12 +322,7 @@ Synergies
     *Oak Sage*: +25% Life Per Level\
     *Spirit of Barbs*: +25% Life Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201027020241/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=9&page=Summoning_Dru&refer=Summoning_Dru)
-[TOP](#navigator)
-:::
-
-#### Summon Dire Wolf [†](https://web.archive.org/web/20201027020241/http://miyoshino.la.coocan.jp/eswiki/?Summoning_Dru#i863abb0 "i863abb0"){#i863abb0 .anchor_super} {#content_1_8}
+#### Summon Dire Wolf {#i863abb0}
 
 Required Level
 :   18
@@ -421,7 +351,7 @@ Known Issues
     The skill panel doesn\'t show the correct value either while the
     slvl is zero.
 
-::: {.ie5}
+::: {.slvl-table}
   slvl                                    1                        2-8                 9-16   17-22   23-28   29+
   -------------------------------- ---------------- --------------------------------- ------ ------- ------- -----
   \# of Wolves                            1            +1 (capped at 3 at slvl 3)                            
@@ -452,35 +382,25 @@ Passive Bonuses
 :   *Summon Spirit Wolf*: +25% Attack Rating Per Level\
     *Summon Spirit Wolf*: +10% Defense Per Level\
     *Summon Water Elemental*: +10% Damage Per Level\
-    (Passive bonus is similar to synergy, but the total skill level
-    works instead of base level.)
+    (Passive bonus is similar to synergy, but the total skill level works instead of base level.)
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201027020241/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=10&page=Summoning_Dru&refer=Summoning_Dru)
-[TOP](#navigator)
-:::
 
-#### Arctic Creeper [†](https://web.archive.org/web/20201027020241/http://miyoshino.la.coocan.jp/eswiki/?Summoning_Dru#z0450c57 "z0450c57"){#z0450c57 .anchor_super} {#content_1_9}
+#### Arctic Creeper {#z0450c57}
 
 Required Level
-
-24
+: 24
 
 Prerequisites
-
-*Poison Creeper (1), Carrion Vine (12)*
+: *Poison Creeper (1), Carrion Vine (12)*
 
 Difference from the LoD version
-
-Uses a special version of Cold Blast that has 5/8 damage (or more) of
-Assassin Cold Blast. No Mana Leech ability. Multiple Vines can be
-summoned by investing hard points.
+: Uses a special version of Cold Blast that has 5/8 damage (or more) of Assassin Cold Blast. No Mana Leech ability. Multiple Vines can be summoned by investing hard points.
 
 Pros
 
 Cons
 
-::: {.ie5}
+::: {.slvl-table}
   slvl                                         1                             2-8                9-16   17-22   23-28   29+
   ------------------------------ ----------------------------- ------------------------------- ------ ------- ------- -----
   Cold Blast Cold Damage                     8-16                            +8                 +12     +16     +20    +20
@@ -507,12 +427,7 @@ Synergies
     *Volcanic Creeper*: +7% Cold Damage per Level\
     *Cow Balloon*: +20% Life per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201027020241/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=11&page=Summoning_Dru&refer=Summoning_Dru)
-[TOP](#navigator)
-:::
-
-#### Spirit of Barbs [†](https://web.archive.org/web/20201027020241/http://miyoshino.la.coocan.jp/eswiki/?Summoning_Dru#o4150f92 "o4150f92"){#o4150f92 .anchor_super} {#content_1_10}
+#### Spirit of Barbs {#o4150f92}
 
 Required Level
 :   30
@@ -531,7 +446,7 @@ Cons
 :   You can summon one kind of spirit at once. Spirits are slightly less
     reliable than auras because they may die.
 
-::: {.ie5}
+::: {.slvl-table}
   slvl                                 1           2-8    9-16   17-22   23-28   29+
   ----------------------------- ---------------- ------- ------ ------- ------- -----
   mlvl of Spirit                 caster\'s clvl                                 
@@ -551,12 +466,7 @@ Synergies
     *Oak Sage*: +25% Life Per Level\
     *Heart of Wolverine*: +25% Life Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201027020241/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=12&page=Summoning_Dru&refer=Summoning_Dru)
-[TOP](#navigator)
-:::
-
-#### Summon Water Elemental [†](https://web.archive.org/web/20201027020241/http://miyoshino.la.coocan.jp/eswiki/?Summoning_Dru#l88916a5 "l88916a5"){#l88916a5 .anchor_super} {#content_1_11}
+#### Summon Water Elemental {#l88916a5}
 
 Required Level
 :   30
@@ -571,13 +481,14 @@ Difference from Summon Grizzly
 Pros
 :   The toughest minion of Druid.
 
-Cons\
+Cons
+
 Known Issues
 :   The skill icon shows slightly less All Resists and Damage Reduction
     bonus. Please see the skill panel for the correct values. The skill
     panel doesn\'t show the correct value either while the slvl is zero.
 
-::: {.ie5}
+::: {.slvl-table}
   slvl                              1                       2-8                9-16   17-22   23-28   29+
   -------------------------- ---------------- ------------------------------- ------ ------- ------- -----
   \# of Elementals                  1              +1 Per 20 Base Points                             
