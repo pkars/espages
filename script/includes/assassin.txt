@@ -1,0 +1,4 @@
+../markdown/assassin.md
+../markdown/assassin-martial-arts.md
+../markdown/assassin-shadow.md
+../markdown/assassin-traps.md

@@ -1,40 +1,24 @@
----
-lang: en
-title: Martial Arts - Eastern Sun Wiki
----
+### Martial Arts
 
-::: {#body}
-[Assassin](https://web.archive.org/web/20200923044442/http://miyoshino.la.coocan.jp/eswiki/?Assassin "Assassin (4016d)")
-- Martial Arts / [Shadow
-Disciplines](https://web.archive.org/web/20200923044442/http://miyoshino.la.coocan.jp/eswiki/?Shadow%20Disciplines "Shadow Disciplines (2866d)")
-/
-[Traps](https://web.archive.org/web/20200923044442/http://miyoshino.la.coocan.jp/eswiki/?Traps "Traps (2864d)")
+::: {#asn-martialarts}
+[Assassin](#top) - Martial Arts / [Shadow Disciplines] / [Traps]
 
 ::: {.contents}
-[]{#contents_1}
-
--   [Dragon Talon](#w8c45df7)
--   [Dragon Claw](#w9f0a1b4)
--   [Tiger Strike](#df23da37)
--   [Iaigiri](#t985f1fa)
--   [Fists of Fire](#e39d7dc6)
--   [Dragon Tail](#mb0e62b3)
--   [Dragon Blade](#sg4tarnj)
--   [Claws of Thunder](#jab5cf88)
--   [Dragon Flight](#l5f0ce18)
--   [Blades of Ice](#z2e539fe)
--   [Shuriken](#se6449e9)
--   [Phoenix Strike](#xeefacda)
+-   [Dragon Talon]
+-   [Dragon Claw]
+-   [Tiger Strike]
+-   [Iaigiri]
+-   [Fists of Fire]
+-   [Dragon Tail]
+-   [Dragon Blade]
+-   [Claws of Thunder]
+-   [Dragon Flight]
+-   [Blades of Ice]
+-   [Shuriken]
+-   [Phoenix Strike]
 :::
 
-\
-
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200923044442/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=1&page=Martial%20Arts&refer=Martial%20Arts)
-[TOP](#navigator)
-:::
-
-#### Dragon Talon [†](https://web.archive.org/web/20200923044442/http://miyoshino.la.coocan.jp/eswiki/?Martial%20Arts#w8c45df7 "w8c45df7"){#w8c45df7 .anchor_super} {#content_1_0}
+#### Dragon Talon
 
 Required Level
 :   1
@@ -52,7 +36,7 @@ Cons
 :   Kick damage depends on the boots, and difficult to increase. Kick
     damage is not affected by the damage augmenter.
 
-::: {.ie5}
+::: {.slvl-table}
   slvl                                                                                                                             1                                                                                                   2-8                     9-16   17-22   23-28   29+
   ------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------- ------ ------- ------- -----
   \# of Kicks (ES)                                                                                                                 4                                                                                                                                                 
@@ -92,12 +76,7 @@ Mods that do NOT transfer to your kicks:
 Kicking basics (damage formula, \...) from DiabloII:\
 [http://forums.diabloii.net/showthread.php?t=127905](https://web.archive.org/web/20200923044442/http://forums.diabloii.net/showthread.php?t=127905)
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200923044442/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=2&page=Martial%20Arts&refer=Martial%20Arts)
-[TOP](#navigator)
-:::
-
-#### Dragon Claw [†](https://web.archive.org/web/20200923044442/http://miyoshino.la.coocan.jp/eswiki/?Martial%20Arts#w9f0a1b4 "w9f0a1b4"){#w9f0a1b4 .anchor_super} {#content_1_1}
+#### Dragon Claw
 
 Required Level
 :   1
@@ -116,7 +95,7 @@ Notes
     speed is roughly 4.8 frame per swing. The fastest DC is nearly as
     fast as the fastest Zeal and has better damage bonus.
 
-The most popular usage of DC is finisher, the skill to release
+:   The most popular usage of DC is finisher, the skill to release
 charge-ups. The skill description reads DC releases the charge twice,
 but it actually does only once. Even the fastest DC requires 10 frames
 to release a charge, while single action attack (normal attack/Iaigiri)
@@ -127,7 +106,7 @@ like this: DC let you land another physical blow (with good ED) in only
 when you equip a 1H weapon (ie. the only single attack you can use is
 normal attack.)
 
-Another usage is the main attack skill. As stated above, DC is as good
+:   Another usage is the main attack skill. As stated above, DC is as good
 as Zeal. A pure DC build (using only DC) is possible, and can be better
 than using charge-up skills in some cases, say with tons of Crushing
 Blow and/or CtC Static. Like Zealots, pure DC builds may lack AoE (ie.
@@ -140,7 +119,7 @@ Pros
 Cons
 :   Requires dual claw. Release only one charge per two swings.
 
-::: {.ie5}
+::: {.slvl-table}
   slvl                     1    2-8   9-16   17-22   23-28   29+
   ---------------------- ----- ----- ------ ------- ------- -----
   Damage% (ES)            100   +16                         
@@ -158,12 +137,7 @@ Synergies
     *Tiger Strike:* +12% Damage Per Level\
     *Phoenix Strike:* +12% Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200923044442/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=3&page=Martial%20Arts&refer=Martial%20Arts)
-[TOP](#navigator)
-:::
-
-#### Tiger Strike [†](https://web.archive.org/web/20200923044442/http://miyoshino.la.coocan.jp/eswiki/?Martial%20Arts#df23da37 "df23da37"){#df23da37 .anchor_super} {#content_1_2}
+#### Tiger Strike
 
 Required Level
 :   1
@@ -180,7 +154,7 @@ Pros
 Cons
 :   Needs 3 charges for the maximum damage.
 
-::: {.ie5}
+::: {.slvl-table}
   slvl                                 1    2-8   9-16   17-22   23-28   29+
   ---------------------------------- ----- ----- ------ ------- ------- -----
   Charge 1 Damage% (ES)               100   +30                         
@@ -207,12 +181,7 @@ Synergies
     *Blades of Ice:* +1 Second Duration Per Level\
     *Phoenix Strike:* +1 Second Duration Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200923044442/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=4&page=Martial%20Arts&refer=Martial%20Arts)
-[TOP](#navigator)
-:::
-
-#### Iaigiri [†](https://web.archive.org/web/20200923044442/http://miyoshino.la.coocan.jp/eswiki/?Martial%20Arts#t985f1fa "t985f1fa"){#t985f1fa .anchor_super} {#content_1_3}
+#### Iaigiri
 
 Required Level
 :   6
@@ -230,7 +199,7 @@ Pros
 Cons
 :   Single target, normal speed.
 
-::: {.ie5}
+::: {.slvl-table}
   slvl                                  1            2-8     9-16   17-22   23-28   29+
   ----------------------------- ------------------ -------- ------ ------- ------- -----
   Weapon Damage (ES)                   5/4                                         
@@ -249,12 +218,7 @@ Synergies
     *Cloak of Shadows:* +5% Defense Per Level\
     *Blade Shield:* +5% Defense Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200923044442/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=5&page=Martial%20Arts&refer=Martial%20Arts)
-[TOP](#navigator)
-:::
-
-#### Fists of Fire [†](https://web.archive.org/web/20200923044442/http://miyoshino.la.coocan.jp/eswiki/?Martial%20Arts#e39d7dc6 "e39d7dc6"){#e39d7dc6 .anchor_super} {#content_1_4}
+#### Fists of Fire
 
 Required Level
 :   6
@@ -268,7 +232,8 @@ Difference from the LoD version
 Pros
 :   Decent and tight damage.
 
-Cons\
+Cons
+
 Notes
 :   A claw only skill, requires 1 claw but works better with 2. it it
     performs a quick 1-2 hit like dragon claw with 2 equipped gaining
@@ -276,25 +241,25 @@ Notes
     Less damage than Claws of thunder. burn damage and explosion damage
     hit all targets in range
 
-::: {.ie5}
+::: {.slvl-table}
   slvl                                 1       2-8     9-16    17-22   23-28   29+
   ------------------------------------ ------- ------- ------- ------- ------- -----
   Charge 1 Melee Fire Damage                                                   
   Fire Damage (ES)                     4-8     +4      +8      +16     +32     +32
   Fire Damage (LoD)                    6-10    +5      +10.5   +21     +31.5   +42
-                                                                               
+
   Charge 2 Fire Explosion                                                      
   Fire Damage (ES)                     4-8     +4      +8      +16     +32     +32
   Fire Damage (LoD)                    6-10    +5      +10.5   +21     +31.5   +42
   Radius of Explosion (ES) (yards)     3.33                                    
   Radius of Explosion (LoD) (yards)    2.67                                    
-                                                                               
+
   Charge 3 Fire Patch                                                          
   Fire Damage Per Second (ES)          12-25   +12     +25     +37     +50     +50
   Fire Damage Per Second (LoD)         6-10    +5      +10     +16.5   +23     +31
   Radius of Fire Patch (ES) (yards)    5.33                                    
   Radius of Fire Patch (LoD) (yards)   2.67                                    
-                                                                               
+
   Attack Rating% (ES)                  45      +15                             
   Attack Rating% (LoD)                 15      +7                              
   Attack Rating% after each Charge     +50                                     
@@ -318,12 +283,7 @@ Synergies
     *Blades of Ice:* +1 Second Duration Per Level\
     *Phoenix Strike:* +1 Second Duration Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200923044442/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=6&page=Martial%20Arts&refer=Martial%20Arts)
-[TOP](#navigator)
-:::
-
-#### Dragon Tail [†](https://web.archive.org/web/20200923044442/http://miyoshino.la.coocan.jp/eswiki/?Martial%20Arts#mb0e62b3 "mb0e62b3"){#mb0e62b3 .anchor_super} {#content_1_5}
+#### Dragon Tail
 
 Required Level
 :   18
@@ -350,7 +310,7 @@ Notes
     fist claws of thunder and blades of ice, and posibly other charge
     ups
 
-::: {.ie5}
+::: {.slvl-table}
   slvl                           1    2-8    9-16   17-22   23-28   29+
   ---------------------------- ----- ------ ------ ------- ------- -----
   Fire Damage%                  50    +10                          
@@ -361,12 +321,7 @@ Notes
   Mana Cost (LoD)               10                                 
 :::
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200923044442/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=7&page=Martial%20Arts&refer=Martial%20Arts)
-[TOP](#navigator)
-:::
-
-#### Dragon Blade [†](https://web.archive.org/web/20200923044442/http://miyoshino.la.coocan.jp/eswiki/?Martial%20Arts#sg4tarnj "sg4tarnj"){#sg4tarnj .anchor_super} {#content_1_6}
+#### Dragon Blade
 
 Required Level
 :   18
@@ -374,17 +329,19 @@ Required Level
 Prerequisites
 :   *Iaigiri (6)*
 
-Difference from the LoD version\
+Difference from the LoD version
+
 Pros
 :   attacks 2 enemies quickly. works a lot like double swing on groups
     of monsters.
 
-Cons\
+Cons
+
 Notes
 :   Two hand weapons, knives, and knuckles only. This skill shares all
     its synergies with shuriken.
 
-::: {.ie5}
+::: {.slvl-table}
   slvl               1    2-4   5-16   17-22   23-28   29+
   ---------------- ----- ----- ------ ------- ------- -----
   Number of Hits     2                                
@@ -399,12 +356,7 @@ Synergies
     *Blade Sentinel:* +7% Damage Per Level\
     *Blade Shield:* +7% Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200923044442/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=8&page=Martial%20Arts&refer=Martial%20Arts)
-[TOP](#navigator)
-:::
-
-#### Claws of Thunder [†](https://web.archive.org/web/20200923044442/http://miyoshino.la.coocan.jp/eswiki/?Martial%20Arts#jab5cf88 "jab5cf88"){#jab5cf88 .anchor_super} {#content_1_7}
+#### Claws of Thunder
 
 Required Level
 :   24
@@ -430,24 +382,24 @@ Notes
     monsters around you wile the charged bolts will spread out slightly
     past the edges of the screen.
 
-::: {.ie5}
+::: {.slvl-table}
   slvl                                   1     2-8     9-16   17-22   23-28   29+
   -------------------------------------- ----- ------- ------ ------- ------- ------
   Charge 1 Melee Lightning Damage                                             
   Min Lightning Damage                   1                                    
   Max Lightning Damage (ES)              45    +18     +36    +54     +72     +72
   Max Lightning Damage (LoD)             80    +20     +40    +60     +80     +100
-                                                                              
+
   Charge 2 Lightning (Sorceress Spell)                                        
   Min Lightning Damage                   1                                    
   Max Lightning Damage (ES)              45    +18     +36    +54     +72     +72
   Max Lightning Damage (LoD)             40    +20     +40    +60     +80     +100
-                                                                              
+
   Charge 3 Nova                                                               
   Min Lightning Damage                   1                                    
   Max Lightning Damage (ES)              22    +11     +22    +33     +44     +44
   Max Lightning Damage (LoD)             30    +15     +25    +35     +45     +65
-                                                                              
+
   Attack Rating% (ES)                    75    +15                            
   Attack Rating% (LoD)                   15    +7                             
   Attack Rating% after each Charge       +50                                  
@@ -470,12 +422,7 @@ Synergies
     *Claws of Thunder:* +1 Second Duration Per Level\
     *Phoenix Strike:* +1 Second Duration Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200923044442/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=9&page=Martial%20Arts&refer=Martial%20Arts)
-[TOP](#navigator)
-:::
-
-#### Dragon Flight [†](https://web.archive.org/web/20200923044442/http://miyoshino.la.coocan.jp/eswiki/?Martial%20Arts#l5f0ce18 "l5f0ce18"){#l5f0ce18 .anchor_super} {#content_1_8}
+#### Dragon Flight
 
 Required Level
 :   24
@@ -492,7 +439,7 @@ Pros
 Cons
 :   A single target skill.
 
-::: {.ie5}
+::: {.slvl-table}
   slvl                      1    2-8   9-16   17-22   23-28   29+
   ----------------------- ----- ----- ------ ------- ------- -----
   Kick Damage% (ES)        200   +25                         
@@ -508,12 +455,7 @@ Synergies
     *Dragon Tail:* +0.67 Yard Per 10 Levels\
     *Dragon Flight:* +0.67 Yard Per 10 Levels
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200923044442/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=10&page=Martial%20Arts&refer=Martial%20Arts)
-[TOP](#navigator)
-:::
-
-#### Blades of Ice [†](https://web.archive.org/web/20200923044442/http://miyoshino.la.coocan.jp/eswiki/?Martial%20Arts#z2e539fe "z2e539fe"){#z2e539fe .anchor_super} {#content_1_9}
+#### Blades of Ice
 
 Required Level
 :   18
@@ -533,28 +475,28 @@ Cons
     full charges in 2 rounds. Needs 3 charges for freezing effect.
     Damage is lower than other elemental charge-up skills.
 
-::: {.ie5}
+::: {.slvl-table}
   slvl                                1       2-8     9-16   17-22   23-28   29+
   ----------------------------------- ------- ------- ------ ------- ------- -----
   Charge 1 Melee Cold Damage                                                 
   Cold Damage (ES)                    16-32   +8      +16    +24     +32     +32
   Cold Damage (LoD)                   15-35   +8      +10    +21     +31     +41
   Cold Duration (seconds)             4       0.4                            
-                                                                             
+
   Charge 2 Ice Explosion                                                     
   Cold Damage (ES)                    16-32   +8      +16    +24     +32     +32
   Cold Damage (LoD)                   15-35   +8      +10    +21     +31     +41
   Radius of Explosion (ES) (yards)    5.33                                   
   Radius of Explosion (LoD) (yards)   4                                      
   Cold Duration (seconds)             4       0.4                            
-                                                                             
+
   Charge 3 Ice Cubes                                                         
   Cold Damage (ES)                    16-32   +8      +16    +24     +32     +32
   Cold Damage (LoD)                   15-35   +8      +10    +21     +31     +41
   Radius of Ice Cubes (ES) (yards)    2.67                                   
   Radius of Ice Cubes (LoD) (yards)   2                                      
   Freeze Duration (seconds)           4       0.4                            
-                                                                             
+
   Attack Rating% (ES)                 90      +15                            
   Attack Rating% (LoD)                15      +7                             
   Attack Rating% after each Charge    +50                                    
@@ -577,12 +519,7 @@ Synergies
     *Claws of Thunder:* +1 Second Duration Per Level\
     *Phoenix Strike:* +1 Second Duration Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200923044442/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=11&page=Martial%20Arts&refer=Martial%20Arts)
-[TOP](#navigator)
-:::
-
-#### Shuriken [†](https://web.archive.org/web/20200923044442/http://miyoshino.la.coocan.jp/eswiki/?Martial%20Arts#se6449e9 "se6449e9"){#se6449e9 .anchor_super} {#content_1_10}
+#### Shuriken
 
 Required Level
 :   30
@@ -601,7 +538,8 @@ Pros
     Lower Resist, and to pass the time after laying the maximum number
     of traps.
 
-Cons\
+Cons
+
 Notes
 :   shuriken will always throw its minimum number of knives unless ther
     are no targets in range. at 10 minimum,that might mean 10 knives at
@@ -614,7 +552,7 @@ Notes
     skills (the Barbarian Throwing Mastery as well as Assassin
     passives).
 
-::: {.ie5}
+::: {.slvl-table}
   ----------------------------------------------------------------------------
   slvl           1         2-8        9-16      17-22      23-28       29+
   ---------- ---------- ---------- ---------- ---------- ---------- ----------
@@ -649,12 +587,7 @@ Synergies
     *Blade Sentinel:* +6% Damage Per Level\
     *Blade Shield:* +6% Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200923044442/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=12&page=Martial%20Arts&refer=Martial%20Arts)
-[TOP](#navigator)
-:::
-
-#### Phoenix Strike [†](https://web.archive.org/web/20200923044442/http://miyoshino.la.coocan.jp/eswiki/?Martial%20Arts#xeefacda "xeefacda"){#xeefacda .anchor_super} {#content_1_11}
+#### Phoenix Strike
 
 Required Level
 :   30
@@ -674,7 +607,7 @@ Cons
     skills. Somewhat unwieldy unless you only want to use the 3rd
     charge.
 
-::: {.ie5}
+::: {.slvl-table}
   slvl                                        1       2-8   9-16   17-22   23-28   29+
   ------------------------------------------- ------- ----- ------ ------- ------- -------
   Charge 1 Meteor                                                                  
@@ -685,19 +618,19 @@ Cons
   Fire Duration (Second)                      1.2     0.6                          
   Radius of Explosion (ES) (yards)            6                                    
   Radius of Explosion (LoD) (yards)           4                                    
-                                                                                   
+
   Charge 2 Chain Lightning                                                         
   Min Lightning Damage                        1                                    
   Max Lightning Damage (ES)                   45      +15   +30    +45     +60     +60
   Max Lightning Damage (LoD)                  40      +20   +40    +60     +80     +100
   Chain Lightning Skip Radius (ES) (yards)    8                                    
   Chain Lightning Skip Radius (LoD) (yards)   5.67                                 
-                                                                                   
+
   Charge 3 Chaos Ice Bolt                                                          
   Cold Damage (ES)                            12-24   +8    +16    +24     +32     +32
   Cold Damage (LoD)                           16-32   +4    +8     +12.5   +20.5   +28.5
   Cold Length (seconds)                       4       0.6                          
-                                                                                   
+
   Attack Rating% (ES)                         105     +15                          
   Attack Rating% (LoD)                        15      +7                           
   Attack Rating% after each Charge            +25                                  

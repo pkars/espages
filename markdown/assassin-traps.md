@@ -1,53 +1,30 @@
----
-lang: en
-title: Traps - Eastern Sun Wiki
----
+### Traps
 
-::: {#body}
-[Assassin](https://web.archive.org/web/20130315132937/http://miyoshino.la.coocan.jp/eswiki/?Assassin "Assassin (1267d)")
-- [Martial
-Arts](https://web.archive.org/web/20130315132937/http://miyoshino.la.coocan.jp/eswiki/?Martial%20Arts "Martial Arts (322d)")
-/ [Shadow
-Disciplines](https://web.archive.org/web/20130315132937/http://miyoshino.la.coocan.jp/eswiki/?Shadow%20Disciplines "Shadow Disciplines (117d)")
-/ Traps
+::: {#asn-traps}
+[Assassin](#top) - [Martial Arts] / [Shadow Disciplines] / Traps
 
 ::: {.contents}
-[]{#contents_1}
-
--   [Traps](#f952a7b4)
-    -   [Cold Blast](#je6f2ed5)
-    -   [Shock Web](#n02f6532)
-    -   [Blade Shield](#c34f0662)
-    -   [Lava Sentry](#u3db85bb)
-    -   [Blade Sentinel](#ed4e4dac)
-    -   [Ice Fangs](#z1495685)
-    -   [Lightning Sentry](#z31ca3cf)
-    -   [Poison Stream](#xd59a23c)
-    -   [Cold Wave](#id6232b7)
-    -   [Steam Sentry](#o61c9e43)
-    -   [Death Sentry](#d73fee68)
+-   [Cold Blast]
+-   [Shock Web]
+-   [Blade Shield]
+-   [Lava Sentry]
+-   [Blade Sentinel]
+-   [Ice Fangs]
+-   [Lightning Sentry]
+-   [Poison Stream]
+-   [Cold Wave]
+-   [Steam Sentry]
+-   [Death Sentry]
 :::
 
-\
-
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20130315132937/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=1&page=Traps&refer=Traps)
-[TOP](#navigator)
+::: {.note}
+In LoD, **Sentry** type traps are treated as minions, and their
+damages aren\'t correctly boosted by caster\'s **Elemental
+Mastery**, **+% To Elemental Skill Damage** and **-% To Enemy
+Elemental Resist**. This problem is fixed in ES.
 :::
 
-### Traps [†](https://web.archive.org/web/20130315132937/http://miyoshino.la.coocan.jp/eswiki/?Traps#f952a7b4 "f952a7b4"){#f952a7b4 .anchor_super} {#content_1_0}
-
--   In LoD, **Sentry** type traps are treated as minions, and their
-    damages aren\'t correctly boosted by caster\'s **Elemental
-    Mastery**, **+% To Elemental Skill Damage** and **-% To Enemy
-    Elemental Resist**. This problem is fixed in ES.
-
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20130315132937/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=2&page=Traps&refer=Traps)
-[TOP](#navigator)
-:::
-
-#### Cold Blast [†](https://web.archive.org/web/20130315132937/http://miyoshino.la.coocan.jp/eswiki/?Traps#je6f2ed5 "je6f2ed5"){#je6f2ed5 .anchor_super} {#content_1_1}
+#### Cold Blast
 
 Required Level
 :   1
@@ -83,12 +60,7 @@ Synergies
     *Lightning Sentry:* +6% Cold Damage Per Level\
     *Steam Sentry:* +6% Cold Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20130315132937/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=3&page=Traps&refer=Traps)
-[TOP](#navigator)
-:::
-
-#### Shock Web [†](https://web.archive.org/web/20130315132937/http://miyoshino.la.coocan.jp/eswiki/?Traps#n02f6532 "n02f6532"){#n02f6532 .anchor_super} {#content_1_2}
+#### Shock Web
 
 Required Level
 :   1
@@ -136,12 +108,7 @@ Synergies
     *Ice Fangs:* +6% Cold Damage Per Level\
     *Cold Wave:* +6% Cold Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20130315132937/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=4&page=Traps&refer=Traps)
-[TOP](#navigator)
-:::
-
-#### Blade Shield [†](https://web.archive.org/web/20130315132937/http://miyoshino.la.coocan.jp/eswiki/?Traps#c34f0662 "c34f0662"){#c34f0662 .anchor_super} {#content_1_3}
+#### Blade Shield
 
 Required Level
 :   6
@@ -200,12 +167,7 @@ Synergies
     *Shock Web:* +12% All Damage Per Level\
     (The damage from the weapon isn\'t affected by the synergy.)
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20130315132937/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=5&page=Traps&refer=Traps)
-[TOP](#navigator)
-:::
-
-#### Lava Sentry [†](https://web.archive.org/web/20130315132937/http://miyoshino.la.coocan.jp/eswiki/?Traps#u3db85bb "u3db85bb"){#u3db85bb .anchor_super} {#content_1_4}
+#### Lava Sentry
 
 Required Level
 :   6
@@ -216,25 +178,24 @@ Prerequisites
 Difference from the LoD version
 :   Improved damage. Increased number of shoots.
 
-Pros\
-Cons\
+Pros
+
+Cons
+
 Notes
 :   entire shots occasionally appear to miss monsters that should have
     taken several hits.
-    ::: {.ie5}
-      slvl                  1               2-8             9-16   17-22   23-28   29+
-      ------------------- ------ ------------------------- ------ ------- ------- ------
-      Fire Damage (ES)     4-8              +2               +3     +4      +6      +6
-      Fire Damage (LoD)    5-10             +2               +3    +5.5    +7.5    +9.5
-      \# of Shoots          5                                                     
-      Mana Cost (ES)        13             +0.5                                   
-      Mana Cost (LoD)       13                                                    
-      \# of Traps           5     \+ 1 Per 10 Base Points                         
-    :::
 
-```{=html}
-<!-- -->
-```
+::: {.ie5}
+  slvl                  1               2-8             9-16   17-22   23-28   29+
+  ------------------- ------ ------------------------- ------ ------- ------- ------
+  Fire Damage (ES)     4-8              +2               +3     +4      +6      +6
+  Fire Damage (LoD)    5-10             +2               +3    +5.5    +7.5    +9.5
+  \# of Shoots          5                                                     
+  Mana Cost (ES)        13             +0.5                                   
+  Mana Cost (LoD)       13                                                    
+  \# of Traps           5     \+ 1 Per 10 Base Points                         
+:::
 
 Synergies
 :   *Shock Web:* +8% Fire Damage Per Level\
@@ -244,12 +205,7 @@ Synergies
     *Ice Fangs:* +6% Fire Damage Per Level\
     *Cold Wave:* +6% Fire Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20130315132937/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=6&page=Traps&refer=Traps)
-[TOP](#navigator)
-:::
-
-#### Blade Sentinel [†](https://web.archive.org/web/20130315132937/http://miyoshino.la.coocan.jp/eswiki/?Traps#ed4e4dac "ed4e4dac"){#ed4e4dac .anchor_super} {#content_1_5}
+#### Blade Sentinel
 
 Required Level
 :   12
@@ -294,28 +250,19 @@ Synergies
     *Blade Shield:* +0.2 Second Per Level\
     *Blade Shield:* +10% Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20130315132937/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=7&page=Traps&refer=Traps)
-[TOP](#navigator)
-:::
-
-#### Ice Fangs [†](https://web.archive.org/web/20130315132937/http://miyoshino.la.coocan.jp/eswiki/?Traps#z1495685 "z1495685"){#z1495685 .anchor_super} {#content_1_6}
+#### Ice Fangs
 
 Required Level
-
-12
+: 12
 
 Prerequisites
-
-*Cold Blast (1)*
+: *Cold Blast (1)*
 
 Difference from Fire Blast
-
-Greatly improved damage.
+: Greatly improved damage.
 
 Pros
-
-Spammable. Good AoE.
+: Spammable. Good AoE.
 
 Cons
 
@@ -337,12 +284,7 @@ Synergies
     *Lightning Sentry:* +5% Cold Damage Per Level\
     *Steam Sentry:* +5% Cold Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20130315132937/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=8&page=Traps&refer=Traps)
-[TOP](#navigator)
-:::
-
-#### Lightning Sentry [†](https://web.archive.org/web/20130315132937/http://miyoshino.la.coocan.jp/eswiki/?Traps#z31ca3cf "z31ca3cf"){#z31ca3cf .anchor_super} {#content_1_7}
+#### Lightning Sentry
 
 Required Level
 :   18
@@ -354,7 +296,8 @@ Difference from the LoD version
 :   Higher damage, higher mana cost and more traps total with hard point
     investment.
 
-Pros\
+Pros
+
 Cons
 :   higher mana cost plus more total traps can be hard to maintain mana
     levels without the ability to get mana on kill from sentry traps.
@@ -376,29 +319,19 @@ Synergies
     *Charged Bolt Sentry:* +10% Lightning Damage Per Level\
     *Death Sentry:* +10% Lightning Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20130315132937/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=9&page=Traps&refer=Traps)
-[TOP](#navigator)
-:::
-
-#### Poison Stream [†](https://web.archive.org/web/20130315132937/http://miyoshino.la.coocan.jp/eswiki/?Traps#xd59a23c "xd59a23c"){#xd59a23c .anchor_super} {#content_1_8}
+#### Poison Stream
 
 Required Level
-
-24
+: 24
 
 Prerequisites
-
-*Blade Shield (6), Blade Sentinel (12)*
+: *Blade Shield (6), Blade Sentinel (12)*
 
 Difference from Blade Fury
-
-Less weapon damage. Also deals poison damage.
+: Less weapon damage. Also deals poison damage.
 
 Pros
-
-Deals 2 kinds of damage. Triggers the special effects like Crushing
-Blow.
+: Deals 2 kinds of damage. Triggers the special effects like Crushing Blow.
 
 Cons
 
@@ -417,12 +350,7 @@ Synergies
 :   *Death Sentry:* +10% Poison Damage Per Level\
     *Venom:* +10% Poison Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20130315132937/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=10&page=Traps&refer=Traps)
-[TOP](#navigator)
-:::
-
-#### Cold Wave [†](https://web.archive.org/web/20130315132937/http://miyoshino.la.coocan.jp/eswiki/?Traps#id6232b7 "id6232b7"){#id6232b7 .anchor_super} {#content_1_9}
+#### Cold Wave
 
 Required Level
 :   24
@@ -453,12 +381,7 @@ Synergies
     *Blades of Ice:* +8% Cold Damage Per Level\
     *Phoenix Strike:* +4% Cold Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20130315132937/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=11&page=Traps&refer=Traps)
-[TOP](#navigator)
-:::
-
-#### Steam Sentry [†](https://web.archive.org/web/20130315132937/http://miyoshino.la.coocan.jp/eswiki/?Traps#o61c9e43 "o61c9e43"){#o61c9e43 .anchor_super} {#content_1_10}
+#### Steam Sentry
 
 Required Level
 :   24
@@ -466,9 +389,12 @@ Required Level
 Prerequisites
 :   *Shock Web (1), Lava Sentry (6), Lightning Sentry (18)*
 
-Difference from Inferno Sentry\
-Pros\
-Cons\
+Difference from Inferno Sentry
+
+Pros
+
+Cons
+
 Notes
 :   deals fire damage in what looks like a wide colum but in use the
     animation and monsters affected dont always match up.
@@ -491,19 +417,13 @@ Synergies
     *Lightning Sentry:* +6% Magic Damage Per Level\
     *Death Sentry:* +6% Magic Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20130315132937/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=12&page=Traps&refer=Traps)
-[TOP](#navigator)
-:::
-
-#### Death Sentry [†](https://web.archive.org/web/20130315132937/http://miyoshino.la.coocan.jp/eswiki/?Traps#d73fee68 "d73fee68"){#d73fee68 .anchor_super} {#content_1_11}
+#### Death Sentry
 
 Required Level
 :   30
 
 Prerequisites
-:   *Shock Web (1), Lava Sentry (6), Lightning Sentry (18), Steam
-    Sentry (24)*
+:   *Shock Web (1), Lava Sentry (6), Lightning Sentry (18), Steam Sentry (24)*
 
 Difference from the LoD version
 :   Less Corpse Explosion damage.

@@ -1,48 +1,24 @@
----
-lang: en
-title: Shadow Disciplines - Eastern Sun Wiki
----
+### Shadow Disciplines
 
-::: {#body}
-[Assassin](https://web.archive.org/web/20170817221850/http://miyoshino.la.coocan.jp/eswiki/?Assassin "Assassin (2884d)")
-- [Martial
-Arts](https://web.archive.org/web/20170817221850/http://miyoshino.la.coocan.jp/eswiki/?Martial%20Arts "Martial Arts (1938d)")
-/ Shadow Disciplines /
-[Traps](https://web.archive.org/web/20170817221850/http://miyoshino.la.coocan.jp/eswiki/?Traps "Traps (1732d)")
+::: {#asn-shadow}
+[Assassin](#top) - [Martial Arts] / Shadow Disciplines / [Traps]
 
 ::: {.contents}
-[]{#contents_1}
-
--   [Shadow Disciplines](#lbada228)
-    -   [Melee Mastery](#r6b93c19)
-    -   [Cloak of Shadows](#c0757c12)
-    -   [Weapon Block](#v0652487)
-    -   [Burst of Speed](#ffddd063)
-    -   [Command Mastery](#ae26120e)
-    -   [Shadow Warrior](#ka4942f4)
-    -   [Fade](#g5d64244)
-    -   [Psychic Slash](#g3aa9b26)
-    -   [Venom](#bfee3ce2)
-    -   [Shadow Master](#y3689c6d)
-    -   [Shade Armor](#v2ff7d7d)
-    -   [Mind Blast](#qe9c769b)
+-   [Melee Mastery]
+-   [Cloak of Shadows]
+-   [Weapon Block]
+-   [Burst of Speed]
+-   [Command Mastery]
+-   [Shadow Warrior]
+-   [Fade]
+-   [Psychic Slash]
+-   [Venom]
+-   [Shadow Master]
+-   [Shade Armor]
+-   [Mind Blast]
 :::
 
-\
-
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20170817221850/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=1&page=Shadow%20Disciplines&refer=Shadow%20Disciplines)
-[TOP](#navigator)
-:::
-
-### Shadow Disciplines [†](https://web.archive.org/web/20170817221850/http://miyoshino.la.coocan.jp/eswiki/?Shadow%20Disciplines#lbada228 "lbada228"){#lbada228 .anchor_super} {#content_1_0}
-
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20170817221850/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=2&page=Shadow%20Disciplines&refer=Shadow%20Disciplines)
-[TOP](#navigator)
-:::
-
-#### Melee Mastery [†](https://web.archive.org/web/20170817221850/http://miyoshino.la.coocan.jp/eswiki/?Shadow%20Disciplines#r6b93c19 "r6b93c19"){#r6b93c19 .anchor_super} {#content_1_1}
+#### Melee Mastery
 
 Required Level
 :   1
@@ -53,8 +29,10 @@ Prerequisites
 Difference from Claw Mastery (LoD)
 :   Works with any melee weapons.
 
-Pros\
-Cons\
+Pros
+
+Cons
+
 Notes
 :   Melee Mastery doesn\'t stack with Barbarian\'s Weapon Masteries. The
     higher level one takes effect.
@@ -70,12 +48,7 @@ Notes
   Critical Strike% (LoD)    [diminishing return](https://web.archive.org/web/20170817221850/http://miyoshino.la.coocan.jp/eswiki/?Glossary#diminishing_return "Glossary (2385d)") (0-25)                               
 :::
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20170817221850/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=3&page=Shadow%20Disciplines&refer=Shadow%20Disciplines)
-[TOP](#navigator)
-:::
-
-#### Cloak of Shadows [†](https://web.archive.org/web/20170817221850/http://miyoshino.la.coocan.jp/eswiki/?Shadow%20Disciplines#c0757c12 "c0757c12"){#c0757c12 .anchor_super} {#content_1_2}
+#### Cloak of Shadows
 
 Required Level
 :   1
@@ -113,12 +86,7 @@ Synergies
 :   *Psychic Slash:* -2% Physical Resit Per 3 Levels\
     *Mind Blast:* -2% Physical Resit Per 3 Levels
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20170817221850/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=4&page=Shadow%20Disciplines&refer=Shadow%20Disciplines)
-[TOP](#navigator)
-:::
-
-#### Weapon Block [†](https://web.archive.org/web/20170817221850/http://miyoshino.la.coocan.jp/eswiki/?Shadow%20Disciplines#v0652487 "v0652487"){#v0652487 .anchor_super} {#content_1_3}
+#### Weapon Block
 
 Required Level
 :   1
@@ -142,20 +110,13 @@ Note
   Chance To Block%    [diminishing return](https://web.archive.org/web/20170817221850/http://miyoshino.la.coocan.jp/eswiki/?Glossary#diminishing_return "Glossary (2385d)") (20-65)                               
 :::
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20170817221850/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=5&page=Shadow%20Disciplines&refer=Shadow%20Disciplines)
-[TOP](#navigator)
-:::
-
-#### Burst of Speed [†](https://web.archive.org/web/20170817221850/http://miyoshino.la.coocan.jp/eswiki/?Shadow%20Disciplines#ffddd063 "ffddd063"){#ffddd063 .anchor_super} {#content_1_4}
+#### Burst of Speed
 
 Required Level
-
-6
+: 6
 
 Prerequisites
-
-*None*
+: *None*
 
 Difference from the LoD version
 
@@ -201,26 +162,18 @@ Synergies
     *Venom:* +12 Seconds Per Level\
     *Shade Armor:* +12 Seconds Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20170817221850/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=6&page=Shadow%20Disciplines&refer=Shadow%20Disciplines)
-[TOP](#navigator)
-:::
-
-#### Command Mastery [†](https://web.archive.org/web/20170817221850/http://miyoshino.la.coocan.jp/eswiki/?Shadow%20Disciplines#ae26120e "ae26120e"){#ae26120e .anchor_super} {#content_1_5}
+#### Command Mastery
 
 Required Level
-
-6
+: 6
 
 Prerequisites
-
-*None*
+: *None*
 
 Difference from the LoD version
 
 Pros
-
-Give bonuses to Shadows
+: Give bonuses to Shadows
 
 Cons
 
@@ -233,12 +186,7 @@ Cons
 Synergies
 :   *None*
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20170817221850/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=7&page=Shadow%20Disciplines&refer=Shadow%20Disciplines)
-[TOP](#navigator)
-:::
-
-#### Shadow Warrior [†](https://web.archive.org/web/20170817221850/http://miyoshino.la.coocan.jp/eswiki/?Shadow%20Disciplines#ka4942f4 "ka4942f4"){#ka4942f4 .anchor_super} {#content_1_6}
+#### Shadow Warrior
 
 Required Level
 :   12
@@ -300,20 +248,13 @@ Synergies
 *command Mastery:* +1% crushing blow Per Levels\
 *command Mastery:* +2% piercing attack Per Levels
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20170817221850/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=8&page=Shadow%20Disciplines&refer=Shadow%20Disciplines)
-[TOP](#navigator)
-:::
-
-#### Fade [†](https://web.archive.org/web/20170817221850/http://miyoshino.la.coocan.jp/eswiki/?Shadow%20Disciplines#g5d64244 "g5d64244"){#g5d64244 .anchor_super} {#content_1_7}
+#### Fade
 
 Required Level
-
-18
+: 18
 
 Prerequisites
-
-*Burst of Speed (6)*
+: *Burst of Speed (6)*
 
 Difference from the LoD version
 
@@ -338,12 +279,7 @@ Synergies
     *Venom:* +12 Seconds Per Level\
     *Shade Armor:* +12 Seconds Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20170817221850/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=9&page=Shadow%20Disciplines&refer=Shadow%20Disciplines)
-[TOP](#navigator)
-:::
-
-#### Psychic Slash [†](https://web.archive.org/web/20170817221850/http://miyoshino.la.coocan.jp/eswiki/?Shadow%20Disciplines#g3aa9b26 "g3aa9b26"){#g3aa9b26 .anchor_super} {#content_1_8}
+#### Psychic Slash
 
 Required Level
 :   18
@@ -351,9 +287,12 @@ Required Level
 Prerequisites
 :   *Cloak of Shadows (1)*
 
-Difference from Psychic Hammer (LoD)\
-Pros\
-Cons\
+Difference from Psychic Hammer (LoD)
+
+Pros
+
+Cons
+
 Notes
 :   this skill will automatically select a target from about 1/4 of the
     screen area if you right click with no target or have it on left
@@ -381,12 +320,7 @@ Synergies
 :   *Cloak of Shadows:* +5% all Damage Per Level\
     *Mind Blast:* +5% all Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20170817221850/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=10&page=Shadow%20Disciplines&refer=Shadow%20Disciplines)
-[TOP](#navigator)
-:::
-
-#### Venom [†](https://web.archive.org/web/20170817221850/http://miyoshino.la.coocan.jp/eswiki/?Shadow%20Disciplines#bfee3ce2 "bfee3ce2"){#bfee3ce2 .anchor_super} {#content_1_9}
+#### Venom
 
 Required Level
 :   24
@@ -397,7 +331,8 @@ Prerequisites
 Difference from the LoD version
 :   Longer poison length.
 
-Pros\
+Pros
+
 Cons
 :   Longer poison length.
 
@@ -421,12 +356,7 @@ Synergies
     *Cloaks of Shadows:* +5% Poison Damage\
     *Poison Stream:* +5% Poison Damage
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20170817221850/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=11&page=Shadow%20Disciplines&refer=Shadow%20Disciplines)
-[TOP](#navigator)
-:::
-
-#### Shadow Master [†](https://web.archive.org/web/20170817221850/http://miyoshino.la.coocan.jp/eswiki/?Shadow%20Disciplines#y3689c6d "y3689c6d"){#y3689c6d .anchor_super} {#content_1_10}
+#### Shadow Master
 
 Required Level
 :   24
@@ -528,27 +458,18 @@ Synergies
     *Command Master:* +1% crushing blow Per Levels\
     *Command Master:* +2% piercing attack Per Levels
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20170817221850/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=12&page=Shadow%20Disciplines&refer=Shadow%20Disciplines)
-[TOP](#navigator)
-:::
-
-#### Shade Armor [†](https://web.archive.org/web/20170817221850/http://miyoshino.la.coocan.jp/eswiki/?Shadow%20Disciplines#v2ff7d7d "v2ff7d7d"){#v2ff7d7d .anchor_super} {#content_1_11}
+#### Shade Armor
 
 Required Level
-
-30
+: 30
 
 Prerequisites
-
-*Burst of Speed (6), Fade (18), Venom (24)*
+: *Burst of Speed (6), Fade (18), Venom (24)*
 
 A new ES skill
 
 Pros
-
-Physical Resist% (DR%) is capped at 50%, but more than that is helpful
-when cursed.
+: Physical Resist% (DR%) is capped at 50%, but more than that is helpful when cursed.
 
 Cons
 
@@ -566,12 +487,7 @@ Synergies
     *Fists of Fire:* +12 Seconds Per Level\
     *Venom:* +12 Seconds Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20170817221850/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=13&page=Shadow%20Disciplines&refer=Shadow%20Disciplines)
-[TOP](#navigator)
-:::
-
-#### Mind Blast [†](https://web.archive.org/web/20170817221850/http://miyoshino.la.coocan.jp/eswiki/?Shadow%20Disciplines#qe9c769b "qe9c769b"){#qe9c769b .anchor_super} {#content_1_12}
+#### Mind Blast
 
 Required Level
 :   30
