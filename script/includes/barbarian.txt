@@ -1,0 +1,4 @@
+../markdown/barbarian.md
+../markdown/barbarian-warcries.md
+../markdown/barbarian-combat-masteries.md
+../markdown/barbarian-combat-skills.md

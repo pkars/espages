@@ -1,48 +1,25 @@
----
-lang: en
-title: Warcries - Eastern Sun Wiki
----
+### Warcries
 
-::: {#body}
-[Barbarian](https://web.archive.org/web/20200918090638/http://miyoshino.la.coocan.jp/eswiki/?Barbarian "Barbarian (1576d)")
-- Warcries - [Combat
-Masteries](https://web.archive.org/web/20200918090638/http://miyoshino.la.coocan.jp/eswiki/?Combat%20Masteries "Combat Masteries (2326d)")
-- [Combat
-Skills](https://web.archive.org/web/20200918090638/http://miyoshino.la.coocan.jp/eswiki/?Combat%20Skills_Bar "Combat Skills_Bar (3099d)")
+::: {#bar-warcries}
+[Barbarian](#top) - Warcries / [Combat Masteries] / [Combat Skills]
 
 ::: {.contents}
-[]{#contents_1}
-
--   [Warcries](#zfcd2f06)
-    -   [Taunt](#v5bf188d)
-    -   [Howl](#q150330a)
-    -   [Leap](#x75339a6)
-    -   [Shout](#i39d4560)
-    -   [Leap Attack](#u6192d6f)
-    -   [Battle Cry](#l32f8e6f)
-    -   [Battle Orders](#xe5cd5fb)
-    -   [Find Treasure](#i0a70cae)
-    -   [War Cry](#v4a96d5d)
-    -   [Battle Command](#d354c492)
-    -   [Ancient\'s Call](#zb0f5eb7)
-    -   [Ghost Decoy](#tc2c14c9)
+-   [Warcries]
+    -   [Taunt]
+    -   [Howl]
+    -   [Leap]
+    -   [Shout]
+    -   [Leap Attack]
+    -   [Battle Cry]
+    -   [Battle Orders]
+    -   [Find Treasure]
+    -   [War Cry]
+    -   [Battle Command]
+    -   [Ancient\'s Call]
+    -   [Ghost Decoy]
 :::
 
-\
-
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200918090638/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=1&page=Warcries&refer=Warcries)
-[TOP](#navigator)
-:::
-
-### Warcries [†](https://web.archive.org/web/20200918090638/http://miyoshino.la.coocan.jp/eswiki/?Warcries#zfcd2f06 "zfcd2f06"){#zfcd2f06 .anchor_super} {#content_1_0}
-
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200918090638/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=2&page=Warcries&refer=Warcries)
-[TOP](#navigator)
-:::
-
-#### Taunt [†](https://web.archive.org/web/20200918090638/http://miyoshino.la.coocan.jp/eswiki/?Warcries#v5bf188d "v5bf188d"){#v5bf188d .anchor_super} {#content_1_1}
+#### Taunt
 
 Required Level
 :   1
@@ -59,7 +36,7 @@ Pros
 Cons
 :   Overrides Curses.
 
-::: {.ie5}
+::: {.slvl-table}
   slvl                                                                                                                                                        1                                                                                 2-8   9-16   17-22   23-28   29+
   ---------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------- ----- ------ ------- ------- -----
   Target\'s Damage% (ES)                                                        \-[diminishing return](https://web.archive.org/web/20200918090638/http://miyoshino.la.coocan.jp/eswiki/?Glossary#diminishing_return "Glossary (137d)") (1-66)                               
@@ -70,32 +47,23 @@ Cons
   Taunt makes ranged attackers cease fire, and all monsters walk toward you.                                                                                                                                                                                                
 :::
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200918090638/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=3&page=Warcries&refer=Warcries)
-[TOP](#navigator)
-:::
-
-#### Howl [†](https://web.archive.org/web/20200918090638/http://miyoshino.la.coocan.jp/eswiki/?Warcries#q150330a "q150330a"){#q150330a .anchor_super} {#content_1_2}
+#### Howl
 
 Required Level
-
-1
+: 1
 
 Prerequisites
-
-*None*
+: *None*
 
 Difference from the LoD version
-
-Improved flee distance and duration.
+: Improved flee distance and duration.
 
 Pros
-
-May save the life when getting mobbed.
+: May save the life when getting mobbed.
 
 Cons
 
-::: {.ie5}
+::: {.slvl-table}
   slvl                                  1      2-8    9-16   17-22   23-28   29+
   ---------------------------------- ------- ------- ------ ------- ------- -----
   Flee Distance (yards) (ES)          23.33   +3.33                         
@@ -106,12 +74,7 @@ Cons
   Mana Cost                             4                                   
 :::
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200918090638/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=4&page=Warcries&refer=Warcries)
-[TOP](#navigator)
-:::
-
-#### Leap [†](https://web.archive.org/web/20200918090638/http://miyoshino.la.coocan.jp/eswiki/?Warcries#x75339a6 "x75339a6"){#x75339a6 .anchor_super} {#content_1_3}
+#### Leap
 
 Required Level
 :   1
@@ -129,7 +92,7 @@ Pros
 Cons
 :   Doesn\'t do any damage.
 
-::: {.ie5}
+::: {.slvl-table}
   slvl                                                                                                         1                                                                                   2-8    9-16   17-22   23-28   29+
   ----------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------- ------- ------ ------- ------- -----
   Leap Distance (yards) (ES)                                                                                   20                                                                                                               
@@ -138,32 +101,23 @@ Cons
   Mana Cost                                                                                                    2                                                                                                                
 :::
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200918090638/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=5&page=Warcries&refer=Warcries)
-[TOP](#navigator)
-:::
-
-#### Shout [†](https://web.archive.org/web/20200918090638/http://miyoshino.la.coocan.jp/eswiki/?Warcries#i39d4560 "i39d4560"){#i39d4560 .anchor_super} {#content_1_4}
+#### Shout
 
 Required Level
-
-6
+: 6
 
 Prerequisites
-
-*Howl (1)*
+: *Howl (1)*
 
 Difference from the LoD version
-
-Improved Defense bonus.
+: Improved Defense bonus.
 
 Pros
-
-A passive bonus is always useful. Party friendly.
+: A passive bonus is always useful. Party friendly.
 
 Cons
 
-::: {.ie5}
+::: {.slvl-table}
   slvl                         1     2-8    9-16   17-22   23-28   29+
   -------------------------- ------ ------ ------ ------- ------- -----
   Defense% (ES)               +100   +15                          
@@ -180,12 +134,7 @@ Synergy
     *Battle Cry:* +5 Seconds Per Level\
     *Battle Orders:* +5 Seconds Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200918090638/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=6&page=Warcries&refer=Warcries)
-[TOP](#navigator)
-:::
-
-#### Leap Attack [†](https://web.archive.org/web/20200918090638/http://miyoshino.la.coocan.jp/eswiki/?Warcries#u6192d6f "u6192d6f"){#u6192d6f .anchor_super} {#content_1_5}
+#### Leap Attack
 
 Required Level
 :   12
@@ -203,7 +152,7 @@ Cons
 :   Now the damage is reflected by Iron Maiden. (Monster\'s Iron Maiden
     is much weaker against players in ES, though.)
 
-::: {.ie5}
+::: {.slvl-table}
   slvl                        1      2-8    9-16   17-22   23-28   29+
   ------------------------- ------ ------- ------ ------- ------- -----
   Weapon Damage (ES)         5/4                                  
@@ -222,12 +171,7 @@ Synergies
     *Berserk:* +9% Damage Per Level\
     *Concentrate:* +5% Attack Rating Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200918090638/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=7&page=Warcries&refer=Warcries)
-[TOP](#navigator)
-:::
-
-#### Battle Cry [†](https://web.archive.org/web/20200918090638/http://miyoshino.la.coocan.jp/eswiki/?Warcries#l32f8e6f "l32f8e6f"){#l32f8e6f .anchor_super} {#content_1_6}
+#### Battle Cry
 
 Required Level
 :   18
@@ -243,19 +187,15 @@ Pros
 
 Cons
 
-:   ::: {.ie5}
-      slvl                         1            2-8           9-16   17-22   23-28   29+
-      -------------------------- ----- --------------------- ------ ------- ------- -----
-      Target\'s Damage%           -25   -1 (Capped at -95%)                         
-      Target\'s Defense%          -50   -2 (Capped at -95%)                         
-      Duration (seconds) (ES)     12            +4                                  
-      Duration (seconds) (LoD)    12           +2.4                                 
-      Mana Cost                    5                                                
-    :::
-
-```{=html}
-<!-- -->
-```
+::: {.slvl-table}
+slvl                         1            2-8           9-16   17-22   23-28   29+
+-------------------------- ----- --------------------- ------ ------- ------- -----
+Target\'s Damage%           -25   -1 (Capped at -95%)                         
+Target\'s Defense%          -50   -2 (Capped at -95%)                         
+Duration (seconds) (ES)     12            +4                                  
+Duration (seconds) (LoD)    12           +2.4                                 
+Mana Cost                    5                                                
+:::
 
 Synergy
 :   *Taunt:* -2% Target\'s Defense Per Level\
@@ -265,32 +205,23 @@ Synergy
     *Battle Orders:* +2 Seconds Per Level\
     *Battle Command:* +2 Seconds Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200918090638/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=8&page=Warcries&refer=Warcries)
-[TOP](#navigator)
-:::
-
-#### Battle Orders [†](https://web.archive.org/web/20200918090638/http://miyoshino.la.coocan.jp/eswiki/?Warcries#xe5cd5fb "xe5cd5fb"){#xe5cd5fb .anchor_super} {#content_1_7}
+#### Battle Orders
 
 Required Level
-
-18
+: 18
 
 Prerequisites
-
-*Howl (1), Shout (6)*
+: *Howl (1), Shout (6)*
 
 Difference from the LoD version
-
-Receives Max Life/Mana synergy.
+: Receives Max Life/Mana synergy.
 
 Pros
-
-More Life is always good. Party friendly.
+: More Life is always good. Party friendly.
 
 Cons
 
-::: {.ie5}
+::: {.slvl-table}
   slvl                   1    2-8    9-16   17-22   23-28   29+
   --------------------- ---- ------ ------ ------- ------- -----
   Increased Max Life%    35    +3                          
@@ -308,12 +239,7 @@ Synergy
     *Battle Cry:* +5 Seconds Per Level\
     *Battle Command:* +5 Seconds Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200918090638/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=9&page=Warcries&refer=Warcries)
-[TOP](#navigator)
-:::
-
-#### Find Treasure [†](https://web.archive.org/web/20200918090638/http://miyoshino.la.coocan.jp/eswiki/?Warcries#i0a70cae "i0a70cae"){#i0a70cae .anchor_super} {#content_1_8}
+#### Find Treasure
 
 Required Level
 :   18
@@ -330,7 +256,7 @@ Pros
 Cons
 :   It\'s often faster to just kill more enemies for more drops.
 
-::: {.ie5}
+::: {.slvl-table}
   slvl                                                                                                     1                                                                                 2-8   9-16   17-22   23-28   29+
   -------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------- ----- ------ ------- ------- -----
   Item Find Chance% (ES)      [diminishing return](https://web.archive.org/web/20200918090638/http://miyoshino.la.coocan.jp/eswiki/?Glossary#diminishing_return "Glossary (137d)") (15-60)                               
@@ -340,12 +266,7 @@ Cons
   Mana Cost                                                                                                7                                                                                                             
 :::
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200918090638/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=10&page=Warcries&refer=Warcries)
-[TOP](#navigator)
-:::
-
-#### War Cry [†](https://web.archive.org/web/20200918090638/http://miyoshino.la.coocan.jp/eswiki/?Warcries#v4a96d5d "v4a96d5d"){#v4a96d5d .anchor_super} {#content_1_9}
+#### War Cry
 
 Required Level
 :   24
@@ -362,7 +283,7 @@ Pros
 Cons
 :   Damage is mediocre.
 
-::: {.ie5}
+::: {.slvl-table}
   slvl                               1     2-8    9-16   17-22   23-28   29+
   ------------------------------- ------- ------ ------ ------- ------- -----
   Stun Duration (seconds) (ES)       2     +0.2                         
@@ -383,12 +304,7 @@ Synergy
     *Battle Cry:* 5% Magic Damage Per Level\
     *Nova:* 5% Magic Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200918090638/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=11&page=Warcries&refer=Warcries)
-[TOP](#navigator)
-:::
-
-#### Battle Command [†](https://web.archive.org/web/20200918090638/http://miyoshino.la.coocan.jp/eswiki/?Warcries#d354c492 "d354c492"){#d354c492 .anchor_super} {#content_1_10}
+#### Battle Command
 
 Required Level
 :   24
@@ -407,7 +323,7 @@ Pros
 Cons
 :   Getting +5 skills is a large skill point investment.
 
-::: {.ie5}
+::: {.slvl-table}
   slvl                        1            2-8            9-16   17-22   23-28   29+
   -------------------------- ---- ---------------------- ------ ------- ------- -----
   All Skill Bonus (ES)        +1   +1 per 5 base points                         
@@ -421,12 +337,7 @@ Synergy
 :   *Battle Cry:* +5 Seconds Per Level\
     *Battle Orders:* +5 Seconds Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200918090638/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=12&page=Warcries&refer=Warcries)
-[TOP](#navigator)
-:::
-
-#### Ancient\'s Call [†](https://web.archive.org/web/20200918090638/http://miyoshino.la.coocan.jp/eswiki/?Warcries#zb0f5eb7 "zb0f5eb7"){#zb0f5eb7 .anchor_super} {#content_1_11}
+#### Ancient\'s Call
 
 Required Level
 :   30
@@ -442,29 +353,21 @@ Pros
 
 Cons
 :   Overrides Curses. Difficult to use with ranged attack skills.
-    ::: {.ie5}
-      slvl                            1            2-8           9-16   17-22   23-28   29+
-      ----------------------------- ----- --------------------- ------ ------- ------- -----
-      Target\'s F/C/L/P/M resist%    -20   +2 (capped at -100)                         
-      Duration (seconds)             12            +4                                  
-      Mana Cost                       5                                                
-    :::
 
-```{=html}
-<!-- -->
-```
+::: {.slvl-table}
+  slvl                            1            2-8           9-16   17-22   23-28   29+
+  ----------------------------- ----- --------------------- ------ ------- ------- -----
+  Target\'s F/C/L/P/M resist%    -20   +2 (capped at -100)                         
+  Duration (seconds)             12            +4                                  
+  Mana Cost                       5                                                
+:::
 
 Synergy
 :   *Taunt:* +2 Seconds Per Level\
     *Howl:* +2 Seconds Per Level\
     *Natural Resistance:* +2 Seconds Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200918090638/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=13&page=Warcries&refer=Warcries)
-[TOP](#navigator)
-:::
-
-#### Ghost Decoy [†](https://web.archive.org/web/20200918090638/http://miyoshino.la.coocan.jp/eswiki/?Warcries#tc2c14c9 "tc2c14c9"){#tc2c14c9 .anchor_super} {#content_1_12}
+#### Ghost Decoy
 
 Required Level
 :   24
@@ -497,7 +400,7 @@ Known Issues
     skill panel for the correct values. The skill panel doesn\'t show
     the correct value either while the slvl is zero.
 
-::: {.ie5}
+::: {.slvl-table}
   slvl                            1               2-8            9-16   17-22   23-28   29+
   --------------------------- --------- ----------------------- ------ ------- ------- -----
   \# of Summon                    1      +1 Per 10 Base Points                         

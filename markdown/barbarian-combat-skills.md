@@ -1,40 +1,22 @@
----
-lang: en
-title: Combat Skills_Bar - Eastern Sun Wiki
----
-
-::: {#body}
-[Barbarian](https://web.archive.org/web/20200918063417/http://miyoshino.la.coocan.jp/eswiki/?Barbarian "Barbarian (1576d)")
--
-[Warcries](https://web.archive.org/web/20200918063417/http://miyoshino.la.coocan.jp/eswiki/?Warcries "Warcries (2598d)")
-- [Combat
-Masteries](https://web.archive.org/web/20200918063417/http://miyoshino.la.coocan.jp/eswiki/?Combat%20Masteries "Combat Masteries (2326d)")
-- Combat Skills
+### Combat Skills
+::: {#bar-combatskills}
+[Barbarian](#top) - [Warcries] / [Combat Masteries] / Combat Skills
 
 ::: {.contents}
-[]{#contents_1}
-
--   [Double Swing](#p6c91c27)
--   [Magic Throw](#ha67ad81)
--   [Stun](#l2a4fbc3)
--   [Double Throw](#jc7b4e3b)
--   [Concentrate](#m047369c)
--   [Phantom Hatchets](#g1c1af02)
--   [Frenzy](#r336a6e7)
--   [Bash](#g41efe27)
--   [Berserk](#k3994b10)
--   [Whirlwind](#u2748a04)
--   [Berserk Fury](#s05354ac)
+-   [Double Swing]
+-   [Magic Throw]
+-   [Stun]
+-   [Double Throw]
+-   [Concentrate]
+-   [Phantom Hatchets]
+-   [Frenzy]
+-   [Bash]
+-   [Berserk]
+-   [Whirlwind]
+-   [Berserk Fury]
 :::
 
-\
-
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200918063417/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=1&page=Combat%20Skills_Bar&refer=Combat%20Skills_Bar)
-[TOP](#navigator)
-:::
-
-#### Double Swing [†](https://web.archive.org/web/20200918063417/http://miyoshino.la.coocan.jp/eswiki/?Combat%20Skills_Bar#p6c91c27 "p6c91c27"){#p6c91c27 .anchor_super} {#content_1_0}
+#### Double Swing
 
 Required Level
 :   1
@@ -51,19 +33,15 @@ Pros
 
 Cons
 
-:   ::: {.ie5}
-      slvl               1                2-8                9-16   17-22   23-28   29+
-      ----------------- ---- ------------------------------ ------ ------- ------- -----
-      Damage% (ES)       50               +13                                      
-      Damage% (LoD)      0                                                         
-      Attack Rating%     55                +5                                      
-      Mana Cost (ES)     1                                                         
-      Mana Cost (LoD)    1    -0.125 (reaches 0 at slvl 9)                         
-    :::
-
-```{=html}
-<!-- -->
-```
+::: {.slvl-table}
+  slvl               1                2-8                9-16   17-22   23-28   29+
+  ----------------- ---- ------------------------------ ------ ------- ------- -----
+  Damage% (ES)       50               +13                                      
+  Damage% (LoD)      0                                                         
+  Attack Rating%     55                +5                                      
+  Mana Cost (ES)     1                                                         
+  Mana Cost (LoD)    1    -0.125 (reaches 0 at slvl 9)                         
+:::
 
 Synergies
 :   *Frenzy:* +10% Damage Per Level\
@@ -71,12 +49,7 @@ Synergies
     *Berserk:* +10% Damage Per Level\
     *Concentrate:* +10% Attack Rating Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200918063417/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=2&page=Combat%20Skills_Bar&refer=Combat%20Skills_Bar)
-[TOP](#navigator)
-:::
-
-#### Magic Throw [†](https://web.archive.org/web/20200918063417/http://miyoshino.la.coocan.jp/eswiki/?Combat%20Skills_Bar#ha67ad81 "ha67ad81"){#ha67ad81 .anchor_super} {#content_1_1}
+#### Magic Throw
 
 Required Level
 :   1
@@ -95,17 +68,13 @@ Pros
 
 Cons
 
-:   ::: {.ie5}
-      slvl               1                 2-8                9-16   17-22   23-28   29+
-      ---------------- ----- ------------------------------- ------ ------- ------- -----
-      Magic Damage       2                 +2                 +10     +20     +40    +40
-      Attack Rating%    10                 +9                                       
-      Mana Cost         1.5   -0.125 (reaches 0 at slvl 13)                         
-    :::
-
-```{=html}
-<!-- -->
-```
+::: {.slvl-table}
+  slvl               1                 2-8                9-16   17-22   23-28   29+
+  ---------------- ----- ------------------------------- ------ ------- ------- -----
+  Magic Damage       2                 +2                 +10     +20     +40    +40
+  Attack Rating%    10                 +9                                       
+  Mana Cost         1.5   -0.125 (reaches 0 at slvl 13)                         
+:::
 
 Synergies
 :   *Double Throw:* +10% Magic Damage Per Level\
@@ -114,32 +83,23 @@ Synergies
     *Berserk Fury:* +10% Magic Damage Per Level\
     (The converted Magic Damage isn\'t affected by the synergy.)
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200918063417/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=3&page=Combat%20Skills_Bar&refer=Combat%20Skills_Bar)
-[TOP](#navigator)
-:::
-
-#### Stun [†](https://web.archive.org/web/20200918063417/http://miyoshino.la.coocan.jp/eswiki/?Combat%20Skills_Bar#l2a4fbc3 "l2a4fbc3"){#l2a4fbc3 .anchor_super} {#content_1_2}
+#### Stun
 
 Required Level
-
-1
+: 1
 
 Prerequisites
-
-*None*
+: *None*
 
 Difference from the LoD version
-
-Improved damage.
+: Improved damage.
 
 Pros
-
-Stuns enemy. Low mana cost.
+: Stuns enemy. Low mana cost.
 
 Cons
 
-::: {.ie5}
+::: {.slvl-table}
   slvl                      1    2-8    9-16   17-22   23-28   29+
   ----------------------- ----- ------ ------ ------- ------- -----
   Weapon Damage (ES)       5/4                                
@@ -157,12 +117,7 @@ Synergies
     *Berserk:* +12% Damage Per Level\
     *Concentrate:* +5% Attack Rating Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200918063417/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=4&page=Combat%20Skills_Bar&refer=Combat%20Skills_Bar)
-[TOP](#navigator)
-:::
-
-#### Double Throw [†](https://web.archive.org/web/20200918063417/http://miyoshino.la.coocan.jp/eswiki/?Combat%20Skills_Bar#jc7b4e3b "jc7b4e3b"){#jc7b4e3b .anchor_super} {#content_1_3}
+#### Double Throw
 
 Required Level
 :   6
@@ -176,12 +131,13 @@ Difference from the LoD version
 Pros
 :   Fast attack. Triggers CtC spells frequently.
 
-Cons\
+Cons
+
 Notes
 :   combined with piercing attack double throw can become a devastating
     attack against the highest hp bosses and swarms of monsters alike.
 
-::: {.ie5}
+::: {.slvl-table}
   slvl                    1    2-8   9-16   17-22   23-28   29+
   ---------------------- ---- ----- ------ ------- ------- -----
   Damage% (ES)            30   +11                         
@@ -197,12 +153,7 @@ Synergies
     *Frenzy:* +9% Damage Per Level\
     *Concentrate:* +5% Attack Rating Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200918063417/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=5&page=Combat%20Skills_Bar&refer=Combat%20Skills_Bar)
-[TOP](#navigator)
-:::
-
-#### Concentrate [†](https://web.archive.org/web/20200918063417/http://miyoshino.la.coocan.jp/eswiki/?Combat%20Skills_Bar#m047369c "m047369c"){#m047369c .anchor_super} {#content_1_4}
+#### Concentrate
 
 Required Level
 :   6
@@ -218,22 +169,18 @@ Pros
 
 Cons
 
-:   ::: {.ie5}
-      slvl                    1     2-8     9-16   17-22   23-28   29+
-      --------------------- ----- -------- ------ ------- ------- -----
-      Weapon Damage (ES)     5/4                                  
-      Weapon Damage (LoD)    1/1                                  
-      Damage% (ES)           120    +25                           
-      Damage% (LoD)          70      +5                           
-      Attack Rating%         75     +15                           
-      Defense%               100    +10                           
-      Mana Cost (ES)          2    +0.125                         
-      Mana Cost (LoD)         2                                   
-    :::
-
-```{=html}
-<!-- -->
-```
+::: {.slvl-table}
+  slvl                    1     2-8     9-16   17-22   23-28   29+
+  --------------------- ----- -------- ------ ------- ------- -----
+  Weapon Damage (ES)     5/4                                  
+  Weapon Damage (LoD)    1/1                                  
+  Damage% (ES)           120    +25                           
+  Damage% (LoD)          70      +5                           
+  Attack Rating%         75     +15                           
+  Defense%               100    +10                           
+  Mana Cost (ES)          2    +0.125                         
+  Mana Cost (LoD)         2                                   
+:::
 
 Synergies
 :   *Stun:* +10% Damage Per Level\
@@ -243,12 +190,7 @@ Synergies
     *Iron Skin:* +5% Defense Per Level\
     *Berserk:* Converts 1% Damage to Magic Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200918063417/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=6&page=Combat%20Skills_Bar&refer=Combat%20Skills_Bar)
-[TOP](#navigator)
-:::
-
-#### Phantom Hatchets [†](https://web.archive.org/web/20200918063417/http://miyoshino.la.coocan.jp/eswiki/?Combat%20Skills_Bar#g1c1af02 "g1c1af02"){#g1c1af02 .anchor_super} {#content_1_5}
+#### Phantom Hatchets
 
 Required Level
 :   12
@@ -267,7 +209,7 @@ Cons
 :   No damage bonus. Slvl only increases the \# of Missiles, which is
     capped at 24.
 
-::: {.ie5}
+::: {.slvl-table}
   slvl                                                                  1    2-8   9-16   17-22   23-28   29+
   ------------------------------------------------------------------- ----- ----- ------ ------- ------- -----
   Min Damage                                                           +1                                 +1
@@ -277,12 +219,7 @@ Cons
   Mana Cost                                                             4    +1                          
 :::
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200918063417/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=7&page=Combat%20Skills_Bar&refer=Combat%20Skills_Bar)
-[TOP](#navigator)
-:::
-
-#### Frenzy [†](https://web.archive.org/web/20200918063417/http://miyoshino.la.coocan.jp/eswiki/?Combat%20Skills_Bar#r336a6e7 "r336a6e7"){#r336a6e7 .anchor_super} {#content_1_6}
+#### Frenzy
 
 Required Level
 :   18
@@ -299,7 +236,7 @@ Pros
 Cons
 :   Slow build up to full speed. Hard to control movement speed.
 
-::: {.ie5}
+::: {.slvl-table}
   slvl                                                                                                        1                                                                                 2-8   9-16   17-22   23-28   29+
   ---------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------- ----- ------ ------- ------- -----
   Damage% (ES)                                                                                               100                                                                                +18                         
@@ -324,32 +261,23 @@ Synergies
     *Concentrate:* +5% Attack Rating Per Level\
     *Berserk:* Converts 1% Damage to Magic Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200918063417/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=8&page=Combat%20Skills_Bar&refer=Combat%20Skills_Bar)
-[TOP](#navigator)
-:::
-
-#### Bash [†](https://web.archive.org/web/20200918063417/http://miyoshino.la.coocan.jp/eswiki/?Combat%20Skills_Bar#g41efe27 "g41efe27"){#g41efe27 .anchor_super} {#content_1_7}
+#### Bash
 
 Required Level
-
-18
+: 18
 
 Prerequisites
-
-*Stun (1), Concentrate (6)*
+: *Stun (1), Concentrate (6)*
 
 Difference from the LoD version
-
-Improved damage.
+: Improved damage.
 
 Pros
-
-Very high damage bonus%.
+: Very high damage bonus%.
 
 Cons
 
-::: {.ie5}
+::: {.slvl-table}
   slvl                    1    2-8   9-16   17-22   23-28   29+
   --------------------- ----- ----- ------ ------- ------- -----
   Weapon Damage (ES)     5/4                               
@@ -366,12 +294,7 @@ Synergies
     *Berserk:* +15% Damage Per Level\
     *Concentrate:* +5% Attack Rating Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200918063417/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=9&page=Combat%20Skills_Bar&refer=Combat%20Skills_Bar)
-[TOP](#navigator)
-:::
-
-#### Berserk [†](https://web.archive.org/web/20200918063417/http://miyoshino.la.coocan.jp/eswiki/?Combat%20Skills_Bar#k3994b10 "k3994b10"){#k3994b10 .anchor_super} {#content_1_8}
+#### Berserk
 
 Required Level
 :   24
@@ -388,7 +311,7 @@ Pros
 Cons
 :   Defense penalty. No leech.
 
-::: {.ie5}
+::: {.slvl-table}
   -------------------------------------------------------------------------------
   slvl              1         2-8        9-16      17-22      23-28       29+
   ------------- ---------- ---------- ---------- ---------- ---------- ----------
@@ -434,12 +357,7 @@ Synergies
     *Shout:* Eases 3% Defense Penalty Per Level (Capped at 0%)\
     *Iron Skil:* Eases 3% Defense Penalty Per Level (Capped at 0%)
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200918063417/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=10&page=Combat%20Skills_Bar&refer=Combat%20Skills_Bar)
-[TOP](#navigator)
-:::
-
-#### Whirlwind [†](https://web.archive.org/web/20200918063417/http://miyoshino.la.coocan.jp/eswiki/?Combat%20Skills_Bar#u2748a04 "u2748a04"){#u2748a04 .anchor_super} {#content_1_9}
+#### Whirlwind
 
 Required Level
 :   30
@@ -458,7 +376,7 @@ Cons
 :   Can\'t activate CtC \"on striking\" (\"when struck\" works fine).
     Fragile against mana burn monsters.
 
-::: {.ie5}
+::: {.slvl-table}
   slvl                     1    2-8    9-16   17-22   23-28   29+
   ---------------------- ----- ------ ------ ------- ------- -----
   Damage% (ES)            50    +10                          
@@ -474,12 +392,7 @@ Synergies
     *Berserk:* +7% Damage Per Level\
     *Concentrate:* +5% Attack Rating Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200918063417/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=11&page=Combat%20Skills_Bar&refer=Combat%20Skills_Bar)
-[TOP](#navigator)
-:::
-
-#### Berserk Fury [†](https://web.archive.org/web/20200918063417/http://miyoshino.la.coocan.jp/eswiki/?Combat%20Skills_Bar#s05354ac "s05354ac"){#s05354ac .anchor_super} {#content_1_10}
+#### Berserk Fury
 
 Required Level
 :   30
@@ -498,7 +411,7 @@ Pros
 Cons
 :   Not as ineffective against a single target.
 
-::: {.ie5}
+::: {.slvl-table}
   slvl             1                    2-8                   9-16   17-22   23-28   29+
   -------------- ------ ------------------------------------ ------ ------- ------- -----
   Magic Damage    8-16                   +8                   +12     +16     +20    +20
