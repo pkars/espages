@@ -1,0 +1,7 @@
+<footer>
+These pages use <a href="https://simplecss.org/">Simple.css template</a> by Kev Quirk, which is released under MIT license.
+<hr style="max-width: 500px;" />
+<a href="/">Main index</a>
+&middot; <a href="https://github.com/pkars/espages">GitHub repository</a>
+&middot; Edited by P. Karsisto, 2021
+</footer>
