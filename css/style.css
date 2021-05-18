@@ -1,21 +1,7 @@
-html {
-  font-family: sans-serif;
-  font-size: 16px;
-}
-
+/* Overrides for simple.css parameters */
 body {
-  display: flex;
-  flex-direction: column;
   /* Larger width than "typical" max-width due to wide tables */
-  max-width: 1200px;
-  margin: 0 auto;
-  /* font-size and line-height are based on simplecss.org style */
-  font-size: 1.15rem;
-  line-height: 1.618
-}
-
-code {
-  font-family: monospace;
+  max-width: 1000px;
 }
 
 /* Customised classes that can be used in markdown */
