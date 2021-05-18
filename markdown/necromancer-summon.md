@@ -1,64 +1,35 @@
----
-lang: en
-title: Summoning_Nec - Eastern Sun Wiki
----
+### Summoning Spells
 
-::: {#body}
-[Necromancer](https://web.archive.org/web/20200920060945/http://miyoshino.la.coocan.jp/eswiki/?Necromancer "Necromancer (4179d)")
-- Summoning Spells / [Poison and Bone
-Spells](https://web.archive.org/web/20200920060945/http://miyoshino.la.coocan.jp/eswiki/?Poison%20and%20Bone "Poison and Bone (4140d)")
-/
-[Curses](https://web.archive.org/web/20200920060945/http://miyoshino.la.coocan.jp/eswiki/?Curses "Curses (3858d)")
+::: {#nec-summon}
+[Necromancer](#top) - Summoning Spells / [Poison and Bone Spells] / [Curses]
 
 ::: {.contents}
-[]{#contents_1}
-
--   [Summoning Spells](#l6825c6d)
-    -   [Skeleton Mastery](#v0e54b85)
-    -   [Revive](#s31e70e3)
-    -   [Clay Golem](#me52b475)
-    -   [Golem Mastery](#r287db1f)
-    -   [Blood Golem](#qc9b800c)
-    -   [Raise Skeleton](#u4d2a297)
-    -   [Metal Golem](#g1aa5a27)
-    -   [Summon Resist](#ebf034c2)
-    -   [Fire Golem](#e64e9299)
-    -   [Hydra](#u1c97e3d)
-    -   [Raise Vampire](#o86db5b4)
+-   [Skeleton Mastery]
+-   [Revive]
+-   [Clay Golem]
+-   [Golem Mastery]
+-   [Blood Golem]
+-   [Raise Skeleton]
+-   [Metal Golem]
+-   [Summon Resist]
+-   [Fire Golem]
+-   [Hydra]
+-   [Raise Vampire]
 :::
 
-\
-
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200920060945/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=1&page=Summoning_Nec&refer=Summoning_Nec)
-[TOP](#navigator)
-:::
-
-### Summoning Spells [†](https://web.archive.org/web/20200920060945/http://miyoshino.la.coocan.jp/eswiki/?Summoning_Nec#l6825c6d "l6825c6d"){#l6825c6d .anchor_super} {#content_1_0}
-
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200920060945/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=2&page=Summoning_Nec&refer=Summoning_Nec)
-[TOP](#navigator)
-:::
-
-#### Skeleton Mastery [†](https://web.archive.org/web/20200920060945/http://miyoshino.la.coocan.jp/eswiki/?Summoning_Nec#v0e54b85 "v0e54b85"){#v0e54b85 .anchor_super} {#content_1_1}
+#### Skeleton Mastery
 
 Required Level
-
-1
+: 1
 
 Prerequisites
-
-*None*
+: *None*
 
 Difference from the LoD version
-
-Also increases Defense, Attack Rating and Vampire\'s melee damage.
+: Also increases Defense, Attack Rating and Vampire\'s melee damage.
 
 Pros
-
-Linear returns (+Skill items work efficiently). Affects 3 important
-kinds of minions.
+: Linear returns (+Skill items work efficiently). Affects 3 important kinds of minions.
 
 Cons
 
@@ -88,12 +59,7 @@ Cons
   Damage% of Revived Monsters      15   +15                         
 :::
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200920060945/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=3&page=Summoning_Nec&refer=Summoning_Nec)
-[TOP](#navigator)
-:::
-
-#### Revive [†](https://web.archive.org/web/20200920060945/http://miyoshino.la.coocan.jp/eswiki/?Summoning_Nec#s31e70e3 "s31e70e3"){#s31e70e3 .anchor_super} {#content_1_2}
+#### Revive
 
 Required Level
 :   1
@@ -115,9 +81,8 @@ Cons
     with you. Poor AI.
 
 Notes
-:   In spite of the much improved stats from the LoD version, [Revived
-    monsters aren\'t much useful in early
-    games](https://web.archive.org/web/20200920060945/http://miyoshino.la.coocan.jp/eswiki/?FAQ#c53081f6).
+:   In spite of the much improved stats from the LoD version,
+    [Revived monsters aren\'t much useful in early games](../es-faq.html#c53081f6).
 
 ::: {.ie5}
   -------------------------------------------------------------------------------
@@ -191,22 +156,14 @@ Passive Bonuses
     (Passive bonus is similar to synergy, but the total skill level
     works instead of base level.)
 
-```{=html}
-<!-- -->
-```
-
 Synergies
 :   *Raise Skeleton*: +5% Max Life Per Level\
     *Raise Vampire*: +5% Max Life Per Level\
     *Raise Skeleton*: +7% Damage Per Level\
     *Raise Vampire*: +7% Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200920060945/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=4&page=Summoning_Nec&refer=Summoning_Nec)
-[TOP](#navigator)
-:::
 
-#### Clay Golem [†](https://web.archive.org/web/20200920060945/http://miyoshino.la.coocan.jp/eswiki/?Summoning_Nec#me52b475 "me52b475"){#me52b475 .anchor_super} {#content_1_3}
+#### Clay Golem
 
 Required Level
 :   6
@@ -215,79 +172,34 @@ Prerequisites
 :   *None*
 
 Difference from the LoD version
-:   You can summon 1-4 Clay Golems with other Golems. Improved damage
-    and synergies. Less slow effect.
+:   You can summon 1-4 Clay Golems with other Golems. Improved damage and synergies. Less slow effect.
 
 Pros
 :   Easily recastable due to the low mana cost. The slow effect is
     useful. (Prevents Baal from teleporting and cloning, for example.)
 
 Cons
-:   Poor killing ability. (The base damage synergy from Golem Mastery
-    greatly improves the damage.)
+:   Poor killing ability. (The base damage synergy from Golem Mastery greatly improves the damage.)
 
 ::: {.ie5}
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  slvl                                                                           1                                                                                                                                        2-8                                                                       9-16      17-22      23-28       29+
-  ---------- ----------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------- ---------- ---------- ---------- ----------
-  \# of Clay                                                                     1                                                                                                                             +1 per 15 base points in\                                                                                          
-  Golems                                                                                                                                                                                                       Clay Golem or Metal Golem                                                                                          
-
-  Base Life                                                                     100                                                                                                                                 \+ [diminishing                                                                                               
-  (Normal)                                                                                                                                              return](https://web.archive.org/web/20200920060945/http://miyoshino.la.coocan.jp/eswiki/?Glossary#diminishing_return "Glossary (139d)")                                   
-                                                                                                                                                                                                                       (40-400)                                                                                                   
-
-  Base Life                                                                     175                                                                                                                                 \+ [diminishing                                                                                               
-  (NM)                                                                                                                                                  return](https://web.archive.org/web/20200920060945/http://miyoshino.la.coocan.jp/eswiki/?Glossary#diminishing_return "Glossary (139d)")                                   
-                                                                                                                                                                                                                       (70-700)                                                                                                   
-
-  Base Life                                                                     275                                                                                                                                 \+ [diminishing                                                                                               
-  (Hell)                                                                                                                                                return](https://web.archive.org/web/20200920060945/http://miyoshino.la.coocan.jp/eswiki/?Glossary#diminishing_return "Glossary (139d)")                                   
-                                                                                                                                                                                                                      (110-1100)                                                                                                  
-
-  Base                                                                          115                                                                                                                                       +15                                                                                                     
-  Defense                                                                                                                                                                                                                                                                                                                         
-
-  Base                                                           4-10, 8-14 (ES) / 2-5, 4-7 (LoD)                                                                                                                                                                                                                                 
-  Damage                                                                                                                                                                                                                                                                                                                          
-  (Normal)                                                                                                                                                                                                                                                                                                                        
-
-  Base                                                          4-12, 10-20 (ES) / 2-6, 5-10 (LoD)                                                                                                                                                                                                                                
-  Damage                                                                                                                                                                                                                                                                                                                          
-  (NM)                                                                                                                                                                                                                                                                                                                            
-
-  Base                                                          6-14, 12-22 (ES) / 3-7, 6-11 (LoD)                                                                                                                                                                                                                                
-  Damage                                                                                                                                                                                                                                                                                                                          
-  (Hell)                                                                                                                                                                                                                                                                                                                          
-
-  Damage%                                                                       10                                                                                                                                        +10                                                                                                     
-  (ES)                                                                                                                                                                                                                                                                                                                            
-
-  Damage%                                                                        0                                                                                                                                        +35                                                                                                     
-  (LoD)                                                                                                                                                                                                                                                                                                                           
-
-  Attack                                                                        60                                                                                                                                        +20                                                                                                     
-  Rating                                                                                                                                                                                                                                                                                                                          
-  (Normal)                                                                                                                                                                                                                                                                                                                        
-
-  Attack                                                                        86                                                                                                                                        +20                                                                                                     
-  Rating                                                                                                                                                                                                                                                                                                                          
-  (NM)                                                                                                                                                                                                                                                                                                                            
-
-  Attack                                                                        92                                                                                                                                        +20                                                                                                     
-  Rating                                                                                                                                                                                                                                                                                                                          
-  (Hell)                                                                                                                                                                                                                                                                                                                          
-
-  Slow% (ES)                                                               [diminishing                                                                                                                                                                                                                                           
-              return](https://web.archive.org/web/20200920060945/http://miyoshino.la.coocan.jp/eswiki/?Glossary#diminishing_return "Glossary (139d)")                                                                                                                                                                             
-                                                                              (0-35)                                                                                                                                                                                                                                              
-
-  Slow%                                                                    [diminishing                                                                                                                                                                                                                                           
-  (LoD)       return](https://web.archive.org/web/20200920060945/http://miyoshino.la.coocan.jp/eswiki/?Glossary#diminishing_return "Glossary (139d)")                                                                                                                                                                             
-                                                                              (0-75)                                                                                                                                                                                                                                              
-
-  Mana Cost                                                                     15                                                                                                                                        +3                                                                                                      
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  slvl                                                       1                                                            2-8                                            9-16     17-22     23-28     29+
+  ---------------------- ------------------------------------------------------------------- -------------------------------------------------------------------------- -------- --------- --------- -------
+  \# of Clay Golems                                          1                                          +1 per 15 base points in Clay Golem or Metal Golem
+  Base Life (Normal)                                        100                                \+ [diminishing return](../glossary.html#diminishing-return) (40-400)
+  Base Life (NM)                                            175                                \+ [diminishing return](../glossary.html#diminishing-return) (70-700)
+  Base Life (Hell)                                          275                               \+ [diminishing return](../glossary.html#diminishing-return) (110-1100)
+  Base Defense                                              115                                                           +15
+  Base Damage (Normal)                       4-10, 8-14 (ES) / 2-5, 4-7 (LoD)
+  Base Damage (NM)                          4-12, 10-20 (ES) / 2-6, 5-10 (LoD)
+  Base Damage (Hell)                        6-14, 12-22 (ES) / 3-7, 6-11 (LoD)
+  Damage% (ES)                                              10                                                            +10
+  Damage% (LoD)                                              0                                                            +35
+  Attack Rating (Normal)                                    60                                                            +20
+  Attack Rating (NM)                                        86                                                            +20
+  Attack Rating (Hell)                                      92                                                            +20
+  Slow% (ES)              [diminishing return](../glossary.html#diminishing-return) (0-35)
+  Slow% (LoD)             [diminishing return](../glossary.html#diminishing-return) (0-75)
+  Mana Cost                                                 15                                                            +3
 :::
 
 Passive Bonuses
@@ -299,10 +211,6 @@ Passive Bonuses
     (Passive bonus is similar to synergy, but the total skill level
     works instead of base level.)
 
-```{=html}
-<!-- -->
-```
-
 Synergies
 :   *Blood Golem*: +10% Max Life Per Level\
     *Metal Golem*: +50 Defense Per Level\
@@ -311,46 +219,33 @@ Synergies
     *Metal Golem*: +3 Base Damage Per Level\
     *Fire Golem*: +3 Base Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200920060945/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=5&page=Summoning_Nec&refer=Summoning_Nec)
-[TOP](#navigator)
-:::
 
-#### Golem Mastery [†](https://web.archive.org/web/20200920060945/http://miyoshino.la.coocan.jp/eswiki/?Summoning_Nec#r287db1f "r287db1f"){#r287db1f .anchor_super} {#content_1_4}
+#### Golem Mastery
 
 Required Level
-
-12
+: 12
 
 Prerequisites
-
-*Clay Golem (6)*
+: *Clay Golem (6)*
 
 Difference from the LoD version
-
-None.
+: None.
 
 Pros
-
-1 point works fine.
+: 1 point works fine.
 
 Cons
 
 ::: {.ie5}
-  slvl                                                                                                       1                                                                                2-8   9-16   17-22   23-28   29+
-  ---------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------- ----- ------ ------- ------- -----
-  Base Damage Bonus                                                                                          3                                                                                +3                          
-  Max Life% of Golems                                                                                       20                                                                                +20                         
-  Attack Rating of Golems                                                                                   25                                                                                +25                         
-  Faster Run/Walk% of Golems    [diminishing return](https://web.archive.org/web/20200920060945/http://miyoshino.la.coocan.jp/eswiki/?Glossary#diminishing_return "Glossary (139d)") (0-60)                               
+  slvl                                                  1                                       2-8    9-16     17-22     23-28     29+
+  ---------------------------- -------------------------------------------------------------- ------ -------- --------- --------- -------
+  Base Damage Bonus                                     3                                       +3
+  Max Life% of Golems                                  20                                       +20
+  Attack Rating of Golems                              25                                       +25
+  Faster Run/Walk% of Golems    [diminishing return](../glossary#diminishing-return) (0-60)
 :::
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200920060945/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=6&page=Summoning_Nec&refer=Summoning_Nec)
-[TOP](#navigator)
-:::
-
-#### Blood Golem [†](https://web.archive.org/web/20200920060945/http://miyoshino.la.coocan.jp/eswiki/?Summoning_Nec#qc9b800c "qc9b800c"){#qc9b800c .anchor_super} {#content_1_5}
+#### Blood Golem
 
 Required Level
 :   12
@@ -370,100 +265,69 @@ Cons
     greatly improves the damage.)
 
 ::: {.ie5}
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  slvl                                                                           1                                                                        2-8        9-16      17-22      23-28       29+
-  ---------- ----------------------------------------------------------------------------------------------------------------------------------------- ---------- ---------- ---------- ---------- ----------
-  \# of                                                                          1                                                                     +1 per 15                                   
-  Blood                                                                                                                                                   base                                     
-  Golems                                                                                                                                               points in\                                  
-                                                                                                                                                         Blood                                     
-                                                                                                                                                        Golem or                                   
-                                                                                                                                                       Fire Golem                                  
+---------------------------------------------------------------------------------------------------------------------------------------
+slvl                                              1                                           2-8               9-16  17-22  23-28  29+
+------------------ --------------------------------------------------------------  --------------------------   ----  -----  -----  ---
+\# of Blood Golems                                1                                +1 per 15 base points in\
+                                                                                   Blood Golem or Fire Golem
 
-  Base Life                                                             301 (ES), 201 (LoD)                                                                                                        
-  (Normal)                                                                                                                                                                                         
+Base Life (Normal)                        301 (ES), 201 (LoD)
 
-  Base Life                                                             582 (ES), 388 (LoD)                                                                                                        
-  (NM)                                                                                                                                                                                             
+Base Life (NM)                            582 (ES), 388 (LoD)
 
-  Base Life                                                             955 (ES), 637 (LoD)                                                                                                        
-  (Hell)                                                                                                                                                                                           
+Base Life (Hell)                          955 (ES), 637 (LoD)
 
-  Max Life%                                                                     10                                                                        +10                                      
+Max Life%                                        10                                           +10
 
-  Base                                                                          135                                                                       +15                                      
-  Defense                                                                                                                                                                                          
+Base Defense                                     135                                          +15
 
-  Base                                                                  12-32, 24-48 (ES)\                                                                                                         
-  Damage                                                                 6-16, 12-24 (LoD)                                                                                                         
-  (Normal)                                                                                                                                                                                         
+Base Damage                               12-32, 24-48 (ES)\
+(Normal)                                   6-16, 12-24 (LoD)
 
-  Base                                                                  18-46, 34-70 (ES)\                                                                                                         
-  Damage                                                                 9-23, 17-35 (LoD)                                                                                                         
-  (NM)                                                                                                                                                                                             
+Base Damage (NM)                          18-46, 34-70 (ES)\
+                                           9-23, 17-35 (LoD)
 
-  Base                                                                  20-54, 40-82 (ES)\                                                                                                         
-  Damage                                                                10-27, 20-41 (LoD)                                                                                                         
-  (Hell)                                                                                                                                                                                           
+Base Damage (Hell)                        20-54, 40-82 (ES)\
+                                          10-27, 20-41 (LoD)
 
-  Damage%                                                                       +10                                                                       +10                                      
+Damage%                                         +10                                           +10
 
-  Damage%                                                                        0                                                                        +35                                      
-  (LoD)                                                                                                                                                                                            
+Damage% (LoD)                                     0                                           +35
 
-  Base                                                                          60                                                                                                                 
-  Attack                                                                                                                                                                                           
-  Rating                                                                                                                                                                                           
-  (Normal)                                                                                                                                                                                         
+Base Attack                                      60
+Rating (Normal)
 
-  Base                                                                          104                                                                                                                
-  Attack                                                                                                                                                                                           
-  Rating                                                                                                                                                                                           
-  (NM)                                                                                                                                                                                             
+Base Attack                                      104
+Rating (NM)
 
-  Base                                                                          148                                                                                                                
-  Attack                                                                                                                                                                                           
-  Rating                                                                                                                                                                                           
-  (Hell)                                                                                                                                                                                           
+Base Attack                                      148
+Rating (Hell)
 
-  Life                                                                          30                                                                                                                 
-  Stolen%                                                                                                                                                                                          
-  (ES)                                                                                                                                                                                             
+Life Stolen% (ES)                                30
 
-  Life                                                                     [diminishing                                                                                                            
-  Stolen%     return](https://web.archive.org/web/20200920060945/http://miyoshino.la.coocan.jp/eswiki/?Glossary#diminishing_return "Glossary (139d)")                                              
-  (LoD)                                                                      (75-150)                                                                                                              
+Life Stolen% (LoD)    [diminishing return](../glossary.html#diminishing-return)
+                                             (75-150)
 
-  Stolen                                                                        10                                                                                                                 
-  Life to                                                                                                                                                                                          
-  Caster%                                                                                                                                                                                          
-  (ES)                                                                                                                                                                                             
+Stolen Life to                                   10
+Caster% (ES)
 
-  Stolen                                                                        30                                                                                                                 
-  Life to                                                                                                                                                                                          
-  Caster%                                                                                                                                                                                          
-  (LoD)                                                                                                                                                                                            
+Stolen Life to                                   30
+Caster% (LoD)
 
-  Damage to                                                                      0                                                                                                                 
-  Caster%                                                                                                                                                                                          
-  (ES)                                                                                                                                                                                             
+Damage to                                         0
+Caster% (ES)
 
-  Damage to                                                                     10                                                                                                                 
-  Caster%                                                                                                                                                                                          
-  (LoD)                                                                                                                                                                                            
+Damage to                                        10
+Caster% (LoD)
 
-  Caster                                                                        50                                                                                                                 
-  Heal to                                                                                                                                                                                          
-  Golem%                                                                                                                                                                                           
-  (ES)                                                                                                                                                                                             
+Caster Heal to                                   50
+Golem% (ES)
 
-  Caster                                                                        25                                                                                                                 
-  Heal to                                                                                                                                                                                          
-  Golem%                                                                                                                                                                                           
-  (LoD)                                                                                                                                                                                            
+Caster Heal to                                   25
+Golem% (LoD)
 
-  Mana Cost                                                                     25                                                                         +4                                      
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Mana Cost                                        25                                           +4
+---------------------------------------------------------------------------------------------------------------------------------------
 :::
 
 Passive Bonuses
@@ -475,10 +339,6 @@ Passive Bonuses
     (Passive bonus is similar to synergy, but the total skill level
     works instead of base level.)
 
-```{=html}
-<!-- -->
-```
-
 Synergies
 :   *Clay Golem*: +20 Attack Rating Per Level\
     *Metal Golem*: +50 Defense Per Level\
@@ -487,12 +347,8 @@ Synergies
     *Metal Golem*: +3 Base Damage Per Level\
     *Fire Golem*: +3 Base Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200920060945/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=7&page=Summoning_Nec&refer=Summoning_Nec)
-[TOP](#navigator)
-:::
 
-#### Raise Skeleton [†](https://web.archive.org/web/20200920060945/http://miyoshino.la.coocan.jp/eswiki/?Summoning_Nec#u4d2a297 "u4d2a297"){#u4d2a297 .anchor_super} {#content_1_6}
+#### Raise Skeleton
 
 Required Level
 :   12
@@ -537,10 +393,6 @@ Passive Bonuses
     (Passive bonus is similar to synergy, but the total skill level
     works instead of base level.)
 
-```{=html}
-<!-- -->
-```
-
 Synergies
 :   *Revive*: +8 Life Per Level\
     *Raise Vampire*: +8 Life Per Level\
@@ -551,12 +403,8 @@ Synergies
     *Revive*: +15 Attack Rating Per Level\
     *Raise Vampire*: +15 Attack Rating Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200920060945/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=8&page=Summoning_Nec&refer=Summoning_Nec)
-[TOP](#navigator)
-:::
 
-#### Metal Golem [†](https://web.archive.org/web/20200920060945/http://miyoshino.la.coocan.jp/eswiki/?Summoning_Nec#g1aa5a27 "g1aa5a27"){#g1aa5a27 .anchor_super} {#content_1_7}
+#### Metal Golem
 
 Required Level
 :   18
@@ -604,10 +452,6 @@ Passive Bonuses
     (Passive bonus is similar to synergy, but the total skill level
     works instead of base level.)
 
-```{=html}
-<!-- -->
-```
-
 Synergies
 :   *Clay Golem*: +20 Attack Rating Per Level\
     *Blood Golem*: +10% Max Life Per Level\
@@ -616,47 +460,34 @@ Synergies
     *Blood Golem*: +3 Base Damage Per Level\
     *Fire Golem*: +3 Base Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200920060945/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=9&page=Summoning_Nec&refer=Summoning_Nec)
-[TOP](#navigator)
-:::
 
-#### Summon Resist [†](https://web.archive.org/web/20200920060945/http://miyoshino.la.coocan.jp/eswiki/?Summoning_Nec#ebf034c2 "ebf034c2"){#ebf034c2 .anchor_super} {#content_1_8}
+#### Summon Resist
 
 Required Level
-
-24
+: 24
 
 Prerequisites
-
-*Clay Golem (6), Golem Mastery (12)*
+: *Clay Golem (6), Golem Mastery (12)*
 
 Difference from the LoD version
-
-None.
+: None.
 
 Notes
-
-Summons aren\'t affected by the resist penalty of each difficulty.
+: Summons aren\'t affected by the resist penalty of each difficulty.
 
 Pros
-
-1 point works fine.
+: 1 point works fine.
 
 Cons
 
 ::: {.ie5}
-  slvl                                                                                                   1                                                                                 2-8   9-16   17-22   23-28   29+
-  ------------------------ -------------------------------------------------------------------------------------------------------------------------------------------------------------- ----- ------ ------- ------- -----
-  All Resist% of Summons    [diminishing return](https://web.archive.org/web/20200920060945/http://miyoshino.la.coocan.jp/eswiki/?Glossary#diminishing_return "Glossary (139d)") (20-75)                               
+  slvl                                                    1                                        2-8   9-16   17-22   23-28   29+
+  ------------------------ ---------------------------------------------------------------------- ----- ------ ------- ------- -----
+  All Resist% of Summons    [diminishing return](../glossary.html#diminishing-return) (20-75)
 :::
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200920060945/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=10&page=Summoning_Nec&refer=Summoning_Nec)
-[TOP](#navigator)
-:::
 
-#### Fire Golem [†](https://web.archive.org/web/20200920060945/http://miyoshino.la.coocan.jp/eswiki/?Summoning_Nec#e64e9299 "e64e9299"){#e64e9299 .anchor_super} {#content_1_9}
+#### Fire Golem
 
 Required Level
 :   24
@@ -676,26 +507,26 @@ Cons
 :   Holy Fire may activate too many enemies at once.
 
 ::: {.ie5}
-  slvl                                                                                                            1                                                                                    2-8    9-16    17-22   23-28    29+
-  ----------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------ ------- ------- ------- -------
-  Base Life (Normal)                                                                                    391 (ES) / 313 (LoD)                                                                                                         
-  Base Life (NM)                                                                                        766 (ES) / 613 (LoD)                                                                                                         
-  Base Life (Hell)                                                                                     1266 (ES) / 1013 (LoD)                                                                                                        
-  Base Defense                                                                                                   225                                                                                   +15                           
-  Base Damage (Normal)                                                                         20-54, 42-82 (ES) / 10-27, 21-41 (LoD)                                                                                                
-  Base Damage (NM)                                                                             30-78, 60-120 (ES) / 15-39, 30-60 (LoD)                                                                                               
-  Base Damage (Hell)                                                                           36-94, 70-142 (ES) / 18-47, 35-71 (LoD)                                                                                               
-  Damage% (ES)                                                                                                   +20                                                                                   +20                           
-  Base Attack Rating (Normal)                                                                                    120                                                                                                                 
-  Base Attack Rating (NM)                                                                                        209                                                                                                                 
-  Base Attack Rating (Hell)                                                                                      298                                                                                                                 
-  Fire Resist%                   100 - [diminishing return](https://web.archive.org/web/20200920060945/http://miyoshino.la.coocan.jp/eswiki/?Glossary#diminishing_return "Glossary (139d)") (25-100)                                 
-  Fire Absorb%                      [diminishing return](https://web.archive.org/web/20200920060945/http://miyoshino.la.coocan.jp/eswiki/?Glossary#diminishing_return "Glossary (139d)") (25-100)                                    
-  Fire Damage (ES)                                                                                              8-24                                                                                    +8     +12     +16     +20     +20
-  Fire Damage (LoD)                                                                                             10-27                                                                                  +9.5   +10.5   +11.5   +12.5   +13.5
-  Holy Fire Damage                                                                                               4-8                                                                                    +2     +4      +6      +8      +8
-  Mana Cost (ES)                                                                                                 50                                                                                     +6                           
-  Mana Cost (LoD)                                                                                                50                                                                                    +10                           
+  slvl                                                            1                                         2-8    9-16    17-22   23-28    29+
+  ----------------------------- -------------------------------------------------------------------------- ------ ------- ------- ------- -------
+  Base Life (Normal)                                    391 (ES) / 313 (LoD)
+  Base Life (NM)                                        766 (ES) / 613 (LoD)
+  Base Life (Hell)                                     1266 (ES) / 1013 (LoD)
+  Base Defense                                                   225                                        +15
+  Base Damage (Normal)                         20-54, 42-82 (ES) / 10-27, 21-41 (LoD)
+  Base Damage (NM)                             30-78, 60-120 (ES) / 15-39, 30-60 (LoD)
+  Base Damage (Hell)                           36-94, 70-142 (ES) / 18-47, 35-71 (LoD)
+  Damage% (ES)                                                   +20                                        +20
+  Base Attack Rating (Normal)                                    120
+  Base Attack Rating (NM)                                        209
+  Base Attack Rating (Hell)                                      298
+  Fire Resist%                   100 - [diminishing return](../glossary.html#diminishing-return) (25-100)
+  Fire Absorb%                      [diminishing return](../glossary.html#diminishing-return) (25-100)
+  Fire Damage (ES)                                              8-24                                         +8     +12     +16     +20     +20
+  Fire Damage (LoD)                                            10-27                                        +9.5   +10.5   +11.5   +12.5   +13.5
+  Holy Fire Damage                                               4-8                                         +2     +4      +6      +8      +8
+  Mana Cost (ES)                                                  50                                         +6
+  Mana Cost (LoD)                                                 50                                        +10
 :::
 
 Passive Bonuses
@@ -707,10 +538,6 @@ Passive Bonuses
     (Passive bonus is similar to synergy, but the total skill level
     works instead of base level.)
 
-```{=html}
-<!-- -->
-```
-
 Synergies
 :   *Clay Golem*: +40 Attack Rating Per Level\
     *Blood Golem*: +10% Max Life Per Level\
@@ -721,28 +548,20 @@ Synergies
     *Hydra*: +5% Fire Damage Per Level\
     *Hydra*: +5% Holy Fire Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200920060945/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=11&page=Summoning_Nec&refer=Summoning_Nec)
-[TOP](#navigator)
-:::
 
-#### Hydra [†](https://web.archive.org/web/20200920060945/http://miyoshino.la.coocan.jp/eswiki/?Summoning_Nec#u1c97e3d "u1c97e3d"){#u1c97e3d .anchor_super} {#content_1_10}
+#### Hydra
 
 Required Level
-
-30
+: 30
 
 Prerequisites
-
-*Clay Golem (6), Blood Golem (12), Metal Golem (18), Fire Golem (24)*
+: *Clay Golem (6), Blood Golem (12), Metal Golem (18), Fire Golem (24)*
 
 Difference from Hydra (LoD)
-
-Additional duration per level. Shorter cast delay.
+: Additional duration per level. Shorter cast delay.
 
 Pros
-
-\"Fire and forget\" skill. \"Scouting\" ability. More spammable than
+: \"Fire and forget\" skill. \"Scouting\" ability. More spammable than
 Hydra(LoD).
 
 Cons
@@ -794,12 +613,8 @@ Cons
 *Fire Golem*: +5% Fire Damage Per Level\
 *Raise Vampire*: +5% Fire Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200920060945/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=12&page=Summoning_Nec&refer=Summoning_Nec)
-[TOP](#navigator)
-:::
 
-#### Raise Vampire [†](https://web.archive.org/web/20200920060945/http://miyoshino.la.coocan.jp/eswiki/?Summoning_Nec#o86db5b4 "o86db5b4"){#o86db5b4 .anchor_super} {#content_1_11}
+#### Raise Vampire
 
 Required Level
 :   30
@@ -817,95 +632,96 @@ Pros
 
 Cons
 :   Requires a corpse. Less tough than Skeletons.
-    ::: {.ie5}
-      -----------------------------------------------------------------------------
-      slvl            1         2-3        3-16      17-22      23-28       29+
-      ---------- ----------- ---------- ---------- ---------- ---------- ----------
-      \# of           1          +1      +1 per 4                        
-      Vampires                            slvls                          
-      (ES)                               (capped                         
-                                          at 24)                         
 
-      \# of           1          +1      +1 per 3                        
-      Skeletal                            slvls                          
-      Magi (LoD)                                                         
+::: {.ie5}
+  -----------------------------------------------------------------------------
+  slvl            1         2-3        3-16      17-22      23-28       29+
+  ---------- ----------- ---------- ---------- ---------- ---------- ----------
+  \# of           1          +1      +1 per 4                        
+  Vampires                            slvls                          
+  (ES)                               (capped                         
+                                      at 24)                         
 
-      Base Life      61          +8                                      
-      (Normal)                                                           
+  \# of           1          +1      +1 per 3                        
+  Skeletal                            slvls                          
+  Magi (LoD)                                                         
 
-      Base Life      88          +8                                      
-      (NM)                                                               
+  Base Life      61          +8                                      
+  (Normal)                                                           
 
-      Base Life      123         +8                                      
-      (Hell)                                                             
+  Base Life      88          +8                                      
+  (NM)                                                               
 
-      Max Life%       0          +0        +10                           
-      (ES)                                                               
+  Base Life      123         +8                                      
+  (Hell)                                                             
 
-      Max Life%       0          +0         +7                           
-      (LoD)                                                              
+  Max Life%       0          +0        +10                           
+  (ES)                                                               
 
-      Defense        40         +15                                      
+  Max Life%       0          +0         +7                           
+  (LoD)                                                              
 
-      Skills     Fire Ball,                                              
-      (ES)         Glacial                                               
-                   Spike\                                                
-                  Lightning                                              
-                  Inferno,                                               
-                 Bone Spirit                                             
+  Defense        40         +15                                      
 
-      Skills     Fire Bolt,                                              
-      (LoD)      Ice Bolt,\                                              
-                   Charged                                               
-                    Bolt,                                                
-                 Poison Bolt                                             
+  Skills     Fire Ball,                                              
+  (ES)         Glacial                                               
+               Spike\                                                
+              Lightning                                              
+              Inferno,                                               
+             Bone Spirit                                             
 
-      Skill           0          +0         +1                           
-      Level (ES)                                                         
+  Skills     Fire Bolt,                                              
+  (LoD)      Ice Bolt,\                                              
+               Charged                                               
+                Bolt,                                                
+             Poison Bolt                                             
 
-      Skill           0          +0      +1 per 2                        
-      Level                               slvls                          
-      (LoD)                                                              
+  Skill           0          +0         +1                           
+  Level (ES)                                                         
 
-      Missile       26.66                                                
-      Range                                                              
-      (yards)                                                            
-      (ES)                                                               
+  Skill           0          +0      +1 per 2                        
+  Level                               slvls                          
+  (LoD)                                                              
 
-      Missile        20                                                  
-      Range                                                              
-      (yards)                                                            
-      (LoD)                                                              
+  Missile       26.66                                                
+  Range                                                              
+  (yards)                                                            
+  (ES)                                                               
 
-      Base           1-2         +0         +1         +2         +3         +3
-      Damage                                                             
-      (ES)                                                               
+  Missile        20                                                  
+  Range                                                              
+  (yards)                                                            
+  (LoD)                                                              
 
-      Base           1-2                                                 
-      Damage                                                             
-      (LoD)                                                              
+  Base           1-2         +0         +1         +2         +3         +3
+  Damage                                                             
+  (ES)                                                               
 
-      Damage%         0          +0         +7                           
-      (ES)                                                               
+  Base           1-2                                                 
+  Damage                                                             
+  (LoD)                                                              
 
-      Damage%         0                                                  
-      (LoD)                                                              
+  Damage%         0          +0         +7                           
+  (ES)                                                               
 
-      Attack         20         +15                                      
-      Rating                                                             
-      (ES)                                                               
+  Damage%         0                                                  
+  (LoD)                                                              
 
-      Attack         20                                                  
-      Rating                                                             
-      (LoD)                                                              
+  Attack         20         +15                                      
+  Rating                                                             
+  (ES)                                                               
 
-      Mana Cost      16         +1.5                                     
-      (ES)                                                               
+  Attack         20                                                  
+  Rating                                                             
+  (LoD)                                                              
 
-      Mana Cost       8          +1                                      
-      (LoD)                                                              
-      -----------------------------------------------------------------------------
-    :::
+  Mana Cost      16         +1.5                                     
+  (ES)                                                               
+
+  Mana Cost       8          +1                                      
+  (LoD)                                                              
+  -----------------------------------------------------------------------------
+:::
 
 ::: {.ie5}
   slvl                          1      2-3    3-16    17-22   23-28    29+
@@ -925,10 +741,6 @@ Passive Bonuses
     *Summon Resist*: All Resist Bonus (Diminishing Return)\
     (Passive bonus is similar to synergy, but the total skill level
     works instead of base level.)
-
-```{=html}
-<!-- -->
-```
 
 Synergies
 :   *Revive*: +8 Base Life Per Level\

@@ -1,69 +1,41 @@
----
-lang: en
-title: Poison and Bone - Eastern Sun Wiki
----
+### Poison and Bone Spells
 
-::: {#body}
-[Necromancer](https://web.archive.org/web/20200926153648/http://miyoshino.la.coocan.jp/eswiki/?Necromancer "Necromancer (4186d)")
-- [Summoning
-Spells](https://web.archive.org/web/20200926153648/http://miyoshino.la.coocan.jp/eswiki/?Summoning_Nec "Summoning_Nec (3260d)")
-/ Poison and Bone Spells /
-[Curses](https://web.archive.org/web/20200926153648/http://miyoshino.la.coocan.jp/eswiki/?Curses "Curses (3864d)")
+::: {#nec-poisonbone}
+[Necromancer](#top) - [Summoning Spells] / Poison and Bone Spells / [Curses]
 
 ::: {.contents}
-[]{#contents_1}
-
--   [Poison and Bone Spells](#i60af69b)
-    -   [Bone Armor](#j8f4eba5)
-    -   [Poison Slash](#h299d8dc)
-    -   [Poison Explosion](#u31de940)
-    -   [Bone Wall](#id54e8cc)
-    -   [Frozen Spear](#x41ca80e)
-    -   [Corpse Explosion](#h8ac0722)
-    -   [Bone Prison](#m125e384)
-    -   [Killer Scythe](#c03f0db9)
-    -   [Bone Spirit](#cab94d0d)
-    -   [Hell\'s Gate](#a726ea9d)
-    -   [Poison Nova](#mdc2776e)
-    -   [Bone Wave](#z22b833e)
+-   [Bone Armor](#j8f4eba5)
+-   [Poison Slash](#h299d8dc)
+-   [Poison Explosion](#u31de940)
+-   [Bone Wall](#id54e8cc)
+-   [Frozen Spear](#x41ca80e)
+-   [Corpse Explosion](#h8ac0722)
+-   [Bone Prison](#m125e384)
+-   [Killer Scythe](#c03f0db9)
+-   [Bone Spirit](#cab94d0d)
+-   [Hell\'s Gate](#a726ea9d)
+-   [Poison Nova](#mdc2776e)
+-   [Bone Wave](#z22b833e)
 :::
 
-\
-
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200926153648/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=1&page=Poison%20and%20Bone&refer=Poison%20and%20Bone)
-[TOP](#navigator)
-:::
-
-### Poison and Bone Spells [†](https://web.archive.org/web/20200926153648/http://miyoshino.la.coocan.jp/eswiki/?Poison%20and%20Bone#i60af69b "i60af69b"){#i60af69b .anchor_super} {#content_1_0}
-
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200926153648/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=2&page=Poison%20and%20Bone&refer=Poison%20and%20Bone)
-[TOP](#navigator)
-:::
-
-#### Bone Armor [†](https://web.archive.org/web/20200926153648/http://miyoshino.la.coocan.jp/eswiki/?Poison%20and%20Bone#j8f4eba5 "j8f4eba5"){#j8f4eba5 .anchor_super} {#content_1_1}
+#### Bone Armor
 
 Required Level
-
-1
+: 1
 
 Prerequisites
-
-*None*
+: *None*
 
 Difference from the LoD version
-
-Also grants defense bonus. The synergies multiplies the bonus of the
-skill by percent, instead of adding the bonus.
+: Also grants defense bonus. The synergies multiplies the bonus of the skill by percent, instead of adding the bonus.
 
 Pros
 
 Cons
 
 ::: {.ie5}
-  --------------------- ---- ------ ------ ------- ------- -----
   slvl                   1    2-8    9-16   17-22   23-28   29+
+  --------------------- ---- ------ ------ ------- ------- -----
   Damage Absorb (ES)     16    +8    +16     +24     +32    +32
   Damage Absorb (LoD)    20   +10                          
   Defense (ES)           16    +8    +16     +24     +32    +32
@@ -82,12 +54,8 @@ Synergies
     *Poison Slash:* +5% Faster Hit Recovery Per Level\
     *Killer Scythe:* +5% Faster Hit Recovery Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200926153648/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=3&page=Poison%20and%20Bone&refer=Poison%20and%20Bone)
-[TOP](#navigator)
-:::
 
-#### Poison Slash [†](https://web.archive.org/web/20200926153648/http://miyoshino.la.coocan.jp/eswiki/?Poison%20and%20Bone#h299d8dc "h299d8dc"){#h299d8dc .anchor_super} {#content_1_2}
+#### Poison Slash
 
 Required Level
 :   1
@@ -96,8 +64,7 @@ Prerequisites
 :   *None*
 
 A New ES Skill
-:   Poison Slash is based on Poison Dagger, but can be used with any
-    melee weapons.
+:   Poison Slash is based on Poison Dagger, but can be used with any melee weapons.
 
 Pros
 :   Not only Poison Damage but also Attack Rating bonus helps a lot.
@@ -123,12 +90,7 @@ Synergies
     *Killer Scythe :* +8% Poison Damage Per Level\
     *Poison Nova:* +8% Poison Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200926153648/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=4&page=Poison%20and%20Bone&refer=Poison%20and%20Bone)
-[TOP](#navigator)
-:::
-
-#### Poison Explosion [†](https://web.archive.org/web/20200926153648/http://miyoshino.la.coocan.jp/eswiki/?Poison%20and%20Bone#u31de940 "u31de940"){#u31de940 .anchor_super} {#content_1_3}
+#### Poison Explosion
 
 Required Level
 :   6
@@ -165,12 +127,7 @@ Synergies
     *Poison Slash:* +12% Physical Damage Per Level\
     *Poison Nova:* +12% Physical Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200926153648/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=5&page=Poison%20and%20Bone&refer=Poison%20and%20Bone)
-[TOP](#navigator)
-:::
-
-#### Bone Wall [†](https://web.archive.org/web/20200926153648/http://miyoshino.la.coocan.jp/eswiki/?Poison%20and%20Bone#id54e8cc "id54e8cc"){#id54e8cc .anchor_super} {#content_1_4}
+#### Bone Wall
 
 Required Level
 :   6
@@ -202,25 +159,20 @@ Synergies
     *Bone Spirit:* +10% Life Bonus Per Level\
     *Bone Wave:* +10% Life Bonus Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200926153648/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=6&page=Poison%20and%20Bone&refer=Poison%20and%20Bone)
-[TOP](#navigator)
-:::
 
-#### Frozen Spear [†](https://web.archive.org/web/20200926153648/http://miyoshino.la.coocan.jp/eswiki/?Poison%20and%20Bone#x41ca80e "x41ca80e"){#x41ca80e .anchor_super} {#content_1_5}
+#### Frozen Spear
 
 Required Level
 :   12
 
 Prerequisites
-:   *Bone Armor (1)*\
-    \|Difference from Bone Spear (LoD)\|Improved Damage. Deals Cold
-    damage. (Unlike the skillname, it doesn\'t freeze but chills
-    enemies.)
+:   *Bone Armor (1)*
+
+Difference from Bone Spear (LoD)
+: Improved Damage. Deals Cold damage. (Unlike the skillname, it doesn\'t freeze but chills enemies.)
 
 Pros
-:   Worth considering if your main curse is Lower Resist (ie. if you
-    emphasis Vampires).
+:   Worth considering if your main curse is Lower Resist (ie. if you emphasis Vampires).
 
 Cons
 :   Cold damage destroys some corpses.
@@ -240,12 +192,7 @@ Synergies
     *Bone Spirit:* +6% Cold Damage Per Level\
     *Bone Wave:* +6% Cold Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200926153648/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=7&page=Poison%20and%20Bone&refer=Poison%20and%20Bone)
-[TOP](#navigator)
-:::
-
-#### Corpse Explosion [†](https://web.archive.org/web/20200926153648/http://miyoshino.la.coocan.jp/eswiki/?Poison%20and%20Bone#h8ac0722 "h8ac0722"){#h8ac0722 .anchor_super} {#content_1_6}
+#### Corpse Explosion
 
 Required Level
 :   18
@@ -277,12 +224,8 @@ Cons
   Mana Cost (LoD)                            15             +1                           
 :::
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200926153648/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=8&page=Poison%20and%20Bone&refer=Poison%20and%20Bone)
-[TOP](#navigator)
-:::
 
-#### Bone Prison [†](https://web.archive.org/web/20200926153648/http://miyoshino.la.coocan.jp/eswiki/?Poison%20and%20Bone#m125e384 "m125e384"){#m125e384 .anchor_super} {#content_1_7}
+#### Bone Prison
 
 Required Level
 :   18
@@ -293,7 +236,8 @@ Prerequisites
 Difference from the LoD version
 :   Receives Synergy from more skills.
 
-Pros\
+Pros
+
 Cons
 :   Single target skill. Deals no damage.
 
@@ -334,12 +278,7 @@ Synergies
     *Bone Spirit:* +8% Life Bonus Per Level\
     *Bone Wave:* +8% Life Bonus Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200926153648/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=9&page=Poison%20and%20Bone&refer=Poison%20and%20Bone)
-[TOP](#navigator)
-:::
-
-#### Killer Scythe [†](https://web.archive.org/web/20200926153648/http://miyoshino.la.coocan.jp/eswiki/?Poison%20and%20Bone#c03f0db9 "c03f0db9"){#c03f0db9 .anchor_super} {#content_1_8}
+#### Killer Scythe
 
 Required Level
 :   18
@@ -354,8 +293,8 @@ A New ES Skill
 Notes
 :   Killer Scythe is faster than LoD Fend, but slightly slower than the
     improved ES Fend. This is because it proved Fend works much faster
-    with other classes than Amazon and Sorceress.\
-    For this reason, oskill Killer Scythe has no limitation while oskill
+    with other classes than Amazon and Sorceress.
+:   For this reason, oskill Killer Scythe has no limitation while oskill
     Fend has. Oskill Killer Scythe is as fast as Amazon\'s Fend for most
     classes, but isn\'t so fast for Sorceresses. Please use Fanatic
     Swing if you play Sorceress.
@@ -398,26 +337,19 @@ Synergies
     *Bone Prison:* +15% Damage Per Level\
     *Bone Wave:* +15% Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200926153648/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=10&page=Poison%20and%20Bone&refer=Poison%20and%20Bone)
-[TOP](#navigator)
-:::
-
-#### Bone Spirit [†](https://web.archive.org/web/20200926153648/http://miyoshino.la.coocan.jp/eswiki/?Poison%20and%20Bone#cab94d0d "cab94d0d"){#cab94d0d .anchor_super} {#content_1_9}
+#### Bone Spirit
 
 Required Level
 :   24
 
 Prerequisites
-:   *Bone Armor (1), Poison Slash (1), Poison Explosion (6), Frozen
-    Spear (12), Corpse Explosion (18)*
+:   *Bone Armor (1), Poison Slash (1), Poison Explosion (6), Frozen Spear (12), Corpse Explosion (18)*
 
 Difference from the LoD version
 :   Improved Damage. More Mana Consumption. Less Synergy.
 
 Pros
-:   Homing ability. Monster\'s Magic resist is generally lower than
-    other resists.
+:   Homing ability. Monster\'s Magic resist is generally lower than other resists.
 
 Cons
 :   Single target skill. Lower Resist doesn\'t lower Magic resist.
@@ -436,30 +368,19 @@ Synergies
     *Bone Prison:* +5% Magic Damage Per Level\
     *Bone Wave:* +5% Magic Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200926153648/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=11&page=Poison%20and%20Bone&refer=Poison%20and%20Bone)
-[TOP](#navigator)
-:::
-
-#### Hell\'s Gate [†](https://web.archive.org/web/20200926153648/http://miyoshino.la.coocan.jp/eswiki/?Poison%20and%20Bone#a726ea9d "a726ea9d"){#a726ea9d .anchor_super} {#content_1_10}
+#### Hell\'s Gate
 
 Required Level
 :   30
 
 Prerequisites
-:   *Bone Armor (1), Poison Slash (1), Poison Explosion (6), Frozen
-    Spear (12), Corpse Explosion (18), Bone Spirit (24)*
-
-```{=html}
-<!-- -->
-```
+:   *Bone Armor (1), Poison Slash (1), Poison Explosion (6), Frozen Spear (12), Corpse Explosion (18), Bone Spirit (24)*
 
 Difference from Nova (LoD)
 :   Deals Magic damage. Much improved missile range.
 
 Pros
-:   Attacks the enemies in all directions. Spammable. Multiple missiles
-    hit a large target.
+:   Attacks the enemies in all directions. Spammable. Multiple missiles hit a large target.
 
 Cons
 :   The damage of each missile is low.
@@ -480,12 +401,7 @@ Synergies
     *Bone Wave:* +5% Magic Damage Per Level\
     *Poison Nova:* +5% Magic Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200926153648/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=12&page=Poison%20and%20Bone&refer=Poison%20and%20Bone)
-[TOP](#navigator)
-:::
-
-#### Poison Nova [†](https://web.archive.org/web/20200926153648/http://miyoshino.la.coocan.jp/eswiki/?Poison%20and%20Bone#mdc2776e "mdc2776e"){#mdc2776e .anchor_super} {#content_1_11}
+#### Poison Nova
 
 Required Level
 :   30
@@ -523,12 +439,7 @@ Synergies
     *Poison Explosion:* +5% Physical Damage Per Level\
     *Hell\'s Gate:* +5% Physical Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200926153648/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=13&page=Poison%20and%20Bone&refer=Poison%20and%20Bone)
-[TOP](#navigator)
-:::
-
-#### Bone Wave [†](https://web.archive.org/web/20200926153648/http://miyoshino.la.coocan.jp/eswiki/?Poison%20and%20Bone#z22b833e "z22b833e"){#z22b833e .anchor_super} {#content_1_12}
+#### Bone Wave
 
 Required Level
 :   30

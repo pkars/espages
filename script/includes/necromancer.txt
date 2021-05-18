@@ -1,0 +1,4 @@
+../markdown/necromancer.md
+../markdown/necromancer-summon.md
+../markdown/necromancer-poisonbone.md
+../markdown/necromancer-curses.md

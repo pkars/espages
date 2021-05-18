@@ -1,49 +1,24 @@
----
-lang: en
-title: Curses - Eastern Sun Wiki
----
+### Curses
 
-::: {#body}
-[Necromancer](https://web.archive.org/web/20200926144525/http://miyoshino.la.coocan.jp/eswiki/?Necromancer "Necromancer (4186d)")
-- [Summoning
-Spells](https://web.archive.org/web/20200926144525/http://miyoshino.la.coocan.jp/eswiki/?Summoning_Nec "Summoning_Nec (3260d)")
-/ [Poison and Bone
-Spells](https://web.archive.org/web/20200926144525/http://miyoshino.la.coocan.jp/eswiki/?Poison%20and%20Bone "Poison and Bone (4146d)")
-/ Curses
+::: {#nec-curses}
+[Necromancer](#top) - [Summoning Spells] / [Poison and Bone Spells] / Curses
 
 ::: {.contents}
-[]{#contents_1}
-
--   [Curses](#n9f784fe)
-    -   [Amplify Damage](#s2c8ae13)
-    -   [Weaken](#yd64c900)
-    -   [Terror](#g347e945)
-    -   [Dim Vision](#x2297f17)
-    -   [Confuse](#m2ff721e)
-    -   [Iron Maiden](#kd8757fe)
-    -   [Attract](#ha1a9877)
-    -   [Decrepify](#g3cf9d46)
-    -   [Blade Fury](#d0e3ff9c)
-    -   [Life Tap](#i9101640)
-    -   [Lower Resist](#f56d715f)
-    -   [Pierce Flesh and Bone](#a05e4885)
+-   [Amplify Damage]
+-   [Weaken]
+-   [Terror]
+-   [Dim Vision]
+-   [Confuse]
+-   [Iron Maiden]
+-   [Attract]
+-   [Decrepify]
+-   [Blade Fury]
+-   [Life Tap]
+-   [Lower Resist]
+-   [Pierce Flesh and Bone]
 :::
 
-\
-
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200926144525/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=1&page=Curses&refer=Curses)
-[TOP](#navigator)
-:::
-
-### [Curses](https://web.archive.org/web/20200926144525/http://miyoshino.la.coocan.jp/eswiki/?Curses "Curses (3864d)") [†](https://web.archive.org/web/20200926144525/http://miyoshino.la.coocan.jp/eswiki/?Curses#n9f784fe "n9f784fe"){#n9f784fe .anchor_super} {#content_1_0}
-
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200926144525/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=2&page=Curses&refer=Curses)
-[TOP](#navigator)
-:::
-
-#### Amplify Damage [†](https://web.archive.org/web/20200926144525/http://miyoshino.la.coocan.jp/eswiki/?Curses#s2c8ae13 "s2c8ae13"){#s2c8ae13 .anchor_super} {#content_1_1}
+#### Amplify Damage
 
 Required Level
 :   1
@@ -77,12 +52,7 @@ Synergies
     *Decrepify:* +1 Second Per Level\
     *Life Tap:* +1 Second Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200926144525/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=3&page=Curses&refer=Curses)
-[TOP](#navigator)
-:::
-
-#### Weaken [†](https://web.archive.org/web/20200926144525/http://miyoshino.la.coocan.jp/eswiki/?Curses#yd64c900 "yd64c900"){#yd64c900 .anchor_super} {#content_1_2}
+#### Weaken
 
 Required Level
 :   1
@@ -121,12 +91,7 @@ Synergies
     *Lower Resist:* -1% Target\'s Physical Damage Per Level\
     (Target\'s Physical Damage% is capped at -95%)
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200926144525/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=4&page=Curses&refer=Curses)
-[TOP](#navigator)
-:::
-
-#### Terror [†](https://web.archive.org/web/20200926144525/http://miyoshino.la.coocan.jp/eswiki/?Curses#g347e945 "g347e945"){#g347e945 .anchor_super} {#content_1_3}
+#### Terror
 
 Required Level
 :   1
@@ -159,12 +124,7 @@ Synergies
     *Attract:* +1 Second Per Level\
     *Decrepify:* +1 Second Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200926144525/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=5&page=Curses&refer=Curses)
-[TOP](#navigator)
-:::
-
-#### Dim Vision [†](https://web.archive.org/web/20200926144525/http://miyoshino.la.coocan.jp/eswiki/?Curses#x2297f17 "x2297f17"){#x2297f17 .anchor_super} {#content_1_4}
+#### Dim Vision
 
 Required Level
 :   6
@@ -197,12 +157,7 @@ Synergies
     *Decrepify:* +1 Second Per Level\
     *Lower Resist:* +1 Second Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200926144525/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=6&page=Curses&refer=Curses)
-[TOP](#navigator)
-:::
-
-#### Confuse [†](https://web.archive.org/web/20200926144525/http://miyoshino.la.coocan.jp/eswiki/?Curses#m2ff721e "m2ff721e"){#m2ff721e .anchor_super} {#content_1_5}
+#### Confuse
 
 Required Level
 :   6
@@ -237,12 +192,8 @@ Synergies
     *Attract:* +1 Second Per Level\
     *Decrepify:* +1 Second Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200926144525/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=7&page=Curses&refer=Curses)
-[TOP](#navigator)
-:::
 
-#### Iron Maiden [†](https://web.archive.org/web/20200926144525/http://miyoshino.la.coocan.jp/eswiki/?Curses#kd8757fe "kd8757fe"){#kd8757fe .anchor_super} {#content_1_6}
+#### Iron Maiden
 
 Required Level
 :   12
@@ -293,12 +244,8 @@ Synergies
     *Decrepify:* +15% Return Damage Per Level\
     *Life Tap:* +15% Return Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200926144525/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=8&page=Curses&refer=Curses)
-[TOP](#navigator)
-:::
 
-#### Attract [†](https://web.archive.org/web/20200926144525/http://miyoshino.la.coocan.jp/eswiki/?Curses#ha1a9877 "ha1a9877"){#ha1a9877 .anchor_super} {#content_1_7}
+#### Attract
 
 Required Level
 :   12
@@ -336,12 +283,7 @@ Synergies
     *Confuse:* +1 Second Per Level\
     *Decrepify:* +1 Second Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200926144525/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=9&page=Curses&refer=Curses)
-[TOP](#navigator)
-:::
-
-#### Decrepify [†](https://web.archive.org/web/20200926144525/http://miyoshino.la.coocan.jp/eswiki/?Curses#g3cf9d46 "g3cf9d46"){#g3cf9d46 .anchor_super} {#content_1_8}
+#### Decrepify
 
 Required Level
 :   18
@@ -375,12 +317,7 @@ Synergies
     *Weaken:* +1 Second Per Level\
     *Lower Resist:* +1 Second Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200926144525/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=10&page=Curses&refer=Curses)
-[TOP](#navigator)
-:::
-
-#### Blade Fury [†](https://web.archive.org/web/20200926144525/http://miyoshino.la.coocan.jp/eswiki/?Curses#d0e3ff9c "d0e3ff9c"){#d0e3ff9c .anchor_super} {#content_1_9}
+#### Blade Fury
 
 Required Level
 :   18
@@ -413,12 +350,7 @@ Cons
   Mana Cost                               11                                     
 :::
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200926144525/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=11&page=Curses&refer=Curses)
-[TOP](#navigator)
-:::
-
-#### Life Tap [†](https://web.archive.org/web/20200926144525/http://miyoshino.la.coocan.jp/eswiki/?Curses#i9101640 "i9101640"){#i9101640 .anchor_super} {#content_1_10}
+#### Life Tap
 
 Required Level
 :   24
@@ -455,19 +387,14 @@ Synergies
     *Decrepify:* +2% Life Stolen Per Level\
     *Blood Golem:* +2% Life Stolen Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200926144525/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=12&page=Curses&refer=Curses)
-[TOP](#navigator)
-:::
 
-#### Lower Resist [†](https://web.archive.org/web/20200926144525/http://miyoshino.la.coocan.jp/eswiki/?Curses#f56d715f "f56d715f"){#f56d715f .anchor_super} {#content_1_11}
+#### Lower Resist
 
 Required Level
 :   30
 
 Prerequisites
-:   *Amplify Damage (1), Dim Vision (6), Iron Maiden (12),
-    Decrepify (18)*
+:   *Amplify Damage (1), Dim Vision (6), Iron Maiden (12), Decrepify (18)*
 
 Difference from the LoD version
 :   Can\'t lower target\'s Poison or Magic Resistance. But can lower
@@ -495,26 +422,18 @@ Synergies
     *Dim Vision:* +1 Second Per Level\
     *Decrepify:* +1 Second Per Level\
     *Summon Resist:* -1% Target\'s F/C/R Resist Per Level\
-    *Pierce Flesh and Bone:* -3% Target\'s Poison and Magic Resist Per
-    Level
+    *Pierce Flesh and Bone:* -3% Target\'s Poison and Magic Resist Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200926144525/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=13&page=Curses&refer=Curses)
-[TOP](#navigator)
-:::
-
-#### Pierce Flesh and Bone [†](https://web.archive.org/web/20200926144525/http://miyoshino.la.coocan.jp/eswiki/?Curses#a05e4885 "a05e4885"){#a05e4885 .anchor_super} {#content_1_12}
+#### Pierce Flesh and Bone
 
 Required Level
 :   30
 
 Prerequisites
-:   *Amplify Damage (1), Dim Vision (6), Iron Maiden (12),
-    Decrepify (18)*
+:   *Amplify Damage (1), Dim Vision (6), Iron Maiden (12), Decrepify (18)*
 
 A new ES skill
-:   A specialized version of Lower Resist for Poison and Magic
-    Resistance.
+:   A specialized version of Lower Resist for Poison and Magic Resistance.
 
 Pros
 :   The lowering effect is very strong.
