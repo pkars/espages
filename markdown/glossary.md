@@ -235,7 +235,7 @@ can be found at the ES Database.
 [Back to top](#top){.totop}
 
 
-#### Devil\'s Food {#devils_food}
+#### Devil\'s Food {#devils-food}
 
 ![invdevils.gif](../img/invdevils.gif){.size-28}\
 
@@ -283,7 +283,7 @@ and 60% chance to drop a magic charm. (The size of the charm is random.)
 [Back to top](#top){.totop}
 
 
-#### Diminishing Return []{#diminishing_return .anchor} [†](#y1eda083 "y1eda083"){#y1eda083 .anchor_super} {#content_1_19}
+#### Diminishing Return
 
 It generally means the output per input which decreases as the input
 increases.
@@ -498,7 +498,7 @@ Half Freeze Duration.
 [Back to top](#top){.totop}
 
 
-#### HoD Run []{#hod_runs .anchor} [†](#ed06c1e4 "ed06c1e4"){#ed06c1e4 .anchor_super} {#content_1_33}
+#### HoD Run
 
 HoD is an abbreviation of Halls of the Dead, in Dry Hills, Act 2. The
 super unique Pantherwoman nearby the Horadric Cube chest drops a Forging
@@ -533,7 +533,7 @@ Jewelry. Jewelry is an uncountable noun and cannot be used in plural.
 [Back to top](#top){.totop}
 
 
-#### Kanji Rune []{#kanji_rune .anchor} [†](#r8348b54 "r8348b54"){#r8348b54 .anchor_super} {#content_1_37}
+#### Kanji Rune
 
 [Kanji Runes](playing-tips.html#o6232ff2)
 are the highest 14 runes which use Chinese characters. They can\'t be
@@ -651,6 +651,7 @@ multiplied by 2/3 in D2 (i.e. +1 radius stands for +2/3 yard).
     treated like Act Bosses.
 
 -   **Act Bosses and Semi Bosses**
+
     ::: {.ie5}
       Name           Normal   NM   Hell
       -------------- -------- ---- ------
@@ -1152,7 +1153,7 @@ The realm (Battle Net) only event implemented in the first season of LoD
 with an earthquake, and the first super unique monster you encounter
 turns into the [Diablo Clone][].
 
-Selling the trigger item (SOJ in LoD, and [Devil\'s Food](#devils_food)
+Selling the trigger item (SOJ in LoD, and [Devil\'s Food](#devils-food)
 in ES) makes the event happen sooner.
 
 Though this is the realm only event, the utility plugin PlugY emulates
