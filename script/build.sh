@@ -7,5 +7,7 @@ fi
 
 # Build the cleaned up pages
 for cls in $PAGES; do
-  pandoc -s $(cat includes/$cls.txt) -f markdown -t html5 -o ../html/class/$cls.html
+  pandoc -s $(cat includes/$cls.txt) -f markdown -t html5 -o ../html/class/$cls.html \
+         -c "https://cdn.simplecss.org/simple.min.css" -c "../../css/style.css" \
+         -A "footer.txt"
 done
