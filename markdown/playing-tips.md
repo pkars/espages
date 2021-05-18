@@ -1,38 +1,6 @@
 ---
 lang: en
 title: 'Playing Tips - Eastern Sun Wiki'
-header-includes: |
-  <style>
-    .gray {
-      color: #A7A7A7;
-    }
-
-    .red {
-      color: #B22222;
-    }
-
-    .yellow {
-      color: #D7D700;
-    }
-
-    .orange {
-      color: #FF8C00;
-    }
-
-    .green {
-      color: #32CD32;
-    }
-
-    .gold {
-      color: #909737;
-    }
-
-    img.size-28 {
-      width: 28px;
-      height: 28px;
-    }
-
-  </style>
 ---
 
 ::: {.contents}

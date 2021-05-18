@@ -1,12 +1,5 @@
 ---
 title: Glossary - Eastern Sun Wiki
-header-includes: |
-  <style>
-    .totop {
-      color: blue;
-      font-size: small;
-    }
-  </style>
 ---
 ## Glossary {#top}
 
