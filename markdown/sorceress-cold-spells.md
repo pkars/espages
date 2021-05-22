@@ -1,47 +1,21 @@
----
-lang: en
-title: Cold Spells - Eastern Sun Wiki
----
+### Cold Spells
 
-::: {#body}
-[Sorceress](https://web.archive.org/web/20200815033040/http://miyoshino.la.coocan.jp/eswiki/?Sorceress "Sorceress (2948d)")
-- Cold Spells / [Lightning
-Spells](https://web.archive.org/web/20200815033040/http://miyoshino.la.coocan.jp/eswiki/?Lightning%20Spells "Lightning Spells (4497d)")
-/ [Fire
-Spells](https://web.archive.org/web/20200815033040/http://miyoshino.la.coocan.jp/eswiki/?Fire%20Spells "Fire Spells (4497d)")
+[Sorceress](#top) - Cold Spells / [Lightning Spells] / [Fire Spells]
 
-::: {.contents}
-[]{#contents_1}
+-   [Soul Shiver]
+-   [Ice Bolt]
+-   [Chilling Armor]
+-   [Aerial Guard]
+-   [Twister]
+-   [Ice Blast]
+-   [Glacial Spike]
+-   [Blizzard]
+-   [Ice Nova]
+-   [Frozen Orb]
+-   [Cold Mastery]
 
--   [Cold Spells](#l17684dd)
-    -   [Soul Shiver](#oe537abe)
-    -   [Ice Bolt](#w97fe543)
-    -   [Chilling Armor](#ef1e9dec)
-    -   [Aerial Guard](#t8cf4867)
-    -   [Twister](#za00a421)
-    -   [Ice Blast](#t66b2975)
-    -   [Glacial Spike](#y94225ce)
-    -   [Blizzard](#a903442d)
-    -   [Ice Nova](#l91ac644)
-    -   [Frozen Orb](#n77d5e5a)
-    -   [Cold Mastery](#b2da3094)
-:::
 
-\
-
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200815033040/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=1&page=Cold%20Spells&refer=Cold%20Spells)
-[TOP](#navigator)
-:::
-
-### Cold Spells [†](https://web.archive.org/web/20200815033040/http://miyoshino.la.coocan.jp/eswiki/?Cold%20Spells#l17684dd "l17684dd"){#l17684dd .anchor_super} {#content_1_0}
-
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200815033040/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=2&page=Cold%20Spells&refer=Cold%20Spells)
-[TOP](#navigator)
-:::
-
-#### Soul Shiver [†](https://web.archive.org/web/20200815033040/http://miyoshino.la.coocan.jp/eswiki/?Cold%20Spells#oe537abe "oe537abe"){#oe537abe .anchor_super} {#content_1_1}
+#### Soul Shiver
 
 Required Level
 :   1
@@ -55,21 +29,22 @@ Difference from Warmth
 Pros
 :   A passive skill never hurts. Even 1 point works fine.
 
-Cons\
+Cons
+
 Notes
 :   +200% Mana Regeneration means your mana regenerates 3 times faster,
     for example. In other words it takes only 1/3 time to regenerate 1
     mana.
 
-In ES, Soul Shiver doesn\'t work if you have no actual point in it. So
-when you play a Sorceress, at least one skill point in Soul Shiver is a
-must. This change is because it proved oskill Soul Shiver has the same
-loophole as the Holy Aura item exploit in LoD, and oskill Soul Shiver
-needed to be disabled. (The loophole allowed you to stack the effect of
-oskill Soul Shiver as many times as you wish.) Oskill Soul Shiver only
-exists on some old Necromancer unique rings, and is of no use in the
-current version. You can replace one with oskill Fire Armor by
-rerolling.
+    In ES, Soul Shiver doesn\'t work if you have no actual point in it. So
+    when you play a Sorceress, at least one skill point in Soul Shiver is a
+    must. This change is because it proved oskill Soul Shiver has the same
+    loophole as the Holy Aura item exploit in LoD, and oskill Soul Shiver
+    needed to be disabled. (The loophole allowed you to stack the effect of
+    oskill Soul Shiver as many times as you wish.) Oskill Soul Shiver only
+    exists on some old Necromancer unique rings, and is of no use in the
+    current version. You can replace one with oskill Fire Armor by
+    rerolling.
 
 ::: {.ie5}
   slvl                        1    2-8   9-16   17-22   23-28   29+
@@ -77,12 +52,7 @@ rerolling.
   Mana Regeneration Bonus%    30   +12                         
 :::
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200815033040/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=3&page=Cold%20Spells&refer=Cold%20Spells)
-[TOP](#navigator)
-:::
-
-#### Ice Bolt [†](https://web.archive.org/web/20200815033040/http://miyoshino.la.coocan.jp/eswiki/?Cold%20Spells#w97fe543 "w97fe543"){#w97fe543 .anchor_super} {#content_1_2}
+#### Ice Bolt
 
 Required Level
 :   1
@@ -118,25 +88,16 @@ Synergies
     *Frozen Orb:* +12% Cold Damage Per Level\
     *Each Skill Also Gives:* +5% Cold Duration
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200815033040/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=4&page=Cold%20Spells&refer=Cold%20Spells)
-[TOP](#navigator)
-:::
-
-#### Chilling Armor [†](https://web.archive.org/web/20200815033040/http://miyoshino.la.coocan.jp/eswiki/?Cold%20Spells#ef1e9dec "ef1e9dec"){#ef1e9dec .anchor_super} {#content_1_3}
+#### Chilling Armor
 
 Required Level
-
-1
+: 1
 
 Prerequisites
-
-*None*
+: *None*
 
 Difference from the LoD version
-
-Improved Defense and Damage. Base points reduces enemy\'s cold
-resistance.
+: Improved Defense and Damage. Base points reduces enemy\'s cold resistance.
 
 Pros
 
@@ -164,12 +125,7 @@ Synergies
     *Fire Armor:* +10 Seconds Per Level\
     *Aerial Guard:* +1% Cold Absorb Per 2 Levels
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200815033040/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=5&page=Cold%20Spells&refer=Cold%20Spells)
-[TOP](#navigator)
-:::
-
-#### Aerial Guard [†](https://web.archive.org/web/20200815033040/http://miyoshino.la.coocan.jp/eswiki/?Cold%20Spells#t8cf4867 "t8cf4867"){#t8cf4867 .anchor_super} {#content_1_4}
+#### Aerial Guard
 
 Required Level
 :   1
@@ -181,12 +137,10 @@ A new ES skill
 :   Improves the poor block/recovery ability of Sorceress.
 
 Pros
-:   A must for a melee Sorceress. Grants three times faster
-    block/recovery rate at high slvls.
+:   A must for a melee Sorceress. Grants three times faster block/recovery rate at high slvls.
 
 Cons
-:   Penalty to Cast Rate. If your Cast Rate is below -50%, you can\'t
-    cast any spells.
+:   Penalty to Cast Rate. If your Cast Rate is below -50%, you can\'t cast any spells.
 
 ::: {.ie5}
   slvl                            1                            2-8                     9-16   17-22   23-28   29+
@@ -238,12 +192,8 @@ Synergies
     *Chilling Armor:* +10 Seconds Per Level\
     *Fire Armor:* +10 Seconds Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200815033040/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=6&page=Cold%20Spells&refer=Cold%20Spells)
-[TOP](#navigator)
-:::
 
-#### Twister [†](https://web.archive.org/web/20200815033040/http://miyoshino.la.coocan.jp/eswiki/?Cold%20Spells#za00a421 "za00a421"){#za00a421 .anchor_super} {#content_1_5}
+#### Twister
 
 Required Level
 :   6
@@ -281,12 +231,7 @@ Synergies
     *Cold Mastery:* +7% Damage Per Level\
     *Lightning Mastery:* +7% Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200815033040/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=7&page=Cold%20Spells&refer=Cold%20Spells)
-[TOP](#navigator)
-:::
-
-#### Ice Blast [†](https://web.archive.org/web/20200815033040/http://miyoshino.la.coocan.jp/eswiki/?Cold%20Spells#t66b2975 "t66b2975"){#t66b2975 .anchor_super} {#content_1_6}
+#### Ice Blast
 
 Required Level
 :   6
@@ -295,12 +240,10 @@ Prerequisites
 :   *Ice Bolt (1)*
 
 Difference from the LoD version
-:   Receives less synergy from more skills. Improved damage .(R2E
-    change)
+:   Receives less synergy from more skills. Improved damage. (R2E change)
 
 Pros
-:   Though a single target skill, freeze duration is fairly longer than
-    Gacial Spike.
+:   Though a single target skill, freeze duration is fairly longer than Glacial Spike.
 
 Cons
 :   Single target skill.
@@ -322,12 +265,7 @@ Synergies
     *Frozen Orb:* +8% Cold Damage Per Level\
     *Each Skill Also Gives:* +3% Freeze Duration
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200815033040/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=8&page=Cold%20Spells&refer=Cold%20Spells)
-[TOP](#navigator)
-:::
-
-#### Glacial Spike [†](https://web.archive.org/web/20200815033040/http://miyoshino.la.coocan.jp/eswiki/?Cold%20Spells#y94225ce "y94225ce"){#y94225ce .anchor_super} {#content_1_7}
+#### Glacial Spike
 
 Required Level
 :   12
@@ -336,8 +274,7 @@ Prerequisites
 :   *Ice Bolt (1), Ice Blast (6)*
 
 Difference from the LoD version
-:   Bigger explosion. Slightly improved damage. Receives less synergy
-    from more skills.
+:   Bigger explosion. Slightly improved damage. Receives less synergy from more skills.
 
 Pros
 :   Freezes target. Has AoE.
@@ -364,12 +301,7 @@ Synergies
     *Frozen Orb:* +5% Cold Damage Per Level\
     *Each Skill Also Gives:* +3% Freeze Duration
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200815033040/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=9&page=Cold%20Spells&refer=Cold%20Spells)
-[TOP](#navigator)
-:::
-
-#### Blizzard [†](https://web.archive.org/web/20200815033040/http://miyoshino.la.coocan.jp/eswiki/?Cold%20Spells#a903442d "a903442d"){#a903442d .anchor_super} {#content_1_8}
+#### Blizzard
 
 Required Level
 :   18
@@ -381,8 +313,7 @@ Difference from the LoD version
 :   Less cast delay.
 
 Pros
-:   Good AoE. A \"Fire and Forget\" skill. More spammable than the LoD
-    version.
+:   Good AoE. A \"Fire and Forget\" skill. More spammable than the LoD version.
 
 Cons
 :   Spamming Blizzard may cause graphic lag.
@@ -407,12 +338,7 @@ Synergies
     *Frozen Orb:* +4% Cold Damage Per Level\
     *Each Skill Also Gives:* +5% Cold Duration
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200815033040/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=10&page=Cold%20Spells&refer=Cold%20Spells)
-[TOP](#navigator)
-:::
-
-#### Ice Nova [†](https://web.archive.org/web/20200815033040/http://miyoshino.la.coocan.jp/eswiki/?Cold%20Spells#l91ac644 "l91ac644"){#l91ac644 .anchor_super} {#content_1_9}
+#### Ice Nova
 
 Required Level
 :   24
@@ -450,19 +376,13 @@ Synergies
     *Frozen Orb:* +3% Cold Damage Per Level\
     *Each Skill Also Gives:* +5% Cold Duration
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200815033040/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=11&page=Cold%20Spells&refer=Cold%20Spells)
-[TOP](#navigator)
-:::
-
-#### Frozen Orb [†](https://web.archive.org/web/20200815033040/http://miyoshino.la.coocan.jp/eswiki/?Cold%20Spells#n77d5e5a "n77d5e5a"){#n77d5e5a .anchor_super} {#content_1_10}
+#### Frozen Orb
 
 Required Level
 :   30
 
 Prerequisites
-:   *Ice Bolt (1), Twister (6), Ice Blast (6), Glacial Spike (12),
-    Blizzard (18)*
+:   *Ice Bolt (1), Twister (6), Ice Blast (6), Glacial Spike (12), Blizzard (18)*
 
 Difference from the LoD version
 :   Slightly less cast delay. Receives better synergy.
@@ -494,12 +414,7 @@ Synergies
     *Ice Nova:* +3% Cold Damage Per Level\
     *Each Skill Also Gives:* +5% Cold Duration
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200815033040/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=12&page=Cold%20Spells&refer=Cold%20Spells)
-[TOP](#navigator)
-:::
-
-#### Cold Mastery [†](https://web.archive.org/web/20200815033040/http://miyoshino.la.coocan.jp/eswiki/?Cold%20Spells#b2da3094 "b2da3094"){#b2da3094 .anchor_super} {#content_1_11}
+#### Cold Mastery
 
 Required Level
 :   30
@@ -508,8 +423,7 @@ Prerequisites
 :   *None*
 
 Difference from the LoD version
-:   Increases Cold Damage you deal, instead of reducing enemy\'s Cold
-    Resistance.
+:   Increases Cold Damage you deal, instead of reducing enemy\'s Cold Resistance.
 
 Pros
 :   Boosts all Cold Damage including weapon Cold damage. Just 1 point
@@ -539,5 +453,4 @@ Cons
   Resistance%                                                          
   (LoD)                                                                
   -------------------------------------------------------------------------------
-:::
 :::

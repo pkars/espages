@@ -1,0 +1,4 @@
+../markdown/sorceress.md
+../markdown/sorceress-cold-spells.md
+../markdown/sorceress-lightning-spells.md
+../markdown/sorceress-fire-spells.md

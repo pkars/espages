@@ -1,41 +1,20 @@
----
-lang: en
-title: Lightning Spells - Eastern Sun Wiki
----
+### Lightning Spells
 
-::: {#body}
-[Sorceress](https://web.archive.org/web/20201021104700/http://miyoshino.la.coocan.jp/eswiki/?Sorceress "Sorceress (3015d)")
-- [Cold
-Spells](https://web.archive.org/web/20201021104700/http://miyoshino.la.coocan.jp/eswiki/?Cold%20Spells "Cold Spells (3215d)")
-/ Lightning Spells / [Fire
-Spells](https://web.archive.org/web/20201021104700/http://miyoshino.la.coocan.jp/eswiki/?Fire%20Spells "Fire Spells (4564d)")
+[Sorceress](#top) - [Cold Spells] / Lightning Spells / [Fire Spells]
 
-::: {.contents}
-[]{#contents_1}
+-   [Teleport](#o9425285)
+-   [Charged Bolt](#ye46a2a6)
+-   [Shock Armor](#d9829db6)
+-   [Lightning](#ve886114)
+-   [Telekinesis](#t1776d68)
+-   [Lightning Inferno](#l7fd6be5)
+-   [Static Field](#p87fce90)
+-   [Energy Shield](#vbf81b7e)
+-   [Lightning Hydra](#y515ada1)
+-   [Time Stop](#eaa22a28)
+-   [Chain Lightning](#abe3d000)
+-   [Lightning Mastery](#pd55a517)
 
--   [Lightning Spells](#g70680c6)
-    -   [Teleport](#o9425285)
-    -   [Charged Bolt](#ye46a2a6)
-    -   [Shock Armor](#d9829db6)
-    -   [Lightning](#ve886114)
-    -   [Telekinesis](#t1776d68)
-    -   [Lightning Inferno](#l7fd6be5)
-    -   [Static Field](#p87fce90)
-    -   [Energy Shield](#vbf81b7e)
-    -   [Lightning Hydra](#y515ada1)
-    -   [Time Stop](#eaa22a28)
-    -   [Chain Lightning](#abe3d000)
-    -   [Lightning Mastery](#pd55a517)
-:::
-
-\
-
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201021104700/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=1&page=Lightning%20Spells&refer=Lightning%20Spells)
-[TOP](#navigator)
-:::
-
-### Lightning Spells [†](https://web.archive.org/web/20201021104700/http://miyoshino.la.coocan.jp/eswiki/?Lightning%20Spells#g70680c6 "g70680c6"){#g70680c6 .anchor_super} {#content_1_0}
 
 Lightning Mastery is nerfed so that Fire Mastery, Lightning Mastery and
 Cold Mastery grant the same amount of damage increment. (In LoD,
@@ -43,12 +22,7 @@ Lightning Mastery grants much more damage increment than Fire Mastery.)
 
 -   Instead, the damage of most Lightning Spells is greatly improved.
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201021104700/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=2&page=Lightning%20Spells&refer=Lightning%20Spells)
-[TOP](#navigator)
-:::
-
-#### Teleport [†](https://web.archive.org/web/20201021104700/http://miyoshino.la.coocan.jp/eswiki/?Lightning%20Spells#o9425285 "o9425285"){#o9425285 .anchor_super} {#content_1_1}
+#### Teleport
 
 Required Level
 :   1
@@ -57,15 +31,13 @@ Prerequisites
 :   *None*
 
 Difference from the LoD version
-:   Lower level requirement. Lower Mana cost. Castable in town and in
-    wereform.
+:   Lower level requirement. Lower Mana cost. Castable in town and in wereform.
 
 Pros
 :   Oskill Teleport is very good for summoners to gather their minions.
 
 Cons
-:   You may get fat from lack of exercise.
-    ![;)](Lightning%20Spells%20-%20Eastern%20Sun%20Wiki_tiedostot/wink.png)
+:   You may get fat from lack of exercise. ![;)](/img/wink.png)
 
 ::: {.ie5}
   slvl               1                      2-8                      9-16   17-22   23-28   29+
@@ -74,12 +46,7 @@ Cons
   Mana Cost (LoD)    24     -1 (the lower limit is 1 at slvl 24)                           
 :::
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201021104700/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=3&page=Lightning%20Spells&refer=Lightning%20Spells)
-[TOP](#navigator)
-:::
-
-#### Charged Bolt [†](https://web.archive.org/web/20201021104700/http://miyoshino.la.coocan.jp/eswiki/?Lightning%20Spells#ye46a2a6 "ye46a2a6"){#ye46a2a6 .anchor_super} {#content_1_2}
+#### Charged Bolt
 
 Required Level
 :   1
@@ -88,15 +55,13 @@ Prerequisites
 :   *None*
 
 Difference from the LoD version
-:   Improved damage. Additional bolt per level is reduced but the cap is
-    increased.
+:   Improved damage. Additional bolt per level is reduced but the cap is increased.
 
 Pros
 :   Good AoE. Good Min Damage unlike most Lightning spells.
 
 Cons
-:   Missiles are slow. A lot of bolts may cause graphic lag and hide the
-    bolts of LE bosses.
+:   Missiles are slow. A lot of bolts may cause graphic lag and hide the bolts of LE bosses.
 
 ::: {.ie5}
   slvl                       1            2-8           9-16   17-22   23-28   29+
@@ -115,24 +80,16 @@ Synergies
     *Lightning Hydra:* +7% Lightning Damage Per Level\
     *Chain Lightning:* +7% Lightning Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201021104700/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=4&page=Lightning%20Spells&refer=Lightning%20Spells)
-[TOP](#navigator)
-:::
-
-#### Shock Armor [†](https://web.archive.org/web/20201021104700/http://miyoshino.la.coocan.jp/eswiki/?Lightning%20Spells#d9829db6 "d9829db6"){#d9829db6 .anchor_super} {#content_1_3}
+#### Shock Armor
 
 Required Level
-
-1
+: 1
 
 Prerequisites
-
-*None*
+: *None*
 
 Difference from Frozen Armor
-
-Improved Defense. Base points reduce enemy\'s Lightning Resistance.
+: Improved Defense. Base points reduce enemy\'s Lightning Resistance.
 
 Pros
 
@@ -158,12 +115,7 @@ Synergies
     *Chilling Armor:* +10 Seconds Per Level\
     *Aerial Guard:* +1% Lightning Absorb Per 2 Levels
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201021104700/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=5&page=Lightning%20Spells&refer=Lightning%20Spells)
-[TOP](#navigator)
-:::
-
-#### Lightning [†](https://web.archive.org/web/20201021104700/http://miyoshino.la.coocan.jp/eswiki/?Lightning%20Spells#ve886114 "ve886114"){#ve886114 .anchor_super} {#content_1_4}
+#### Lightning
 
 Required Level
 :   6
@@ -197,12 +149,7 @@ Synergies
     *Lightning Hydra:* +6% Lightning Damage Per Level\
     *Chain Lightning:* +6% Lightning Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201021104700/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=6&page=Lightning%20Spells&refer=Lightning%20Spells)
-[TOP](#navigator)
-:::
-
-#### Telekinesis [†](https://web.archive.org/web/20201021104700/http://miyoshino.la.coocan.jp/eswiki/?Lightning%20Spells#t1776d68 "t1776d68"){#t1776d68 .anchor_super} {#content_1_5}
+#### Telekinesis
 
 Required Level
 :   12
@@ -235,12 +182,7 @@ Synergies
     *Static Field:* +4% Lightning Damage Per Level\
     *Energy Shield:* +4% Lightning Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201021104700/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=7&page=Lightning%20Spells&refer=Lightning%20Spells)
-[TOP](#navigator)
-:::
-
-#### Lightning Inferno [†](https://web.archive.org/web/20201021104700/http://miyoshino.la.coocan.jp/eswiki/?Lightning%20Spells#l7fd6be5 "l7fd6be5"){#l7fd6be5 .anchor_super} {#content_1_6}
+#### Lightning Inferno
 
 Required Level
 :   12
@@ -283,12 +225,7 @@ Synergies
     *Lightning Hydra:* +5% Lightning Damage Per Level\
     *Chain Lightning:* +5% Lightning Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201021104700/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=8&page=Lightning%20Spells&refer=Lightning%20Spells)
-[TOP](#navigator)
-:::
-
-#### Static Field [†](https://web.archive.org/web/20201021104700/http://miyoshino.la.coocan.jp/eswiki/?Lightning%20Spells#p87fce90 "p87fce90"){#p87fce90 .anchor_super} {#content_1_7}
+#### Static Field
 
 Required Level
 :   18
@@ -321,12 +258,7 @@ Cons
   Mana Cost          9                                   
 :::
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201021104700/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=9&page=Lightning%20Spells&refer=Lightning%20Spells)
-[TOP](#navigator)
-:::
-
-#### Energy Shield [†](https://web.archive.org/web/20201021104700/http://miyoshino.la.coocan.jp/eswiki/?Lightning%20Spells#vbf81b7e "vbf81b7e"){#vbf81b7e .anchor_super} {#content_1_8}
+#### Energy Shield
 
 Required Level
 :   18
@@ -374,30 +306,19 @@ Synergies
     *Telekinesis:* 3% Less Mana Consumption Per Level\
     *Static Field:* 3% Less Mana Consumption Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201021104700/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=10&page=Lightning%20Spells&refer=Lightning%20Spells)
-[TOP](#navigator)
-:::
-
-#### Lightning Hydra [†](https://web.archive.org/web/20201021104700/http://miyoshino.la.coocan.jp/eswiki/?Lightning%20Spells#y515ada1 "y515ada1"){#y515ada1 .anchor_super} {#content_1_9}
+#### Lightning Hydra
 
 Required Level
-
-24
+: 24
 
 Prerequisites
-
-*Charged Bolt (1), Lightning (6), Lightning Inferno (12)*
+: *Charged Bolt (1), Lightning (6), Lightning Inferno (12)*
 
 Difference from Hydra (LoD)
-
-Spits Charged Bolts instead of Fire Bolts. Additional duration per
-level. Improved damage. Shorter cast delay.
+: Spits Charged Bolts instead of Fire Bolts. Additional duration per level. Improved damage. Shorter cast delay.
 
 Pros
-
-\"Fire and forget\" skill. \"Scouting\" ability. More spammable than
-Hydra(LoD).
+: \"Fire and forget\" skill. \"Scouting\" ability. More spammable than Hydra(LoD).
 
 Cons
 
@@ -454,12 +375,7 @@ Synergies
     *Lightning Inferno:* +4% Lightning Damage Per Level\
     *Chain Lightning:* +4% Lightning Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201021104700/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=11&page=Lightning%20Spells&refer=Lightning%20Spells)
-[TOP](#navigator)
-:::
-
-#### Time Stop [†](https://web.archive.org/web/20201021104700/http://miyoshino.la.coocan.jp/eswiki/?Lightning%20Spells#eaa22a28 "eaa22a28"){#eaa22a28 .anchor_super} {#content_1_10}
+#### Time Stop
 
 Required Level
 :   30
@@ -488,19 +404,13 @@ Cons
   Mana Cost            40                +5                                      
 :::
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201021104700/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=12&page=Lightning%20Spells&refer=Lightning%20Spells)
-[TOP](#navigator)
-:::
-
-#### Chain Lightning [†](https://web.archive.org/web/20201021104700/http://miyoshino.la.coocan.jp/eswiki/?Lightning%20Spells#abe3d000 "abe3d000"){#abe3d000 .anchor_super} {#content_1_11}
+#### Chain Lightning
 
 Required Level
 :   30
 
 Prerequisites
-:   *Charged Bolt (1), Lightning (6), Lightning Inferno (12), Lightning
-    Hydra (24)*
+:   *Charged Bolt (1), Lightning (6), Lightning Inferno (12), Lightning Hydra (24)*
 
 Difference from the LoD version
 :   Improved damage. More bounces.
@@ -509,8 +419,7 @@ Pros
 :   The bolt \"bounces\" many times against a mob.
 
 Cons
-:   Not good against a single target. Unstable damage because of Min
-    Damage = 1.
+:   Not good against a single target. Unstable damage because of Min Damage = 1.
 
 ::: {.ie5}
   slvl                           1    2-8    9-16   17-22   23-28   29+
@@ -529,12 +438,7 @@ Synergies
     *Lightning Inferno:* +4% Lightning Damage Per Level\
     *Lightning Hydra:* +4% Lightning Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201021104700/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=13&page=Lightning%20Spells&refer=Lightning%20Spells)
-[TOP](#navigator)
-:::
-
-#### Lightning Mastery [†](https://web.archive.org/web/20201021104700/http://miyoshino.la.coocan.jp/eswiki/?Lightning%20Spells#pd55a517 "pd55a517"){#pd55a517 .anchor_super} {#content_1_12}
+#### Lightning Mastery
 
 Required Level
 :   30
@@ -574,5 +478,4 @@ Cons
   Increase%                                                          
   (LoD)                                                              
   -----------------------------------------------------------------------------
-:::
 :::

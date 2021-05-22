@@ -1,49 +1,21 @@
----
-lang: en
-title: Fire Spells - Eastern Sun Wiki
----
+### Fire Spells
 
-::: {#body}
-[Sorceress](https://web.archive.org/web/20200815022646/http://miyoshino.la.coocan.jp/eswiki/?Sorceress "Sorceress (2948d)")
-- [Cold
-Spells](https://web.archive.org/web/20200815022646/http://miyoshino.la.coocan.jp/eswiki/?Cold%20Spells "Cold Spells (3148d)")
-/ [Lightning
-Spells](https://web.archive.org/web/20200815022646/http://miyoshino.la.coocan.jp/eswiki/?Lightning%20Spells "Lightning Spells (4497d)")
-/ Fire Spells
+[Sorceress](#top) - [Cold Spells] / [Lightning Spells] / Fire Spells
 
-::: {.contents}
-[]{#contents_1}
+-   [Blaze](#xf056910)
+-   [Fire Armor](#k8dd033f)
+-   [Fire Bolt](#f5d46e7f)
+-   [Fissure](#k7f4052b)
+-   [Enchant](#pf16cfab)
+-   [Flame Wave](#d7a6910d)
+-   [Fire Ball](#u0f9bc72)
+-   [Fanatic Swing](#n4b38901)
+-   [Meteor](#re576d94)
+-   [Immolation](#vb39cf54)
+-   [Fire Mastery](#e0e51840)
+-   [Meteor Shower](#mca7af5e)
 
--   [Fire Spells](#z05c4457)
-    -   [Blaze](#xf056910)
-    -   [Fire Armor](#k8dd033f)
-    -   [Fire Bolt](#f5d46e7f)
-    -   [Fissure](#k7f4052b)
-    -   [Enchant](#pf16cfab)
-    -   [Flame Wave](#d7a6910d)
-    -   [Fire Ball](#u0f9bc72)
-    -   [Fanatic Swing](#n4b38901)
-    -   [Meteor](#re576d94)
-    -   [Immolation](#vb39cf54)
-    -   [Fire Mastery](#e0e51840)
-    -   [Meteor Shower](#mca7af5e)
-:::
-
-\
-
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200815022646/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=1&page=Fire%20Spells&refer=Fire%20Spells)
-[TOP](#navigator)
-:::
-
-### Fire Spells [†](https://web.archive.org/web/20200815022646/http://miyoshino.la.coocan.jp/eswiki/?Fire%20Spells#z05c4457 "z05c4457"){#z05c4457 .anchor_super} {#content_1_0}
-
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200815022646/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=2&page=Fire%20Spells&refer=Fire%20Spells)
-[TOP](#navigator)
-:::
-
-#### Blaze [†](https://web.archive.org/web/20200815022646/http://miyoshino.la.coocan.jp/eswiki/?Fire%20Spells#xf056910 "xf056910"){#xf056910 .anchor_super} {#content_1_1}
+#### Blaze
 
 Required Level
 :   1
@@ -74,25 +46,16 @@ Synergies
     *Flame Wave:* +7% Fire Damage Per Level\
     *Immolation:* +7% Fire Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200815022646/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=3&page=Fire%20Spells&refer=Fire%20Spells)
-[TOP](#navigator)
-:::
-
-#### Fire Armor [†](https://web.archive.org/web/20200815022646/http://miyoshino.la.coocan.jp/eswiki/?Fire%20Spells#k8dd033f "k8dd033f"){#k8dd033f .anchor_super} {#content_1_2}
+#### Fire Armor
 
 Required Level
-
-1
+: 1
 
 Prerequisites
-
-*None*
+: *None*
 
 Difference from Shiver Armor
-
-Improved Defense. Deals Fire damage instead of Cold damage. Base points
-reduce enemy\'s Fire Resistance.
+: Improved Defense. Deals Fire damage instead of Cold damage. Base points reduce enemy\'s Fire Resistance.
 
 Pros
 
@@ -118,28 +81,19 @@ Synergies
     *Chilling Armor:* +10 Seconds Per Level\
     *Aerial Guard:* +1% Fire Absorb Per 2 Levels
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200815022646/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=4&page=Fire%20Spells&refer=Fire%20Spells)
-[TOP](#navigator)
-:::
-
-#### Fire Bolt [†](https://web.archive.org/web/20200815022646/http://miyoshino.la.coocan.jp/eswiki/?Fire%20Spells#f5d46e7f "f5d46e7f"){#f5d46e7f .anchor_super} {#content_1_3}
+#### Fire Bolt
 
 Required Level
-
-1
+: 1
 
 Prerequisites
-
-*None*
+: *None*
 
 Difference from the LoD version
-
-Improved damage. Receives less synergy. Pierces enemies.
+: Improved damage. Receives less synergy. Pierces enemies.
 
 Pros
-
-Pierces enemies.
+: Pierces enemies.
 
 Cons
 
@@ -156,12 +110,7 @@ Synergies
     *Meteor:* +12% Fire Damage Per Level\
     *Immolation:* +12% Fire Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200815022646/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=5&page=Fire%20Spells&refer=Fire%20Spells)
-[TOP](#navigator)
-:::
-
-#### Fissure [†](https://web.archive.org/web/20200815022646/http://miyoshino.la.coocan.jp/eswiki/?Fire%20Spells#k7f4052b "k7f4052b"){#k7f4052b .anchor_super} {#content_1_4}
+#### Fissure
 
 Required Level
 :   6
@@ -196,29 +145,19 @@ Synergies
     *Flame Wave:* +6% Fire Damage Per Level\
     *Immolation:* +6% Fire Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200815022646/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=6&page=Fire%20Spells&refer=Fire%20Spells)
-[TOP](#navigator)
-:::
-
-#### Enchant [†](https://web.archive.org/web/20200815022646/http://miyoshino.la.coocan.jp/eswiki/?Fire%20Spells#pf16cfab "pf16cfab"){#pf16cfab .anchor_super} {#content_1_5}
+#### Enchant
 
 Required Level
-
-6
+: 6
 
 Prerequisites
-
-*None*
+: *None*
 
 Difference from the LoD version
-
-Eased the penalty for ranged weapons. (It\'s unknown if this penalty is
-actually working, though.)
+: Eased the penalty for ranged weapons. (It\'s unknown if this penalty is actually working, though.)
 
 Pros
-
-Party friendly. Hirelings except Western Sorcerers also benefit.
+: Party friendly. Hirelings except Western Sorcerers also benefit.
 
 Cons
 
@@ -239,12 +178,7 @@ Synergies
 :   *Meteor Shower:* +4% Fire Damage Per Level\
     *Fanatic Swing:* +4% Fire Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200815022646/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=7&page=Fire%20Spells&refer=Fire%20Spells)
-[TOP](#navigator)
-:::
-
-#### Flame Wave [†](https://web.archive.org/web/20200815022646/http://miyoshino.la.coocan.jp/eswiki/?Fire%20Spells#d7a6910d "d7a6910d"){#d7a6910d .anchor_super} {#content_1_6}
+#### Flame Wave
 
 Required Level
 :   12
@@ -275,24 +209,17 @@ Synergies
     *Fissure:* +5% Fire Damage Per Level\
     *Immolation:* +5% Fire Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200815022646/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=8&page=Fire%20Spells&refer=Fire%20Spells)
-[TOP](#navigator)
-:::
 
-#### Fire Ball [†](https://web.archive.org/web/20200815022646/http://miyoshino.la.coocan.jp/eswiki/?Fire%20Spells#u0f9bc72 "u0f9bc72"){#u0f9bc72 .anchor_super} {#content_1_7}
+#### Fire Ball
 
 Required Level
-
-12
+: 12
 
 Prerequisites
-
-*Fire Bolt (1)*
+: *Fire Bolt (1)*
 
 Difference from the LoD version
-
-Improved damage. Receives less synergy.
+: Improved damage. Receives less synergy.
 
 Pros
 
@@ -311,12 +238,7 @@ Synergies
     *Meteor:* +6% Fire Damage Per Level\
     *Immolation:* +6% Fire Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200815022646/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=9&page=Fire%20Spells&refer=Fire%20Spells)
-[TOP](#navigator)
-:::
-
-#### Fanatic Swing [†](https://web.archive.org/web/20200815022646/http://miyoshino.la.coocan.jp/eswiki/?Fire%20Spells#n4b38901 "n4b38901"){#n4b38901 .anchor_super} {#content_1_8}
+#### Fanatic Swing
 
 Required Level
 :   18
@@ -325,17 +247,14 @@ Prerequisites
 :   *None*
 
 Difference from Zeal (LoD)
-:   Almost none. (The skill itself is faster to make a Sorceress attack
-    as fast as a Paladin.)
+:   Almost none. (The skill itself is faster to make a Sorceress attack as fast as a Paladin.)
 
 Pros
-:   Lets a Sorceress zeal roughly as fast as a Paladin. Works fine with
-    Enchant.
+:   Lets a Sorceress zeal roughly as fast as a Paladin. Works fine with Enchant.
 
 Cons
 :   Other defensive skills and good defensive gears are also necessary
-    to stay alive in melee. Less life leech because of less weapon
-    damage.
+    to stay alive in melee. Less life leech because of less weapon damage.
 
 ::: {.ie5}
   slvl                               1     2-4              5-16              17-22   23-28   29+
@@ -363,12 +282,7 @@ Synergies
     *Enchant:* +4% Fire Damage Per Level\
     *Meteor Shower:* +4% Fire Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200815022646/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=10&page=Fire%20Spells&refer=Fire%20Spells)
-[TOP](#navigator)
-:::
-
-#### Meteor [†](https://web.archive.org/web/20200815022646/http://miyoshino.la.coocan.jp/eswiki/?Fire%20Spells#re576d94 "re576d94"){#re576d94 .anchor_super} {#content_1_9}
+#### Meteor
 
 Required Level
 :   18
@@ -403,12 +317,7 @@ Synergies
     *Fire Ball:* +5% Fire Damage Per Level\
     *Immolation:* +5% Fire Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200815022646/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=11&page=Fire%20Spells&refer=Fire%20Spells)
-[TOP](#navigator)
-:::
-
-#### Immolation [†](https://web.archive.org/web/20200815022646/http://miyoshino.la.coocan.jp/eswiki/?Fire%20Spells#vb39cf54 "vb39cf54"){#vb39cf54 .anchor_super} {#content_1_10}
+#### Immolation
 
 Required Level
 :   24
@@ -436,7 +345,7 @@ Cons
   Mana Cost                       15    +1                          
 :::
 
-[![file](Fire%20Spells%20-%20Eastern%20Sun%20Wiki_tiedostot/file.png){width="20"
+[![file](/img/file.png){width="20"
 height="20"}Immolation.xls](https://web.archive.org/web/20200815022646/http://miyoshino.la.coocan.jp/eswiki/?plugin=attach&refer=Fire%20Spells&openfile=Immolation.xls "2006/10/11 03:46:26 86.0KB")
 Damage Table
 
@@ -448,12 +357,8 @@ Synergies
     *Fire Ball:* +3% Fire Damage Per Level\
     *Meteor:* +3% Fire Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200815022646/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=12&page=Fire%20Spells&refer=Fire%20Spells)
-[TOP](#navigator)
-:::
 
-#### Fire Mastery [†](https://web.archive.org/web/20200815022646/http://miyoshino.la.coocan.jp/eswiki/?Fire%20Spells#e0e51840 "e0e51840"){#e0e51840 .anchor_super} {#content_1_11}
+#### Fire Mastery
 
 Required Level
 :   30
@@ -513,12 +418,7 @@ Notes
     fire damage on ranged weapons, the current consensus is that it
     does.
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20200815022646/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=13&page=Fire%20Spells&refer=Fire%20Spells)
-[TOP](#navigator)
-:::
-
-#### Meteor Shower [†](https://web.archive.org/web/20200815022646/http://miyoshino.la.coocan.jp/eswiki/?Fire%20Spells#mca7af5e "mca7af5e"){#mca7af5e .anchor_super} {#content_1_12}
+#### Meteor Shower
 
 Required Level
 :   30
@@ -551,4 +451,3 @@ Cons
 Synergies
 :   *Enchant:* +4% Fire Damage Per Level\
     *Fanatic Swing:* +4% Fire Damage Per Level
-:::
