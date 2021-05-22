@@ -3,10 +3,8 @@ A compilation of (defunct) Eastern Sun wiki contents.
 
 **Please note this is a work-in-progress repository,**
 and there will be inconsistencies!
-For example, only `index.html` uses custom styling from `css/style.css`,
-whereas converted markdown files use Pandoc default css template.
 
-The Wayback Machine has a (relatively) working snapshot of the Eastern Sun wiki from 12 Nov 2020. You can access the main page from [this link](https://web.archive.org/web/20201112024131/http://miyoshino.la.coocan.jp/eswiki/). 
+The Wayback Machine has a (relatively) working snapshot of the Eastern Sun wiki from 12 Nov 2020. You can access the main page from [this link](https://web.archive.org/web/20201112024131/http://miyoshino.la.coocan.jp/eswiki/).
 
 ## Procedure
 *AKA how I've compiled these pages*
@@ -47,7 +45,7 @@ The Wayback Machine has a (relatively) working snapshot of the Eastern Sun wiki 
   - Remember to include css files, if any!
 
 ## Copyright details
-The content is lifted from Eastern Sun Wiki pages, as detailed in [Procedure][].
+The content is lifted from Eastern Sun Wiki pages, as detailed above.
 The relevant html parts are included in `/raw` folder and whatever images I've
 reused are in `/img`. *The copyright status for the wiki content is unknown,*
 *most likely held by original wiki contributors.*
