@@ -2,7 +2,7 @@
 if [ -n "$1" ]; then
   PAGES="$1"
 else
-  PAGES="amazon druid" # Add other classes
+  PAGES="amazon assassin barbarian druid necromancer paladin sorceress"
 fi
 
 # Build the cleaned up pages
