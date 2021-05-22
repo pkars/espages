@@ -1,0 +1,4 @@
+../markdown/paladin.md
+../markdown/paladin-defensive-auras.md
+../markdown/paladin-offensive-auras.md
+../markdown/paladin-combat-skills.md

@@ -1,53 +1,24 @@
----
-lang: en
-title: Combat Skills - Eastern Sun Wiki
----
+### Combat Skills
 
-::: {#body}
-[Paladin](https://web.archive.org/web/20201024170744/http://miyoshino.la.coocan.jp/eswiki/?Paladin "Paladin (3652d)")
-- [Defensive
-Auras](https://web.archive.org/web/20201024170744/http://miyoshino.la.coocan.jp/eswiki/?Defensive%20Auras "Defensive Auras (3090d)")
-/ [Offensive
-Auras](https://web.archive.org/web/20201024170744/http://miyoshino.la.coocan.jp/eswiki/?Offensive%20Auras "Offensive Auras (3090d)")
-/ Combat Skills
+[Paladin](#top) - [Defensive Auras] / [Offensive Auras] / Combat Skills
 
-::: {.contents}
-[]{#contents_1}
+-   [Sacrifice]
+-   [Arrow of Confession]
+-   [Smite]
+-   [Holy Bolt]
+-   [Zeal]
+-   [Charge]
+-   [Vengeance]
+-   [Blessed Hammer]
+-   [Hypno Blast]
+-   [Holy Shield]
+-   [Fist of the Heavens]
+-   [Sacred Piercer]
+-   [Free Oskills that benefit from Holy Shield and Bow Skills](#u660250f)
+    -   [Holy Parry]
+    -   [Holy Aim]
 
--   [Combat Skills](#t9dc003a)
-    -   [Sacrifice](#b940b320)
-    -   [Arrow of Confession](#n5a498e5)
-    -   [Smite](#e0515f76)
-    -   [Holy Bolt](#r3f75465)
-    -   [Zeal](#iadb0599)
-    -   [Charge](#g95c5275)
-    -   [Vengeance](#c95f24ea)
-    -   [Blessed Hammer](#g2d4f2d0)
-    -   [Hypno Blast](#c30ff904)
-    -   [Holy Shield](#k84fdf0d)
-    -   [Fist of the Heavens](#kf682c59)
-    -   [Sacred Piercer](#c7f55020)
--   [Free Oskills that benefit from Holy Shield and Bow
-    Skills](#u660250f)
-    -   [Holy Parry](#g03b2c9b)
-    -   [Holy Aim](#gae42aa0)
-:::
-
-\
-
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201024170744/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=1&page=Combat%20Skills&refer=Combat%20Skills)
-[TOP](#navigator)
-:::
-
-### Combat Skills [†](https://web.archive.org/web/20201024170744/http://miyoshino.la.coocan.jp/eswiki/?Combat%20Skills#t9dc003a "t9dc003a"){#t9dc003a .anchor_super} {#content_1_0}
-
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201024170744/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=2&page=Combat%20Skills&refer=Combat%20Skills)
-[TOP](#navigator)
-:::
-
-#### Sacrifice [†](https://web.archive.org/web/20201024170744/http://miyoshino.la.coocan.jp/eswiki/?Combat%20Skills#b940b320 "b940b320"){#b940b320 .anchor_super} {#content_1_1}
+#### Sacrifice
 
 Required Level
 :   1
@@ -87,26 +58,22 @@ Synergies
     *Prayer:* -1% Damage To Self Per 8 Levels\
     *Holy Bolt:* -1% Damage To Self Per 8 Levels
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201024170744/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=3&page=Combat%20Skills&refer=Combat%20Skills)
-[TOP](#navigator)
-:::
-
-#### Arrow of Confession [†](https://web.archive.org/web/20201024170744/http://miyoshino.la.coocan.jp/eswiki/?Combat%20Skills#n5a498e5 "n5a498e5"){#n5a498e5 .anchor_super} {#content_1_2}
+#### Arrow of Confession
 
 Required Level
-
-1
+: 1
 
 Prerequisites
-
-*None*
+: *None*
 
 A new ES skill
 
 Pros
 
 Cons
+
+Notes
+: Also gives 2% Pierce and 5% Attack Rating synergy to [Holy Aim] which works like a passive bonus.
 
 ::: {.ie5}
   ------------------------------------------------------------------------------
@@ -131,10 +98,6 @@ Cons
   ------------------------------------------------------------------------------
 :::
 
--   Also gives 2% Pierce and 5% Attack Rating synergy to [Holy
-    Aim](https://web.archive.org/web/20201024170744/http://miyoshino.la.coocan.jp/eswiki/?Combat%20Skills#gae42aa0),
-    which works like a passive bonus.
-
 Synergies
 :   *Sacred Piercer:* +14% Magic Damage Per Level\
     *Holy Bolt:* +7% Magic Damage Per Level\
@@ -142,12 +105,7 @@ Synergies
     *Fist of the Heavens:* +7% Magic Damage Per Level\
     *Holy Ward:* +7% Magic Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201024170744/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=4&page=Combat%20Skills&refer=Combat%20Skills)
-[TOP](#navigator)
-:::
-
-#### Smite [†](https://web.archive.org/web/20201024170744/http://miyoshino.la.coocan.jp/eswiki/?Combat%20Skills#e0515f76 "e0515f76"){#e0515f76 .anchor_super} {#content_1_3}
+#### Smite
 
 Required Level
 :   1
@@ -162,8 +120,7 @@ Pros
 :   Always hits. Stuns enemy.
 
 Cons
-:   Weapon damage and normal damage bonus don\'t increase the smite
-    damage.
+:   Weapon damage and normal damage bonus don\'t increase the smite damage.
 
 ::: {.ie5}
   slvl                      1                2-8               9-16   17-22   23-28   29+
@@ -181,24 +138,16 @@ Synergies
     *Protection From Evil:* +5% Magic Damage Per Level\
     *Holy Shield:* +0.12 Second Stun Length Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201024170744/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=5&page=Combat%20Skills&refer=Combat%20Skills)
-[TOP](#navigator)
-:::
-
-#### Holy Bolt [†](https://web.archive.org/web/20201024170744/http://miyoshino.la.coocan.jp/eswiki/?Combat%20Skills#r3f75465 "r3f75465"){#r3f75465 .anchor_super} {#content_1_4}
+#### Holy Bolt
 
 Required Level
-
-6
+: 6
 
 Prerequisites
-
-*None*
+: *None*
 
 Difference from the LoD version
-
-Improved heal amount and damage. Pierces enemies (R2G change).
+: Improved heal amount and damage. Pierces enemies (R2G change).
 
 Pros
 
@@ -223,28 +172,19 @@ Synergies
     *Prayer:* +12% Life Healed Per Level\
     *Fist of the Heavens:* +12% Life Healed Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201024170744/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=6&page=Combat%20Skills&refer=Combat%20Skills)
-[TOP](#navigator)
-:::
-
-#### Zeal [†](https://web.archive.org/web/20201024170744/http://miyoshino.la.coocan.jp/eswiki/?Combat%20Skills#iadb0599 "iadb0599"){#iadb0599 .anchor_super} {#content_1_5}
+#### Zeal
 
 Required Level
-
-12
+: 12
 
 Prerequisites
-
-*Sacrifice (1)*
+: *Sacrifice (1)*
 
 Difference from the LoD version
-
-Slightly improved damage.
+: Slightly improved damage.
 
 Pros
-
-Works fine with Crushing Blow and CtC Static Field, etc. It\'s easy to
+: Works fine with Crushing Blow and CtC Static Field, etc. It\'s easy to
 attain the fastest bp in ES because of abundant IAS equipments.
 
 Cons
@@ -272,12 +212,7 @@ Synergies
     *Conversion:* +8% Damage Per Level\
     *Holy Ward:* +8% Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201024170744/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=7&page=Combat%20Skills&refer=Combat%20Skills)
-[TOP](#navigator)
-:::
-
-#### Charge [†](https://web.archive.org/web/20201024170744/http://miyoshino.la.coocan.jp/eswiki/?Combat%20Skills#g95c5275 "g95c5275"){#g95c5275 .anchor_super} {#content_1_6}
+#### Charge
 
 Required Level
 :   12
@@ -312,12 +247,7 @@ Synergies
     *Vigor:* +15% Damage Per Level\
     *Holy Ward:* +15% Damage Per Level (Not a synergy in R6D)
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201024170744/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=8&page=Combat%20Skills&refer=Combat%20Skills)
-[TOP](#navigator)
-:::
-
-#### Vengeance [†](https://web.archive.org/web/20201024170744/http://miyoshino.la.coocan.jp/eswiki/?Combat%20Skills#c95f24ea "c95f24ea"){#c95f24ea .anchor_super} {#content_1_7}
+#### Vengeance
 
 Required Level
 :   18
@@ -329,8 +259,7 @@ Difference from the LoD version
 :   None.
 
 Pros
-:   3 types of elemental damage on top of physical damage can deal with
-    any immune monsters.
+:   3 types of elemental damage on top of physical damage can deal with any immune monsters.
 
 Cons
 :   Single target skill.
@@ -354,12 +283,7 @@ Synergies
     *Holy Freeze:* +7% Cold Damage Per Level\
     *Holy Shock:* +7% Lightning Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201024170744/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=9&page=Combat%20Skills&refer=Combat%20Skills)
-[TOP](#navigator)
-:::
-
-#### Blessed Hammer [†](https://web.archive.org/web/20201024170744/http://miyoshino.la.coocan.jp/eswiki/?Combat%20Skills#g2d4f2d0 "g2d4f2d0"){#g2d4f2d0 .anchor_super} {#content_1_8}
+#### Blessed Hammer
 
 Required Level
 :   18
@@ -389,12 +313,7 @@ Synergies
     *Protection From Evil:* +9% Magic Damage Per Level\
     *Fist of the Heavens:* +9% Magic Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201024170744/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=10&page=Combat%20Skills&refer=Combat%20Skills)
-[TOP](#navigator)
-:::
-
-#### Hypno Blast [†](https://web.archive.org/web/20201024170744/http://miyoshino.la.coocan.jp/eswiki/?Combat%20Skills#c30ff904 "c30ff904"){#c30ff904 .anchor_super} {#content_1_9}
+#### Hypno Blast
 
 Information tentative. Info taken directly from R6 Change Notes.\
 Old information crossed out rather than removed. Could someone with
@@ -427,7 +346,7 @@ Cons
   ----------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------- ------ ------- ------- -----
   Physical Damage                                                                                           14-28                                                                                       +7           +14     +21     +28    +28
   Conversion Length (seconds)                                                                           8\~12 (random)                                                                                                                     
-  Conversion Chance%             [diminishing return](https://web.archive.org/web/20201024170744/http://miyoshino.la.coocan.jp/eswiki/?Glossary#diminishing_return "Glossary (173d)") (15-60)                                              
+  Conversion Chance%             [diminishing return](../glossary.html#diminishing-return) (15-60)
   Range                                                                                                       2                                                                                 +0.67 per 4 levels                         
   Mana Cost                                                                                                   12                                                                                                                           
 :::
@@ -437,29 +356,19 @@ Synergies
     *Clensing:* +6% Damage Per Level\
     *Fist of the Heavens:* +6% Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201024170744/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=11&page=Combat%20Skills&refer=Combat%20Skills)
-[TOP](#navigator)
-:::
-
-#### Holy Shield [†](https://web.archive.org/web/20201024170744/http://miyoshino.la.coocan.jp/eswiki/?Combat%20Skills#k84fdf0d "k84fdf0d"){#k84fdf0d .anchor_super} {#content_1_10}
+#### Holy Shield
 
 Required Level
-
-24
+: 24
 
 Prerequisites
-
-*Smite (1), Holy Bolt (6), Charge (12), Blessed Hammer (18)*
+: *Smite (1), Holy Bolt (6), Charge (12), Blessed Hammer (18)*
 
 Difference from the LoD version
-
-Improved Smite damage. Also benefits 2H weapon builds and bow builds.
+: Improved Smite damage. Also benefits 2H weapon builds and bow builds.
 
 Pros
-
-Block% bonus lets you save Dex for the max block. A good damage source
-for Smiters.
+: Block% bonus lets you save Dex for the max block. A good damage source for Smiters.
 
 Cons
 
@@ -468,7 +377,7 @@ Cons
   -------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------- ------- ------ ------- ------- -----
   Defense%                                                                                           25                                                                                 +15                          
   Block% (ES)                                                                                        20                                                                                                              
-  Block% (LoD)          [diminishing return](https://web.archive.org/web/20201024170744/http://miyoshino.la.coocan.jp/eswiki/?Glossary#diminishing_return "Glossary (173d)") (10-40)                                 
+  Block% (LoD)          [diminishing return](../glossary.html#diminishing-return) (10-40)
   Smite Damage (ES)                                                                                 +3-6                                                                                +2      +4     +6      +8     +8
   Smite Damage (LoD)                                                                                +3-6                                                                                +2      +3     +4      +4     +4
   Duration (seconds)                                                                                 30                                                                                 +25                          
@@ -477,34 +386,21 @@ Cons
 
 -   +1% Chance To Block per Base Point
 -   +1% Damage Reduction per Base Point
--   Also improves your Defense via [Holy
-    Parry](https://web.archive.org/web/20201024170744/http://miyoshino.la.coocan.jp/eswiki/?Combat%20Skills#g03b2c9b)
-    and [Holy
-    Aim](https://web.archive.org/web/20201024170744/http://miyoshino.la.coocan.jp/eswiki/?Combat%20Skills#gae42aa0)
-    even when you don\'t equip an shield.
+-   Also improves your Defense via [Holy Parry] and [Holy Aim] even when you don\'t equip an shield.
 
 Synergies
 :   *Defiance:* +15% Defense Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201024170744/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=12&page=Combat%20Skills&refer=Combat%20Skills)
-[TOP](#navigator)
-:::
-
-#### Fist of the Heavens [†](https://web.archive.org/web/20201024170744/http://miyoshino.la.coocan.jp/eswiki/?Combat%20Skills#kf682c59 "kf682c59"){#kf682c59 .anchor_super} {#content_1_11}
+#### Fist of the Heavens
 
 Required Level
-
-30
+: 30
 
 Prerequisites
-
-*Sacrifice (1), Holy Bolt (6), Zeal (12), Vengeance (18), Blessed Hammer
-(18), Conversion (24)*
+: *Sacrifice (1), Holy Bolt (6), Zeal (12), Vengeance (18), Blessed Hammer (18), Conversion (24)*
 
 Difference from the LoD version
-
-Improved heal amount and damage. Holy Bolts also damage Demons and
+: Improved heal amount and damage. Holy Bolts also damage Demons and
 Animals. Shorter Cast Delay. No Next Delay for Holy Bolts (A monster can
 be hit by multiple bolts).
 
@@ -535,28 +431,18 @@ Synergies
     *Blessed Hammer:* +7% Lightning Damage Per Level\
     *Holy Shock:* +7% Lightning Damage Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201024170744/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=13&page=Combat%20Skills&refer=Combat%20Skills)
-[TOP](#navigator)
-:::
-
-#### Sacred Piercer [†](https://web.archive.org/web/20201024170744/http://miyoshino.la.coocan.jp/eswiki/?Combat%20Skills#c7f55020 "c7f55020"){#c7f55020 .anchor_super} {#content_1_12}
+#### Sacred Piercer
 
 Required Level
-
-30
+: 30
 
 Prerequisites
-
-*Arrow of Confession (1)*
+: *Arrow of Confession (1)*
 
 A new ES skill
 
 Pros
-
-Hit a single target multiple times if you have enough pierce, just like
-[Legendary
-Arrow](https://web.archive.org/web/20201024170744/http://miyoshino.la.coocan.jp/eswiki/?Bow%20and%20Crossbow%20Skills#d0e8daf3).
+: Hit a single target multiple times if you have enough pierce, just like [Legendary Arrow](amazon.html#legendary-arrow).
 
 Cons
 
@@ -568,9 +454,7 @@ Cons
   Mana Cost                     8                                
 :::
 
--   Also gives 2% Pierce and 5% Attack Rating synergy to [Holy
-    Aim](https://web.archive.org/web/20201024170744/http://miyoshino.la.coocan.jp/eswiki/?Combat%20Skills#gae42aa0),
-    which works like a passive bonus.
+-   Also gives 2% Pierce and 5% Attack Rating synergy to [Holy Aim], which works like a passive bonus.
 
 Synergies
 :   *Arrow of Confession:* +10% Damage vs. Undead/Demon Per Level\
@@ -579,12 +463,7 @@ Synergies
     *Fist of the Heavens:* +5% Damage vs. Undead/Demon Per Level\
     *Holy Ward:* +5% Damage vs. Undead/Demon Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201024170744/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=14&page=Combat%20Skills&refer=Combat%20Skills)
-[TOP](#navigator)
-:::
-
-### Free Oskills that benefit from Holy Shield and Bow Skills [†](https://web.archive.org/web/20201024170744/http://miyoshino.la.coocan.jp/eswiki/?Combat%20Skills#u660250f "u660250f"){#u660250f .anchor_super} {#content_1_13}
+### Free Oskills that benefit from Holy Shield and Bow Skills {#u660250f}
 
 -   Paladins can gain these oskills by cubing Damage Augmenter.
 
@@ -595,31 +474,22 @@ Synergies
     part of the general passive portion of the damage augmenter and thus
     no longer need to be activated.
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201024170744/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=15&page=Combat%20Skills&refer=Combat%20Skills)
-[TOP](#navigator)
-:::
-
-#### Holy Parry [†](https://web.archive.org/web/20201024170744/http://miyoshino.la.coocan.jp/eswiki/?Combat%20Skills#g03b2c9b "g03b2c9b"){#g03b2c9b .anchor_super} {#content_1_14}
+#### Holy Parry
 
 Required Level
-
-1
+: 1
 
 Prerequisites
-
-*none*, but needs *Holy Shield (24)* to work
+: *none*, but needs *Holy Shield (24)* to work
 
 Notes
-
-You need to equip a 2H weapon to cast this skill. This skill overwrites
+: You need to equip a 2H weapon to cast this skill. This skill overwrites
 and is overwritten by Holy Shield and Holy Aim. The defensive bonus of
 your Holy Shield is reflected to this skill, and the skill level of this
 skill does nothing.
 
 Pros
-
-Would be a must for shieldless Paladins. Paladin\'s Dodge shows no
+: Would be a must for shieldless Paladins. Paladin\'s Dodge shows no
 animation and is very fast.
 
 Cons
@@ -640,33 +510,23 @@ Cons
     expire automatically when you switch to a shield. So if this skill
     doesn\'t disable blocking, players will abuse it with shields. )
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201024170744/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=16&page=Combat%20Skills&refer=Combat%20Skills)
-[TOP](#navigator)
-:::
-
-#### Holy Aim [†](https://web.archive.org/web/20201024170744/http://miyoshino.la.coocan.jp/eswiki/?Combat%20Skills#gae42aa0 "gae42aa0"){#gae42aa0 .anchor_super} {#content_1_15}
+#### Holy Aim
 
 Required Level
-
-1
+: 1
 
 Prerequisites
-
-*none*, but needs at least one of *Arrow of Confession (1)*, *Holy
-Shield (24)* or *Sacred Piercer (30)* to work
+: *none*, but needs at least one of *Arrow of Confession (1)*, *Holy Shield (24)* or *Sacred Piercer (30)* to work
 
 Notes
-
-You need to equip a Bow or Crossbow to cast this skill. This skill
+: You need to equip a Bow or Crossbow to cast this skill. This skill
 overwrites and is overwritten by Holy Shield and Holy Parry. The defense
 bonus of your Holy Shield is reflected to this skill, the base points of
 your bow skills determine the pierce and AR bonus, and the skill level
 of this skill does nothing.
 
 Pros
-
-Pierce and AR work as a passive, and are also helpful with other bow
+: Pierce and AR work as a passive, and are also helpful with other bow
 oskills and the bows that fire exploding arrow.
 
 Cons
@@ -683,4 +543,3 @@ Cons
 -   +2% Pierce per Base Point in Sacred Piercer
 -   +5% Attack Rating per Base Point in Arrow of Confession
 -   +5% Attack Rating per Base Point in Sacred Piercer
-:::

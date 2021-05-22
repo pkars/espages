@@ -1,48 +1,21 @@
----
-lang: en
-title: Defensive Auras - Eastern Sun Wiki
----
+### Defensive Auras
 
-::: {#body}
-[Paladin](https://web.archive.org/web/20201202041847/http://miyoshino.la.coocan.jp/eswiki/?Paladin "Paladin (3690d)")
-- Defensive Auras / [Offensive
-Auras](https://web.archive.org/web/20201202041847/http://miyoshino.la.coocan.jp/eswiki/?Offensive%20Auras "Offensive Auras (3129d)")
-/ [Combat
-Skills](https://web.archive.org/web/20201202041847/http://miyoshino.la.coocan.jp/eswiki/?Combat%20Skills "Combat Skills (2898d)")
+[Paladin](#top) - Defensive Auras / [Offensive Auras] / [Combat Skills]
 
-::: {.contents}
-[]{#contents_1}
+-   [Prayer]
+-   [Protection From Fire]
+-   [Protection From Cold]
+-   [Protection From Lightning]
+-   [Defiance]
+-   [Cleansing]
+-   [Vigor]
+-   [Holy Ward]
+-   [Meditation]
+-   [Aura of Divinity]
+-   [Redemption]
+-   [Salvation]
 
--   [Defensive Auras](#w0c95db7)
-    -   [Prayer](#l75db72c)
-    -   [Protection From Fire](#caf06868)
-    -   [Protection From Cold](#v245ad19)
-    -   [Protection From Lightning](#yde24609)
-    -   [Defiance](#i7308d0c)
-    -   [Cleansing](#jb9b7a82)
-    -   [Vigor](#p71fad1b)
-    -   [Holy Ward](#pefa79a6)
-    -   [Meditation](#ya277582)
-    -   [Aura of Divinity](#a496aa22)
-    -   [Redemption](#e7d22952)
-    -   [Salvation](#lb26d87a)
-:::
-
-\
-
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201202041847/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=1&page=Defensive%20Auras&refer=Defensive%20Auras)
-[TOP](#navigator)
-:::
-
-### Defensive Auras [†](https://web.archive.org/web/20201202041847/http://miyoshino.la.coocan.jp/eswiki/?Defensive%20Auras#w0c95db7 "w0c95db7"){#w0c95db7 .anchor_super} {#content_1_0}
-
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201202041847/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=2&page=Defensive%20Auras&refer=Defensive%20Auras)
-[TOP](#navigator)
-:::
-
-#### Prayer [†](https://web.archive.org/web/20201202041847/http://miyoshino.la.coocan.jp/eswiki/?Defensive%20Auras#l75db72c "l75db72c"){#l75db72c .anchor_super} {#content_1_1}
+#### Prayer
 
 Required Level
 :   1
@@ -77,30 +50,19 @@ Synergy
     *Fist of the Heavens:* +2 Life Healed Per Second Per Level\
     *Redemption:* +2 Life Healed Per Second Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201202041847/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=3&page=Defensive%20Auras&refer=Defensive%20Auras)
-[TOP](#navigator)
-:::
-
-#### Protection From Fire [†](https://web.archive.org/web/20201202041847/http://miyoshino.la.coocan.jp/eswiki/?Defensive%20Auras#caf06868 "caf06868"){#caf06868 .anchor_super} {#content_1_2}
+#### Protection From Fire
 
 Required Level
-
-1
+: 1
 
 Prerequisites
-
-*None*
+: *None*
 
 Difference from Resist Fire
-
-Grants Absorb% instead of resists. Grants Damage Reduction%. Grants Fire
-Skill Damage bonus.
+: Grants Absorb% instead of resists. Grants Damage Reduction%. Grants Fire Skill Damage bonus.
 
 Pros
-
-Effective against nasty FE bosses which also deal bugged physical
-damage.
+: Effective against nasty FE bosses which also deal bugged physical damage.
 
 Cons
 
@@ -129,30 +91,19 @@ Cons
 Synergy
 :   *Salvation:* +1% Fire Absorb Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201202041847/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=4&page=Defensive%20Auras&refer=Defensive%20Auras)
-[TOP](#navigator)
-:::
-
-#### Protection From Cold [†](https://web.archive.org/web/20201202041847/http://miyoshino.la.coocan.jp/eswiki/?Defensive%20Auras#v245ad19 "v245ad19"){#v245ad19 .anchor_super} {#content_1_3}
+#### Protection From Cold
 
 Required Level
-
-2
+: 2
 
 Prerequisites
-
-*None*
+: *None*
 
 Difference from Resist Cold
-
-Grants Absorb% instead of resists. Grants Damage Reduction%. Grants
-Cannot Be Frozen. Grants Cold Skill Damage bonus.
+: Grants Absorb% instead of resists. Grants Damage Reduction%. Grants Cannot Be Frozen. Grants Cold Skill Damage bonus.
 
 Pros
-
-Effective against nasty CE bosses which also deal bugged physical
-damage. Cannot Be Frozen is helpful especially for summoners.
+: Effective against nasty CE bosses which also deal bugged physical damage. Cannot Be Frozen is helpful especially for summoners.
 
 Cons
 
@@ -181,30 +132,19 @@ Cons
 Synergy
 :   *Salvation:* +1% Cold Absorb Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201202041847/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=5&page=Defensive%20Auras&refer=Defensive%20Auras)
-[TOP](#navigator)
-:::
-
-#### Protection From Lightning [†](https://web.archive.org/web/20201202041847/http://miyoshino.la.coocan.jp/eswiki/?Defensive%20Auras#yde24609 "yde24609"){#yde24609 .anchor_super} {#content_1_4}
+#### Protection From Lightning
 
 Required Level
-
-3
+: 3
 
 Prerequisites
-
-*None*
+: *None*
 
 Difference from Resist Lightning
-
-Grants Absorb% instead of resists. Grants Damage Reduction%. Grants
-Lightning Skill Damage bonus.
+: Grants Absorb% instead of resists. Grants Damage Reduction%. Grants Lightning Skill Damage bonus.
 
 Pros
-
-Effective against nasty LE bosses which also deal bugged physical
-damage.
+: Effective against nasty LE bosses which also deal bugged physical damage.
 
 Cons
 
@@ -233,24 +173,16 @@ Cons
 Synergy
 :   *Salvation:* +1% Lightning Absorb Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201202041847/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=6&page=Defensive%20Auras&refer=Defensive%20Auras)
-[TOP](#navigator)
-:::
-
-#### Defiance [†](https://web.archive.org/web/20201202041847/http://miyoshino.la.coocan.jp/eswiki/?Defensive%20Auras#i7308d0c "i7308d0c"){#i7308d0c .anchor_super} {#content_1_5}
+#### Defiance
 
 Required Level
-
-6
+: 6
 
 Prerequisites
-
-*None*
+: *None*
 
 Difference from the LoD version
-
-Improved defense bonus.
+: Improved defense bonus.
 
 Pros
 
@@ -270,25 +202,16 @@ Synergy
     *Protection From Cold:* +10% Defense Per Level\
     *Protection From Lightning:* +10% Defense Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201202041847/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=7&page=Defensive%20Auras&refer=Defensive%20Auras)
-[TOP](#navigator)
-:::
-
-#### Cleansing [†](https://web.archive.org/web/20201202041847/http://miyoshino.la.coocan.jp/eswiki/?Defensive%20Auras#jb9b7a82 "jb9b7a82"){#jb9b7a82 .anchor_super} {#content_1_6}
+#### Cleansing
 
 Required Level
-
-12
+: 12
 
 Prerequisites
-
-*Prayer (1)*
+: *Prayer (1)*
 
 Difference from the LoD version
-
-Fixed the bug of the original D2 that higher slvl grants less Poison
-Length Reduction. Also reduces Curse Duration.
+: Fixed the bug of the original D2 that higher slvl grants less Poison Length Reduction. Also reduces Curse Duration.
 
 Pros
 
@@ -308,24 +231,16 @@ Synergy
     (The synergies from other skills to Prayer aren\'t counted for this
     bonus.)
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201202041847/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=8&page=Defensive%20Auras&refer=Defensive%20Auras)
-[TOP](#navigator)
-:::
-
-#### Vigor [†](https://web.archive.org/web/20201202041847/http://miyoshino.la.coocan.jp/eswiki/?Defensive%20Auras#p71fad1b "p71fad1b"){#p71fad1b .anchor_super} {#content_1_7}
+#### Vigor
 
 Required Level
-
-18
+: 18
 
 Prerequisites
-
-*Prayer (1), Defiance (6), Cleansing (12)*
+: *Prayer (1), Defiance (6), Cleansing (12)*
 
 Difference from the LoD version
-
-Increases Maximum Life. Improved Faster Run/Walk bonus.
+: Increases Maximum Life. Improved Faster Run/Walk bonus.
 
 Pros
 
@@ -346,28 +261,19 @@ Synergies
 :   *Prayer:* +1% Max Life Per Level\
     *Cleansing:* +1% Max Life Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201202041847/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=9&page=Defensive%20Auras&refer=Defensive%20Auras)
-[TOP](#navigator)
-:::
-
-#### Holy Ward [†](https://web.archive.org/web/20201202041847/http://miyoshino.la.coocan.jp/eswiki/?Defensive%20Auras#pefa79a6 "pefa79a6"){#pefa79a6 .anchor_super} {#content_1_8}
+#### Holy Ward
 
 Required Level
-
-18
+: 18
 
 Prerequisites
-
-*None*
+: *None*
 
 Difference from Grim Ward
-
-None.
+: None.
 
 Pros
-
-Can be a safe firing range for Rangers (Bow Paladins).
+: Can be a safe firing range for Rangers (Bow Paladins).
 
 Cons
 
@@ -381,24 +287,16 @@ Cons
   Mana Cost                             4                                                       
 :::
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201202041847/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=10&page=Defensive%20Auras&refer=Defensive%20Auras)
-[TOP](#navigator)
-:::
-
-#### Meditation [†](https://web.archive.org/web/20201202041847/http://miyoshino.la.coocan.jp/eswiki/?Defensive%20Auras#ya277582 "ya277582"){#ya277582 .anchor_super} {#content_1_9}
+#### Meditation
 
 Required Level
-
-24
+: 24
 
 Prerequisites
-
-*Prayer (1), Cleansing (12)*
+: *Prayer (1), Cleansing (12)*
 
 Difference from the LoD version
-
-Also grants Faster Cast Rate bonus.
+: Also grants Faster Cast Rate bonus.
 
 Pros
 
@@ -418,28 +316,19 @@ Synergy
     (The synergies from other skills to Prayer aren\'t counted for this
     bonus.)
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201202041847/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=11&page=Defensive%20Auras&refer=Defensive%20Auras)
-[TOP](#navigator)
-:::
-
-#### Aura of Divinity [†](https://web.archive.org/web/20201202041847/http://miyoshino.la.coocan.jp/eswiki/?Defensive%20Auras#a496aa22 "a496aa22"){#a496aa22 .anchor_super} {#content_1_10}
+#### Aura of Divinity
 
 Required Level
-
-30
+: 30
 
 Prerequisites
-
-*None*
+: *None*
 
 A new ES skill
-
-Grants Experience Bonus and All Skill Bonus.
+: Grants Experience Bonus and All Skill Bonus.
 
 Pros
-
-Experience bonus is nice especially in late games.
+: Experience bonus is nice especially in late games.
 
 Cons
 
@@ -451,24 +340,16 @@ Cons
   Radius (yards)                 3.33              +0.67 (Capped at 40 yards)                         
 :::
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201202041847/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=12&page=Defensive%20Auras&refer=Defensive%20Auras)
-[TOP](#navigator)
-:::
-
-#### Redemption [†](https://web.archive.org/web/20201202041847/http://miyoshino.la.coocan.jp/eswiki/?Defensive%20Auras#e7d22952 "e7d22952"){#e7d22952 .anchor_super} {#content_1_11}
+#### Redemption
 
 Required Level
-
-30
+: 30
 
 Prerequisites
-
-*Prayer (1), Defiance (6), Cleansing (12), Vigor (18)*
+: *Prayer (1), Defiance (6), Cleansing (12), Vigor (18)*
 
 Difference from the LoD version
-
-Gains more life and mana.
+: Gains more life and mana.
 
 Pros
 
@@ -488,25 +369,16 @@ Synergy
 :   *Prayer:* +1 Life Recovered Per Level\
     *Meditation:* +1 Mana Recovered Per Level
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201202041847/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=13&page=Defensive%20Auras&refer=Defensive%20Auras)
-[TOP](#navigator)
-:::
-
-#### Salvation [†](https://web.archive.org/web/20201202041847/http://miyoshino.la.coocan.jp/eswiki/?Defensive%20Auras#lb26d87a "lb26d87a"){#lb26d87a .anchor_super} {#content_1_12}
+#### Salvation
 
 Required Level
-
-30
+: 30
 
 Prerequisites
-
-*None*
+: *None*
 
 Difference from the LoD version
-
-Less resistances at low slvls, but synergies grant resistances beyond
-the previous cap.
+: Less resistances at low slvls, but synergies grant resistances beyond the previous cap.
 
 Pros
 
@@ -524,4 +396,3 @@ Synergy
 :   *Protection From Fire:* +2% Fire Resist Per Level\
     *Protection From Cold:* +2% Cold Resist Per Level\
     *Protection From Lightning:* +2% Lightning Resist Per Level
-:::
