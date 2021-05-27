@@ -1,9 +1,7 @@
 ### Summoning Spells
 
-::: {#nec-summon}
 [Necromancer](#top) - Summoning Spells / [Poison and Bone Spells] / [Curses]
 
-::: {.contents}
 -   [Skeleton Mastery]
 -   [Revive]
 -   [Clay Golem]
@@ -15,7 +13,6 @@
 -   [Fire Golem]
 -   [Hydra]
 -   [Raise Vampire]
-:::
 
 #### Skeleton Mastery
 
@@ -751,4 +748,3 @@ Synergies
     *Raise Skeleton*: +2 Base Damage Per Level\
     *Revive*: +15 Attack Rating Per Level\
     *Raise Skeleton*: +15 Attack Rating Per Level
-:::

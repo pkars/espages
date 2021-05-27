@@ -1,8 +1,7 @@
 ### Combat Skills
-::: {#bar-combatskills}
+
 [Barbarian](#top) - [Warcries] / [Combat Masteries] / Combat Skills
 
-::: {.contents}
 -   [Double Swing]
 -   [Magic Throw]
 -   [Stun]
@@ -14,7 +13,6 @@
 -   [Berserk]
 -   [Whirlwind]
 -   [Berserk Fury]
-:::
 
 #### Double Swing
 
@@ -242,12 +240,12 @@ Cons
   Damage% (ES)                                                                                               100                                                                                +18                         
   Damage% (LoD)                                                                                              90                                                                                 +5                          
   Min Faster Run Walk%                                                                                       7%                                                                                                             
-  Max Faster Run Walk% (ES)     [diminishing return](https://web.archive.org/web/20200918063417/http://miyoshino.la.coocan.jp/eswiki/?Glossary#diminishing_return "Glossary (137d)") (20-150)                               
-  Max Faster Run Walk% (LoD)    [diminishing return](https://web.archive.org/web/20200918063417/http://miyoshino.la.coocan.jp/eswiki/?Glossary#diminishing_return "Glossary (137d)") (20-200)                               
+  Max Faster Run Walk% (ES)     [diminishing return](../glossary.html#diminishing-return) (20-150)                               
+  Max Faster Run Walk% (LoD)    [diminishing return](../glossary.html#diminishing-return) (20-200)                               
   Min Skill IAS% (ES)                                                                                        9%                                                                                                             
   Min Skill IAS% (LoD)                                                                                       7%                                                                                                             
-  Max Skill IAS% (ES)            [diminishing return](https://web.archive.org/web/20200918063417/http://miyoshino.la.coocan.jp/eswiki/?Glossary#diminishing_return "Glossary (137d)") (0-60)                                
-  Max Skill IAS% (LoD)           [diminishing return](https://web.archive.org/web/20200918063417/http://miyoshino.la.coocan.jp/eswiki/?Glossary#diminishing_return "Glossary (137d)") (0-50)                                
+  Max Skill IAS% (ES)            [diminishing return](../glossary.html#diminishing-return) (0-60)                                
+  Max Skill IAS% (LoD)           [diminishing return](../glossary.html#diminishing-return) (0-50)                                
   Attack Rating%                                                                                             100                                                                                +7                          
   Duration (seconds)                                                                                          6                                                                                                             
   Mana Cost (ES)                                                                                              2                                                                                                             
@@ -424,4 +422,3 @@ Synergies
     *Double Throw:* +2% Magic Damage Per Level\
     *Phantom Hatchets:* +2% Magic Damage Per Level\
     *Berserk:* +2% Magic Damage Per Level
-:::

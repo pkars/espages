@@ -1,9 +1,7 @@
 ### Shadow Disciplines
 
-::: {#asn-shadow}
 [Assassin](#top) - [Martial Arts] / Shadow Disciplines / [Traps]
 
-::: {.contents}
 -   [Melee Mastery]
 -   [Cloak of Shadows]
 -   [Weapon Block]
@@ -16,7 +14,6 @@
 -   [Shadow Master]
 -   [Shade Armor]
 -   [Mind Blast]
-:::
 
 #### Melee Mastery
 
@@ -44,8 +41,8 @@ Notes
   Damage% (LoD)                                                                                          35                                                                                +4                          
   Attack Rating% (ES)                                                                                    30                                                                                +12                         
   Attack Rating% (LoD)                                                                                   30                                                                                +10                         
-  Critical Strike% (ES)     [diminishing return](https://web.archive.org/web/20170817221850/http://miyoshino.la.coocan.jp/eswiki/?Glossary#diminishing_return "Glossary (2385d)") (0-30)                               
-  Critical Strike% (LoD)    [diminishing return](https://web.archive.org/web/20170817221850/http://miyoshino.la.coocan.jp/eswiki/?Glossary#diminishing_return "Glossary (2385d)") (0-25)                               
+  Critical Strike% (ES)     [diminishing return](../glossary.html#diminishing-return) (0-30)                               
+  Critical Strike% (LoD)    [diminishing return](../glossary.html#diminishing-return) (0-25)                               
 :::
 
 #### Cloak of Shadows
@@ -75,7 +72,7 @@ Cons
   -------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------- ----- ------ ------- ------- -----
   Target\'s Defense%                                                                                      -15                                                                                -3                          
   Caster\'s Defense%                                                                                       10                                                                                +3                          
-  Duration (seconds) (ES)     [diminishing return](https://web.archive.org/web/20170817221850/http://miyoshino.la.coocan.jp/eswiki/?Glossary#diminishing_return "Glossary (2385d)") (8-32)                               
+  Duration (seconds) (ES)     [diminishing return](../glossary.html#diminishing-return) (8-32)                               
   Duration (seconds) (LoD)                                                                                 8                                                                                 +1                          
   Radius (yards)                                                                                           20                                                                                                            
   Mana Cost (ES)                                                                                           8                                                                                                             
@@ -107,7 +104,7 @@ Note
 ::: {.ie5}
   slvl                                                                                              1                                                                                 2-8   9-16   17-22   23-28   29+
   ------------------ --------------------------------------------------------------------------------------------------------------------------------------------------------------- ----- ------ ------- ------- -----
-  Chance To Block%    [diminishing return](https://web.archive.org/web/20170817221850/http://miyoshino.la.coocan.jp/eswiki/?Glossary#diminishing_return "Glossary (2385d)") (20-65)                               
+  Chance To Block%    [diminishing return](../glossary.html#diminishing-return) (20-65)                               
 :::
 
 #### Burst of Speed
@@ -151,7 +148,7 @@ Cons
 ::: {.ie5}
   slvl                                                                                                1                                                                                  2-8    9-16   17-22   23-28   29+
   -------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------- ------- ------ ------- ------- -----
-  Faster Run/Walk%      [diminishing return](https://web.archive.org/web/20170817221850/http://miyoshino.la.coocan.jp/eswiki/?Glossary#diminishing_return "Glossary (2385d)") (15-70)                                 
+  Faster Run/Walk%      [diminishing return](../glossary.html#diminishing-return) (15-70)                                 
   Duration (seconds)                                                                                 120                                                                                 +12                          
   Mana Cost (ES)                                                                                     10                                                                                 +0.25                         
   Mana Cost (LoD)                                                                                    10                                                                                                               
@@ -209,10 +206,8 @@ Notes
 :   Generated with random equipment. The base Defense and Attack Rating
     are determined by the armor and Dexterity. The base Damage is
     determined by the weapon and Strength.\
-    Please also see Shadow Warrior\'s
-    [Equipment](https://web.archive.org/web/20170817221850/http://miyoshino.la.coocan.jp/eswiki/?FAQ#k08b686e "FAQ (1025d)")
-    and [Life
-    Regeneration](https://web.archive.org/web/20170817221850/http://miyoshino.la.coocan.jp/eswiki/?FAQ#u3a4375a "FAQ (1025d)").
+    Please also see Shadow Warrior\'s [Equipment](../es-faq.html#k08b686e)
+    and [Life Regeneration](../es-faq.html#u3a4375a).
 
 Known Issues
 :   The skill icon shows slightly less Equipment Level. Please see the
@@ -265,10 +260,10 @@ Cons
 ::: {.ie5}
   slvl                                                                                                           1                                                                                  2-8    9-16   17-22   23-28   29+
   ------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------- ------- ------ ------- ------- -----
-  All Resist%                      [diminishing return](https://web.archive.org/web/20170817221850/http://miyoshino.la.coocan.jp/eswiki/?Glossary#diminishing_return "Glossary (2385d)") (10-75)                                 
+  All Resist%                      [diminishing return](../glossary.html#diminishing-return) (10-75)                                 
   Physical Resist%                                                                                               1                                                                                  +1                           
-  Curse Length Reduction% (ES)     [diminishing return](https://web.archive.org/web/20170817221850/http://miyoshino.la.coocan.jp/eswiki/?Glossary#diminishing_return "Glossary (2385d)") (30-55)                                 
-  Curse Length Reduction% (LoD)    [diminishing return](https://web.archive.org/web/20170817221850/http://miyoshino.la.coocan.jp/eswiki/?Glossary#diminishing_return "Glossary (2385d)") (40-90)                                 
+  Curse Length Reduction% (ES)     [diminishing return](../glossary.html#diminishing-return) (30-55)                                 
+  Curse Length Reduction% (LoD)    [diminishing return](../glossary.html#diminishing-return) (40-90)                                 
   Duration (seconds)                                                                                            120                                                                                 +12                          
   Mana Cost (ES)                                                                                                10                                                                                 +0.25                         
   Mana Cost (LoD)                                                                                               10                                                                                                               
@@ -309,9 +304,9 @@ Notes
   Magic Damage (ES)                                                                                                              20-40                                                                                 +10    +20     +30     +40    +40
   Magic Damage (LoD)                                                                                                              1-3                                                                                  +1     +1.5    +2     +2.5    +3
   Chance% to Knockback                                                                                                            100                                                                                                               
-  Chance% to Knockback Uniques                       [diminishing return](https://web.archive.org/web/20170817221850/http://miyoshino.la.coocan.jp/eswiki/?Glossary#diminishing_return "Glossary (2385d)") (50-100)                                 
-  Chance% to Knockback Act Bosses / Players (ES)     [diminishing return](https://web.archive.org/web/20170817221850/http://miyoshino.la.coocan.jp/eswiki/?Glossary#diminishing_return "Glossary (2385d)") (25-80)                                  
-  Chance% to Knockback Act Bosses / Players (LoD)    [diminishing return](https://web.archive.org/web/20170817221850/http://miyoshino.la.coocan.jp/eswiki/?Glossary#diminishing_return "Glossary (2385d)") (25-99)                                  
+  Chance% to Knockback Uniques                       [diminishing return](../glossary.html#diminishing-return) (50-100)                                 
+  Chance% to Knockback Act Bosses / Players (ES)     [diminishing return](../glossary.html#diminishing-return) (25-80)                                  
+  Chance% to Knockback Act Bosses / Players (LoD)    [diminishing return](../glossary.html#diminishing-return) (25-99)                                  
   Mana Cost (ES)                                                                                                                   8                                                                                  +0.25                         
   Mana Cost (LoD)                                                                                                                  4                                                                                  +0.25                         
 :::
@@ -382,10 +377,8 @@ Notes
 :   Generated with random equipment. The base Defense and Attack Rating
     are determined by the armor and Dexterity. The base Damage is
     determined by the weapon and Strength.\
-    Please also see Shadow Master\'s
-    [Equipment](https://web.archive.org/web/20170817221850/http://miyoshino.la.coocan.jp/eswiki/?FAQ#k08b686e "FAQ (1025d)")
-    and [Life
-    Regeneration](https://web.archive.org/web/20170817221850/http://miyoshino.la.coocan.jp/eswiki/?FAQ#u3a4375a "FAQ (1025d)").
+    Please also see Shadow Master\'s [Equipment](../es-faq.html#k08b686e)
+    and [Life Regeneration](../es-faq.html#u3a4375a).
 
 Known Issues
 :   The skill icon shows slightly less Equipment Level. Please see the
@@ -407,7 +400,7 @@ Known Issues
   Dexterity                                                                       10                                                                        +10                                      
 
   Resist All%                                                                [diminishing                                                                                                            
-               return](https://web.archive.org/web/20170817221850/http://miyoshino.la.coocan.jp/eswiki/?Glossary#diminishing_return "Glossary (2385d)")                                              
+               return](../glossary.html#diminishing-return)                                              
                                                                                (5-80)\                                                                                                               
                                                                 (capped at 75 without +Max Res items)                                                                                                
 
@@ -511,8 +504,8 @@ Cons
   Physical Damage (LoD)                                                                                            10-20                                                                                +2      +5     +8      +8     +8
   Stun Length (seconds) (ES)                                                                                         2                                                                                 +0.12                         
   Stun Length (seconds) (LoD)                                                                                        2                                                                                 +0.2                          
-  Conversion Chance% (ES)              [diminishing return](https://web.archive.org/web/20170817221850/http://miyoshino.la.coocan.jp/eswiki/?Glossary#diminishing_return "Glossary (2385d)") (10-25)                                 
-  Conversion Chance% (LoD)             [diminishing return](https://web.archive.org/web/20170817221850/http://miyoshino.la.coocan.jp/eswiki/?Glossary#diminishing_return "Glossary (2385d)") (15-40)                                 
+  Conversion Chance% (ES)              [diminishing return](../glossary.html#diminishing-return) (10-25)                                 
+  Conversion Chance% (LoD)             [diminishing return](../glossary.html#diminishing-return) (15-40)                                 
   Conversion Length (seconds) (ES)                                                                             4\~5 (random)                                                                                                         
   Conversion Length (seconds) (LoD)                                                                           6\~10 (random)                                                                                                         
   Radius (yards)                                                                                                   2.67                                                                                                              
@@ -524,4 +517,3 @@ Synergies
     *Psychic Slash:* +5% Damage Per Level\
     *Cloak of Shadows:* +0.67 Yard Per 10 Levels\
     *Psychic Slash:* +0.67 Yard Per 10 Levels
-:::

@@ -2,18 +2,18 @@
 
 [Sorceress](#top) - [Cold Spells] / [Lightning Spells] / Fire Spells
 
--   [Blaze](#xf056910)
--   [Fire Armor](#k8dd033f)
--   [Fire Bolt](#f5d46e7f)
--   [Fissure](#k7f4052b)
--   [Enchant](#pf16cfab)
--   [Flame Wave](#d7a6910d)
--   [Fire Ball](#u0f9bc72)
--   [Fanatic Swing](#n4b38901)
--   [Meteor](#re576d94)
--   [Immolation](#vb39cf54)
--   [Fire Mastery](#e0e51840)
--   [Meteor Shower](#mca7af5e)
+-   [Blaze]
+-   [Fire Armor]
+-   [Fire Bolt]
+-   [Fissure]
+-   [Enchant]
+-   [Flame Wave]
+-   [Fire Ball]
+-   [Fanatic Swing]
+-   [Meteor]
+-   [Immolation]
+-   [Fire Mastery]
+-   [Meteor Shower]
 
 #### Blaze
 

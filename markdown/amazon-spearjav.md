@@ -1,24 +1,20 @@
-
-::: {#ama-spearjav}
 ### Spear and Javelin Skills {#v8f389de}
-[Amazon](#top) - Spear and Javelin Skills / [Passive and Magic Skills][] / [Bow and Crossbow Skills][]
 
-::: {.contents}
--   [Spear and Javelin Skills](#v8f389de)
-    -   [Fire Strike](#y224db6e)
-    -   [Jab](#c72b8b89)
-    -   [Fend](#h3d9e2a0)
-    -   [Pyre Javelin](#wc426d88)
-    -   [Viper Bite](#t6a66131)
-    -   [Plague Javelin](#af8f74bf)
-    -   [Lightning Strike](#m7e95668)
-    -   [Shadow Strike](#kabc0457)
-    -   [Frost Javelin](#g701b7c4)
-    -   [Dance of Death](#i2d94d0c)
-    -   [Lightning Fury](#g787e312)
-:::
+[Amazon](#top) - Spear and Javelin Skills / [Passive and Magic Skills] / [Bow and Crossbow Skills]
 
-#### Fire Strike {#y224db6e}
+-   [Fire Strike]
+-   [Jab]
+-   [Fend]
+-   [Pyre Javelin]
+-   [Viper Bite]
+-   [Plague Javelin]
+-   [Lightning Strike]
+-   [Shadow Strike]
+-   [Frost Javelin]
+-   [Dance of Death]
+-   [Lightning Fury]
+
+#### Fire Strike
 
 Required Level
 :   1
@@ -59,7 +55,7 @@ Synergies
     *Fire Wall:* +7% Fire Damage Per Level
 
 
-#### Jab {#c72b8b89}
+#### Jab
 
 Required Level
 : 1
@@ -102,7 +98,7 @@ Synergies
     *Lightning Strike:* +18% Damage Per Level\
     *Shadow Strike:* +18% Damage Per Level
 
-#### Fend {#h3d9e2a0}
+#### Fend
 
 Required Level
 : 6
@@ -119,10 +115,7 @@ attack speed. Can be used with any melee weapons. Attacks a single
 target multiple times like Zeal.
 
 Notes
-: [(Important)]{style="color:red"} Please also see the FAQ about [Fend
-Bug](https://web.archive.org/web/20200930104047/http://miyoshino.la.coocan.jp/eswiki/?FAQ#c3854226)
-and [D/A/E
-Lock](https://web.archive.org/web/20200930104047/http://miyoshino.la.coocan.jp/eswiki/?FAQ#h47a52ce).
+: [(Important)]{style="color:red"} Please also see the FAQ about [Fend Bug](../es-faq.html#c3854226) and [D/A/E Lock](../es-faq.html#h47a52ce).
 
 Pros
 : Fast attack. Triggers CtC spells frequently.
@@ -159,7 +152,7 @@ Synergies
 
 
 
-#### Pyre Javelin {#wc426d88}
+#### Pyre Javelin
 
 Required Level
 : 6
@@ -193,7 +186,7 @@ Synergies
     *Fire Wall:* 6% Fire Damage Per Level
 
 
-#### Viper Bite {#t6a66131}
+#### Viper Bite
 
 Required Level
 :   12
@@ -236,7 +229,7 @@ Synergies
     *Plague Javelin:* +6% All Damage Per Level
 
 
-#### Plague Javelin {#af8f74bf}
+#### Plague Javelin
 
 Required Level
 : 12
@@ -272,7 +265,7 @@ Synergies
     *Viper Bite:* +5% Poison Damage Per Level
 
 
-#### Lightning Strike {#m7e95668}
+#### Lightning Strike
 
 Required Level
 :   18
@@ -309,7 +302,7 @@ Synergies
     *Shadow Strike:* +5% Lightning Damage Per Level\
     *Lightning Fury:* +5% Lightning Damage Per Level
 
-#### Shadow Strike {#kabc0457}
+#### Shadow Strike
 
 Required Level
 :   24
@@ -346,7 +339,7 @@ Synergies
     *Lightning Fury:* +5% Magic Damage Per Level
 
 
-#### Frost Javelin {#g701b7c4}
+#### Frost Javelin
 
 Required Level
 : 24
@@ -380,7 +373,7 @@ Synergies
     *Lightning Fury:* +4% Cold Damage Per Level\
     *Frost Nova:* +4% Cold Damage Per Level
 
-#### Dance of Death {#i2d94d0c}
+#### Dance of Death
 
 Required Level
 :   30
@@ -423,7 +416,7 @@ Synergies
     *Shadow Strike:* +5% Damage Per Level
 
 
-#### Lightning Fury {#g787e312}
+#### Lightning Fury
 
 Required Level
 :   30
@@ -459,4 +452,3 @@ Synergies
     *Frost Javelin:* +1% Lightning Damage Per Level\
     *Plague Javelin:* +1% Lightning Damage Per Level\
     *Lightning Strike:* +1% Lightning Damage Per Level
-:::

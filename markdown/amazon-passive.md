@@ -1,26 +1,22 @@
+### Passive and Magic Skills
 
-::: {#ama-passive}
-### Passive and Magic Skills {#zff5941c}
-[Amazon](#top) - [Spear and Javelin Skills][] / Passive and Magic Skills / [Bow and Crossbow Skills][]
+[Amazon](#top) - [Spear and Javelin Skills] / Passive and Magic Skills / [Bow and Crossbow Skills]
 
-::: {.contents}
--   [Passive and Magic Skills](#zff5941c)
-    -   [Petrify](#a5f997b6)
-    -   [Frost Nova](#o7feed4d)
-    -   [Critical Strike](#n3efdb79)
-    -   [Inner Sight](#md2d618b)
-    -   [Sway](#l2793625)
-    -   [Slow Missiles](#q0a67a79)
-    -   [Dodge](#d5f997b6)
-    -   [Decoy](#t05bcf58)
-    -   [Fire Wall](#g91784f0)
-    -   [Penetrate](#offe61cb)
-    -   [Eagle Eye](#b56db5c9)
-    -   [Valkyrie](#e8fa7148)
-    -   [Pierce](#y45bd930)
-:::
+-   [Petrify]
+-   [Frost Nova]
+-   [Critical Strike]
+-   [Inner Sight]
+-   [Sway]
+-   [Slow Missiles]
+-   [Dodge]
+-   [Decoy]
+-   [Fire Wall]
+-   [Penetrate]
+-   [Eagle Eye]
+-   [Valkyrie]
+-   [Pierce]
 
-#### Petrify {#a5f997b6}
+#### Petrify
 
 Required Level
 :   1
@@ -54,7 +50,7 @@ Synergies
 :   *Inner Sight*: +0.12 Second Per Level\
     *Slow Missiles*: +3% Slower Run/Walk Per Level
 
-#### Frost Nova {#o7feed4d}
+#### Frost Nova
 
 Required Level
 :   1
@@ -90,7 +86,7 @@ Synergies
     *Decoy:* +7% Cold Damage Per Level
 
 
-#### Critical Strike {#n3efdb79}
+#### Critical Strike
 
 Required Level
 :   1
@@ -112,12 +108,12 @@ Cons
 ::: {.slvl-table}
   slvl                                                                                              1                                                                        2-8   9-16   17-22   23-28   29+
   ---------------------------- -------------------------------------------------------------------------------------------------------------------------------------------- ----- ------ ------- ------- -----
-  Chance To Critical Strike%    [diminishing returns](https://web.archive.org/web/20201020205252/http://miyoshino.la.coocan.jp/eswiki/?Glossary#diminishing_return) (5-80)                               
+  Chance To Critical Strike%    [diminishing returns](../glossary.html#diminishing-return) (5-80)                               
   Chance of Crushing Blow%                                                                  +1 per Base Level                                                                                            
 :::
 
 
-#### Inner Sight {#md2d618b}
+#### Inner Sight
 
 Required Level
 :   6
@@ -157,7 +153,7 @@ Notes
 :::
 
 ::: {.slvl-table}
-  slvl              1     2     3     4     5 .anchor_super} {#content_1_13     6     7     8     9    10    11    12    13    14    15
+  slvl              1     2     3     4     5     6     7     8     9    10    11    12    13    14    15
   --------------- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- -----
   Enemy\'s DR%%    -5    -9    -12   -15   -17   -19   -20   -21   -23         -24   -25   -26         -27
   Enemy\'s Def%    -10   -16   -20   -24   -27   -29   -31   -32   -34   -35   -36   -37   -38   -39  
@@ -190,9 +186,7 @@ Synergies
     *Critical Strike*: -2% Physical Resist Per 3 Levels\
     *Slow Missiles*: -2% Physical Resist Per 3 Levels
 
-
-
-#### Sway {#l2793625}
+#### Sway
 
 Required Level
 : 6
@@ -220,7 +214,7 @@ Synergies
     *Petrify*: +10% Defense Per Level
 
 
-#### Slow Missiles {#q0a67a79}
+#### Slow Missiles
 
 Required Level
 :   12
@@ -251,9 +245,7 @@ Notes
   Mana Cost                       5                                 
 :::
 
-
-
-#### Dodge {#d5f997b6}
+#### Dodge
 
 Required Level
 :   12
@@ -275,15 +267,15 @@ Cons
 ::: {.slvl-table}
   slvl                                                                                                     1                                                                        2-8   9-16   17-22   23-28   29+
   ----------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------- ----- ------ ------- ------- -----
-  Chance To Dodge/Avoid/Evade% (ES)    [diminishing returns](https://web.archive.org/web/20201020205252/http://miyoshino.la.coocan.jp/eswiki/?Glossary#diminishing_return) (1-25)                               
+  Chance To Dodge/Avoid/Evade% (ES)    [diminishing returns](../glossary.html#diminishing-return) (1-25)                               
   Chance To Dodge/Avoid/Evade% (ES)                                                                +1 Per Base Point                                                                                            
-  Chance To Dodge% (LoD)               [diminishing returns](https://web.archive.org/web/20201020205252/http://miyoshino.la.coocan.jp/eswiki/?Glossary#diminishing_return)(10-65)                               
+  Chance To Dodge% (LoD)               [diminishing returns](../glossary.html#diminishing-return)(10-65)                               
   Dodge Speed (ES)                                                                                      1 frame                                                                                                 
   Dodge Speed (LoD)                                                                                     8 frames                                                                                                
 :::
 
 
-#### Decoy {#t05bcf58}
+#### Decoy
 
 Required Level
 :   18
@@ -314,7 +306,7 @@ Synergies
 :   *Valkyrie*: +10% Max Life Per Level
 
 
-#### Fire Wall {#g91784f0}
+#### Fire Wall
 
 Required Level
 :   18
@@ -351,7 +343,7 @@ Synergies
     *Decoy:* +6% Fire Damage Per Level
 
 
-#### Penetrate {#offe61cb}
+#### Penetrate
 
 Required Level
 : 18
@@ -374,7 +366,7 @@ Cons
 :::
 
 
-#### Eagle Eye {#b56db5c9}
+#### Eagle Eye
 
 Required Level
 :   30
@@ -421,7 +413,7 @@ Synergies
 :   *Inner Sight*: +12 seconds Per Level\
     *Slow Missiles*: +12 seconds Per Level
 
-#### Valkyrie {#e8fa7148}
+#### Valkyrie
 
 Required Level
 :   30
@@ -439,9 +431,7 @@ Pros
 Cons\
 Notes
 :   Generated with random equipment. Please also see Vaikyrie\'s
-    [Equipment](https://web.archive.org/web/20201020205252/http://miyoshino.la.coocan.jp/eswiki/?FAQ#k08b686e)
-    and [Life
-    Regeneration](https://web.archive.org/web/20201020205252/http://miyoshino.la.coocan.jp/eswiki/?FAQ#u3a4375a).
+    [Equipment](../es-faq.html#k08b686e) and [Life Regeneration](../es-faq.html#u3a4375a).
 
 Known Issues
 :   The skill icon shows slightly less Equipment Level. Please see the
@@ -474,7 +464,7 @@ Synergies
     *Sway*: (slvl = caster\'s base level of Sway)
 
 
-#### Pierce {#y45bd930}
+#### Pierce
 
 Required Level
 :   30
@@ -497,6 +487,5 @@ Cons
   slvl                                                                                            1                                                                                     2-8                 9-16   17-22   23-28   29+
   ------------------------- --------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------- ------ ------- ------- -----
   Chance To Pierce% (ES)                                                                         20                                                                        +3 (Capped at 100% at slvl 28)                         
-  Chance To Pierce% (LoD)    [diminishing returns](https://web.archive.org/web/20201020205252/http://miyoshino.la.coocan.jp/eswiki/?Glossary#diminishing_return)(10-100)                                                          
-:::
+  Chance To Pierce% (LoD)    [diminishing returns](../glossary.html#diminishing-return)(10-100)                                                          
 :::

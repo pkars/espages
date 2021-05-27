@@ -1,22 +1,19 @@
 ### Combat Masteries
-::: {#bar-combatmasteries}
+
 [Barbarian](#top) - [Warcries] / Combat Masteries / [Combat Skills]
 
-::: {.contents}
--   [Combat Masteries](#a56c80d3)
-    -   [Close Combat Mastery](#t72f596c)
-    -   [Throwing Mastery](#vf7a9b17)
-    -   [Thunder Strike](#k75fddb3)
-    -   [Strength of the Ancients](#y9e67f4e)
-    -   [Luck of the Ancients](#e537b9e6)
-    -   [Vigor of the Ancients](#h851d51e)
-    -   [Thunder Wave](#c29c2203)
-    -   [Iron Skin](#icc1dfb8)
-    -   [Nova](#t47c9ff3)
-    -   [Plasma Rain](#y84bc84b)
-    -   [Natural Resistance](#j1ff16a4)
-    -   [Thunder Storm](#ofe976cd)
-:::
+-   [Close Combat Mastery]
+-   [Throwing Mastery]
+-   [Thunder Strike]
+-   [Strength of the Ancients]
+-   [Luck of the Ancients]
+-   [Vigor of the Ancients]
+-   [Thunder Wave]
+-   [Iron Skin]
+-   [Nova]
+-   [Plasma Rain]
+-   [Natural Resistance]
+-   [Thunder Storm]
 
 ::: {.note}
 Close Combat Mastery and Assassin\'s Melee Mastery are the same thing
@@ -47,14 +44,14 @@ Pros
 Cons
 
 ::: {.slvl-table}
-  slvl                                                                                                   1                                                                                2-8   9-16   17-22   23-28   29+
-  ------------------------ ------------------------------------------------------------------------------------------------------------------------------------------------------------- ----- ------ ------- ------- -----
-  Damage% (ES)                                                                                          30                                                                                +6                          
-  Damage% (LoD)                                                                                         28                                                                                +5                          
-  Attack Rating% (ES)                                                                                   30                                                                                +12                         
-  Attack Rating% (LoD)                                                                                  28                                                                                +8                          
-  Critical Strike% (ES)     [diminishing return](https://web.archive.org/web/20200918064750/http://miyoshino.la.coocan.jp/eswiki/?Glossary#diminishing_return "Glossary (137d)") (0-27)                               
-  Critical Strike% (LoD)    [diminishing return](https://web.archive.org/web/20200918064750/http://miyoshino.la.coocan.jp/eswiki/?Glossary#diminishing_return "Glossary (137d)") (0-25)                               
+| slvl                   | 1                                                                | 2-8 | 9-16 | 17-22 | 23-28 | 29+ |
+| ---------------------- | ---------------------------------------------------------------- | --- | ---- | ----- | ----- | --- |
+| Damage% (ES)           | 30                                                               | +6  |      |       |       |     |
+| Damage% (LoD)          | 28                                                               | +5  |      |       |       |     |
+| Attack Rating% (ES)    | 30                                                               | +12 |      |       |       |     |
+| Attack Rating% (LoD)   | 28                                                               | +8  |      |       |       |     |
+| Critical Strike% (ES)  | [diminishing return](../glossary.html#diminishing-return) (0-27) |     |      |       |       |     |
+| Critical Strike% (LoD) | [diminishing return](../glossary.html#diminishing-return) (0-25) |     |      |       |       |     |
 :::
 
 #### Throwing Mastery
@@ -77,14 +74,14 @@ Pros
 Cons
 
 ::: {.slvl-table}
-  slvl                                                                                                   1                                                                                2-8   9-16   17-22   23-28   29+
-  ------------------------ ------------------------------------------------------------------------------------------------------------------------------------------------------------- ----- ------ ------- ------- -----
-  Damage% (ES)                                                                                          30                                                                                +8                          
-  Damage% (LoD)                                                                                         28                                                                                +5                          
-  Attack Rating% (ES)                                                                                   30                                                                                +12                         
-  Attack Rating% (LoD)                                                                                  30                                                                                +8                          
-  Critical Strike% (ES)     [diminishing return](https://web.archive.org/web/20200918064750/http://miyoshino.la.coocan.jp/eswiki/?Glossary#diminishing_return "Glossary (137d)") (0-36)                               
-  Critical Strike% (LoD)    [diminishing return](https://web.archive.org/web/20200918064750/http://miyoshino.la.coocan.jp/eswiki/?Glossary#diminishing_return "Glossary (137d)") (0-25)                               
+| slvl                   | 1                                                                | 2-8 | 9-16 | 17-22 | 23-28 | 29+ |
+| ---------------------- | ---------------------------------------------------------------- | --- | ---- | ----- | ----- | --- |
+| Damage% (ES)           | 30                                                               | +8  |      |       |       |     |
+| Damage% (LoD)          | 28                                                               | +5  |      |       |       |     |
+| Attack Rating% (ES)    | 30                                                               | +12 |      |       |       |     |
+| Attack Rating% (LoD)   | 30                                                               | +8  |      |       |       |     |
+| Critical Strike% (ES)  | [diminishing return](../glossary.html#diminishing-return) (0-36) |     |      |       |       |     |
+| Critical Strike% (LoD) | [diminishing return](../glossary.html#diminishing-return) (0-25) |     |      |       |       |     |
 :::
 
 #### Thunder Strike
@@ -96,8 +93,7 @@ Prerequisites
 :   *None*
 
 Skill Description
-:   Lightning version of Amazon\'s [Fire Strike](./amazon.html#y224db6e).
-    Former *Axe Mastery*
+:   Lightning version of Amazon\'s [Fire Strike](./amazon.html#fire-strike). Former *Axe Mastery*.
 
 Pros
 :   Decent elemental damage is especially helpful for starters who
@@ -106,12 +102,12 @@ Pros
 Cons
 
 ::: {.slvl-table}
-  slvl                     1     2-8    9-16   17-22   23-28   29+
-  ---------------------- ----- ------- ------ ------- ------- ------
-  Min Lightning Damage     1                                  
-  Max Lightning Damage    +36    +24    +48     +96    +192    +192
-  Attack Rating%          20     +12                          
-  Mana Cost                2    +0.25                         
+| slvl                 | 1   | 2-8   | 9-16 | 17-22 | 23-28 | 29+  |
+| -------------------- | --- | ----- | ---- | ----- | ----- | ---- |
+| Min Lightning Damage | 1   |       |      |       |       |      |
+| Max Lightning Damage | +36 | +24   | +48  | +96   | +192  | +192 |
+| Attack Rating%       | 20  | +12   |      |       |       |      |
+| Mana Cost            | 2   | +0.25 |      |       |       |      |
 :::
 
 Synergies
@@ -190,10 +186,10 @@ Pros
 Cons
 
 ::: {.slvl-table}
-  slvl               1                                                                                                                                                             2-8   9-16   17-23   24+
-  ------------------ ------------------------------------------------------------------------------------------------------------------------------------------------------------- ----- ------ ------- -----
-  Vitality           5                                                                                                                                                             +5                   
-  Faster Run/Walk%   [diminishing return](https://web.archive.org/web/20200918064750/http://miyoshino.la.coocan.jp/eswiki/?Glossary#diminishing_return "Glossary (137d)") (6-35)                        
+slvl               1                                                                   2-8   9-16   17-23   24+
+------------------ ------------------------------------------------------------------ ----- ------ ------- -----
+Vitality           5                                                                   +5
+Faster Run/Walk%   [diminishing return](../glossary.html#diminishing-return) (6-35)
 :::
 
 #### Thunder Wave
@@ -346,10 +342,10 @@ Pros
 Cons
 
 ::: {.slvl-table}
-  slvl                                                                                               1                                                                                 2-8   9-16   17-22   23-28   29+
-  -------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------- ----- ------ ------- ------- -----
-  Resist All%           [diminishing return](https://web.archive.org/web/20200918064750/http://miyoshino.la.coocan.jp/eswiki/?Glossary#diminishing_return "Glossary (137d)") (12-67)                               
-  Magic Resist% (ES)                                                                       1/4 of F/C/L/P Resist%                                                                                                  
+  slvl                     1                                                                2-8   9-16   17-22   23-28   29+
+  -------------------- ------------------------------------------------------------------ ------ ------- ------  ----- ------
+  Resist All%           [diminishing return](../glossary.html#diminishing-return) (12-67)
+  Magic Resist% (ES)      1/4 of F/C/L/P Resist%
 :::
 
 #### Thunder Storm
@@ -387,4 +383,3 @@ Synergies
     *Thunder Wave:* +5% Lightning Damage Per Level\
     *Plasma:* +5% Lightning Damage Per Level\
     *Nova:* +5% Lightning Damage Per Level
-:::

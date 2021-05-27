@@ -123,7 +123,7 @@ title: 'Playing Tips - Eastern Sun Wiki'
 ### Getting Started {#of0f08ce}
 
 Starting out in Eastern Sun for the first time, or playing
-[untwinked](https://web.archive.org/web/20201128175730/http://miyoshino.la.coocan.jp/eswiki/?Glossary#untwinked "Glossary (10d)")
+[untwinked](../glossary.html#untwinked)
 can be quite a challenge. Here are a few tips that should make it
 easier:
 
@@ -269,10 +269,10 @@ Shields         3          Boots          2
         exceptional/elite) unique items
     -   Ancient Scroll \#5 allows you to make normal set items
     -   Ancient Scroll \#14 can turn two [Dragon
-        Stones](https://web.archive.org/web/20201128175730/http://miyoshino.la.coocan.jp/eswiki/?Glossary#dragon_stone "Glossary (10d)")
+        Stones](../glossary.html#dragon_stone "Glossary (10d)")
         into a perfect gem (which you can split into lower level req
         gems using the [Gem
-        Can](https://web.archive.org/web/20201128175730/http://miyoshino.la.coocan.jp/eswiki/?Glossary#gem_can "Glossary (10d)"),
+        Can](../glossary.html#gem_can "Glossary (10d)"),
         or use for crafting recipies)
 
 -   If you get more than one of the same scroll, you can either try to
@@ -280,13 +280,13 @@ Shields         3          Boots          2
     new scroll (two scrolls in the range 1-25 give outputs in the range
     1-30, scrolls from 26-50 give outputs in the range 20-50), or you
     can turn your extra scroll into a
-    [D-Stone](https://web.archive.org/web/20201128175730/http://miyoshino.la.coocan.jp/eswiki/?Glossary#dragon_stone "Glossary (10d)"),
+    [D-Stone](../glossary.html#dragon-stone),
     by transmuting it with a key.
 
 -   Wish you had more decipherers for all those nice crafting recipies,
     or to identify your Ancient Scrolls? You can split a D-Stone into 8
     decipherers using the
-    [multi-stocker](https://web.archive.org/web/20201128175730/http://miyoshino.la.coocan.jp/eswiki/?Glossary#multi-stocker "Glossary (10d)"),
+    [multi-stocker](../glossary.html#multi-stocker),
     which can be useful early on. You can also get decipherers by
     transmuting organs in your cube: it takes six hearts or souls, or
     two of any other organ to make an Ancient Decipherer. You may prefer
@@ -298,8 +298,7 @@ Shields         3          Boots          2
     points by cubing with a Multi Stocker.
 
 -   Wish you had more Dragon Stones? Once you make it to Act II, you can
-    pick up as many as you need by doing [HoD
-    runs](https://web.archive.org/web/20201128175730/http://miyoshino.la.coocan.jp/eswiki/?Glossary#hod_runs "Glossary (10d)").
+    pick up as many as you need by doing [HoD runs](../glossary.html#hod-runs).
 -   IMHO a much better method is to do quick clears of Normal Levels
     (anything from regular Act 1 levels to Cows) at a high player
     setting with a character that has a good area attack (Auradins are
@@ -623,55 +622,55 @@ In theory a boss ore can contain 15 crystals at best, but 3 or 4 on
 average.
 
 ::: {.ie5}
-Crystal | Chipped | Normal | Mainly Dropped by | Area
---|-|-|--|--
-Frozen Soul | ![b\_oval\_s.gif](../img/b_oval_s.gif){.size-28} | ![b\_oval\_l.gif](../img/b_oval_l.gif){.size-28} | Nihlathak | Nihlathak\'s Domain |
-|||| Fatalstorm | Nihlathak\'s Domain |
-|||| Factory Director | Moonshine Distillery |
-|||| Factory Director | Fake Note Factory |
-|||| Dark Planter | Poppy Farm |
-Shadow Quartz | ![violet\_s.gif](../img/violet_s.gif){.size-28} | ![violet\_l.gif](../img/violet_l.gif){.size-28} | Baal | Wordstone Chamber |
-|||| Baal\'s Bodydouble | Wordstone Chamber |
-|||| Lister the Tormentor | Throne of Destruction |
-|||| Lister the Revenger | Nihlathak\'s Domain |
-Bleeding Stone | ![red\_s.gif](../img/red_s.gif){.size-28} | ![red\_l.gif](../img/red_l.gif){.size-28} | Diablo | Chaos Sanctuary |
-|||| Diablo | Throne of Destruction |
-|||| Diablo Clone | Random Area |
-|||| King Leoric | Chaos Sanctuary |
-|||| Black Jade | Chaos Sanctuary |
-|||| Lachdanan | Chaos Sanctuary |
-Burning Sulphur | ![topa\_s.gif](../img/topa_s.gif){.size-28} | ![topa\_l.gif](../img/topa_l.gif){.size-28} | Mephisto | Durance of Hate Level 3 |
-|||| Mephisto | Throne of Destruction |
-|||| Knuckle Baller | Bill Roper Memorial Ballpark |
-|||| Named Councils | Durance of Hate Level 3 |
-Dark Azurite | ![blue\_s.gif](../img/blue_s.gif){.size-28} | ![blue\_l.gif](../img/blue_l.gif){.size-28} | Duriel | Duriel\'s Lair |
-|||| Duriel | Throne of Destruction |
-|||| Duriel | Marsh of Pain |
-Bitter Peridot | ![greens.gif](../img/greens.gif){.size-28} | ![greenl.gif](../img/greenl.gif){.size-28} | Andariel | Catacomb Level 4 |
-|||| Andariel | Throne of Destruction |
-|||| Andariel | Andariel\'s Dressing Room |
-Pulsing Opal | ![opa\_s.gif](../img/opa_s.gif){.size-28} | ![opa\_l.gif](../img/opa_l.gif){.size-28} | Reporb | Bill Roper Memorial Ballpark |
-|||| Hephasto the Armoror | River of Flame |
-|||| Dark Clone | Harpie\'s Nest Level 2 |
-Enigmatic Cinnabar | ![maga\_s.gif](../img/maga_s.gif){.size-28} | ![maga\_l.gif](../img/maga_l.gif){.size-28} | Magmajuggler | Nihlathak\'s Domain |
-|||| Summoner | Arcane Sanctuary |
-|||| Dark Magician | Dark Magicians Chamber Level 2 |
-Tomb Jade | ![g\_tear\_s.gif](../img/g_tear_s.gif){.size-28} | ![g\_tear\_l.gif](../img/g_tear_l.gif){.size-28} | Reziarfg | GFraizer Dome |
-||||Radament | Act 2 Sewer Level 2 |
-||||Sorrow Summoner | Harpie\'s Nest Level 1 & 2 |
-||||Chaos Summoner | Dark Magician\'s Chamber Level 1 |
-Solid Mercury | ![white\_s.gif](../img/white_s.gif){.size-28} | ![white\_l.gif](../img/white_l.gif){.size-28} | Metalspark | Nihlathak\'s Domain |
-||||Griswold | Tristram |
-||||Dark Clerk | Fake Note Factory |
-||||Dark Clerk | Poppy Farm |
-Storm Amber | ![orange\_s.gif](../img/orange_s.gif){.size-28} | ![orange\_l.gif](../img/orange_l.gif){.size-28} | Treant King | Naraku Level 1 |
-||||Treehead Woodfist | Dark Wood |
-||||Dark Crasher | Blood Raven\'s Workshop Level 1 |
-Tainted Tourmaline | ![tour\_s.gif](../img/tour_s.gif){.size-28} | ![tour\_l.gif](../img/tour_l.gif){.size-28} | Nikartana | Nihlathak\'s Domain |
-||||Battlemaid Sarina | Bookstore Sarina Level 2 |
-||||Sarina\'s Maiden | Bookstore Sarina Level 2 |
-||||Blood Raven | The Graveyard |
-||||Blood Raven | Blood Raven\'s Workshop Level 2 |
+| Crystal            | Chipped                                          | Normal                                           | Mainly Dropped by    | Area                             |
+| ------------------ | ------------------------------------------------ | ------------------------------------------------ | -------------------- | -------------------------------- |
+| Frozen Soul        | ![b\_oval\_s.gif](../img/b_oval_s.gif){.size-28} | ![b\_oval\_l.gif](../img/b_oval_l.gif){.size-28} | Nihlathak            | Nihlathak\'s Domain              |
+|                    |                                                  |                                                  | Fatalstorm           | Nihlathak\'s Domain              |
+|                    |                                                  |                                                  | Factory Director     | Moonshine Distillery             |
+|                    |                                                  |                                                  | Factory Director     | Fake Note Factory                |
+|                    |                                                  |                                                  | Dark Planter         | Poppy Farm                       |
+| Shadow Quartz      | ![violet\_s.gif](../img/violet_s.gif){.size-28}  | ![violet\_l.gif](../img/violet_l.gif){.size-28}  | Baal                 | Wordstone Chamber                |
+|                    |                                                  |                                                  | Baal\'s Bodydouble   | Wordstone Chamber                |
+|                    |                                                  |                                                  | Lister the Tormentor | Throne of Destruction            |
+|                    |                                                  |                                                  | Lister the Revenger  | Nihlathak\'s Domain              |
+| Bleeding Stone     | ![red\_s.gif](../img/red_s.gif){.size-28}        | ![red\_l.gif](../img/red_l.gif){.size-28}        | Diablo               | Chaos Sanctuary                  |
+|                    |                                                  |                                                  | Diablo               | Throne of Destruction            |
+|                    |                                                  |                                                  | Diablo Clone         | Random Area                      |
+|                    |                                                  |                                                  | King Leoric          | Chaos Sanctuary                  |
+|                    |                                                  |                                                  | Black Jade           | Chaos Sanctuary                  |
+|                    |                                                  |                                                  | Lachdanan            | Chaos Sanctuary                  |
+| Burning Sulphur    | ![topa\_s.gif](../img/topa_s.gif){.size-28}      | ![topa\_l.gif](../img/topa_l.gif){.size-28}      | Mephisto             | Durance of Hate Level 3          |
+|                    |                                                  |                                                  | Mephisto             | Throne of Destruction            |
+|                    |                                                  |                                                  | Knuckle Baller       | Bill Roper Memorial Ballpark     |
+|                    |                                                  |                                                  | Named Councils       | Durance of Hate Level 3          |
+| Dark Azurite       | ![blue\_s.gif](../img/blue_s.gif){.size-28}      | ![blue\_l.gif](../img/blue_l.gif){.size-28}      | Duriel               | Duriel\'s Lair                   |
+|                    |                                                  |                                                  | Duriel               | Throne of Destruction            |
+|                    |                                                  |                                                  | Duriel               | Marsh of Pain                    |
+| Bitter Peridot     | ![greens.gif](../img/greens.gif){.size-28}       | ![greenl.gif](../img/greenl.gif){.size-28}       | Andariel             | Catacomb Level 4                 |
+|                    |                                                  |                                                  | Andariel             | Throne of Destruction            |
+|                    |                                                  |                                                  | Andariel             | Andariel\'s Dressing Room        |
+| Pulsing Opal       | ![opa\_s.gif](../img/opa_s.gif){.size-28}        | ![opa\_l.gif](../img/opa_l.gif){.size-28}        | Reporb               | Bill Roper Memorial Ballpark     |
+|                    |                                                  |                                                  | Hephasto the Armoror | River of Flame                   |
+|                    |                                                  |                                                  | Dark Clone           | Harpie\'s Nest Level 2           |
+| Enigmatic Cinnabar | ![maga\_s.gif](../img/maga_s.gif){.size-28}      | ![maga\_l.gif](../img/maga_l.gif){.size-28}      | Magmajuggler         | Nihlathak\'s Domain              |
+|                    |                                                  |                                                  | Summoner             | Arcane Sanctuary                 |
+|                    |                                                  |                                                  | Dark Magician        | Dark Magicians Chamber Level 2   |
+| Tomb Jade          | ![g\_tear\_s.gif](../img/g_tear_s.gif){.size-28} | ![g\_tear\_l.gif](../img/g_tear_l.gif){.size-28} | Reziarfg             | GFraizer Dome                    |
+|                    |                                                  |                                                  | Radament             | Act 2 Sewer Level 2              |
+|                    |                                                  |                                                  | Sorrow Summoner      | Harpie\'s Nest Level 1 & 2       |
+|                    |                                                  |                                                  | Chaos Summoner       | Dark Magician\'s Chamber Level 1 |
+| Solid Mercury      | ![white\_s.gif](../img/white_s.gif){.size-28}    | ![white\_l.gif](../img/white_l.gif){.size-28}    | Metalspark           | Nihlathak\'s Domain              |
+|                    |                                                  |                                                  | Griswold             | Tristram                         |
+|                    |                                                  |                                                  | Dark Clerk           | Fake Note Factory                |
+|                    |                                                  |                                                  | Dark Clerk           | Poppy Farm                       |
+| Storm Amber        | ![orange\_s.gif](../img/orange_s.gif){.size-28}  | ![orange\_l.gif](../img/orange_l.gif){.size-28}  | Treant King          | Naraku Level 1                   |
+|                    |                                                  |                                                  | Treehead Woodfist    | Dark Wood                        |
+|                    |                                                  |                                                  | Dark Crasher         | Blood Raven\'s Workshop Level 1  |
+| Tainted Tourmaline | ![tour\_s.gif](../img/tour_s.gif){.size-28}      | ![tour\_l.gif](../img/tour_l.gif){.size-28}      | Nikartana            | Nihlathak\'s Domain              |
+|                    |                                                  |                                                  | Battlemaid Sarina    | Bookstore Sarina Level 2         |
+|                    |                                                  |                                                  | Sarina\'s Maiden     | Bookstore Sarina Level 2         |
+|                    |                                                  |                                                  | Blood Raven          | The Graveyard                    |
+|                    |                                                  |                                                  | Blood Raven          | Blood Raven\'s Workshop Level 2  |
 :::
 
 Crystals can be stored in Crystal Can which can be bought at Gheed:
@@ -1032,18 +1031,18 @@ Gluttony RW Fu To Ku Na Ru | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 400 | 0 |�
     beyond 100%, but it works once other skills break the immunity.
 
 ::: {.ie5}
-Skill          |Type   |ResDm|ResFi|ResCo|ResLi|ResPo|ResMa
----------------|-------|-----|-----|-----|-----|-----|-----
-Amplify Damage | Curse | -80 |     |     |     |     |
-Weaken         | Curse | -60 |     |     |     |     |
-Iron Maiden    | Curse | -60 |     |     |     |     |
-Decrepify      | Curse | -60 |     |     |     |     |
-Inner Sight    |Ama Spell| -(0-35) ||    |     |     |
-Conviction     | Aura  | | -(32-110) | -(32-110) |-(32-110) | |
-Lower Resist   | Curse | | -(30-90) | -(30-90) | -(30-90) | \* | \*
-Pierce Poison & Bones | Curse | |  |     |     | -(30-150) | -(30-150)
-Pierce Poison & Bones (Oskill) | Curse | | | | | -(30-90) | -(30-90)
-Ancient\'s Call|Warcry (=Curse)| |-(20-100)|-(20-100)|-(20-100)|-(20-100)|-(20-100)
+| Skill                          | Type            | ResDm   | ResFi     | ResCo     | ResLi     | ResPo     | ResMa     |
+| ------------------------------ | --------------- | ------- | --------- | --------- | --------- | --------- | --------- |
+| Amplify Damage                 | Curse           | -80     |           |           |           |           |           |
+| Weaken                         | Curse           | -60     |           |           |           |           |           |
+| Iron Maiden                    | Curse           | -60     |           |           |           |           |           |
+| Decrepify                      | Curse           | -60     |           |           |           |           |           |
+| Inner Sight                    | Ama Spell       | -(0-35) |           |           |           |           |           |
+| Conviction                     | Aura            |         | -(32-110) | -(32-110) | -(32-110) |           |           |
+| Lower Resist                   | Curse           |         | -(30-90)  | -(30-90)  | -(30-90)  | \*        | \*        |
+| Pierce Poison & Bones          | Curse           |         |           |           |           | -(30-150) | -(30-150) |
+| Pierce Poison & Bones (Oskill) | Curse           |         |           |           |           | -(30-90)  | -(30-90)  |
+| Ancient\'s Call                | Warcry (=Curse) |         | -(20-100) | -(20-100) | -(20-100) | -(20-100) | -(20-100) |
 :::
 -   Lower Resist can reduce Magic and Poison Resist by the synergy from
     Pierce Poison & Bones.
@@ -1051,29 +1050,29 @@ Ancient\'s Call|Warcry (=Curse)| |-(20-100)|-(20-100)|-(20-100)|-(20-100)|-(20-1
     resistances and make them invulnerable immune.
 
 ::: {.ie5}
-Boss mod | ResDm | ResFi | ResCo | ResLi | ResMa
----------|--|--|--|--|--
-Stone Skin |+80||||
-Fire Enchanted || +75 |||
-Cold Enchanted ||| +75 ||
-Lightning Enchanted |||| +75 |
-Magic Resistant || +40 | +40 | +40 |
-Spectral Hit | | +20 | +20 | +20 |
-Mana Burn | | | | | +75
+| Boss mod            | ResDm | ResFi | ResCo | ResLi | ResMa |
+| ------------------- | ----- | ----- | ----- | ----- | ----- |
+| Stone Skin          | +80   |       |       |       |       |
+| Fire Enchanted      |       | +75   |       |       |       |
+| Cold Enchanted      |       |       | +75   |       |       |
+| Lightning Enchanted |       |       |       | +75   |       |
+| Magic Resistant     |       | +40   | +40   | +40   |       |
+| Spectral Hit        |       | +20   | +20   | +20   |       |
+| Mana Burn           |       |       |       |       | +75   |
 :::
 
 ### Caps for Resist, DR%, etc. {#m4507181}
 
 ::: {.ie5}
-Mod | Cap | Remarks
-------|-|-
-Damage Reduced by XX% (Physical Resist) | 50% | 1
-Damage Reduced by XX | none | 2
-F/C/L/P Resist | 75% | 3
-Magic Resist | 75% | 4
-F/C/L Absorb% | 40% | 5
-F/C/L Absorb | none |
-Magic Reduced by XX | none | 6
+| Mod                                     | Cap  | Remarks |
+| --------------------------------------- | ---- | ------- |
+| Damage Reduced by XX% (Physical Resist) | 50%  | 1       |
+| Damage Reduced by XX                    | none | 2       |
+| F/C/L/P Resist                          | 75%  | 3       |
+| Magic Resist                            | 75%  | 4       |
+| F/C/L Absorb%                           | 40%  | 5       |
+| F/C/L Absorb                            | none |         |
+| Magic Reduced by XX                     | none | 6       |
 :::
 
 1.  More DR% than 50% still has a meaning when cursed. (Amplify Damage

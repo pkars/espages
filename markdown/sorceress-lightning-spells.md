@@ -2,18 +2,18 @@
 
 [Sorceress](#top) - [Cold Spells] / Lightning Spells / [Fire Spells]
 
--   [Teleport](#o9425285)
--   [Charged Bolt](#ye46a2a6)
--   [Shock Armor](#d9829db6)
--   [Lightning](#ve886114)
--   [Telekinesis](#t1776d68)
--   [Lightning Inferno](#l7fd6be5)
--   [Static Field](#p87fce90)
--   [Energy Shield](#vbf81b7e)
--   [Lightning Hydra](#y515ada1)
--   [Time Stop](#eaa22a28)
--   [Chain Lightning](#abe3d000)
--   [Lightning Mastery](#pd55a517)
+-   [Teleport]
+-   [Charged Bolt]
+-   [Shock Armor]
+-   [Lightning]
+-   [Telekinesis]
+-   [Lightning Inferno]
+-   [Static Field]
+-   [Energy Shield]
+-   [Lightning Hydra]
+-   [Time Stop]
+-   [Chain Lightning]
+-   [Lightning Mastery]
 
 
 Lightning Mastery is nerfed so that Fire Mastery, Lightning Mastery and

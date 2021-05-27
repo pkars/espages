@@ -1,22 +1,19 @@
 ### Poison and Bone Spells
 
-::: {#nec-poisonbone}
 [Necromancer](#top) - [Summoning Spells] / Poison and Bone Spells / [Curses]
 
-::: {.contents}
--   [Bone Armor](#j8f4eba5)
--   [Poison Slash](#h299d8dc)
--   [Poison Explosion](#u31de940)
--   [Bone Wall](#id54e8cc)
--   [Frozen Spear](#x41ca80e)
--   [Corpse Explosion](#h8ac0722)
--   [Bone Prison](#m125e384)
--   [Killer Scythe](#c03f0db9)
--   [Bone Spirit](#cab94d0d)
--   [Hell\'s Gate](#a726ea9d)
--   [Poison Nova](#mdc2776e)
--   [Bone Wave](#z22b833e)
-:::
+-   [Bone Armor]
+-   [Poison Slash]
+-   [Poison Explosion]
+-   [Bone Wall]
+-   [Frozen Spear]
+-   [Corpse Explosion]
+-   [Bone Prison]
+-   [Killer Scythe]
+-   [Bone Spirit]
+-   [Hell\'s Gate]
+-   [Poison Nova]
+-   [Bone Wave]
 
 #### Bone Armor
 
@@ -472,4 +469,3 @@ Synergies
     *Frozen Spear:* +5% Magic Damage Per Level\
     *Bone Prison:* +5% Magic Damage Per Level\
     *Bone Spirit:* +5% Magic Damage Per Level
-:::

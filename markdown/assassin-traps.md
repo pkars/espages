@@ -1,9 +1,7 @@
 ### Traps
 
-::: {#asn-traps}
 [Assassin](#top) - [Martial Arts] / [Shadow Disciplines] / Traps
 
-::: {.contents}
 -   [Cold Blast]
 -   [Shock Web]
 -   [Blade Shield]
@@ -15,7 +13,6 @@
 -   [Cold Wave]
 -   [Steam Sentry]
 -   [Death Sentry]
-:::
 
 ::: {.note}
 In LoD, **Sentry** type traps are treated as minions, and their
@@ -461,4 +458,3 @@ Synergies
     *Shock Web:* +10% Lightning Damage Per Level\
     *Charged Bolt Sentry:* +10% Lightning Damage Per Level\
     *Lightning Sentry:* +10% Lightning Damage Per Level
-:::

@@ -1,24 +1,20 @@
+### Elemental Skills
 
-::: {#dru-elemental}
-### Elemental Skills {#w49e6774}
-[Druid](#top) - Elemental Skills / [Shape Shifting Skills][] / [Summoning Skills][]
+[Druid](#top) - Elemental Skills / [Shape Shifting Skills] / [Summoning Skills]
 
-::: {.contents}
--   [Elemental Skills](#w49e6774)
-    -   [Cyclone Armor](#bd17f42c)
-    -   [Arctic Blast](#oe938272)
-    -   [Volcano](#n0a8dff1)
-    -   [Bone Spear](#t903ee82)
-    -   [Winter Fury](#gc524b63)
-    -   [Molten Boulder](#ab5b00d5)
-    -   [Earth Spike](#z21e559c)
-    -   [Tornado](#c396faa7)
-    -   [Firestorm](#ge148be5)
-    -   [Creeping Doom](#x8fc6eb1)
-    -   [Sand Storm](#ibc89de0)
-:::
+-   [Cyclone Armor]
+-   [Arctic Blast]
+-   [Volcano]
+-   [Bone Spear]
+-   [Winter Fury]
+-   [Molten Boulder]
+-   [Earth Spike]
+-   [Tornado]
+-   [Firestorm]
+-   [Creeping Doom]
+-   [Sand Storm]
 
-#### Cyclone Armor {#bd17f42c}
+#### Cyclone Armor
 
 Required Level
 : 1
@@ -45,7 +41,7 @@ Synergies
 :   *Winter Fury:* +5% F/C/L Damage Absorb Per Level\
     *Tornado:* +5% F/C/L Damage Absorb Per Level
 
-#### Arctic Blast {#oe938272}
+#### Arctic Blast
 
 Required Level
 :   1
@@ -89,7 +85,7 @@ Synergies
     *Tornado:* +7% Physical Damage Per Level\
     *Sandstorm:* +7% Physical Damage Per Level
 
-#### Volcano {#n0a8dff1}
+#### Volcano
 
 Required Level
 :   1
@@ -143,7 +139,7 @@ Synergies
     *Firestorm:* +7% Physical Damage Per Level\
     *Fire Maul:* +7% Physical Damage Per Level
 
-#### Bone Spear {#t903ee82}
+#### Bone Spear
 
 Required Level
 :   6
@@ -176,7 +172,7 @@ Synergies
     *Tornado:* +7% Magic Damage Per Level\
     *Sandstorm:* +7% Magic Damage Per Level
 
-#### Winter Fury {#gc524b63}
+#### Winter Fury
 
 Required Level
 : 6
@@ -215,7 +211,7 @@ Synergies
     *Sandstorm:* +7% Cold Damage Per Level\
     *Cyclone Armor:* +1 Second Duration Per Level
 
-#### Molten Boulder {#ab5b00d5}
+#### Molten Boulder
 
 Required Level
 :   12
@@ -255,7 +251,7 @@ Synergies
     *Firestorm:* +6% Physical Damage Per Level\
     *Fire Maul:* +6% Physical Damage Per Level
 
-#### Earth Spike {#z21e559c}
+#### Earth Spike
 
 Required Level
 :   18
@@ -277,7 +273,7 @@ Cons
   ---------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------- ----- ------ ------- ------- -------
   Magic Damage (ES)                                                                                        8-16                                                                               +8    +12     +16     +40     +40
   Fire Damage (LoD)                                                                                        15-25                                                                              +6    +12     +16    +18.5   +22.5
-  Slow% (ES)                    [diminishing return](https://web.archive.org/web/20201027093707/http://miyoshino.la.coocan.jp/eswiki/?Glossary#diminishing_return "Glossary (176d)") (0-30)                               
+  Slow% (ES)                    [diminishing return](../glossary.html#diminishing-return) (0-30)                               
   Duration (seconds)                                                                                        3.2                                                                                                           
   Cast Delay (seconds) (ES)                                                                                 0.8                                                                                                           
   Cast Delay (seconds) (LoD)                                                                                 2                                                                                                            
@@ -293,7 +289,7 @@ Synergies
     *Tornado:* +6% Magic Damage Per Level\
     *Sandstorm:* +6% Magic Damage Per Level
 
-#### Tornado {#c396faa7}
+#### Tornado
 
 Required Level
 : 18
@@ -327,7 +323,7 @@ Synergies
     *Winter Fury:* +6% Physical Damage Per Level\
     *Sand Storm:* +6% Physical Damage Per Level
 
-#### Firestorm {#ge148be5}
+#### Firestorm
 
 Required Level
 : 24
@@ -364,7 +360,7 @@ Synergies
     *Fire Maul:* +5% Fire Damage Per Level\
     *Molten Boulder:* +1 Missile Per 5 Levels
 
-#### Creeping Doom {#x8fc6eb1}
+#### Creeping Doom
 
 Required Level
 : 30
@@ -403,7 +399,7 @@ Synergies
     *Tornado:* +5% Magic Damage Per Level\
     *Sandstorm:* +5% Magic Damage Per Level
 
-#### Sand Storm {#ibc89de0}
+#### Sand Storm
 
 Required Level
 :   30
@@ -435,5 +431,3 @@ Synergies
     *Arctic Blast:* +6% Physical Damage Per Level\
     *Winter Fury:* +6% Physical Damage Per Level\
     *Tornado:* +6% Physical Damage Per Level
-:::
-:::

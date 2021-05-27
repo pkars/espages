@@ -1,9 +1,7 @@
 ### Martial Arts
 
-::: {#asn-martialarts}
 [Assassin](#top) - Martial Arts / [Shadow Disciplines] / [Traps]
 
-::: {.contents}
 -   [Dragon Talon]
 -   [Dragon Claw]
 -   [Tiger Strike]
@@ -16,7 +14,6 @@
 -   [Blades of Ice]
 -   [Shuriken]
 -   [Phoenix Strike]
-:::
 
 #### Dragon Talon
 
@@ -46,11 +43,11 @@ Cons
   Attack Rating% (ES)                                                                                                             75                                                                                                   +25                                           
   Attack Rating% (LoD)                                                                                                            20                                                                                                   +25                                           
   Chance% to Knockback                                                                                                            100                                                                                                                                                
-  Chance% to Knockback Uniques                       [diminishing return](https://web.archive.org/web/20200923044442/http://miyoshino.la.coocan.jp/eswiki/?Glossary#diminishing_return "Glossary (142d)") (50-100)                                                                   
-  Chance% to Knockback Act Bosses / Players (ES)     [diminishing return](https://web.archive.org/web/20200923044442/http://miyoshino.la.coocan.jp/eswiki/?Glossary#diminishing_return "Glossary (142d)") (25-80)                                                                    
-  Chance% to Knockback Act Bosses / Players (LoD)    [diminishing return](https://web.archive.org/web/20200923044442/http://miyoshino.la.coocan.jp/eswiki/?Glossary#diminishing_return "Glossary (142d)") (25-99)                                                                    
-  mana cost (ES)                                                                                                                   4                                                                                                                                                 
-  mana cost (LoD)                                                                                                                  6                                                                                                                                                 
+  Chance% to Knockback Uniques                       [diminishing return](../glossary.html#diminishing-return) (50-100)               
+  Chance% to Knockback Act Bosses / Players (ES)     [diminishing return](../glossary.html#diminishing-return) (25-80)         
+  Chance% to Knockback Act Bosses / Players (LoD)    [diminishing return](../glossary.html#diminishing-return) (25-99)             
+  mana cost (ES)                                                                                                                   4
+  mana cost (LoD)                                                                                                                  6
 :::
 
 Mods that will transfer to kicks:
@@ -651,4 +648,3 @@ Synergies
     *Claws of Thunder:* +1 Second Duration Per Level\
     *Blades of Ice:* +1 Second Duration Per Level\
     *Phoenix Strike:* +1 Second Duration Per Level
-:::

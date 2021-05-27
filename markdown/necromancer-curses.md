@@ -1,9 +1,7 @@
 ### Curses
 
-::: {#nec-curses}
 [Necromancer](#top) - [Summoning Spells] / [Poison and Bone Spells] / Curses
 
-::: {.contents}
 -   [Amplify Damage]
 -   [Weaken]
 -   [Terror]
@@ -16,7 +14,6 @@
 -   [Life Tap]
 -   [Lower Resist]
 -   [Pierce Flesh and Bone]
-:::
 
 #### Amplify Damage
 
@@ -471,4 +468,3 @@ Synergies
     *Dim Vision:* +1 Second Per Level\
     *Decrepify:* +1 Second Per Level\
     *Summon Resist:* -1% Target\'s Poison and Magic Resist Per Level
-:::

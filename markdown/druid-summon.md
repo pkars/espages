@@ -1,24 +1,20 @@
+### Summoning Skills
 
-::: {#dru-summon}
-### Summoning Skills {#eb317514 "eb317514"){#eb317514 .anchor_super} {#content_1_0}
-[Druid](#top) - [Elemental Skills]() / [Shape Shifting Skills]() / Summoning Skills
+[Druid](#top) - [Elemental Skills] / [Shape Shifting Skills] / Summoning Skills
 
-::: {.contents}
--   [Summoning Skills](#eb317514)
-    -   [Cow Balloon](#z4a7de80)
-    -   [Raven](#e714c51f)
-    -   [Poison Creeper](#j8494664)
-    -   [Oak Sage](#v6dbc932)
-    -   [Summon Spirit Wolf](#f801536e)
-    -   [Volcanic Creeper](#a659c9e7)
-    -   [Heart of Wolverine](#e7cfe4f6)
-    -   [Summon Dire Wolf](#i863abb0)
-    -   [Arctic Creeper](#z0450c57)
-    -   [Spirit of Barbs](#o4150f92)
-    -   [Summon Water Elemental](#l88916a5)
-:::
+-   [Cow Balloon]
+-   [Raven]
+-   [Poison Creeper]
+-   [Oak Sage]
+-   [Summon Spirit Wolf]
+-   [Volcanic Creeper]
+-   [Heart of Wolverine]
+-   [Summon Dire Wolf]
+-   [Arctic Creeper]
+-   [Spirit of Barbs]
+-   [Summon Water Elemental]
 
-#### Cow Balloon {#z4a7de80}
+#### Cow Balloon
 
 Required Level
 :   1
@@ -60,7 +56,7 @@ Synergies
 :   *Spirit of Barbs*: +10% Thorns Damage Per Level\
     *Charged Claws*: +10% Lightning Thorns Damage Per Level
 
-#### Raven {#e714c51f}
+#### Raven
 
 Required Level
 :   1
@@ -100,7 +96,7 @@ Synergies
     *Summon Water Elemental*: +1 Raven Per 10 Levels\
     *Cow Balloon*: +5% Life Per Level
 
-#### Poison Creeper {#j8494664}
+#### Poison Creeper
 
 Required Level
 : 1
@@ -145,7 +141,7 @@ Synergies
     *Arctic Creeper*: +8% Poison Damage per Level\
     *Cow Balloon*: +20% Life per Level
 
-#### Oak Sage {#v6dbc932}
+#### Oak Sage
 
 Required Level
 :   6
@@ -183,7 +179,7 @@ Synergies
     *Heart of Wolverine*: +35% Life Per Level\
     *Spirit of Barbs*: +35% Life Per Level
 
-#### Summon Spirit Wolf {#f801536e}
+#### Summon Spirit Wolf
 
 Required Level
 :   6
@@ -229,17 +225,13 @@ Known Issues
 Synergies
 :   *Ravens*: +1 Spirit Wolf Per 4 Levels
 
-```{=html}
-<!-- -->
-```
-
 Passive Bonuses
 :   *Summon Dire Wolf*: +25% Max Life Per Level\
     *Summon Water Elemental*: +10% Damage Per Level\
     (Passive bonus is similar to synergy, but the total skill level
     works instead of base level.)
 
-#### Volcanic Creeper {#a659c9e7}
+#### Volcanic Creeper
 
 Required Level
 : 12
@@ -285,7 +277,7 @@ Synergies
     *Arctic Creeper*: +6% Fire Damage per Level\
     *Cow Balloon*: +20% Life per Level
 
-#### Heart of Wolverine {#e7cfe4f6}
+#### Heart of Wolverine
 
 Required Level
 :   18
@@ -322,7 +314,7 @@ Synergies
     *Oak Sage*: +25% Life Per Level\
     *Spirit of Barbs*: +25% Life Per Level
 
-#### Summon Dire Wolf {#i863abb0}
+#### Summon Dire Wolf
 
 Required Level
 :   18
@@ -374,10 +366,6 @@ Known Issues
 Synergies
 :   *Ravens*: +1 Dire Wolf Per 8 Levels
 
-```{=html}
-<!-- -->
-```
-
 Passive Bonuses
 :   *Summon Spirit Wolf*: +25% Attack Rating Per Level\
     *Summon Spirit Wolf*: +10% Defense Per Level\
@@ -385,7 +373,7 @@ Passive Bonuses
     (Passive bonus is similar to synergy, but the total skill level works instead of base level.)
 
 
-#### Arctic Creeper {#z0450c57}
+#### Arctic Creeper
 
 Required Level
 : 24
@@ -427,7 +415,7 @@ Synergies
     *Volcanic Creeper*: +7% Cold Damage per Level\
     *Cow Balloon*: +20% Life per Level
 
-#### Spirit of Barbs {#o4150f92}
+#### Spirit of Barbs
 
 Required Level
 :   30
@@ -466,7 +454,7 @@ Synergies
     *Oak Sage*: +25% Life Per Level\
     *Heart of Wolverine*: +25% Life Per Level
 
-#### Summon Water Elemental {#l88916a5}
+#### Summon Water Elemental
 
 Required Level
 :   30
@@ -506,5 +494,4 @@ Known Issues
   All Resist% (ES)                  10         +1 (capped at 65% at slvl 54)                         
   Mana Cost (ES)                    40                      +3                                       
   Mana Cost (LoD)                   40                                                               
-:::
 :::

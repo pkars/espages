@@ -43,45 +43,45 @@ weapons), and also grant Defense bonus.
   ---------------------------------------------------------------------------------------------------
 :::
 
-## Skills {#u16cfbdd}
+## Skills
 
 ::: {.contents}
--   [Spear and Javelin Skills](#v8f389de)
-    -   [Fire Strike](#y224db6e)
-    -   [Jab](#c72b8b89)
-    -   [Fend](#h3d9e2a0)
-    -   [Pyre Javelin](#wc426d88)
-    -   [Viper Bite](#t6a66131)
-    -   [Plague Javelin](#af8f74bf)
-    -   [Lightning Strike](#m7e95668)
-    -   [Shadow Strike](#kabc0457)
-    -   [Frost Javelin](#g701b7c4)
-    -   [Dance of Death](#i2d94d0c)
-    -   [Lightning Fury](#g787e312)
--   [Passive and Magic Skills](#zff5941c)
-    -   [Petrify](#a5f997b6)
-    -   [Frost Nova](#o7feed4d)
-    -   [Critical Strike](#n3efdb79)
-    -   [Inner Sight](#md2d618b)
-    -   [Sway](#l2793625)
-    -   [Slow Missiles](#q0a67a79)
-    -   [Dodge](#d5f997b6)
-    -   [Decoy](#t05bcf58)
-    -   [Fire Wall](#g91784f0)
-    -   [Penetrate](#offe61cb)
-    -   [Eagle Eye](#b56db5c9)
-    -   [Valkyrie](#e8fa7148)
-    -   [Pierce](#y45bd930)
--   [Bow and Crossbow Skills]()
-    -   [Magic Arrow](#k03fac22)
-    -   [Cold Arrow](#u025d4dc)
-    -   [Multiple Shot](#l646b1ca)
-    -   [Exploding Arrow](#b6730115)
-    -   [Freezing Arrow](#gca764a3)
-    -   [Guided Arrow](#vd55280b)
-    -   [Immolation Arrow](#h67b7ad2)
-    -   [Legendary Arrow](#d0e8daf3)
-    -   [Lightning Arrow](#yd89aa6e)
-    -   [Poison Arrow](#t37ecbed)
-    -   [Strafe](#r95fc469)
+-   [Spear and Javelin Skills]
+    -   [Fire Strike]
+    -   [Jab]
+    -   [Fend]
+    -   [Pyre Javelin]
+    -   [Viper Bite]
+    -   [Plague Javelin]
+    -   [Lightning Strike]
+    -   [Shadow Strike]
+    -   [Frost Javelin]
+    -   [Dance of Death]
+    -   [Lightning Fury]
+-   [Passive and Magic Skills]
+    -   [Petrify]
+    -   [Frost Nova]
+    -   [Critical Strike]
+    -   [Inner Sight]
+    -   [Sway]
+    -   [Slow Missiles]
+    -   [Dodge]
+    -   [Decoy]
+    -   [Fire Wall]
+    -   [Penetrate]
+    -   [Eagle Eye]
+    -   [Valkyrie]
+    -   [Pierce]
+-   [Bow and Crossbow Skills]
+    -   [Magic Arrow]
+    -   [Cold Arrow]
+    -   [Multiple Shot]
+    -   [Exploding Arrow]
+    -   [Freezing Arrow]
+    -   [Guided Arrow]
+    -   [Immolation Arrow]
+    -   [Legendary Arrow]
+    -   [Lightning Arrow]
+    -   [Poison Arrow]
+    -   [Strafe]
 :::

@@ -47,42 +47,42 @@ changed, but is well improved to meet the ES standard.
 ## Skills {#u16cfbdd}
 
 :::{.contents}
--   [Elemental Skills](#g352fa4c)
-    -   [Cyclone Armor](#bd17f42c)
-    -   [Arctic Blast](#oe938272)
-    -   [Volcano](#n0a8dff1)
-    -   [Bone Spear](#t903ee82)
-    -   [Winter Fury](#gc524b63)
-    -   [Molten Boulder](#ab5b00d5)
-    -   [Earth Spike](#z21e559c)
-    -   [Tornado](#c396faa7)
-    -   [Acid Rain](#kd47cd93)
-    -   [Firestorm](#ge148be5)
-    -   [Creeping Doom](#x8fc6eb1)
-    -   [Sand Storm](#ibc89de0)
--   [Shape Shifting Skills](#d883aa12)
-    -   [Werewolf](#l5ef74bf)
-    -   [Elemental Form](#e4c3d0d6)
-    -   [Shape Shifting Mastery](#x71e30ea)
-    -   [Feral Rage](#j1891633)
-    -   [Iron Claws](#r13ac4be)
-    -   [Maul](#r003ad0e)
-    -   [Fire Claws](#b98195fd)
-    -   [Rabies](#jde797bc)
-    -   [Hunger](#xb24663a)
-    -   [Shock Wave](#p9dc3342)
-    -   [Fury](#kcef81ab)
-    -   [Charged Claws](#i993f38a)
--   [Summoning Skills](#qd6d0fd8)
-    -   [Cow Balloon](#z4a7de80)
-    -   [Raven](#e714c51f)
-    -   [Poison Creeper](#j8494664)
-    -   [Oak Sage](#v6dbc932)
-    -   [Summon Spirit Wolf](#f801536e)
-    -   [Volcanic Creeper](#a659c9e7)
-    -   [Heart of Wolverine](#e7cfe4f6)
-    -   [Summon Dire Wolf](#i863abb0)
-    -   [Arctic Creeper](#z0450c57)
-    -   [Spirit of  Barbs](#o4150f92)
-    -   [Summon Water Elemental](#l88916a5)
+-   [Elemental Skills]
+    -   [Cyclone Armor]
+    -   [Arctic Blast]
+    -   [Volcano]
+    -   [Bone Spear]
+    -   [Winter Fury]
+    -   [Molten Boulder]
+    -   [Earth Spike]
+    -   [Tornado]
+    -   [Acid Rain]
+    -   [Firestorm]
+    -   [Creeping Doom]
+    -   [Sand Storm]
+-   [Shape Shifting Skills]
+    -   [Werewolf]
+    -   [Elemental Form]
+    -   [Shape Shifting Mastery]
+    -   [Feral Rage]
+    -   [Iron Claws]
+    -   [Maul]
+    -   [Fire Claws]
+    -   [Rabies]
+    -   [Hunger]
+    -   [Shock Wave]
+    -   [Fury]
+    -   [Charged Claws]
+-   [Summoning Skills]
+    -   [Cow Balloon]
+    -   [Raven]
+    -   [Poison Creeper]
+    -   [Oak Sage]
+    -   [Summon Spirit Wolf]
+    -   [Volcanic Creeper]
+    -   [Heart of Wolverine]
+    -   [Summon Dire Wolf]
+    -   [Arctic Creeper]
+    -   [Spirit of  Barbs]
+    -   [Summon Water Elemental]
 :::

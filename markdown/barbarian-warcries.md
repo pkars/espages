@@ -1,23 +1,19 @@
 ### Warcries
 
-::: {#bar-warcries}
 [Barbarian](#top) - Warcries / [Combat Masteries] / [Combat Skills]
 
-::: {.contents}
--   [Warcries]
-    -   [Taunt]
-    -   [Howl]
-    -   [Leap]
-    -   [Shout]
-    -   [Leap Attack]
-    -   [Battle Cry]
-    -   [Battle Orders]
-    -   [Find Treasure]
-    -   [War Cry]
-    -   [Battle Command]
-    -   [Ancient\'s Call]
-    -   [Ghost Decoy]
-:::
+-   [Taunt]
+-   [Howl]
+-   [Leap]
+-   [Shout]
+-   [Leap Attack]
+-   [Battle Cry]
+-   [Battle Orders]
+-   [Find Treasure]
+-   [War Cry]
+-   [Battle Command]
+-   [Ancient\'s Call]
+-   [Ghost Decoy]
 
 #### Taunt
 
@@ -39,7 +35,7 @@ Cons
 ::: {.slvl-table}
   slvl                                                                                                                                                        1                                                                                 2-8   9-16   17-22   23-28   29+
   ---------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------- ----- ------ ------- ------- -----
-  Target\'s Damage% (ES)                                                        \-[diminishing return](https://web.archive.org/web/20200918090638/http://miyoshino.la.coocan.jp/eswiki/?Glossary#diminishing_return "Glossary (137d)") (1-66)                               
+  Target\'s Damage% (ES)                                                        \-[diminishing return](../glossary.html#diminishing-return) (1-66)                               
   Target\'s Damage% (LoD)                                                                                                                                    -5                                                                                 -2                          
   Target\'s Attack Rating% (ES)                                                                                                                              -33                                                                                                            
   Target\'s Attack Rating% (LoD)                                                                                                                             -5                                                                                 -2                          
@@ -96,7 +92,7 @@ Cons
   slvl                                                                                                         1                                                                                   2-8    9-16   17-22   23-28   29+
   ----------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------- ------- ------ ------- ------- -----
   Leap Distance (yards) (ES)                                                                                   20                                                                                                               
-  Leap Distance (yards) (LoD)    [diminishing return](https://web.archive.org/web/20200918090638/http://miyoshino.la.coocan.jp/eswiki/?Glossary#diminishing_return "Glossary (137d)") (2.66-20)                                 
+  Leap Distance (yards) (LoD)    [diminishing return](../glossary.html#diminishing-return) (2.66-20)                                 
   Knockback Radius (yard)                                                                                     5.33                                                                                +1.33                         
   Mana Cost                                                                                                    2                                                                                                                
 :::
@@ -259,8 +255,8 @@ Cons
 ::: {.slvl-table}
   slvl                                                                                                     1                                                                                 2-8   9-16   17-22   23-28   29+
   -------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------- ----- ------ ------- ------- -----
-  Item Find Chance% (ES)      [diminishing return](https://web.archive.org/web/20200918090638/http://miyoshino.la.coocan.jp/eswiki/?Glossary#diminishing_return "Glossary (137d)") (15-60)                               
-  Item Find Chance% (LoD)     [diminishing return](https://web.archive.org/web/20200918090638/http://miyoshino.la.coocan.jp/eswiki/?Glossary#diminishing_return "Glossary (137d)") (5-60)                                
+  Item Find Chance% (ES)      [diminishing return](../glossary.html#diminishing-return) (15-60)                               
+  Item Find Chance% (LoD)     [diminishing return](../glossary.html#diminishing-return) (5-60)                                
   Magic Item Chance% (ES)                                                                                  10                                                                                                            
   Magic Item Chance% (LoD)                                                                                 5                                                                                                             
   Mana Cost                                                                                                7                                                                                                             
@@ -391,9 +387,7 @@ Cons
 
 Notes
 :   Generated with random equipment. Please also see Ghost Decoy\'s
-    [Equipment](https://web.archive.org/web/20200918090638/http://miyoshino.la.coocan.jp/eswiki/?FAQ#k08b686e)
-    and [Life
-    Regeneration](https://web.archive.org/web/20200918090638/http://miyoshino.la.coocan.jp/eswiki/?FAQ#u3a4375a).
+    [Equipment](../es-faq.html#k08b686e) and [Life Regeneration](../es-faq.html#u3a4375a).
 
 Known Issues
 :   The skill icon shows slightly less Equipment Level. Please see the
@@ -417,4 +411,3 @@ Known Issues
 Synergies
 :   *Iron Skin:* +1 To Iron Skin per Level\
     *Natural Resistance:* +1 To Natural Resistance per Level
-:::

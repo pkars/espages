@@ -1,36 +1,37 @@
+### Shapeshifting Skills
 
-::: {#dru-shapeshift}
-### Shapeshifting Skills {#ie3cda1c}
-[Druid](#top) - [Elemental Skills]() / Shape Shifting Skills / [Summoning Skills]()
+[Druid](#top) - [Elemental Skills] / Shape Shifting Skills / [Summoning Skills]
 
-::: {.contents}
--   [Shapeshifting Skills](#ie3cda1c)
-    -   [Werewolf](#l5ef74bf)
-    -   [Elemental Form](#e4c3d0d6)
-    -   [Shape Shifting Mastery](#x71e30ea)
-    -   [Feral Rage](#j1891633)
-    -   [Iron Claws](#r13ac4be)
-    -   [Maul](#r003ad0e)
-    -   [Fire Claws](#b98195fd)
-    -   [Rabies](#jde797bc)
-    -   [Hunger](#xb24663a)
-    -   [Shock Wave](#p9dc3342)
-    -   [Fury](#kcef81ab)
-    -   [Charged Claws](#i993f38a)
-:::
+-   [Werewolf]
+-   [Elemental Form]
+-   [Shape Shifting Mastery]
+-   [Feral Rage]
+-   [Iron Claws]
+-   [Maul]
+-   [Fire Claws]
+-   [Rabies]
+-   [Hunger]
+-   [Shock Wave]
+-   [Fury]
+-   [Charged Claws]
 
 ::: {.ie5}
-  Druid Melee Skills   
-  -------------------- ----------------------------------
-  Iron Claws           No Restriction
-  Fire Claws           
-  Charged Claws        
-  Feral Rage           Werewolf Only
-  Rabies               
-  Fury                 
-  Maul                 Elemental Form Only
-  Shock Wave           
-  Hunger               Werewolf and Elemental Form Only
++--------------------+----------------------------------+
+| Druid Melee Skills |                                  |
++--------------------+----------------------------------+
+| Iron Claws         | No Restriction                   |
+| Fire Claws         |                                  |
+| Charged Claws      |                                  |
++--------------------+----------------------------------+
+| Feral Rage         | Werewolf Only                    |
+| Rabies             |                                  |
+| Fury               |                                  |
++--------------------+----------------------------------+
+| Maul               | Elemental Form Only              |
+| Shock Wave         |                                  |
++--------------------+----------------------------------+
+| Hunger             | Werewolf and Elemental Form Only |
++--------------------+----------------------------------+
 
   Other Available Skills in Druid Wereform (All Passive Skills also work)   
   ------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------
@@ -44,7 +45,7 @@
 :::
 
 
-#### Werewolf {#l5ef74bf}
+#### Werewolf
 
 Required Level
 : 1
@@ -63,7 +64,7 @@ Cons
   slvl                                                                                                          1                                                                                            2-8                9-16   17-22   23-28   29+
   ------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------ ------ ------- ------- -----
   Increased Attack Speed% (ES)                                                                                 32                                                                                +2 (capped at 90 at slvl 35)                         
-  Increased Attack Speed% (LoD)    [diminishing return](https://web.archive.org/web/20201129102815/http://miyoshino.la.coocan.jp/eswiki/?Glossary#diminishing_return "Glossary (10d)") (10-80)                                                        
+  Increased Attack Speed% (LoD)    [diminishing return](../glossary.html#diminishing-return) (10-80)                                                        
   Faster Run/Walk% (ES)                                                                                        32                                                                                +2 (capped at 90 at slvl 35)                         
   Attack Rating%                                                                                               50                                                                                            +15                                      
   Max Life% (ES)                                                                                               50                                                                                             +2                                      
@@ -80,14 +81,10 @@ Synergies
     *Shape Shifting Mastery:* +3% Max Life Per Level\
     *Shape Shifting Mastery:* +7% Damage Per Level
 
-```{=html}
-<!-- -->
-```
-
 Passive Bonuses
 :   *Shape Shifting Mastery:* Duration
 
-#### Elemental Form {#e4c3d0d6}
+#### Elemental Form
 
 Required Level
 : 1
@@ -123,15 +120,11 @@ Synergies
     *Shape Shifting Mastery:* +7% Max Life Per Level\
     *Shape Shifting Mastery:* +7% Damage Per Level
 
-```{=html}
-<!-- -->
-```
-
 Passive Bonuses
 :   *Shape Shifting Mastery:* Duration
 
 
-#### Shape Shifting Mastery {#x71e30ea}
+#### Shape Shifting Mastery
 
 Required Level
 : 6
@@ -153,7 +146,7 @@ Cons
   Duration (seconds)                         40                        +20                         
 :::
 
-#### Feral Rage {#j1891633}
+#### Feral Rage
 
 Required Level
 :   12
@@ -178,7 +171,7 @@ Notes
   Attack Rating%                                                                                             20                                                                                      +10                               
   Life Steal% (First Hit)                                                                                     4                                                                                                                        
   Life Steal% (Fully Charged)                                                                                12                                                                                +4 Per 2 levels                         
-  Faster Run/Walk%               [diminishing return](https://web.archive.org/web/20201129102815/http://miyoshino.la.coocan.jp/eswiki/?Glossary#diminishing_return "Glossary (10d)") (10-70)                                           
+  Faster Run/Walk%               [diminishing return](../glossary.html#diminishing-return) (10-70)                                           
   Duration (seconds)                                                                                         20                                                                                                                        
   Mana Cost                                                                                                   3                                                                                                                        
 :::
@@ -189,7 +182,7 @@ Synergies
     *Rabies:* +7% Damage Per Level\
     *Fury:* +7% Damage Per Level
 
-#### Iron Claws {#r13ac4be}
+#### Iron Claws
 
 Required Level
 :   12
@@ -213,8 +206,8 @@ Notes
   Ignore Target Defense                                                                                                                                                                                               
   Attack Rating%                                                                                        100                                                                               +25                         
   Monster Defense Per Hit                                                                               -20                                                                               -20                         
-  Crushing Blow%             [diminishing return](https://web.archive.org/web/20201129102815/http://miyoshino.la.coocan.jp/eswiki/?Glossary#diminishing_return "Glossary (10d)") (0-60)                               
-  Open Wounds%               [diminishing return](https://web.archive.org/web/20201129102815/http://miyoshino.la.coocan.jp/eswiki/?Glossary#diminishing_return "Glossary (10d)") (0-60)                               
+  Crushing Blow%             [diminishing return](../glossary.html#diminishing-return) (0-60)                               
+  Open Wounds%               [diminishing return](../glossary.html#diminishing-return) (0-60)                               
   Mana Cost                                                                                              4                                                                                                            
 :::
 
@@ -226,7 +219,7 @@ Synergies
     *Charged Claws:* +10% Damage Per Level
 
 
-#### Maul {#r003ad0e}
+#### Maul
 
 Required Level
 :   12
@@ -250,7 +243,7 @@ Notes
   Damage% (Fully Charged) (ES)                                                                                 90                                                                                +30 Per 2 levels                         
   Damage% (Fully Charged) (LoD)                                                                                60                                                                                +20 Per 2 levels                         
   Attack Rating%                                                                                               20                                                                                      +10                                
-  Stun (seconds)                   [diminishing return](https://web.archive.org/web/20201129102815/http://miyoshino.la.coocan.jp/eswiki/?Glossary#diminishing_return "Glossary (10d)") (0.4-4)                                            
+  Stun (seconds)                   [diminishing return](../glossary.html#diminishing-return) (0.4-4)                                            
   Duration (seconds)                                                                                           20                                                                                                                         
   Mana Cost                                                                                                     3                                                                                                                         
 :::
@@ -261,7 +254,7 @@ Synergies
     *Shock Wave:* +5% Damage Per Level\
     *Fury:* +5% Damage Per Level
 
-#### Fire Claws {#b98195fd}
+#### Fire Claws
 
 Required Level
 :   18
@@ -294,7 +287,7 @@ Synergies
     *Iron Claws:* +8% Fire Damage Per Level\
     *Charged Claws:* +8% Fire Damage Per Level
 
-#### Rabies {#jde797bc}
+#### Rabies
 
 Required Level
 :   24
@@ -330,7 +323,7 @@ Synergies
     *Fury:* +7% Poison Damage Per Level\
     *Charged Claws:* +7% Poison Damage Per Level
 
-#### Hunger {#xb24663a}
+#### Hunger
 
 Required Level
 :   24
@@ -353,12 +346,12 @@ Notes
   Damage Penalty% (ES)                                                                                 -33                                                                                                            
   Damage Penalty% (LoD)                                                                                -75                                                                                                            
   Attack Rating%                                                                                        50                                                                                +10                         
-  Life Steal%              [diminishing return](https://web.archive.org/web/20201129102815/http://miyoshino.la.coocan.jp/eswiki/?Glossary#diminishing_return "Glossary (10d)") (50-200)                               
-  Mana Steal%              [diminishing return](https://web.archive.org/web/20201129102815/http://miyoshino.la.coocan.jp/eswiki/?Glossary#diminishing_return "Glossary (10d)") (50-200)                               
+  Life Steal%              [diminishing return](../glossary.html#diminishing-return) (50-200)                               
+  Mana Steal%              [diminishing return](../glossary.html#diminishing-return) (50-200)                               
   Mana Cost                                                                                             3                                                                                                             
 :::
 
-#### Shock Wave {#p9dc3342}
+#### Shock Wave
 
 Required Level
 :   24
@@ -392,7 +385,7 @@ Notes
 Synergies
 :   *Maul:* +10% Damage Per Level
 
-#### Fury {#kcef81ab}
+#### Fury
 
 Required Level
 :   30
@@ -425,7 +418,7 @@ Synergies
     *Feral Rage:* +6% Damage Per Level\
     *Rabies:* +6% Damage Per Level
 
-#### Charged Claws {#i993f38a}
+#### Charged Claws
 
 Required Level
 :   30
@@ -457,4 +450,3 @@ Synergies
 :   *Cow Balloon:* +7% Lightning Damage Per Level\
     *Iron Claws:* +5% Lightning Damage Per Level\
     *Fire Claws:* +5% Lightning Damage Per Level
-:::

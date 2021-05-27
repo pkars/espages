@@ -1,31 +1,26 @@
+### Bow and Crossbow Skills
 
-### Bow and Crossbow Skills {#x7e18f35}
+[Amazon](#top) - [Spear and Javelin Skills] / [Passive and Magic Skills] / Bow and Crossbow Skills
 
-::: {#ama-bowxbow}
-[Amazon](#top) - [Spear and Javelin Skills][] / [Passive and Magic Skills][] / Bow and Crossbow Skills
+-   [Magic Arrow]
+-   [Cold Arrow]
+-   [Multiple Shot]
+-   [Exploding Arrow]
+-   [Poison Arrow]
+-   [Guided Arrow]
+-   [Immolation Arrow]
+-   [Legendary Arrow]
+-   [Freezing Arrow]
+-   [Strafe]
+-   [Lightning Arrow]
 
-::: {.contents}
--   [Bow and Crossbow Skills](#x7e18f35)
-    -   [Magic Arrow](#ge419e38)
-    -   [Cold Arrow](#u025d4dc)
-    -   [Multiple Shot](#l646b1ca)
-    -   [Exploding Arrow](#b6730115)
-    -   [Poison Arrow](#t37ecbed)
-    -   [Guided Arrow](#vd55280b)
-    -   [Immolation Arrow](#h67b7ad2)
-    -   [Legendary Arrow](#d0e8daf3)
-    -   [Freezing Arrow](#gca764a3)
-    -   [Strafe](#r95fc469)
-    -   [Lightning Arrow](#eeb98a89)
-:::
-
-
+::: {.note}
 All Attack Rating bonus of bow skills have been removed, because
 they don\'t work due to a bug of LoD, but increases the displayed
 Attack Rating on the character screen.
+:::
 
-
-#### Magic Arrow {#ge419e38}
+#### Magic Arrow
 
 Required Level
 :   1
@@ -64,7 +59,7 @@ Synergies
     (The converted Magic Damage isn\'t affected by the synergy.)
 
 
-#### Cold Arrow {#u025d4dc}
+#### Cold Arrow
 
 Required Level
 : 1
@@ -97,7 +92,7 @@ Synergies
     *Poison Arrow:* +7% Cold Damage Per Level\
     *Frost Nova:* +7% Cold Damage Per Level
 
-#### Multiple Shot {#l646b1ca}
+#### Multiple Shot
 
 Required Level
 :   6
@@ -133,7 +128,7 @@ Cons
 :::
 
 
-#### Exploding Arrow {#b6730115}
+#### Exploding Arrow
 
 Required Level
 : 6
@@ -163,10 +158,6 @@ Synergies
     *Poison Arrow:* +6% Fire Damage Per Level\
     *Fire Wall:* +6% Fire Damage Per Level
 
-```{=html}
-<!-- -->
-```
-
 Synergies
 :   *Magic Arrow:* +5% Fire Damage Per Level\
     *Exploding Arrow:* +5% Fire Damage Per Level\
@@ -174,10 +165,6 @@ Synergies
     *Fire Wall:* +5% Fire Damage Per Level\
     (Both the explosion damage and the patch damage are affected by the
     synergy.)
-
-```{=html}
-<!-- -->
-```
 
 Notes
 :   The damage per second listed here is the same or close to that
@@ -196,14 +183,14 @@ Notes
     under investigation. I\'ll update this note when I\'ve had time to
     do the necessary testing. (Verbatim)
 
-Update(2006.10.02): I\'ve determined the multiplier is probably not the
-3 second duration, since changing the duration has no effect on the
-displayed damage\...it also has no effect on the displayed duration (the
-display still says 3 seconds, even when I increase the duration to 4
-seconds), so it\'s still a bit inconclusive\...I\'ll do real DOT testing
-in multiplayer next, to see what the actual damage is.
+    Update(2006.10.02): I\'ve determined the multiplier is probably not the
+    3 second duration, since changing the duration has no effect on the
+    displayed damage\...it also has no effect on the displayed duration (the
+    display still says 3 seconds, even when I increase the duration to 4
+    seconds), so it\'s still a bit inconclusive\...I\'ll do real DOT testing
+    in multiplayer next, to see what the actual damage is.
 
-#### Poison Arrow {#t37ecbed}
+#### Poison Arrow
 
 Required Level
 : 12
@@ -231,7 +218,7 @@ Synergies
     *Cold Arrow:* +5% Poison Damage Per Level\
     *Freezing Arrow:* +5% Poison Damage Per Level
 
-#### Guided Arrow {#vd55280b}
+#### Guided Arrow
 
 Required Level
 :   18
@@ -263,7 +250,7 @@ Synergies
     *Legendary Arrow:* +15% Damage Per Level\
     *Strafe:* +15% Damage Per Level
 
-#### Immolation Arrow {#h67b7ad2}
+#### Immolation Arrow
 
 Required Level
 :   18
@@ -295,7 +282,7 @@ Cons
   Mana Cost                          6     +0.5                         
 :::
 
-#### Legendary Arrow {#d0e8daf3}
+#### Legendary Arrow
 
 Required Level
 : 24
@@ -331,7 +318,7 @@ Synergies
     *Strafe:* +6% Damage Per Level
 
 
-#### Freezing Arrow {#gca764a3}
+#### Freezing Arrow
 
 Required Level
 :   24
@@ -367,7 +354,7 @@ Synergies
     *Cold Arrow:* +5% Freeze Duration Per Level\
     *Frost Nova:* +5% Freeze Duration Per Level
 
-#### Strafe {#r95fc469}
+#### Strafe
 
 Required Level
 :   30
@@ -437,7 +424,7 @@ Synergies
     *Legendary Arrow:* +6% Damage Per Level
 
 
-#### Lightning Arrow {#eeb98a89}
+#### Lightning Arrow
 
 Required Level
 :   30
@@ -471,4 +458,3 @@ Synergies
 :   *Magic Arrow:* +1% Lightning Damage Per Level\
     *Immolation Arrow:* +1% Lightning Damage Per Level\
     *Exploding Arrow:* +1% Lightning Damage Per Level
-:::
