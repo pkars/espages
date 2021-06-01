@@ -3,18 +3,10 @@ lang: en
 title: MonStats2 - Eastern Sun Wiki
 ---
 
-::: {#body}
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201028174405/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=1&page=MonStats2&refer=MonStats2)
-[TOP](#navigator)
-:::
+## Status of Monsters in Hell (Expansion Monsters)
 
-## Status of Monsters in Hell (Expansion Monsters) [†](https://web.archive.org/web/20201028174405/http://miyoshino.la.coocan.jp/eswiki/?MonStats2#oe21862b "oe21862b"){#oe21862b .anchor_super} {#content_1_0}
+Please also see [Status of Monsters in Hell (Classic Monsters)](MonStats1.html).
 
-Please also see [Status of Monsters in Hell (Classic
-Monsters)](https://web.archive.org/web/20201028174405/http://miyoshino.la.coocan.jp/eswiki/?MonStats1 "MonStats1 (4773d)").
-
-::: {.ie5}
   Id                 NameStr                ResDm(H)   ResMa(H)   ResFi(H)   ResLi(H)   ResCo(H)   ResPo(H)   MinHP(H)   MaxHP(H)   AC(H)   Exp(H)
   ------------------ ---------------------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ------- --------
   reanimatedhorde1   RotWalker              50         20         20         46         130        76         220        270        140     210
@@ -329,5 +321,3 @@ Monsters)](https://web.archive.org/web/20201028174405/http://miyoshino.la.coocan
   dkmag3             Dark Researcher        40         20         68         68         145        80         240        300        230     420
   goatman11          Death Plower           45         60         46         46         165        60         230        280        180     200
   claygolemmon2      Living Clod            100        20         20         20         20         52         200        200        80      300
-:::
-:::
