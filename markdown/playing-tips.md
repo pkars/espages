@@ -519,24 +519,21 @@ Belhifeits and Cyclopes drop runes instead of their organ (roughly 1/60 chance),
 
 -   Hellforge Quest
 
-::: {.ie5}
-Difficulty Available Runes                                        Available Decals
----------- ---------------                                        ----------------
-Normal     [E Ko Ra O]{.yellow} [Ho Me Ru Ta To Wa Ha]{.orange}   none
-Nightmare  [Ta To Wa Ha]{.orange} [Na Ni Se Fu Ma Hi Mo]{.green}  none
-Hell       [Fu Ma Hi Mo]{.green} [No Te Ro So Mu Ne Re]{.gold}    none
-:::
+Difficulty Available Runes                                                  Available Decals
+---------- ---------------                                                  ----------------
+Normal     [E Ko Ra O]{.rune-yellow} [Ho Me Ru Ta To Wa Ha]{.rune-orange}   none
+Nightmare  [Ta To Wa Ha]{.rune-orange} [Na Ni Se Fu Ma Hi Mo]{.rune-green}  none
+Hell       [Fu Ma Hi Mo]{.rune-green} [No Te Ro So Mu Ne Re]{.rune-gold}    none
+
 (updated based on R2)
 
 -   Countess
 
-::: {.ie5}
-Difficulty Available Runes             Available Decals
----------- ---------------             ----------------
-Normal     [I]{.gray} to [A]{.red}     [El]{.gray} to [Thul]{.gray}
-Nightmare  [I]{.gray} to [Wa]{.orange} [El]{.gray} to [Lem]{.gray}
-Hell       [I]{.gray} to [Re]{.gold}   [El]{.gray} to [Ber]{.gray}
-:::
+Difficulty Available Runes                       Available Decals
+---------- ---------------                       ----------------
+Normal     [I]{.rune-gray} to [A]{.rune-red}     [El]{.rune-gray} to [Thul]{.rune-gray}
+Nightmare  [I]{.rune-gray} to [Wa]{.rune-orange} [El]{.rune-gray} to [Lem]{.rune-gray}
+Hell       [I]{.rune-gray} to [Re]{.rune-gold}   [El]{.rune-gray} to [Ber]{.rune-gray}
 
 #### Ancient Scrolls {#s80f76a8}
 

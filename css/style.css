@@ -5,38 +5,53 @@ body {
 }
 
 /* Customised classes that can be used in markdown */
-.frames-better {
-  color: blue;
-}
-
-.frames-worse {
+/* Replace inline color styles with these */
+.red {
   color: red;
 }
 
-.gray {
-  color: #A7A7A7;
-}
-
-.red {
-  color: #B22222;
-}
-
-.yellow {
-  color: #D7D700;
-}
-
-.orange {
-  color: #FF8C00;
+.blue {
+  color: blue;
 }
 
 .green {
+  color: green;
+}
+
+.purple {
+  color: purple;
+}
+
+.orange {
+  color: orange;
+}
+
+/* Used to colorise runes */
+.rune-gray {
+  color: #A7A7A7;
+}
+
+.rune-red {
+  color: #B22222;
+}
+
+.rune-yellow {
+  color: #D7D700;
+}
+
+.rune-orange {
+  color: #FF8C00;
+}
+
+.rune-green {
   color: #32CD32;
 }
 
-.gold {
+.rune-gold {
   color: #909737;
 }
 
+/* Other inline style replacements */
 img.size-28 {
   width: 28px;
   height: 28px;
