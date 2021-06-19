@@ -3,33 +3,18 @@ lang: en
 title: JP_Nikki_plumwine_Library - Eastern Sun Wiki
 ---
 
-::: {#body}
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201020202317/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=1&page=JP_Nikki_plumwine_Library&refer=JP_Nikki_plumwine_Library)
-[TOP](#navigator)
-:::
+## plumwineの資料室 {#p4903af3}
 
-## plumwineの資料室 [†](https://web.archive.org/web/20201020202317/http://miyoshino.la.coocan.jp/eswiki/?JP_Nikki_plumwine_Library#p4903af3 "p4903af3"){#p4903af3 .anchor_super} {#content_1_0}
-
-[各クラスのオスキルアイテムデータへのリンク:Links for Each Classes\'
-Oskill Items Data]{style="color:#008080"}\
-[Amazon](https://web.archive.org/web/20201020202317/http://miyoshino.la.coocan.jp/eswiki/?JP_Nikki_plumwine_Ama)
-/
-[Assassin](https://web.archive.org/web/20201020202317/http://miyoshino.la.coocan.jp/eswiki/?JP_Nikki_plumwine_Asa)
-/
-[Barbarian](https://web.archive.org/web/20201020202317/http://miyoshino.la.coocan.jp/eswiki/?JP_Nikki_plumwine_Bar)
-/
-[Druid](https://web.archive.org/web/20201020202317/http://miyoshino.la.coocan.jp/eswiki/?JP_Nikki_plumwine_Dru)
-/
-[Necromancer](https://web.archive.org/web/20201020202317/http://miyoshino.la.coocan.jp/eswiki/?JP_Nikki_plumwine_Nec)
-/
-[Paladin](https://web.archive.org/web/20201020202317/http://miyoshino.la.coocan.jp/eswiki/?JP_Nikki_plumwine_Pal)
-/
-[Sorceress](https://web.archive.org/web/20201020202317/http://miyoshino.la.coocan.jp/eswiki/?JP_Nikki_plumwine_Sor)
+[各クラスのオスキルアイテムデータへのリンク:Links for Each Classes\' Oskill Items Data]{style="color:#008080"}\
+[Amazon](plumwine-ama.html)
+/ [Assassin](plumwine-asa.html)
+/ [Barbarian](plumwine-bar.html)
+/ [Druid](plumwine-dru.html)
+/ [Necromancer](plumwine-nec.html)
+/ [Paladin](plumwine-pal.html)
+/ [Sorceress](plumwine-sor.html)
 
 ::: {.contents}
-[]{#contents_1}
-
 -   [plumwineの資料室](#p4903af3)
     -   [使用上の注意](#w4e1b150)
     -   [ルーン一覧：Runes](#w0b125a4)
@@ -39,160 +24,135 @@ Oskill Items Data]{style="color:#008080"}\
     -   [マルチストッカーの追加レシピ](#s5b57d59)
     -   [オーラフォージングへの手順:Way to Aura-Forging](#fa95e03e)
     -   [ドラゴンストーンの変形とクラスの関連](#i51c1b4e)
-    -   [リング・アミュレットのクーポン:LoD Jewelry Coupon
-        List](#o4d5f95a)
-    -   [遅延効果のあるアイテム:Items With 「Slows Target by」
-        Effect](#ea0c24b1)
+    -   [リング・アミュレットのクーポン:LoD Jewelry Coupon List](#o4d5f95a)
+    -   [遅延効果のあるアイテム:Items With 「Slows Target by」 Effect](#ea0c24b1)
     -   [コメント](#o102720d)
 :::
 
-\
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201020202317/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=2&page=JP_Nikki_plumwine_Library&refer=JP_Nikki_plumwine_Library)
-[TOP](#navigator)
-:::
-
-### [使用上の注意]{style="color:#008080"} [†](https://web.archive.org/web/20201020202317/http://miyoshino.la.coocan.jp/eswiki/?JP_Nikki_plumwine_Library#w4e1b150 "w4e1b150"){#w4e1b150 .anchor_super} {#content_1_1}
+### [使用上の注意]{style="color:#008080"} {#w4e1b150}
 
 -   個人的に参照するデータをまとめる予定
 -   作成者が「ええかげんなヤツじゃけぇ」データが正しいとは限りません(ツッコミ大歓迎)
 -   以下は作成妄想中のもの
-    -   Lynx鯖Who\'s
-        Who(どのキャラが誰の？)必要は無いけど、あればパワーランキングとか作れて楽しいかなと。
+    -   Lynx鯖Who\'s Who(どのキャラが誰の？)必要は無いけど、あればパワーランキングとか作れて楽しいかなと。
     -   Ignore Taget\'s Defenceなアイテム、Cannot be Frozenなアイテム
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201020202317/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=3&page=JP_Nikki_plumwine_Library&refer=JP_Nikki_plumwine_Library)
-[TOP](#navigator)
-:::
+### [ルーン一覧：Runes]{style="color:#008080"} {#w0b125a4}
 
-### [ルーン一覧：Runes]{style="color:#008080"} [†](https://web.archive.org/web/20201020202317/http://miyoshino.la.coocan.jp/eswiki/?JP_Nikki_plumwine_Library#w0b125a4 "w0b125a4"){#w0b125a4 .anchor_super} {#content_1_2}
+| *Runes* | *Lvl* | *Weapons / Gloves*                     | *Helms / Boots*                     | *Armor / Shields / Belts*           | *LoD* |
+| ------- | ----- | -------------------------------------- | ----------------------------------- | ----------------------------------- | ----- |
+| I       | 2     | +15% Enhanced Damage                   | +30 Defense                         | +30 Defense                         | El    |
+| U       | 3     | (+75 AR & +75% EDamage) against undead | 15% Faster R/Walk                   | 7% Increased Chance of Blocking     | Eld   |
+| Shi     | 4     | +3 Mana after each kill                | +3 Mana after each kill             | +3 Mana after each kill             | Tir   |
+| Ka      | 5     | Knockback                              | +45 Defense vs missile              | +45 Defense vs missile              | Nef   |
+| N       | 6     | -15 monster Def per hit                | Regen Mana +20%                     | Regen Mana +20%                     | Eth   |
+| Ku      | 7     | +9 max Damage                          | 20% Damage taken goes to Mana       | 20% Damage taken goes to Mana       | Ith   |
+| Yo      | 9     | 75 Poison Damage over 5 secs           | Poison Resist +35%                  | Poison Resist +35%                  | Tal   |
+| Ki      | 12    | 5-30 Fire Damage                       | Fire Resist +35%                    | Fire Resist +35%                    | Ral   |
+| Ri      | 14    | 1-50 Lightnig Damage                   | Lightnig Resist +35%                | Lightnig Resist +35%                | Ort   |
+| Mi      | 15    | 4-20 Cold Damage 3 sec duration        | Cold Resist +35%                    | Cold Resist +35%                    | Thul  |
+| Ya      | 16    | 7% Life stolen per hit                 | Attacker takes Damage of 75         | Attacker takes Damage of 75         | Amn   |
+| A       | 18    | +9 min Damage                          | Damage reduced by 7                 | Damage reduced by 7                 | Sol   |
+| Tsu     | 19    | 20% Increased Attack Speed             | 20% Faster Hit Recovery             | 20% Faster Block Rate               | Shael |
+| Chi     | 20    | Replenish Life +10                     | Replenish Life +10                  | Replenish Life +10                  | Dol   |
+| Sa      | 1     | Requirements -20%                      | Requirements -20%                   | Requirements -20%                   | Hel   |
+| Yu      | 23    | +15 Vitality                           | +15 Vitality                        | +15 Vitality                        | Io    |
+| Ke      | 24    | +15 Energy                             | +15 Energy                          | +15 Energy                          | Lum   |
+| E       | 26    | +15 Dexterity                          | +15 Dexterity                       | +15 Dexterity                       | Ko    |
+| Ko      | 27    | +15 Strength                           | +15 Strength                        | +15 Strength                        | Fal   |
+| Ra      | 28    | 50% Extra Gold from monsters           | 50% Extra Gold from monsters        | 50% Extra Gold from monsters        | Lem   |
+| O       | 30    | (+75 AR & +75% EDamage) against demons | +35% Enhanced Defense               | +35% Enhanced Defense               |       |
+| Ho      | 31    | 25% chance Open Wounds                 | +16 all Resists                     | +20 all Resists                     | Pul   |
+| Me      | 32    | Prevent monster heal                   | Magic Damage reduced by 7           | Magic Damage reduced by 7           |       |
+| Ru      | 34    | +25% MF                                | +25% MF                             | +25% MF                             | Um    |
+| Ta      | 35    | +20% AR                                | 8% to max Poison Resist             | 8% to max Poison Resist             |       |
+| To      | 36    | 7% Mana stolen per hit                 | +8% max Fire Resist                 | +8% max Fire Resist                 | Mal   |
+| Wa      | 38    | 50% Enhanced Damage                    | +8% max Cold Resist                 | +8% max Cold Resist                 |       |
+| Ha      | 39    | 20% Deadly Strike                      | +8% max Lightnig Resist             | +8% max Lightnig Resist             | Ist   |
+| Na      | 40    | Hit Blinds Target                      | Increase max Mana 12%               | +60 Mana                            |       |
+| Ni      | 42    | 20% chance Crushing Blow               | Damage reduced by 8%                | Damage reduced by 8%                | Gul   |
+| Se      | 43    | Ignores targets Defense                | Increase max Life 12%               | +60 Life                            |       |
+| Fu      | 44    | Freezes target +2                      | Cannot be frozen                    | Cannot be frozen                    | Vex   |
+| Ma      | 45    | (1/clvl)+1-100 to Life                 | (1/clvl)+1-100 to Life              | (1/clvl)+1-100 to Life              |       |
+| Hi      | 46    | (1/clvl)+1-100 to Mana                 | (1/clvl)+1-100 to Mana              | (1/clvl)+1-100 to Mana              | Ohm   |
+| Mo      | 47    | (.375/clvl)+0-37 to Strength           | (.375/clvl)+0-37 to Strength        | (.375/clvl)+0-37 to Strength        |       |
+| No      | 48    | (.375/clvl)+0-37 to Dexterity          | (.375/clvl)+0-37 to Dexterity       | (.375/clvl)+0-37 to Dexterity       | Lo    |
+| Te      | 50    | (.375/clvl)+0-37 to Vitality           | (.375/clvl)+0-37 to Vitality        | (.375/clvl)+0-37 to Vitality        |       |
+| Ro      | 51    | (.375/clvl)+0-37 to Energy             | (.375/clvl)+0-37 to Energy          | (.375/clvl)+0-37 to Energy          | Sur   |
+| So      | 52    | (2.5/clvl)+2-250 max Fire Damage       | (.75/clvl)Fire Resist +0-75%        | (.75/clvl)Fire Resist +0-75%        |       |
+| Mu      | 54    | (2.5/clvl)+2-250 max Cold Damage       | (.75/clvl)Cold Resist +0-75%        | (.75/clvl)Cold Resist +0-75%        | Ber   |
+| Ne      | 55    | (2.5/clvl)+2-250 max Poison Damage     | (.75/clvl)Poison Resist +0-75%      | (.75/clvl)Poison Resist +0-75%      |       |
+| Re      | 56    | (2.5/clvl)+2-250 max Lightnig Damage   | (.75/clvl)Lightnig Resist +0-75%    | (.75/clvl)Lightnig Resist +0-75%    | Jah   |
+| Su      | 57    | (3/clvl)+3-300 to AR                   | (2/clvl)+2-200 Defense              | (2/clvl)+2-200 Defense              |       |
+| He      | 59    | (.75/clvl)+0-75 to max Damage          | (5/clvl)attacker takes Damage 5-500 | (5/clvl)attacker takes Damage 5-500 | Cham  |
+| Nu      | 60    | +10 all attributes                     | +10 all attributes                  | +10 all attributes                  |       |
+| Wo      | 61    | Indestructible                         | Indestructible                      | Indestructible                      | Zod   |
 
-::: {.ie5}
-  *Runes*     *Lvl* *Weapons/Gloves*                         *Helms/Boots*                         *Armor/Shields/Belts*                 *LoD*
-  --------- ------- ---------------------------------------- ------------------------------------- ------------------------------------- -------
-  I               2 +15% Enhanced Damage                     +30 Defense                           +30 Defense                           El
-  U               3 (+75 AR & +75% EDamage) against undead   15% Faster R/Walk                     7% Increased Chance of Blocking       Eld
-  Shi             4 +3 Mana after each kill                  +3 Mana after each kill               +3 Mana after each kill               Tir
-  Ka              5 Knockback                                +45 Defense vs missile                +45 Defense vs missile                Nef
-  N               6 -15 monster Def per hit                  Regen Mana +20%                       Regen Mana +20%                       Eth
-  Ku              7 +9 max Damage                            20% Damage taken goes to Mana         20% Damage taken goes to Mana         Ith
-  Yo              9 75 Poison Damage over 5 secs             Poison Resist +35%                    Poison Resist +35%                    Tal
-  Ki             12 5-30 Fire Damage                         Fire Resist +35%                      Fire Resist +35%                      Ral
-  Ri             14 1-50 Lightnig Damage                     Lightnig Resist +35%                  Lightnig Resist +35%                  Ort
-  Mi             15 4-20 Cold Damage 3 sec duration          Cold Resist +35%                      Cold Resist +35%                      Thul
-  Ya             16 7% Life stolen per hit                   Attacker takes Damage of 75           Attacker takes Damage of 75           Amn
-  A              18 +9 min Damage                            Damage reduced by 7                   Damage reduced by 7                   Sol
-  Tsu            19 20% Increased Attack Speed               20% Faster Hit Recovery               20% Faster Block Rate                 Shael
-  Chi            20 Replenish Life +10                       Replenish Life +10                    Replenish Life +10                    Dol
-  Sa              1 Requirements -20%                        Requirements -20%                     Requirements -20%                     Hel
-  Yu             23 +15 Vitality                             +15 Vitality                          +15 Vitality                          Io
-  Ke             24 +15 Energy                               +15 Energy                            +15 Energy                            Lum
-  E              26 +15 Dexterity                            +15 Dexterity                         +15 Dexterity                         Ko
-  Ko             27 +15 Strength                             +15 Strength                          +15 Strength                          Fal
-  Ra             28 50% Extra Gold from monsters             50% Extra Gold from monsters          50% Extra Gold from monsters          Lem
-  O              30 (+75 AR & +75% EDamage) against demons   +35% Enhanced Defense                 +35% Enhanced Defense                 
-  Ho             31 25% chance Open Wounds                   +16 all Resists                       +20 all Resists                       Pul
-  Me             32 Prevent monster heal                     Magic Damage reduced by 7             Magic Damage reduced by 7             
-  Ru             34 +25% MF                                  +25% MF                               +25% MF                               Um
-  Ta             35 +20% AR                                  8% to max Poison Resist               8% to max Poison Resist               
-  To             36 7% Mana stolen per hit                   +8% max Fire Resist                   +8% max Fire Resist                   Mal
-  Wa             38 50% Enhanced Damage                      +8% max Cold Resist                   +8% max Cold Resist                   
-  Ha             39 20% Deadly Strike                        +8% max Lightnig Resist               +8% max Lightnig Resist               Ist
-  Na             40 Hit Blinds Target                        Increase max Mana 12%                 +60 Mana                              
-  Ni             42 20% chance Crushing Blow                 Damage reduced by 8%                  Damage reduced by 8%                  Gul
-  Se             43 Ignores targets Defense                  Increase max Life 12%                 +60 Life                              
-  Fu             44 Freezes target +2                        Cannot be frozen                      Cannot be frozen                      Vex
-  Ma             45 (1/clvl)+1-100 to Life                   (1/clvl)+1-100 to Life                (1/clvl)+1-100 to Life                
-  Hi             46 (1/clvl)+1-100 to Mana                   (1/clvl)+1-100 to Mana                (1/clvl)+1-100 to Mana                Ohm
-  Mo             47 (.375/clvl)+0-37 to Strength             (.375/clvl)+0-37 to Strength          (.375/clvl)+0-37 to Strength          
-  No             48 (.375/clvl)+0-37 to Dexterity            (.375/clvl)+0-37 to Dexterity         (.375/clvl)+0-37 to Dexterity         Lo
-  Te             50 (.375/clvl)+0-37 to Vitality             (.375/clvl)+0-37 to Vitality          (.375/clvl)+0-37 to Vitality          
-  Ro             51 (.375/clvl)+0-37 to Energy               (.375/clvl)+0-37 to Energy            (.375/clvl)+0-37 to Energy            Sur
-  So             52 (2.5/clvl)+2-250 max Fire Damage         (.75/clvl)Fire Resist +0-75%          (.75/clvl)Fire Resist +0-75%          
-  Mu             54 (2.5/clvl)+2-250 max Cold Damage         (.75/clvl)Cold Resist +0-75%          (.75/clvl)Cold Resist +0-75%          Ber
-  Ne             55 (2.5/clvl)+2-250 max Poison Damage       (.75/clvl)Poison Resist +0-75%        (.75/clvl)Poison Resist +0-75%        
-  Re             56 (2.5/clvl)+2-250 max Lightnig Damage     (.75/clvl)Lightnig Resist +0-75%      (.75/clvl)Lightnig Resist +0-75%      Jah
-  Su             57 (3/clvl)+3-300 to AR                     (2/clvl)+2-200 Defense                (2/clvl)+2-200 Defense                
-  He             59 (.75/clvl)+0-75 to max Damage            (5/clvl)attacker takes Damage 5-500   (5/clvl)attacker takes Damage 5-500   Cham
-  Nu             60 +10 all attributes                       +10 all attributes                    +10 all attributes                    
-  Wo             61 Indestructible                           Indestructible                        Indestructible                        Zod
-:::
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201020202317/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=4&page=JP_Nikki_plumwine_Library&refer=JP_Nikki_plumwine_Library)
-[TOP](#navigator)
-:::
-
-### [漢字ルーン一覧:kanji Runes]{style="color:#008080"} [†](https://web.archive.org/web/20201020202317/http://miyoshino.la.coocan.jp/eswiki/?JP_Nikki_plumwine_Library#z28102ef "z28102ef"){#z28102ef .anchor_super} {#content_1_3}
+### [漢字ルーン一覧:kanji Runes]{style="color:#008080"} {#z28102ef}
 
 ::: {.ie5}
   -----------------------------------------------------------------------
          Rune Name        Bonus                   Recipe
   ----------------------- ----------------------- -----------------------
-            月            +1 To All Skill Levels  Null Rune + 2 Frozen
+            月             +1 To All Skill Levels   Null Rune + 2 Frozen
                           +6% To Magic Skill      Souls
-                          Damage                  
+                          Damage
 
-            火            +1 To All Skill Levels  Null Rune + 2 Bleeding
+            火             +1 To All Skill Levels   Null Rune + 2 Bleeding
                           +8% To Fire Skill       Stones
-                          Damage                  
+                          Damage
 
-            水            +1 To All Skill Levels  Null Rune + 2 Dark
+            水             +1 To All Skill Levels   Null Rune + 2 Dark
                           +8% To Cold Skill       Azurites
-                          Damage                  
+                          Damage
 
-            木            +1 To All Skill Levels  Null Rune + 2 Tomb
+            木             +1 To All Skill Levels   Null Rune + 2 Tomb
                           +Replenish Life +40     Jades
 
-            金            +1 To All Skill Levels  Null Rune + 2 Solid
+            金             +1 To All Skill Levels   Null Rune + 2 Solid
                           +50% Extra Gold From    Mercuries
-                          Monsters                
+                          Monsters
 
-            土            +1 To All Skill Levels  Null Rune + 2 Bitter
+            土             +1 To All Skill Levels   Null Rune + 2 Bitter
                           +8% To Poison Skill     Peridots
-                          Damage                  
+                          Damage
 
-            日            +1 To All Skill Levels  Null Rune + 2 Enigmatic
+            日             +1 To All Skill Levels   Null Rune + 2 Enigmatic
                           +Cannot Be Frozen       Cinnabars
 
-            雷            +1 To All Skill Levels  Null Rune + 2 Burning
+            雷             +1 To All Skill Levels   Null Rune + 2 Burning
                           +8% To Lightning Skill  Surphurs
-                          Damage                  
+                          Damage
 
-            風            +1 To All Skill Levels  Null Rune + 2 Tainted
+            風             +1 To All Skill Levels   Null Rune + 2 Tainted
                           +6% To Wind Skill       Tourmarines
-                          Damage                  
+                          Damage
 
-            竜            +1 To All Skill Levels  Null Rune + 2 Storm
+            竜             +1 To All Skill Levels   Null Rune + 2 Storm
                           +40% Enhanced Damage    Ambers
 
-            命            +1 To All Skill Levels  Null Rune + 2 Pulsing
+            命             +1 To All Skill Levels   Null Rune + 2 Pulsing
                           +Increase Max Life 12%  Opals
 
-            死            +1 To All Skill Levels  Null Rune + 2 Shadow
+            死             +1 To All Skill Levels   Null Rune + 2 Shadow
                           +Increase Max Mana 12%  Quartz
 
-            天            +1 To All Skill Levels  Null Rune + Bleeding
+            天             +1 To All Skill Levels   Null Rune + Bleeding
                           +Repairs 1 Durability   Stone + Dark Azurite\
                           in 33 Sec\              + Bitter Peridot +
                           (may not be enough for  Tainted Tourmarine
-                          very fast attacks)      
+                          very fast attacks)
 
-            神            +1 To All Skill Levels  Null Rune + Frozen Soul
+            神             +1 To All Skill Levels   Null Rune + Frozen Soul
                           +2% To Experience       + Enigmatic Cinnabar\
                           Gained                  + Pulsing Opal + Shadow
                                                   Quartz
   -----------------------------------------------------------------------
 :::
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201020202317/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=5&page=JP_Nikki_plumwine_Library&refer=JP_Nikki_plumwine_Library)
-[TOP](#navigator)
-:::
-
-### [漢字ルーンワード一覧:kanji Rune Words]{style="color:#008080"} [†](https://web.archive.org/web/20201020202317/http://miyoshino.la.coocan.jp/eswiki/?JP_Nikki_plumwine_Library#t774af7c "t774af7c"){#t774af7c .anchor_super} {#content_1_4}
+### [漢字ルーンワード一覧:kanji Rune Words]{style="color:#008080"} {#t774af7c}
 
 -   Added in R5H
 
@@ -430,12 +390,7 @@ Oskill Items Data]{style="color:#008080"}\
         +1 To All Skills
         +8% To Wind Skill Damage
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201020202317/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=6&page=JP_Nikki_plumwine_Library&refer=JP_Nikki_plumwine_Library)
-[TOP](#navigator)
-:::
-
-### [チャーム発生ルーンワード一覧:RW for Charm]{style="color:#008080"} [†](https://web.archive.org/web/20201020202317/http://miyoshino.la.coocan.jp/eswiki/?JP_Nikki_plumwine_Library#b6eb6a6c "b6eb6a6c"){#b6eb6a6c .anchor_super} {#content_1_5}
+### [チャーム発生ルーンワード一覧:RW for Charm]{style="color:#008080"} {#b6eb6a6c}
 
 -   **Evolution** (Shi N Ka)
 
@@ -879,12 +834,7 @@ Oskill Items Data]{style="color:#008080"}\
         (1/clvl) +1-100 To Life
         (2/clvl) +2-200 To Defense
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201020202317/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=7&page=JP_Nikki_plumwine_Library&refer=JP_Nikki_plumwine_Library)
-[TOP](#navigator)
-:::
-
-### [マルチストッカーの追加レシピ]{style="color:#008080"} [†](https://web.archive.org/web/20201020202317/http://miyoshino.la.coocan.jp/eswiki/?JP_Nikki_plumwine_Library#s5b57d59 "s5b57d59"){#s5b57d59 .anchor_super} {#content_1_6}
+### [マルチストッカーの追加レシピ]{style="color:#008080"} {#s5b57d59}
 
 -   未鑑定の古代の巻物 + マルチストッカー -\>
     暗号解読片を1個消費し、古代の巻物を鑑定
@@ -895,52 +845,36 @@ Oskill Items Data]{style="color:#008080"}\
 -   マルチストッカー + 完璧な宝石12個 + 古代の巻物26 -\>
     アンヴィル・ストーン4個を消費し、メイプルリーフ金貨1個を追加
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201020202317/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=8&page=JP_Nikki_plumwine_Library&refer=JP_Nikki_plumwine_Library)
-[TOP](#navigator)
-:::
-
-### [ オーラフォージングへの手順:Way to Aura-Forging]{style="color:#008080"} [†](https://web.archive.org/web/20201020202317/http://miyoshino.la.coocan.jp/eswiki/?JP_Nikki_plumwine_Library#fa95e03e "fa95e03e"){#fa95e03e .anchor_super} {#content_1_7}
+### [ オーラフォージングへの手順:Way to Aura-Forging]{style="color:#008080"} {#fa95e03e}
 
 1.  各クラスのLv75ユニークアミュレット＋聖印３個＋秘密のレシピ３９＝オーラストーン
 2.  マジック、レア、セット、ユニークの護符＋オーラストーン＋欠けた宝石（色指定なし）＝オーラフォージング
-    ::: {.ie5}
-      元のアミュレット                クラス                             オーラストーンの色   獲得オーラ      発動レベル
-      ------------------------------- ---------------------------------- -------------------- --------------- ------------
-      Plague\'s Last Arrowhead        Amazonian Pin(アマゾン)            Green Aura Stone     Annihilation    2-4
-      Dweia\'s Revenge                Assassin\'s Choker(アサシン)       Red Aura Stone       Concentration   3-5
-      Smaqdoun\'s Painful Pride       Totemic Pebble(バーバリアン)       Violet Aura Stone    Defiance        8-10
-      Yagul\'s Bloody Rage            Druidic Necklace(ドルイド)         Yellow Aura Stone    Vigor           4-6
-      The Cursed Doughnut             Death\'s Locket(ネクロマンサー)    Black Aura Stone     Thorns          10-12
-      BlackKnight\'s Holy Signet      Holy Pendant(パラディン)           White Aura Stone     Clensing        6-8
-      The Mistress\' Leather Collar   Sorcerer\'s Talisman(ソーサレス)   Blue Aura Stone      Meditation      5-7
-    :::
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201020202317/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=9&page=JP_Nikki_plumwine_Library&refer=JP_Nikki_plumwine_Library)
-[TOP](#navigator)
-:::
+| 元のアミュレット              | クラス                           | オーラストーンの色 | 獲得オーラ    | 発動レベル |
+| ----------------------------- | -------------------------------- | ------------------ | ------------- | ---------- |
+| Plague\'s Last Arrowhead      | Amazonian Pin(アマゾン)          | Green Aura Stone   | Annihilation  | 2-4        |
+| Dweia\'s Revenge              | Assassin\'s Choker(アサシン)     | Red Aura Stone     | Concentration | 3-5        |
+| Smaqdoun\'s Painful Pride     | Totemic Pebble(バーバリアン)     | Violet Aura Stone  | Defiance      | 8-10       |
+| Yagul\'s Bloody Rage          | Druidic Necklace(ドルイド)       | Yellow Aura Stone  | Vigor         | 4-6        |
+| The Cursed Doughnut           | Death\'s Locket(ネクロマンサー)  | Black Aura Stone   | Thorns        | 10-12      |
+| BlackKnight\'s Holy Signet    | Holy Pendant(パラディン)         | White Aura Stone   | Clensing      | 6-8        |
+| The Mistress\' Leather Collar | Sorcerer\'s Talisman(ソーサレス) | Blue Aura Stone    | Meditation    | 5-7        |
 
-### [ドラゴンストーンの変形とクラスの関連]{style="color:#008080"} [†](https://web.archive.org/web/20201020202317/http://miyoshino.la.coocan.jp/eswiki/?JP_Nikki_plumwine_Library#i51c1b4e "i51c1b4e"){#i51c1b4e .anchor_super} {#content_1_8}
+### [ドラゴンストーンの変形とクラスの関連]{style="color:#008080"} {#i51c1b4e}
 
 ::: {.ie5}
   ------------------------------- ----------------------------
-  蜘蛛のシルク:Spider\'s silk           アマゾン:Amazon
-  ドラゴンストーン:Dragon Stone        アサシン:Assassin
-  鍛造ハンマー:Forging Hammer        バーバリアン:Barbarian
+  蜘蛛のシルク:Spider\'s silk            アマゾン:Amazon
+  ドラゴンストーン:Dragon Stone           アサシン:Assassin
+  鍛造ハンマー:Forging Hammer            バーバリアン:Barbarian
   ティラニウム鉱:Tyranium Ore            ドルイド:Druid
-  ブラック・ムーア:Blackmoor       ネクロマンサー:Necromancer
+  ブラック・ムーア:Blackmoor              ネクロマンサー:Necromancer
   聖印:Holy Symbol                     パラディン:Paladin
-  宝石粉:Crushed Gem                  ソーサレス:Sorceress
+  宝石粉:Crushed Gem                    ソーサレス:Sorceress
   ------------------------------- ----------------------------
 :::
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201020202317/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=10&page=JP_Nikki_plumwine_Library&refer=JP_Nikki_plumwine_Library)
-[TOP](#navigator)
-:::
-
-### [リング・アミュレットのクーポン:LoD Jewelry Coupon List]{style="color:#008080"} [†](https://web.archive.org/web/20201020202317/http://miyoshino.la.coocan.jp/eswiki/?JP_Nikki_plumwine_Library#o4d5f95a "o4d5f95a"){#o4d5f95a .anchor_super} {#content_1_9}
+### [リング・アミュレットのクーポン:LoD Jewelry Coupon List]{style="color:#008080"} {#o4d5f95a}
 
 各Ring、Amuletの説明はThe Arreat
 Sumittでどうぞ[Ring](https://web.archive.org/web/20201020202317/http://www.battle.net/diablo2exp/items/normal/urings.shtml)/[Amulet](https://web.archive.org/web/20201020202317/http://www.battle.net/diablo2exp/items/normal/uamulets.shtml)\
@@ -963,12 +897,7 @@ Ring\#10の画像は[kralissさんの日記](https://web.archive.org/web/2020102
    12                              Metalgrid
 :::
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201020202317/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=11&page=JP_Nikki_plumwine_Library&refer=JP_Nikki_plumwine_Library)
-[TOP](#navigator)
-:::
-
-### [遅延効果のあるアイテム:Items With 「Slows Target by」 Effect]{style="color:#008080"} [†](https://web.archive.org/web/20201020202317/http://miyoshino.la.coocan.jp/eswiki/?JP_Nikki_plumwine_Library#ea0c24b1 "ea0c24b1"){#ea0c24b1 .anchor_super} {#content_1_10}
+### [遅延効果のあるアイテム:Items With 「Slows Target by」 Effect]{style="color:#008080"} {#ea0c24b1}
 
 ::: {.ie5}
   ----------------------------------------------------------------------------------------------------------------------------------------
@@ -977,7 +906,7 @@ Ring\#10の画像は[kralissさんの日記](https://web.archive.org/web/2020102
   Diablo\'s Horns                                        Devil Mask      Helm                       33                             69
 
   Bruenor\'s Cranium                                     Dwarven         Helm                       30                             80
-                                                         Faceplate                                                             
+                                                         Faceplate
 
   Plate of Spikes                                        Gothic Plate    Body Armor                 25                             29
 
@@ -1011,56 +940,43 @@ Ring\#10の画像は[kralissさんの日記](https://web.archive.org/web/2020102
 
   Warpfist                                               Scissors Quhab  Assassin Weapon            33         Assa Only           45
 
-  [[RW]{.ul}]{style="color:darkblue"} Duress\                            5 Socket                   75                         
-  [Ki ]{style="color:red"}[Yo U                                          Spears/Polearms                                       
-  ]{style="color:black"}[Ha                                                                                                    
-  ]{style="color:darkorange"}[Ku]{style="color:black"}                                                                         
+  [[RW]{.ul}]{style="color:darkblue"} Duress\                            5 Socket                   75
+  [Ki ]{style="color:red"}[Yo U                                          Spears/Polearms
+  ]{style="color:black"}[Ha
+  ]{style="color:darkorange"}[Ku]{style="color:black"}
 
-  [[RW]{.ul}]{style="color:darkblue"} Sorrow\                            4 Socket Body              50                         
-  [Ka ]{style="color:black"}[Na                                          Armor/Pole Arms                                       
-  ]{style="color:lime"}[Shi                                                                                                    
-  ]{style="color:black"}[Mi]{style="color:red"}                                                                                
+  [[RW]{.ul}]{style="color:darkblue"} Sorrow\                            4 Socket Body              50
+  [Ka ]{style="color:black"}[Na                                          Armor/Pole Arms
+  ]{style="color:lime"}[Shi
+  ]{style="color:black"}[Mi]{style="color:red"}
 
-  [[RW]{.ul}]{style="color:darkblue"} Hatred\                            4 Socket Blunt            100                         
-  [Ni ]{style="color:lime"}[Ku Shi                                       Weapons                                               
-  ]{style="color:black"}[Mi]{style="color:red"}                                                                                
+  [[RW]{.ul}]{style="color:darkblue"} Hatred\                            4 Socket Blunt            100
+  [Ni ]{style="color:lime"}[Ku Shi                                       Weapons
+  ]{style="color:black"}[Mi]{style="color:red"}
 
-  [[RW]{.ul}]{style="color:darkblue"} Noble Ogre\                        4 Socket Melee             30                         
-  [Ta ]{style="color:darkorange"}[Ma                                     Weapons                                               
-  ]{style="color:lime"}[Ho Me]{style="color:darkorange"}                                                                       
+  [[RW]{.ul}]{style="color:darkblue"} Noble Ogre\                        4 Socket Melee             30
+  [Ta ]{style="color:darkorange"}[Ma                                     Weapons
+  ]{style="color:lime"}[Ho Me]{style="color:darkorange"}
 
-  [[LoD RW]{.ul}]{style="color:orangered"} Eternity\                     5 Socket Melee             33                         
-  Amn Ber Ist Sol Sur                                                    Weapons                                               
+  [[LoD RW]{.ul}]{style="color:orangered"} Eternity\                     5 Socket Melee             33
+  Amn Ber Ist Sol Sur                                                    Weapons
 
-  [[GW]{.ul}]{style="color:magenta"} Shocking\                           1-6 Socket                 12         Chance and      
-  Topaz of any same grade                                                Weapons/1-2 Socket                    Level depends   
-                                                                         Gloves\                               on the \# and   
-                                                                         1 socket                              the grade of    
-                                                                         Arrows/Bolts                          Gems            
+  [[GW]{.ul}]{style="color:magenta"} Shocking\                           1-6 Socket                 12         Chance and
+  Topaz of any same grade                                                Weapons/1-2 Socket                    Level depends
+                                                                         Gloves\                               on the \# and
+                                                                         1 socket                              the grade of
+                                                                         Arrows/Bolts                          Gems
 
-  [[GW]{.ul}]{style="color:magenta"} Rainbow\                            4 Socket                   12                         
-  Perf.Emerald Perf.Ruby Perf.Sapphire Perf.Topaz                        Weapons/Bows                                          
+  [[GW]{.ul}]{style="color:magenta"} Rainbow\                            4 Socket                   12
+  Perf.Emerald Perf.Ruby Perf.Sapphire Perf.Topaz                        Weapons/Bows
 
   Sarevok\'s Malicious Stare\                            Conquerer Crown Barbarian Helm             50         Bar Only\           70
-  [Sarevok\'s Sacrilege Set]{style="color:green"}                                                              3 Set Items     
-                                                                                                               Bonus           
+  [Sarevok\'s Sacrilege Set]{style="color:green"}                                                              3 Set Items
+                                                                                                               Bonus
   ----------------------------------------------------------------------------------------------------------------------------------------
 :::
 
-::: {.jumpmenu}
-[EDIT](https://web.archive.org/web/20201020202317/http://miyoshino.la.coocan.jp/eswiki/?plugin=paraedit&parnum=12&page=JP_Nikki_plumwine_Library&refer=JP_Nikki_plumwine_Library)
-[TOP](#navigator)
-:::
-
-### [コメント]{style="color:#008080"} [†](https://web.archive.org/web/20201020202317/http://miyoshino.la.coocan.jp/eswiki/?JP_Nikki_plumwine_Library#o102720d "o102720d"){#o102720d .anchor_super} {#content_1_11}
-
-\
-
-<div>
-
-Name:
-
-</div>
+### [コメント]{style="color:#008080"} {#o102720d}
 
 -   出来れば日本語訳を・・！ \-- [11-01-2010 (Mon)
     02:27:39]{.comment_date}
@@ -1077,4 +993,3 @@ Name:
     [noris[?](https://web.archive.org/web/20201020202317/http://miyoshino.la.coocan.jp/eswiki/?cmd=edit&page=noris&refer=JP_Nikki_plumwine_Library)]{.noexists}
     [05-06-2007 (Sun) 06:52:51]{.comment_date}
     -   使用上の注意をよくお読みになり、ご活用下さい。なおデータの誤りによる事故、損害等につきましては一切の保障はございません\^\^;
-:::
